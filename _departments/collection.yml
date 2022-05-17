@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Student Leadership.md
       - Character and Citizenship Education.md
       - English.md
