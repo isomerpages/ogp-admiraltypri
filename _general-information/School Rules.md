@@ -71,6 +71,7 @@ Pupils must not wear any accessories, jewellery or make-up to school. Girls may 
 1. Use of correction tape / fluid is disallowed.
 2.Pupils are to refrain from bringing/ using electronic gadgets to school.
 3.Only e-dictionaries and scientific calculators (P5 and P6) are allowed.
+
 **Responsibility**
 
 Letter reference – ADP2019/0001 – 4 January 2019
