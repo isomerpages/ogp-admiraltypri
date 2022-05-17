@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Learning Devices Policy.md
       - School Library Policy.md
       - Mobile Phone Policy.md
       - School Bag Policy.md
