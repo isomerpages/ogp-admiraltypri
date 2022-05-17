@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - 1:1 Learning Device Programme.md
       - Overseas Learning Journey.md
       - ADPS Virtual Run.md
