@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Level Matters.md
       - School Rules.md
       - School Hours.md
       - School Safety.md
