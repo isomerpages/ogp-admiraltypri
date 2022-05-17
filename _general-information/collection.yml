@@ -2,6 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Safety.md
-      - School Hours.md
       - School Rules.md
+      - School Hours.md
+      - School Safety.md
