@@ -2,9 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Vendors.md
-      - School Canteen.md
-      - Student Care.md
       - School Rules.md
       - School Hours.md
       - School Safety.md
@@ -15,3 +12,6 @@ collections:
       - Mobile Phone Policy.md
       - School Library Policy.md
       - Learning Devices Policy.md
+      - Student Care.md
+      - School Canteen.md
+      - School Vendors.md
