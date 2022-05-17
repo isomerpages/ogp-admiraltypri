@@ -4,7 +4,7 @@ permalink: /about-us/principal-message
 description: ""
 ---
 # Principal Message
-# Words from the Principal
+***Words from the Principal***
 
 Admiralty Primary School started in 1997 with 45 classes. Through the last twenty years, our staff in Admiralty Primary has established a strong culture of care and created a sense of belonging among staff and pupils.
 
@@ -19,5 +19,7 @@ Our staff works hard and is committed to providing a good learning environment f
 From
 
 Mr Pek Wee Haur
+
 Principal
+
 Admiralty Primary School
