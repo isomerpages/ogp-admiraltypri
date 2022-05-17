@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Junior Entrepreneurship Programme (JEP).md
       - MOE Sexuality Education in Schools.md
       - 1:1 Learning Device Programme.md
