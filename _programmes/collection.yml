@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - DSA, ECG.md
       - Learning for Life Programme (LLP).md
       - Junior Entrepreneurship Programme (JEP).md
       - MOE Sexuality Education in Schools.md
