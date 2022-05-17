@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Homework Policy.md
       - Assessment Matters.md
       - Level Matters.md
       - School Rules.md
