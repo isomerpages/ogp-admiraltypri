@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - English.md
       - Science.md
       - Mother Tongue.md
       - Infocomm Technology.md
       - PE, Aesthetics, CCA.md
       - Student Leadership.md
       - Character and Citizenship Education.md
-      - English.md
