@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Vendors.md
       - School Canteen.md
       - Student Care.md
       - School Rules.md
