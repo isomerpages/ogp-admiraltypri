@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCA programmes.md
-      - DSA, ECG.md
+      - DSA & ECG.md
       - Learning for Life Programme (LLP).md
       - Junior Entrepreneurship Programme (JEP).md
       - MOE Sexuality Education in Schools.md
