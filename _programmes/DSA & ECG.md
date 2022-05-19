@@ -33,3 +33,23 @@ This is the online platform for us to have conversations with the students – a
 </thead>
 </table>
 
+# ECG Portfolio 
+Student’s thinking are made visible via their ECG Portfolio. The clearer they are of their goals, the more willing they are to work hard. With feedback, they will continue to refine and sharpen their choices. 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax"><img src="/images/adhinav%20portfolio.png"> </td>
+    <td class="tg-0lax"><img src="/images/jassia%20portfolio.png"></td>
+  </tr>
+</thead>
+</table>
+
