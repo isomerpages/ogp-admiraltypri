@@ -13,7 +13,7 @@ To ensure there is balance between quality of food, affordable prices and busine
 
 | Stall  Number |      Stall Name     |    Food Type    |   Menu  & Price List   |
 |:-------------:|:-------------------:|:---------------:|:----------------------:|
-|       1       |     Cool Gateway    |   Western Food  |      [Please Click Here](/files/To%20upload%20to%20sch%20website%20Final%20Menu%20Pricelist_17%20Aug-2.pdf) |
+|       1       |     Cool Gateway    |   Western Food  |     [](/files/To%20upload%20to%20sch%20website%20Final%20Menu%20Pricelist_17%20Aug.pdf) |
 |       3       |    Rice Paradise    |   Chinese Rice  |                        |
 |       4       | Hot Wok Connections | Chinese Noodles |                        |
 |       5       |      Deli Point     |     Dim Sum     |                        |
