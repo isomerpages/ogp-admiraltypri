@@ -98,3 +98,36 @@ Recycling corner in the canteen. Green ambassadors carry out recess activities (
 </tbody>
 </table>
 
+**Plant a Tree Campaign**
+![](/images/school%205.png)
+
+**Climate Change Trail**
+
+An interactive learning trail powered by augmented reality. Students scan the images with a smart device to reveal missions that will help them learn about the carbon footprint of a school in a fun way.
+
+![](/images/school%206.png)
+
+**World Water Day (Exhibition & Quiz) – Partnering PUB**
+![](/images/school%207.png)
+
+**World Water Day (Exhibition & Quiz) – Partnering PUB
+**
+
+![](/images/school%208.png)
+
+**WWF Overseas Learning Journey to Green Flag school in Kuala Lumpur**
+
+![](/images/school%209.png)
+
+# Objectives
+**Vision**
+
+Inquiring Minds, Creative Thinkers
+
+**Mission**
+
+To prepare our students to be sufficiently adept as effective citizens, able to contribute to an increasingly 21st century world
+
+**Philosophy**
+
+Student as inquirer, teacher is the leader of inquiry
