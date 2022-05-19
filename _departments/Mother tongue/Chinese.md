@@ -58,7 +58,7 @@ All levels – Extensive Reading Programme Class Reading Programme MTL festival 
 *P3 and P4 – Cultural Camp (P3) Within school Competition
 *P5 and P6 – Cultural Performance Exposure Scheme (P5) Within school Competition
 
-Laying Foundation
+Laying Foundation 
 
 All levels – Let’s Read programme School-based Comprehension package
 P1 and P2 – Reading Support programme School-based Sentence Structure Package (P1) School-based Picture writing package (P2)
