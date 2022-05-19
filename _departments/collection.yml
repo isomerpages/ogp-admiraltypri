@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother tongue/Malay.md
       - Mother tongue/Chinese.md
       - Mother tongue/.keep
       - English.md
