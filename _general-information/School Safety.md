@@ -45,7 +45,7 @@ Do not push or shove.
 6.Where possible, cross all streets at intersections. Obey all traffic signals and signs.
 
 **Admiralty Primary School | Traffic Management**
-[](https://www.youtube.com/watch?v=fzwVg5gILCM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fzwVg5gILCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Safety Tips for Physical Activities
 
