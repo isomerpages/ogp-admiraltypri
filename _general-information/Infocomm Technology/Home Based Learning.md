@@ -55,3 +55,31 @@ Principal
 [Google Classroom on PC](/files/Google-Classroom-on-PC-1.pdf)
 
 [Google Classroom (Chinese Version)](/files/Google-Classroom-Zhi%20Nan_Admiralty-Pri.pdf)
+
+[Google Meet Grid View Installation ](/files/Google-Meet-Grid-View-Installation.pdf)
+
+[Google Meet on PC](/files/Google-Meet-on-PC.pdf)
+
+[How to give your child access to Classdojo](/files/How-to-give-your-child-access-to-Classdojo.pdf)
+
+[How to submit your child's work in Classdojo](/files/How-to-submit-your-childs-work-in-Classdojo.pdf)
+
+Dear parents,
+
+From 1 Apr 2020, schools will progressively transit to a blended learning model, starting with one day of Home-Based Learning (HBL) a week.
+
+Our students are familiar with HBL as our school had conducted at least 3 HBL-related sessions as stated below:
+
+-1 to 30 Sept 2019: Familiarisation with SLS (Phase 1)
+
+-Term 4, 2019: FTGP Lesson on Cyberwellness via SLS
+
+-17 to 21 Feb 2020: Familiarisation with SLS (Phase 2)
+
+This issue of Parent Kit provides tips on how you can support your child’s HBL and addresses some of your concerns.
+
+Join MOE’s Facebook Live Session, “Ask Me Anything About… Home-Based Learning” on 1 April 2020, 8pm, to learn more about what HBL really means and the role you can play in your child’s HBL. Click on the link below to RSVP.
+
+[Resource Kit-HBL](/files/Resource-Kit-HBL.pdf)
+
+Web link: bit.ly/moe-amaa-hbl
