@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Chinese.md
       - English.md
       - Mathematics.md
       - Science.md
