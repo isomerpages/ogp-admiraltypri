@@ -28,7 +28,8 @@ This is the online platform for us to have conversations with the students – a
 <thead>
   <tr>
     <td class="tg-0lax"><img src="/images/ECG%20GC1.png"> </td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/DSA.png"></td>
   </tr>
 </thead>
 </table>
+
