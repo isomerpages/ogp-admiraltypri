@@ -54,3 +54,4 @@ Principal
 
 [Google Classroom on PC](/files/Google-Classroom-on-PC-1.pdf)
 
+[Google Classroom (Chinese Version)](/files/Google-Classroom-Zhi%20Nan_Admiralty-Pri.pdf)
