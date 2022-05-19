@@ -58,28 +58,29 @@ All levels – Extensive Reading Programme Class Reading Programme MTL festival 
 *P3 and P4 – Cultural Camp (P3) Within school Competition
 *P5 and P6 – Cultural Performance Exposure Scheme (P5) Within school Competition
 
-Laying Foundation 
+**Laying Foundation**
 
-All levels – Let’s Read programme School-based Comprehension package
-P1 and P2 – Reading Support programme School-based Sentence Structure Package (P1) School-based Picture writing package (P2)
-P3 and P4 – Reading Support programme School-based Oral Package School-based Writing Package Literatu revision package (P4)
-P5 and P6 – School-based Oral Package Literatu revision package (P6)
+* All levels – Let’s Read programme School-based Comprehension package
+* P1 and P2 – Reading Support programme School-based Sentence Structure Package (P1) School-based Picture writing package (P2)
+* P3 and P4 – Reading Support programme School-based Oral Package School-based Writing Package Literatu revision package (P4)
+* P5 and P6 – School-based Oral Package Literatu revision package (P6)
 
-Achieving Excellence
+**Achieving Excellence**
 
-All levels – Identification of good writing pieces and publicized on school website
-P1 and P2 – Public speaking and storytelling competition
-P3 and P4 – iPad Class for self-directed learning
-P5 and P6 – Differentiated Morning Focus Programme (P6)
+* All levels – Identification of good writing pieces and publicized on school website
+* P1 and P2 – Public speaking and storytelling competition
+* P3 and P4 – iPad Class for self-directed learning
+* P5 and P6 – Differentiated Morning Focus Programme (P6)
 
-Developing Champions
+**Developing Champions**
 
-All levels – Participation in external Inter-schools competitions
-P1 and P2 – Public speaking and storytelling competition
-P3 and P4 – CL ambassadors
-P5 and P6 – CL ambassadors Buddy Reading at Pre-schools
-Objectives
-Vision
+* All levels – Participation in external Inter-schools competitions
+* P1 and P2 – Public speaking and storytelling competition
+* P3 and P4 – CL ambassadors
+* P5 and P6 – CL ambassadors Buddy Reading at Pre-schools
+
+# Objectives
+**Vision**
 
 The Chinese Language Department believes that language give learners the world by opening their minds to other cultures and opening doors to new possibilities. While learning the language, it take learners on a journey that improves the way they communicate, interact with others and engage with learning – and with life – at home and beyond.
 
