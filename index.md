@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Admiralty Primary School
-      background: /images/hero-banner.png
+      background: /images/banner.gif
       key_highlights:
         - title: Announcements
           description: "Important announcements "
