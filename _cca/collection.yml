@@ -2,5 +2,4 @@ collections:
   cca:
     output: true
     order:
-      - Uniform Groups.md
       - CCA Programmes.md
