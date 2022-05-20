@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Club & Societies/Environmental Science Club.md
       - Club & Societies/English Language & Drama Club.md
       - Club & Societies/.keep
       - Uniform Groups/Scouts.md
