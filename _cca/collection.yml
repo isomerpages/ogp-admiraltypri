@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/Chinese Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
       - Club & Societies/Photography Club.md
