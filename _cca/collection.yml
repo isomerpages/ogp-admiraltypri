@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Uniform Groups/Brownies.md
       - Uniform Groups/.keep
       - CCA Programmes.md
