@@ -50,10 +50,15 @@ Ms Malar	                -  a_malarvilee@moe.edu.sg
 
 **Achievements** 
 
-2020	
+**2020**
+
+1. SYF The Young Playwright
+2. 4th in Mattel Scrabble Competition
+3. ETD MOE Video
             
 
-2019	
+**2019**
+
 1.   KidsConnect
 2.   Selected for SYF Group Performance @ Our Tampines Hub
 3.   Super Zone Scrabble Competition
