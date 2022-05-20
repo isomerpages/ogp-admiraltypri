@@ -7,7 +7,7 @@ links:
   - title: Departments
     collection: departments
   - title: Programmes
-    url: /programmes
+    url: /cca/cca-programmes
     sublinks:
       - title: CCA Programmes
         url: /cca/cca-programmes
