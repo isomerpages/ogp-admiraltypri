@@ -2,27 +2,27 @@ collections:
   cca:
     output: true
     order:
+      - CCA Programmes.md
+      - Sports/.keep
       - Sports/Track & Field.md
       - Sports/Rope Skipping.md
       - Sports/Wushu.md
       - Sports/Football.md
       - Sports/Sports Club.md
-      - Sports/.keep
+      - Performing Arts/.keep
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Indian Dance.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Choir.md
-      - Performing Arts/.keep
+      - Club & Societies/.keep
       - Club & Societies/Photography Club.md
       - Club & Societies/Visual Arts Club.md
       - Club & Societies/Design & Innovation.md
       - Club & Societies/Infocomm Technology.md
       - Club & Societies/Environmental Science Club.md
       - Club & Societies/English Language & Drama Club.md
-      - Club & Societies/.keep
+      - Uniform Groups/.keep
       - Uniform Groups/Scouts.md
       - Uniform Groups/Brownies.md
-      - Uniform Groups/.keep
-      - CCA Programmes.md
