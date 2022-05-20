@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Football.md
       - Sports/Sports Club.md
       - Sports/.keep
       - Performing Arts/Guzheng Ensemble.md
