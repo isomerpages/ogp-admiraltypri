@@ -62,4 +62,7 @@ Questions further posed by parents during our engagement sessions last year:
 4.	What can we do to help them to prepare themselves to be accepted into the CCA and do well? 
 **Have a positive mind-set and put in efforts to learn and self-practise to perfect the dance moves.**
 
-
+![](/images/Copy%20of%20IMG_5788.jpg)
+![](/images/NIK_5243.jpg)
+![](/images/NIK_6266.jpg)
+![](/images/UBJU7790.jpg)
