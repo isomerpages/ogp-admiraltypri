@@ -1,5 +1,4 @@
 collections:
   cca:
     output: true
-    order:
-      - CCA Programmes/.keep
+    order: []
