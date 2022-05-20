@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club & Societies/Design & Innovation.md
       - Club & Societies/Infocomm Technology.md
       - Club & Societies/Environmental Science Club.md
       - Club & Societies/English Language & Drama Club.md
