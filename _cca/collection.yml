@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club & Societies/Photography Club.md
       - Club & Societies/Visual Arts Club.md
       - Club & Societies/Design & Innovation.md
       - Club & Societies/Infocomm Technology.md
