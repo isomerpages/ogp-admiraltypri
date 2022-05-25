@@ -4,9 +4,9 @@ permalink: /departments/Mother-tongue/malay
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 # Malay
 # People
+
 | Subject Head   | Mdm Norfahizah Abdul Majid                                                                                             |
 |----------------|------------------------------------------------------------------------------------------------------------------------|
 | ML Coordinator | Mdm Hamimah Ansor                                                                                                      |
