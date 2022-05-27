@@ -392,84 +392,373 @@ description: ""
 
 **Class Form Teacher - Primary 4**
 
-| Class | Form Teacher 1                        | Form Teacher 2                                                  |
-|-------|---------------------------------------|-----------------------------------------------------------------|
-| 4 CH  | Mrs K Kanagamalar                     | Mdm Hamimah Bte Ansor                                           |
-|       | kanagamalar_kumar@moe.edu.sg          | hamimah_ansor@moe.edu.sg                                        |
-| 4 CO  | Mdm Low Mui Ping                      | Mdm Nuruljannah Binte Mukasim                                   |
-|       | low_mui_ping@moe.edu.sg               | nuruljannah_mukasim@moe.edu.sg                                  |
-| 4 ED  | Ms Jane Sasikala d/o Mirthunjayan     | Mr Liew Hun Hui                                                 |
-|       | jane_sasikala_mirthunjayan@moe.edu.sg | liew_hun_hui@moe.edu.sg                                         |
-| 4 ET  | Mdm Masnie Mohamed Jalani             | Ms Punitha Silverrajan                                          |
-|       | masnie_mohamed_jalani@moe.edu.sg      | punitha_silverrajan@moe.edu.sg                                  |
-| 4 GA  | Mr Tan Kiat, Calvin                   | Mdm Sharmila d/o Divakaran Amanda                               |
-|       | tan_kiat_calvin@moe.edu.sg            | amanda_frances_sharmila_di@moe.edu.sg                           |
-| 4 GA  | Mdm Rageswari Virayah                 | Mdm Rachelle Tjhin Hui Ying Mdm  Nadianah Binte Iskandar        |
-|       | rageswari_virayah@moe.edu.sg          | rachelle_tjhin_hui_ying@moe.edu.sg nadianah_iskandar@moe.edu.sg |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Class</th>
+    <th class="tg-dgl5">Form Teacher 1</th>
+    <th class="tg-dgl5">Form Teacher 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-faf8">4 CH</td>
+    <td class="tg-faf8">Mrs K Kanagamalar<br></td>
+    <td class="tg-faf8">Mdm Hamimah Bte Ansor<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:kanagamalar_kumar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kanagamalar_kumar@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">hamimah_ansor@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">4 CO</td>
+    <td class="tg-faf8">Mdm Low Mui Ping<br></td>
+    <td class="tg-faf8">Mdm Nuruljannah Binte Mukasim<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:low_mui_ping@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">low_mui_ping@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">4 ED</td>
+    <td class="tg-faf8">Ms Jane Sasikala d/o Mirthunjayan<br></td>
+    <td class="tg-faf8">Mr Liew Hun Hui<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jane_sasikala_mirthunjayan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:liew_hun_hui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">liew_hun_hui@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">4 ET</td>
+    <td class="tg-faf8">Mdm Masnie Mohamed Jalani<br></td>
+    <td class="tg-faf8">Ms Punitha Silverrajan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:masnie_mohamed_jalani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">masnie_mohamed_jalani@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:punitha_silverrajan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">punitha_silverrajan@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">4 GA</td>
+    <td class="tg-faf8">Mr Tan Kiat, Calvin<br></td>
+    <td class="tg-faf8">Mdm Sharmila d/o Divakaran Amanda<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:tan_kiat_calvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_kiat_calvin@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_frances_sharmila_di@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">4 GA</td>
+    <td class="tg-faf8">Mdm Rageswari Virayah<br></td>
+    <td class="tg-faf8">Mdm Rachelle Tjhin Hui Ying<br>Mdm  Nadianah Binte Iskandar<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:rachelle_tjhin_hui_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rachelle_tjhin_hui_ying@moe.edu.sg</span></a><br><a href="mailto:nadianah_iskandar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nadianah_iskandar@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 **Class Form Teacher - Primary 5**
 
-| Class | Form Teacher 1                     | Form Teacher 2                                    |
-|-------|------------------------------------|---------------------------------------------------|
-| 5 CO  | Mdm Rashidah Ismail Neville        | Ms Lim Shi Hui                                    |
-|       | rashidah_ismail_neville@moe.edu.sg | lim_shi_hui@moe.edu.sg                            |
-| 5 ED  | Mdm Charlotte Sng Yi May           | Mr Chua Shin Huat                                 |
-|       | charlotte_sng_yi_may@moe.edu.sg    | chua_shin_huat@moe.edu.sg                         |
-| 5 ET  | Mr Saravanan S/O Govindan          | Mr Jumat Baba Mdm Lee Cher Hiang Christine        |
-|       | saravanan_govindan@moe.edu.sg      | jumat_b_baba@moe.edu.sg lee_cher_kiang@moe.edu.sg |
-| 5 GA  | Mdm Wong Ching Ching               | Mr Ang Jian Hao                                   |
-|       | wong_ching_ching@moe.edu.sg        | ang_jian_hao@moe.edu.sg                           |
-| 5 IN  | Ms Khoo Ying Ying                  | Ms Veronica Yeo Tin Kim                           |
-|       | khoo_ying_ying@moe.edu.sg          | veronica_yeo@moe.edu.sg                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
+.tg .tg-ugoc{background-color:#FFF;color:#383E8E;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Class</th>
+    <th class="tg-dgl5">Form Teacher 1</th>
+    <th class="tg-dgl5">Form Teacher 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-faf8">5 CO</td>
+    <td class="tg-faf8">Mdm Rashidah Ismail Neville<br></td>
+    <td class="tg-faf8">Ms Lim Shi Hui<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:rashidah_ismail_neville@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rashidah_ismail_neville@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:lim_shi_hui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_shi_hui@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">5 ED</td>
+    <td class="tg-faf8">Mdm Charlotte Sng Yi May<br></td>
+    <td class="tg-faf8">Mr Chua Shin Huat<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:charlotte_sng_yi_may@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">charlotte_sng_yi_may@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:chua_shin_huat@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chua_shin_huat@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">5 ET</td>
+    <td class="tg-9678">Mr Saravanan S/O Govindan<br></td>
+    <td class="tg-faf8">Mr Jumat Baba<br>Mdm Lee Cher Hiang Christine<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:saravanan_govindan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">saravanan_govindan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:jumat_b_baba@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jumat_b_baba@moe.edu.sg</span></a><br><a href="mailto:lee_cher_kiang@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">lee_cher_kiang@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">5 GA</td>
+    <td class="tg-faf8">Mdm Wong Ching Ching<br></td>
+    <td class="tg-faf8">Mr Ang Jian Hao</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">wong_ching_ching@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:ang_jian_hao@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ang_jian_hao@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">5 IN</td>
+    <td class="tg-faf8">Ms Khoo Ying Ying</td>
+    <td class="tg-faf8">Ms Veronica Yeo Tin Kim<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-ugoc"><a href="mailto:khoo_ying_ying@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">khoo_ying_ying@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">veronica_yeo@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 **Class Form Teacher - Primary 6**
 
-| Class | Form Teacher 1                          | Form Teacher 2                                            |
-|-------|-----------------------------------------|-----------------------------------------------------------|
-| 6 CH  | Ms Marinah Mukhtar Toh Abdullah         | Mdm Sanisah Binte Slam                                    |
-|       | marinah_mukhtar_toh_abdullah@moe.edu.sg | sanisah_slam@moe.edu.sg                                   |
-| 6 CO  | Mr Oh Kok Choon                         | Mdm Zhu Xiaowei Mr Shahril Bin Mohamed Jalani             |
-|       | oh_kok_choon@moe.edu.sg                 | zhu_xiaowei@moe.edu.sg shahril_mohamed_jailani@moe.edu.sg |
-| 6 ED  | Mdm Tan Alice                           | Mdm Ding Xue                                              |
-|       | tan_alice@moe.edu.sg                    | ding_xue@moe.edu.sg                                       |
-| 6 ET  | Mdm Xu Shihui                           | Mdm Leong Yet Wah                                         |
-|       | xu_shihui@moe.edu.sg                    | leong_yet_wah@moe.edu.sg                                  |
-| 6 GA  | Mdm Bimaljit Kaur d/o Sohan Singh       | Ms Tay Chun Fang Mdm Nurhasliza Bte Hashim                |
-|       | bimaljit_kaur_sohan_singh@moe.edu.sg    | tay_chun_fang@moe.edu.sg nurhasliza_hashim@moe.edu.sg     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Class</th>
+    <th class="tg-dgl5">Form Teacher 1</th>
+    <th class="tg-dgl5">Form Teacher 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-faf8">6 CH</td>
+    <td class="tg-faf8">Ms Marinah Mukhtar Toh Abdullah<br></td>
+    <td class="tg-faf8">Mdm Sanisah Binte Slam<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:marinah_mukhtar_toh_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">marinah_mukhtar_toh_abdullah@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:sanisah_slam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sanisah_slam@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">6 CO</td>
+    <td class="tg-faf8">Mr Oh Kok Choon<br></td>
+    <td class="tg-faf8">Mdm Zhu Xiaowei<br>Mr Shahril Bin Mohamed Jalani<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:oh_kok_choon@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">oh_kok_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:zhu_xiaowei@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhu_xiaowei@moe.edu.sg</span></a><br><a href="mailto:shahril_mohamed_jailani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">shahril_mohamed_jailani@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">6 ED</td>
+    <td class="tg-9678">Mdm Tan Alice<br></td>
+    <td class="tg-9678">Mdm Ding Xue<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">6 ET</td>
+    <td class="tg-9678">Mdm Xu Shihui<br></td>
+    <td class="tg-9678">Mdm Leong Yet Wah<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:xu_shihui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">xu_shihui@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:leong_yet_wah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">leong_yet_wah@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">6 GA</td>
+    <td class="tg-9678">Mdm Bimaljit Kaur d/o Sohan Singh<br></td>
+    <td class="tg-9678">Ms Tay Chun Fang<br>Mdm Nurhasliza Bte Hashim<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="mailto:bimaljit_kaur_sohan_singh@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">bimaljit_kaur_sohan_singh@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:tay_chun_fang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tay_chun_fang@moe.edu.sg</span></a><br><a href="mailto:nurhasliza_hashim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nurhasliza_hashim@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 # Executive and Administrative Staff
 For any enquires please email us - admiralty_ps@moe.edu.sg
 
 **Administration Team**
 
-| Name                     | Role                               |
-|--------------------------|------------------------------------|
-| Mr Lee Kam Chuen         | Administration Manager             |
-| Mdm Lim Siew Cheng Lois  | Admin Executive                    |
-| Mdm Tan GN               | Admin Executive                    |
-| Mdm Esther Liew Mee Keow | Management Support Officer         |
-| Mdm Normawati Bte Mohd   | Management Support Officer         |
-| Mdm Tang Chu Heok        | Operation Support Officer (Office) |
-| Mdm Tay Kim Huay         | Receptionist                       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Name</th>
+    <th class="tg-dgl5">Role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Mr Lee Kam Chuen</td>
+    <td class="tg-zr06">Administration Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Lim Siew Cheng Lois</td>
+    <td class="tg-zr06">Admin Executive</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Tan GN</td>
+    <td class="tg-zr06">Admin Executive</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Esther Liew Mee Keow</td>
+    <td class="tg-zr06">Management Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Normawati Bte Mohd</td>
+    <td class="tg-zr06">Management Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Tang Chu Heok</td>
+    <td class="tg-zr06">Operation Support Officer (Office)</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Tay Kim Huay</td>
+    <td class="tg-zr06">Receptionist</td>
+  </tr>
+</tbody>
+</table>
 
 
 **Operation Team**
 
 
-| Name                     | Role                      |
-|--------------------------|---------------------------|
-| Ms Nurul Safwanah Tupari | Operation Manager         |
-| Mdm Rohana Bte Marzuki   | Operation Support Officer |
-| Mdm Leow Poh Mui Sharon  | Operation Support Officer |
-| Mr Abdul Gani Bin Ibrhim | Operation Support Officer |
-| Mr Lam Chuen Hin         | Operation Support Officer |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Name</th>
+    <th class="tg-dgl5">Role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Ms Nurul Safwanah Tupari</td>
+    <td class="tg-zr06">Operation Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Rohana Bte Marzuki</td>
+    <td class="tg-zr06">Operation Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Leow Poh Mui Sharon</td>
+    <td class="tg-zr06">Operation Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mr Abdul Gani Bin Ibrhim</td>
+    <td class="tg-zr06">Operation Support Officer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mr Lam Chuen Hin</td>
+    <td class="tg-zr06">Operation Support Officer</td>
+  </tr>
+</tbody>
+</table>
 
 **Info Technology Team**
 
-| Name                        | Role             |
-|-----------------------------|------------------|
-| Mr Simon Sarosh             | IT Manager       |
-| Mrs Leo                     | IT Trainer       |
-| Mdm Nagarajan Poovazhahi    | Desktop Engineer |
-| Mr Muhd Afiq Bin Mohd Ghaus | Desktop Engineer |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Name</th>
+    <th class="tg-dgl5">Role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Mr Simon Sarosh</td>
+    <td class="tg-zr06">IT Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mrs Leo</td>
+    <td class="tg-zr06">IT Trainer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mdm Nagarajan Poovazhahi</td>
+    <td class="tg-zr06">Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
+    <td class="tg-zr06">Desktop Engineer</td>
+  </tr>
+</tbody>
+</table>
