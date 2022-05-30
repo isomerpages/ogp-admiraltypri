@@ -64,8 +64,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Science </td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20SC%20Sem%201.pdf"><span style="text-decoration:none;color:#383E8E">P3 SC Sem 1</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20SC_Sem%202.pdf"><span style="text-decoration:none;color:#383E8E">P3 SC_Sem 2</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20SC.pdf"><span style="text-decoration:none;color:#383E8E">P4 SC</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20SC%20Sem%201.pdf"><span style="text-decoration:none;color:#383E8E">P3 SC Sem 1</span></a><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20SC_Sem%202.pdf"><span style="text-decoration:none;color:#383E8E">P3 SC_Sem 2</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20SC.pdf"><span style="text-decoration:none;color:#383E8E">P4 SC</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Chinese   </td>
