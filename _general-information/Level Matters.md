@@ -55,7 +55,7 @@ description: ""
   <tr>
     <td class="tg-zr06">English</td>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20EL_TERM1%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 EL_TERM1</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20EL_TERM1%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 EL_TERM1</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Maths </td>
