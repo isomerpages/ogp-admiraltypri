@@ -79,18 +79,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Tamil </td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20Term%202.pdf"><span style="text-decoration:none;color:#383E8E;background-color:initial">P3 TL Term 1.pdf</span></a><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20TL%20Term%201.pdf"> </a><span style="background-color:initial"> </span><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20TL%20Term%202.pdf"><span style="text-decoration:none;color:#383E8E;background-color:initial">P3 TL Term 2.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20TL%20Term%203.pdf"><span style="text-decoration:none;color:#383E8E">P3 TL Term 3.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20TL%20Term%204.pdf"><span style="text-decoration:none;color:#383E8E">P3 TL Term 4.pdf</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20TL%20Term%201.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E;background-color:initial">P4 TL Term 1.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20TL%20Term%202.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E;background-color:initial">P4 TL Term 2.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20TL%20Term%203.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E">P4 TL Term 3.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20TL%20Term%204.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#383E8E">P4 TL Term 4.pdf</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20Term%201.pdf"><span style="text-decoration:none;color:#383E8E;background-color:initial">P3 TL Term 1.pdf</span></a><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20Term%201.pdf"> </a><span style="background-color:initial"> </span><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20Term%202.pdf"><span style="text-decoration:none;color:#383E8E;background-color:initial">P3 TL Term 2.pdf</span></a><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20Term%203.pdf"><span style="text-decoration:none;color:#383E8E">P3 TL Term 3.pdf</span></a><br><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20TL%20Term%204.pdf"><span style="text-decoration:none;color:#383E8E">P3 TL Term 4.pdf</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20Term%201.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E;background-color:initial">P4 TL Term 1.pdf</span></a><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20Term%202.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E;background-color:initial">P4 TL Term 2.pdf</span></a><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20Term%203.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#383E8E">P4 TL Term 3.pdf</span></a><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20Term%204.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#383E8E">P4 TL Term 4.pdf</span></a><br></td>
   </tr>
 </tbody>
 </table>
 
 
-[P3 TL T1](/files/P3%20TL%20Term%201.pdf)
-[P3 T2](/files/P3%20TL%20Term%202.pdf)
-[p3 t3](/files/P3%20TL%20Term%203.pdf)
-[p3 t4 ](/files/P3%20TL%20Term%204.pdf)
-[p4 t1](/files/P4%20TL%20Term%201.pdf)
-[p4 t2](/files/P4%20TL%20Term%202.pdf)
-[p4 t3](/files/P4%20TL%20Term%203.pdf)
-[p4 t4](/files/P4%20TL%20Term%204.pdf)
