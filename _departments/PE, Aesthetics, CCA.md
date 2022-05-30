@@ -4,13 +4,46 @@ permalink: /departments/pe-aesthetics-cca
 description: ""
 ---
 # PE / Aesthetics / CCA
-| Head of Department | Mr Shahril Mohamed Jalani                                                                                                |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Subject Head       | Mdm Nuruljannah Binte Mukasim                                                                                            |
-| Music Coordinator  | Mdm Karen Koon Wai Hang                                                                                                  |
-| Dance Coordinator  | Mr Mohamed Fadzeel Abdul Rahman                                                                                          |
-| CCA Coordinator    | Mr Muhammad Farhan Mohd Huzaimy                                                                                          |
-| Members            | Mr Andrew Yeo Chee Hwee Mrs Poh – Siti Alfiah Mr Vincent Kwek Ms Roopini D/o JayaBalan Mdm Zhao Shuang Mdm Tan Chew Fong |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Head of Department</th>
+    <th class="tg-zr06">Mr Shahril Mohamed Jalani</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">Subject Head</td>
+    <td class="tg-zr06">Mdm Nuruljannah Binte Mukasim</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Music Coordinator</td>
+    <td class="tg-zr06">Mdm Karen Koon Wai Hang</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Dance Coordinator</td>
+    <td class="tg-zr06">Mr Mohamed Fadzeel Abdul Rahman</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">CCA Coordinator</td>
+    <td class="tg-zr06">Mr Muhammad Farhan Mohd Huzaimy</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Members</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Mr Andrew Yeo Chee Hwee</span><br><span style="background-color:initial">Mrs Poh – Siti Alfiah</span><br><span style="background-color:initial">Mr Vincent Kwek</span><br><span style="background-color:initial">Ms Roopini D/o JayaBalan</span><br><span style="background-color:initial">Mdm Zhao Shuang</span><br><span style="background-color:initial">Mdm Tan Chew Fong</span></td>
+  </tr>
+</tbody>
+</table>
 
 # Objectives
 # Every child should have a hobby.
