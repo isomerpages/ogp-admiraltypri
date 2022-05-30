@@ -207,4 +207,38 @@ The department seeks to achieve the following student outcomes:
 </table>
 
 # Music Curriculum
-<table><thead><tr><th>P1<br></th><th>P2<br></th><th>P3<br></th><th>P4<br></th><th>P5<br></th><th>P6<br></th></tr></thead><tbody><tr><td colspan="6">SingingThrough performing in singing individually and in groups, students will be equipped with the musical capacities to express themselves in both local and global cultures.<br></td></tr><tr><td colspan="6">Improvisation &amp; CompositionThrough improvisation and music composition, students will apply the musical skills and concepts that they have acquired through listening and performing. They will be able to compose and be proficient in rhythmic improvisation within a given structure.<br></td></tr><tr><td></td><td></td><td colspan="4">Ukulele PlayingStudents will learn to play the ukulele with good tone and expression to accompany an array of music repertoire.</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5ez5{background-color:#FA96D2;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">P1<br></th>
+    <th class="tg-9hzb">P2<br></th>
+    <th class="tg-9hzb">P3<br></th>
+    <th class="tg-9hzb">P4<br></th>
+    <th class="tg-9hzb">P5<br></th>
+    <th class="tg-9hzb">P6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5ez5" colspan="6">Singing Through performing in singing individually and in groups, students will be equipped with the musical capacities to express themselves in both local and global cultures.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-5ez5" colspan="6">Improvisation &amp; Composition Through improvisation and music composition, students will apply the musical skills and concepts that they have acquired through listening and performing. They will be able to compose and be proficient in rhythmic improvisation within a given structure.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"></td>
+    <td class="tg-f4yw"></td>
+    <td class="tg-5ez5" colspan="4">Ukulele Playing Students will learn to play the ukulele with good tone and expression to accompany an array of music repertoire.</td>
+  </tr>
+</tbody>
+</table>
