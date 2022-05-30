@@ -89,3 +89,4 @@ description: ""
 **Learning with Technology**
 
 * [P1 LwT Tasks June Holiday.pdf](/files/P1%20LwT%20Tasks_June%20Holiday.pdf)
+* [P2 LwT Tasks June Holiday.pdf](/files/P2%20LwT%20Tasks_June%20Holiday.pdf)
