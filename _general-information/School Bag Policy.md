@@ -4,7 +4,7 @@ permalink: /general-information/school-bag-policy
 description: ""
 ---
 # School Bag Policy
-Your ***SMART*** bag to a healthy back. 
+Your **SMART** bag to a healthy back. 
 
 | Self – discipline              | : | Only take what you need, plan and pack ahead for the next school day.                                                                                                                         |
 |--------------------------------|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
