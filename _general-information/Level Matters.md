@@ -86,6 +86,8 @@ description: ""
 </table>
 
 
-[p3 sc sem 1](/files/P3%20SC%20Sem%201.pdf)
-[p3 sc sem 2](/files/P3%20SC_Sem%202.pdf)
-[p4 sc](/files/P4%20SC.pdf)
+[p3 cl s1](/files/P3%20CL%20Semester%201%202022%20Lesson%20Focus.pdf)
+[p3 cl s2](/files/P3%20CL%20Semester%202%202022%20Lesson%20Focus.pdf)
+[p4 cl s1](/files/P4%20CL%20Semester%201%202022%20Lesson%20Focus.pdf)
+[p3 ml](/files/P3%20ML%202022.pdf)
+[p4 ml](/files/P4%20ML%202022.pdf)
