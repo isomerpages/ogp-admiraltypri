@@ -5,7 +5,7 @@ description: ""
 ---
 # Mobile Phone Policy
 
-The school ***DOES NOT*** allow students to possess or use mobile phones in school.
+The school **DOES NOT** allow students to possess or use mobile phones in school.
 
 **1. Reasons for Not Allowing Possession or Use of Mobile Phone**
 * Examination guidelines states that students are not to be found in possession of mobile phone during examinations.
@@ -26,5 +26,3 @@ In the event that your child/ward is found in the possession of a mobile phone, 
 **5.Mobile phones lost in school**
 
 In the event that your child brings a mobile phone and loses it in school, he/she is advised to report the incident immediately to any teacher or Staff Member. The school reserves the right not to conduct a search for the lost mobile phone as this results in a loss of valuable curriculum time. However, the Form Teacher or Staff Member would inform you of the incident.
-
-
