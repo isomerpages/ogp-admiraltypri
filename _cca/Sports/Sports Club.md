@@ -40,7 +40,7 @@ We hope members will be :
 
 Selected students will be called upon to attend extra Tchoukball training sessions after school hours on Wed 3.30- 5pm. 
 
-**Achievements **
+**Achievements**
 
 * Participated in Seniors and Juniors National Tchoukball Competitions in 2018 and 2019. 
 * Have Tchoukball, Frisbees friendly matches with Punggol Primary School in 2019.
