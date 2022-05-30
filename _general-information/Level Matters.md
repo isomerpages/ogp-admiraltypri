@@ -86,6 +86,6 @@ description: ""
 </table>
 
 
-[P4 EL TERM 1](/files/P4%20EL_TERM1%20Lesson%20Focus.pdf)
-[P3 Math](/files/2022%20P3%20Maths%20Lesson%20Focus.pdf)
-[P4 Math](/files/2022%20P4%20Maths%20Lesson%20Focus.pdf)
+[p3 sc sem 1](/files/P3%20SC%20Sem%201.pdf)
+[p3 sc sem 2](/files/P3%20SC_Sem%202.pdf)
+[p4 sc](/files/P4%20SC.pdf)
