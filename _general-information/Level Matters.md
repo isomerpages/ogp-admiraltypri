@@ -70,12 +70,12 @@ description: ""
   <tr>
     <td class="tg-zr06">Chinese   </td>
     <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20CL%20Semester%201%202022%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P3 CL Sem 1</span></a><br><br><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20CL%20Semester%202%202022%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P3 CL Sem 2</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20CL%20Semester%201%202022%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 CL Sem 1</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20CL%20Semester%201%202022%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 CL Sem 1</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Malay   </td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P3%20ML%202022.pdf"><span style="text-decoration:none;color:#383E8E">P3 ML 2022</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/PDF/Lesson%20Focus/P4%20ML%202022.pdf"><span style="text-decoration:none;color:#383E8E">P4 ML 2022</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20ML%202022.pdf"><span style="text-decoration:none;color:#383E8E">P3 ML 2022</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20ML%202022.pdf"><span style="text-decoration:none;color:#383E8E">P4 ML 2022</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Tamil </td>
