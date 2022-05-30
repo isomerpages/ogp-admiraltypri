@@ -87,3 +87,5 @@ description: ""
 
 
 [P4 EL TERM 1](/files/P4%20EL_TERM1%20Lesson%20Focus.pdf)
+[P3 Math](/files/2022%20P3%20Maths%20Lesson%20Focus.pdf)
+[P4 Math](/files/2022%20P4%20Maths%20Lesson%20Focus.pdf)
