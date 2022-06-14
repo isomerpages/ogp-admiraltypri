@@ -39,12 +39,15 @@ To equip the members with life skills and nurture independence, teamwork and lea
 Monday CCA Sessions:  0740 – 0940
 
 # Teachers 
+* <a href="chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
 
-* Ms Chuah Xing Ying  - chuah_xing_ying@moe.edu.sg
-* Mr Saravanan Govindan  – saravanan_govindan@moe.edu.sg
-* Mr Daryl Chew - yi_hern_daryl_chew@moe.edu.sg
-* Mdm Norhana - norhana_mohammed@moe.edu.sg
-* Mr Saffwan - mohammad_nursaffwan_othman@moe.edu.sg
+* <a href="saravanan_govindan@moe.edu.sg">Mr Saravanan Govindan</a>
+
+* <a href="yi_hern_daryl_chew@moe.edu.sg">Mr Daryl Chew</a>
+
+* <a href="norhana_mohammed@moe.edu.sg">Mdm Norhana</a>
+* <a href="mohammad_nursaffwan_othman@moe.edu.sg">Mr Saffwan</a>
+
 
 # Additional info
 
