@@ -59,16 +59,15 @@ Every Brownie will go through our unique 5-point programme with various modules;
 Every Monday (7.40 – 9.40 a.m.)
 Teachers-in-Charge
 
-<a href\="siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC)</a\>
+<a href ="siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC) </a>
 
-Ms Nursyafawati
-Nursyafawati_salam@moe.edu.sg
+<a href ="Nursyafawati_salam@moe.edu.sg"> Ms Nursyafawati </a>
 
-Ms Jane Sasikala
-jane_sasikala_mirthunjayan@moe.edu.sg
+<a href ="jane_sasikala_mirthunjayan@moe.edu.sg"> Ms Jane Sasikala</a>
 
-Ms Punitha
-punitha_silverrajan@moe.edu.sg
+
+
+<a href ="punitha_silverrajan@moe.edu.sg"> Ms Punitha</a>
 
 **Achievements**
 
