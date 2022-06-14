@@ -6,7 +6,10 @@ description: ""
 # School Crest and Song
 ***School Crest***
 
-![](/images/AdmiraltyCrest.png)
+
+
+<img src="/images/AdmiraltyCrest.png" 
+     style="width:50%">
 The school crest was designed through the collaborative effort of the teachers. We strive to help all our pupils acquire the thirst for knowledge with humanity; thus the motto, Knowledge with Humanity.
 
 The symbols of an open book, a hand and five bands in a circular badge with the colours, blue, yellow and red form the emblem. The colours, blue, yellow and red stand for humanity, excellence and equal opportunity respectively.
