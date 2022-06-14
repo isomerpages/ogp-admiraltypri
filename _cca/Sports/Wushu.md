@@ -56,11 +56,11 @@ For students who are selected to represent the school in competitions, Wednesday
 
 Frequently Asked Questions:
 
-1. Can my child who has no prior knowledge or experience in Wushu join the CCA?
+1. Can my child who has no prior knowledge or experience in Wushu join the CCA?<br>
 **Yes. We welcome all students who have the passion to join the CCA. Our professional coaches have years of experiences and are able to properly guide each and every student regardless of their background.**
 
-2. Is it a need for my child to purchase their own weapons and attire upon joining the CCA?
+2. Is it a need for my child to purchase their own weapons and attire upon joining the CCA?<br>
 **It is not compulsory to purchase the attire. However, it is highly recommended as Wushu requires students to make exaggerated body movements. Having the right attire will allow the child to feel more comfortable during the sessions. The purchase of attire will be done directly through the coaches.Students are recommended to purchase their own weapons upon joining the CCA. The type of weapons to be purchased will be recommended by the coaches as it depends on the pet events that students will be assigned to.**
 
-3. My child is not very strong in/is not able to speak Mandarin fluently. Will he/she still be able to join the CCA?
+3. My child is not very strong in/is not able to speak Mandarin fluently. Will he/she still be able to join the CCA?<br>
 **Our coaches are able to speak both English and Mandarin. The teachers-in-charge will also be around to help in translation should there be a need to.**
