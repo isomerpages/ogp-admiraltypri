@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology/Home Based Learning.md
       - Infocomm Technology/Personal Data Protection Policy.md
       - Infocomm Technology/Infocomm Technology.md
       - Infocomm Technology/.keep
