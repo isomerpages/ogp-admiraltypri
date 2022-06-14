@@ -36,16 +36,16 @@ To cultivate students who are
 **Additional info**
 
 FAQs:
-1. Does my child need to have any musical knowledge in order to join the Guzheng Ensemble?
+1. Does my child need to have any musical knowledge in order to join the Guzheng Ensemble? <br>
 **No. Every new member will be taught the basics eg. note-reading, music scales, etc. in their first year of joining the Guzheng Ensemble.**
 
 2. Does my child need to buy a Guzheng?
+
+
 We strongly encourage members to purchase their own Guzheng so that they will take greater ownership of their learning, and practice daily. 
 
 **Students are required to purchase their own Guzheng Picks and textbook.**
 
-3. How can I better support my child in his/ her learning to play the Guzheng? 
+3. How can I better support my child in his/ her learning to play the Guzheng? <br>
  * Encourage him/ her to practice at home what he/ she has learnt during CCA sessions. We recommend our                         members to practice daily. 
  * Offer him/ her words of encouragement whenever he/ she is struggling to master a certain skill or song.                             Allow him/ her to use additional online resources, eg. tutorial videos from YouTube or other web-sites. For                     e-CCA, all online lesson will be recorded and posted on Google Classroom.
-
-   
