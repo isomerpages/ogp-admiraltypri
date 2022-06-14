@@ -49,12 +49,12 @@ During every session, students are given the opportunity to train with various t
 
 **FAQs:**
 
-1. Does my child need to be good at skipping in order to join Rope Skipping?
+1. Does my child need to be good at skipping in order to join Rope Skipping?<br>
 **No, your child needs not have to be good at rope skipping in order to join. In our CCA, our coach will teach your child from basic skills. Most importantly, your child must be interested to learn more about rope skipping and have the motivation to practise during non-CCA days.**
  
-2. Does my child need to have own skipping rope in Rope Skipping?
+2. Does my child need to have own skipping rope in Rope Skipping?<br>
 **Yes, your child is strongly encouraged to have own rope as each rope will be adjusted to each child’s height. However, do not buy any rope on your own as there is specific requirement for type of rope used for the different skills. The coach will recommend and advise accordingly.**
  
-3. How can I better support my child in his / her rope skipping?
+3. How can I better support my child in his / her rope skipping?<br>
 **Encourage him / her to make skipping as part of his / her routine to exercise at home daily.
 Allow him / her to use additional online resources, e.g. tutorial videos from YouTube or other websites.**
