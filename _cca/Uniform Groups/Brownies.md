@@ -54,12 +54,12 @@ Brownies achieve their highest potential by achieving badges, through the comple
 
 Every Brownie will go through our unique 5-point programme with various modules; personal and social development, home, outdoors, community and international. The activities within each module prepares them with the necessary skills to fulfill their Brownie Promise and Law. The modules range from personal care to international events. The girls are empowered with leadership skills to lead themselves and others towards a positive change that can be made in their community.
 
-**Schedule** 
+<strong>Schedule</strong> 
 
 Every Monday (7.40 – 9.40 a.m.)
 Teachers-in-Charge
-Ms Siti Farhana (OIC)
-siti_farhana_maidin@moe.edu.sg
+
+<a href\="siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC)</a\>
 
 Ms Nursyafawati
 Nursyafawati_salam@moe.edu.sg
