@@ -10,8 +10,9 @@ third_nav_title: Sports
 
 Rope Skipping aims to cultivate a holistic approach of healthy lifestyle in our students. It is also a platform for our students to develop effective communication and social interaction skills. At the same time, it provides the learning experiences for our students to be confident and self-disciplined individuals, as well as team players, who demonstrate GRIT. 
 
-![](/images/Picture1.jpg)
 
+<img src="/images/Picture1.jpg" 
+     style="width:45%">
 **Overview**
 
 Rope Skipping CCA started in 2009. It is a form of exercise that involves swinging a rope around the body and jumping over it as it passes under the feet. It is a cardiovascular training that is beneficial both our physical body and mental mind. Other than being an efficient cardio exercise that benefits our physical body, it also strengthens our full body, boosts bone density, increases agility, improves coordination, trains power and enhances balance. In the area of mental mind, it increases the level of concentration, improves spatial visualization and develops creativity.  
