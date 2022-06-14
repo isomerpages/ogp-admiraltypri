@@ -43,9 +43,13 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 **FAQs:**
 
 1. Does my child need to have any musical knowledge in order to join the Guitar Ensemble?
+
+
 **No. Every new member will be taught the basics, eg. note-reading, music scales etc. in their first year of joining the Guitar Ensemble.**
 
 2. Does my child need to buy a guitar?
+
+
 **No. There is no need to purchase a guitar. The school will loan a guitar to your child. However, we encourage members to purchase their own guitars by the end of their first year so that they will take greater ownership of their learning.**
 
 3. How can I better support my child in his/ her learning to play the guitar?
