@@ -37,6 +37,8 @@ To cultivate students who are
 
 FAQs:
 1. Does my child need to have any musical knowledge in order to join the Guzheng Ensemble? <br>
+
+
 **No. Every new member will be taught the basics eg. note-reading, music scales, etc. in their first year of joining the Guzheng Ensemble.**
 
 2. Does my child need to buy a Guzheng?
