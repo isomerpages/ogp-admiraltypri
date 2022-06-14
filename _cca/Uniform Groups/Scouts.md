@@ -40,11 +40,11 @@ Monday CCA Sessions:  0740 – 0940
 
 # Teachers 
 
-Ms Chuah Xing Ying  - chuah_xing_ying@moe.edu.sg
-Mr Saravanan Govindan  – saravanan_govindan@moe.edu.sg
-<br>Mr Daryl Chew - yi_hern_daryl_chew@moe.edu.sg
-Mdm Norhana - norhana_mohammed@moe.edu.sg
-Mr Saffwan - mohammad_nursaffwan_othman@moe.edu.sg
+* Ms Chuah Xing Ying  - chuah_xing_ying@moe.edu.sg
+* Mr Saravanan Govindan  – saravanan_govindan@moe.edu.sg
+* Mr Daryl Chew - yi_hern_daryl_chew@moe.edu.sg
+* Mdm Norhana - norhana_mohammed@moe.edu.sg
+* Mr Saffwan - mohammad_nursaffwan_othman@moe.edu.sg
 
 # Additional info
 
