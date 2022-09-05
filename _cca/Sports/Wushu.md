@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /cca/Sports/wushu
+permalink: /cca/Sports/wushu/
 description: ""
 third_nav_title: Sports
 ---
@@ -66,7 +66,7 @@ Frequently Asked Questions:
 
 **It is not compulsory to purchase the attire. However, it is highly recommended as Wushu requires students to make exaggerated body movements. Having the right attire will allow the child to feel more comfortable during the sessions. The purchase of attire will be done directly through the coaches.Students are recommended to purchase their own weapons upon joining the CCA. The type of weapons to be purchased will be recommended by the coaches as it depends on the pet events that students will be assigned to.**
 
-3. My child is not very strong in/is not able to speak Mandarin fluently. Will he/she still be able to join the CCA?<br>
+3. My child is not very strong in/is not able to speak Mandarin fluently. Will he/she still be able to join the CCA? <br>
 
 
 **Our coaches are able to speak both English and Mandarin. The teachers-in-charge will also be around to help in translation should there be a need to.**
