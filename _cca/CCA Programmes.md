@@ -1,10 +1,10 @@
 ---
 title: CCA Programmes
-permalink: /cca/cca-programmes
+permalink: /cca/cca-programmes/
 description: ""
 ---
 # CCA
-# **CCA Philosophy**
+### CCA Philosophy
 
 Students will be allocated to the CCA of their choice and embrace the mindset of flexibility and possibility to stay committed to learn and succeed. 
 All CCAs aim to be developmental and allow students to learn new skills that are transferable across the different type of CCAs especially those that are not offered by the school.
