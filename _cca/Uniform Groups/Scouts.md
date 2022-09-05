@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /cca/Uniform-Groups/scouts
+permalink: /cca/Uniform-Groups/scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---
@@ -39,7 +39,8 @@ To equip the members with life skills and nurture independence, teamwork and lea
 Monday CCA Sessions:  0740 – 0940
 
 # Teachers 
-* <a href="chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
+
+* <a href="mailto:chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
 
 * <a href="saravanan_govindan@moe.edu.sg">Mr Saravanan Govindan</a>
 
