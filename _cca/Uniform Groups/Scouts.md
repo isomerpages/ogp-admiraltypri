@@ -42,12 +42,12 @@ Monday CCA Sessions:  0740 – 0940
 
 * <a href="mailto:chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
 
-* <a href="saravanan_govindan@moe.edu.sg">Mr Saravanan Govindan</a>
+* <a href="mailto:saravanan_govindan@moe.edu.sg"> Mr Saravanan Govindan</a>
 
-* <a href="yi_hern_daryl_chew@moe.edu.sg">Mr Daryl Chew</a>
+* <a href="mailto:yi_hern_daryl_chew@moe.edu.sg"> Mr Daryl Chew</a>
 
-* <a href="norhana_mohammed@moe.edu.sg">Mdm Norhana</a>
-* <a href="mohammad_nursaffwan_othman@moe.edu.sg">Mr Saffwan</a>
+* <a href="mailto:norhana_mohammed@moe.edu.sg"> Mdm Norhana</a>
+* <a href="mailto:mohammad_nursaffwan_othman@moe.edu.sg"> Mr Saffwan</a>
 
 
 # Additional info
