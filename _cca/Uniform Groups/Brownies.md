@@ -1,6 +1,6 @@
 ---
 title: Brownies
-permalink: /cca/Uniform-Groups/brownies
+permalink: /cca/Uniform-Groups/brownies/
 description: ""
 third_nav_title: Uniform Groups
 ---
@@ -59,13 +59,14 @@ Every Brownie will go through our unique 5-point programme with various modules;
 Every Monday (7.40 – 9.40 a.m.)
 Teachers-in-Charge
 
-* <a href ="siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC) </a>
 
-* <a href ="Nursyafawati_salam@moe.edu.sg"> Ms Nursyafawati </a>
+* <a href="mailto:siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC)</a>
 
-* <a href ="jane_sasikala_mirthunjayan@moe.edu.sg"> Ms Jane Sasikala</a>
+* <a href="mailto:Nursyafawati_salam@moe.edu.sg"> Ms Nursyafawati</a>
 
-* <a href ="punitha_silverrajan@moe.edu.sg"> Ms Punitha</a>
+* <a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg">Ms Jane Sasikala</a>
+
+* <a href="mailto:punitha_silverrajan@moe.edu.sg">Ms Punitha</a>
 
 **Achievements**
 
