@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /cca/Performing-Arts/indian-dance
+permalink: /cca/Performing-Arts/indian-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -64,4 +64,3 @@ We aim to instil the love for dance, while inspiring confidence, enjoyment and a
 **2020**
  
 -	Performance at Istana for Virtual Open House for Deepavali 2020.
-
