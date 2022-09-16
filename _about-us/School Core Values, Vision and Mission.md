@@ -1,6 +1,6 @@
 ---
 title: School Core Values, Vision and Mission
-permalink: /about-us/school-core-values-vision-and-mission
+permalink: /about-us/school-core-values-vision-and-mission/
 description: ""
 ---
 # School Core Values, Vision and Mission
@@ -23,13 +23,13 @@ description: ""
 
 ***School Vision***
 
-A vibrant and dynamic educational hub
+Inspiring and empathetic leaders with a strong global outlook
 
 
 
 ***School Mission***
 
-Nurture good citizens and passionate learners
+Nurture compassionate citizens and life-long learners
 
 
 
