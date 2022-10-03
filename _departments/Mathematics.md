@@ -27,4 +27,6 @@ In Math lessons, students are encouraged to develop their reasoning and metacogn
 I determined the prime numbers by removing all the multiples that involved numbers other than 1 and themselves. In total, there were 12 prime numbers in the set of 30 numbers.
 _________________________________________________________________________
 
-
+![](/images/Departments/task.jpg)**Task:**<br>
+**Find a different way to identify the winner of the completed game of Reversi.**<br>
+The winner is the person who manages to acquire the most number of pieces at the end of the game. Other than counting the black or white pieces individually to determine the winner, a more efficient method is to group the discs into multiple groups of equal black and white discs. There are two remaining white discs after the grouping. This means the winner is the person holding the WHITE pieces.
