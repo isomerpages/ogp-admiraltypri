@@ -15,7 +15,7 @@ sections:
           url: /announcements/
         - title: "Useful links "
           description: ""
-          url: https://gmail.com
+          url: /usefullinks/
         - title: "Events/Gallery "
           description: ""
           url: /privacy/
