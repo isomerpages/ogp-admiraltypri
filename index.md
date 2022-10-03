@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: "Important announcements "
-          url: https://sites.google.com/moe.edu.sg/adpscol/home
+          url: /announcements/
         - title: "Useful links "
           description: ""
           url: https://gmail.com
