@@ -3,7 +3,8 @@ title: School History
 permalink: /about-us/school-history/
 description: ""
 ---
-# School History of Admiralty Primary School
+**History of Admiralty Primary School**
+
 Established in 1997, Admiralty Primary School started with 45 classes at Woodlands Circle. Built in the midst of a flourishing public-housing neighbourhood, the school serves the growing population of children in the estate. Being a relatively young school, Admiralty Primary was free to experiment, create and innovate. In a few short years, the school managed to forge a unique identity for itself. The school was officially opened on 26 June 1999. Since then, Admiralty Primary School has gone from strength to strength to provide its students with an all-round education centred on developing their potential to the fullest and enabling them to succeed in an evolving landscape.
 
 In recognition of the school’s National Education efforts, the school was awarded the Lee Kuan Yew National Education Award in 2003 and 2009. Building on its strong foundation in National Education, Admiralty Primary School implemented the Learning for Life Programme (LLP1), ‘Appreciating and Building Cross-Cultural Skills through the Arts’, in 2014. Anchoring on the importance of globalization, the school’s LLP1 was designed to enable its students to be globally aware and learn cross-cultural skills such as having the right attitude towards cultural differences, acquiring understanding of different cultural practices and worldviews, as well as developing the ability to understand, communicate and effectively interact with people across cultures within and outside of Singapore.
