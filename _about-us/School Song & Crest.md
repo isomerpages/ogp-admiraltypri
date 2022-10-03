@@ -1,15 +1,15 @@
 ---
 title: School Song & Crest
-permalink: /about-us/school-crest-and-song
+permalink: /about-us/school-crest-and-song/
 description: ""
 ---
-# School Crest and Song
-***School Crest***
+#### School Crest
 
 
 
 <img src="/images/AdmiraltyCrest.png" 
      style="width:35%">
+
 The school crest was designed through the collaborative effort of the teachers. We strive to help all our pupils acquire the thirst for knowledge with humanity; thus the motto, Knowledge with Humanity.
 
 The symbols of an open book, a hand and five bands in a circular badge with the colours, blue, yellow and red form the emblem. The colours, blue, yellow and red stand for humanity, excellence and equal opportunity respectively.
@@ -18,11 +18,11 @@ The open book represents the knowledge acquired by a pupil through the two stage
 
 The five bands signify the five shared values that form the foundation of our nation. The letter ‘A’ formed by these symbols is derived from the school’s name. The circle, which endorses these symbols signifies the rounded education that the school provides.
 
-***School Song***
+#### School Song
 
-Admiralty Primary School Song
+**Admiralty Primary School Song**
 
-Verse 1:
+**Verse 1:**
 
 With an all-round education
 
@@ -36,7 +36,7 @@ To care and share, a helping hand
 
 For those who are in need
 
-Chorus:
+**Chorus:**
 
 We are proud of Admiralty Primary
 
@@ -48,7 +48,7 @@ We’ll stand proud and tall
 
 We’ll stand proud and tall for our dear school
 
-Verse 2:
+**Verse 2:**
 
 Here we learn to be achievers for society
 
