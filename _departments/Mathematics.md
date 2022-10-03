@@ -80,3 +80,5 @@ The common **Heuristics** to solve problems also include: 
 *   Look for a pattern
 *   Work backwards 
 **Model drawing** is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
+![](/images/Departments/Model%20drawing.jpg)
+
