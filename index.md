@@ -11,7 +11,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: "Important announcements "
+          description: Important announcements
           url: /announcements/
         - title: "Useful links "
           description: ""
