@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /departments/student-leadership
+permalink: /departments/student-leadership/
 description: ""
 ---
 # Student Leadership
@@ -12,7 +12,7 @@ Department's Vision:
 * Our student leaders are confident and skilful communicators who can influence others positively.
 * Our student leaders are proactive and resilient, possessing the skills to resolve their own problems.
 
-![](/images/SML%20Website%202022%20SL1.jpg)
+![](/images/Departments/SML%20Website%202022%20SL1.jpg)
 
 # Events
 
@@ -20,8 +20,8 @@ Department's Vision:
 
 **Student Leaders’ Investiture 3 March 2022**
 ![](/images/Picture1.png)
-![](/images/SML%20Website%202022%20-%20Term%201.jpg)
-![](/images/SML%20Website%202022%20-%20%202.jpg)
+![](/images/Departments/SML%20Website%202022%20-%20Term%201.jpg)
+![](/images/Departments/SML%20Website%202022%20-%20%202.jpg)
 
 **Term 1 2021**
 
