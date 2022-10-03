@@ -52,37 +52,25 @@ Students will face with problems coming from everyday contexts or in future work
 **Polya’s 4-Step Problem Solving**<br>
 George Polya was a mathematician in the 1940s. He devised a systematic process for solving problems that is now referred to by his name, the Polya 4-Step Problem-Solving Process. 
 
-  
-
 Polya’s 4-step is used to guide our students to systematically approach and solve the problem.
-
-  
 
 Step 1: **Understand** the problem
 
 *   Read the problem carefully to understand what is required in the problem.
 *   Draw or write down the information given in the problem in a simpler form 
 
-  
-
 Step 2: **Plan** what to do/Devise a plan
 
 *   Choose a strategy to use to solve the problem
-
-  
 
 Step 3: **Do** it/Carry out the plan
 
 *   Carry out your plan to solve the problem.
 
-  
-
 Step 4: **Check** the solution
 
 *   Check the reasonableness of your solution
 *   Seek alternative solutions 
-
-  
 
 The common **Heuristics** to solve problems also include: 
 
