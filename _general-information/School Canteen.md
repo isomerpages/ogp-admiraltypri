@@ -1,9 +1,9 @@
 ---
 title: School Canteen
-permalink: /general-information/school-canteen
+permalink: /general-information/school-canteen/
 description: ""
 ---
-# School Canteen
+#### School Canteen
 
 School environment plays an important role in nurturing and sustaining good eating habits from young. Hence, in support of Health Promotion Board, the school has implemented the Healthy Meals in School Programme (HSMP).
  
