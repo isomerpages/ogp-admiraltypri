@@ -1,17 +1,14 @@
 ---
 title: School Vendors
-permalink: /general-information/school-vendors
+permalink: /general-information/school-vendors/
 description: ""
 ---
-# School Vendors
-# School Book Shop
+#### School Book Shop
 **RICKY BOOK CENTRE**
 
 Blk 219 Bukit Batok st 21
 #07-403 Singapore 650219
-
 Tel: 63639159, 68923610
-
 Fax: 65679035
 
 Email: sales@rickybookcentre.com.sg
