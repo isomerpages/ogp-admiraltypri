@@ -3,8 +3,7 @@ title: School Hours
 permalink: /general-information/school-hours/
 description: ""
 ---
-
-
+#### School Hours
 |P1, P2  | | P3, P4, P5, P6    ||
 |-------------------|------------------------------------------------|-------------------|-----------------------------------------------|
 | Monday | Reporting Time: 10:00am Dismissal Time: 2:40pm | Monday | Reporting Time: 7:30am Dismissal Time: 2:40pm |
