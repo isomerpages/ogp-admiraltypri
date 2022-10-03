@@ -1,9 +1,8 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
-# School History
 # School History of Admiralty Primary School
 Established in 1997, Admiralty Primary School started with 45 classes at Woodlands Circle. Built in the midst of a flourishing public-housing neighbourhood, the school serves the growing population of children in the estate. Being a relatively young school, Admiralty Primary was free to experiment, create and innovate. In a few short years, the school managed to forge a unique identity for itself. The school was officially opened on 26 June 1999. Since then, Admiralty Primary School has gone from strength to strength to provide its students with an all-round education centred on developing their potential to the fullest and enabling them to succeed in an evolving landscape.
 
