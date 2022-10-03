@@ -45,3 +45,51 @@ Select or pick a tree near your house or school. Explain and show clearly how yo
 
 **Responses:** <br>
 The tree outside my HDB flat is about 2½ times of a level. A level in my HDB is about 4 m in height based on the research of the architecture rule in Singapore. I add the height of two levels and ½ of a level to estimate the height of the tree.
+
+#### Problem-solving strategies  
+Students will face with problems coming from everyday contexts or in future work situations. Having developed a wide repertoire of problem-solving skills and critical thinking, students will then be able to apply their knowledge to solve complex and non-routine tasks. Some of the general problem-solving strategies will include the Polya’s problem solving strategy and the use of heuristics.   
+
+**Polya’s 4-Step Problem Solving**<br>
+George Polya was a mathematician in the 1940s. He devised a systematic process for solving problems that is now referred to by his name, the Polya 4-Step Problem-Solving Process. 
+
+  
+
+Polya’s 4-step is used to guide our students to systematically approach and solve the problem.
+
+  
+
+Step 1: **Understand** the problem
+
+*   Read the problem carefully to understand what is required in the problem.
+*   Draw or write down the information given in the problem in a simpler form 
+
+  
+
+Step 2: **Plan** what to do/Devise a plan
+
+*   Choose a strategy to use to solve the problem
+
+  
+
+Step 3: **Do** it/Carry out the plan
+
+*   Carry out your plan to solve the problem.
+
+  
+
+Step 4: **Check** the solution
+
+*   Check the reasonableness of your solution
+*   Seek alternative solutions 
+
+  
+
+The common **Heuristics** to solve problems also include: 
+
+*   Make a systematic listing
+*   Guess and check / Make a supposition or assumption
+*   Simplify the problem
+*   Look for a pattern
+*   Work backwards 
+
+**Model drawing** is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
