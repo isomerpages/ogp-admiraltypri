@@ -1,36 +1,34 @@
 ---
 title: School Safety
-permalink: /general-information/school-safety
+permalink: /general-information/school-safety/
 description: ""
 ---
-# School Safety
-
-**Mission**
+#### Mission
 
 To create a safe and secure environment for staff and pupils
 
-# **Guidelines for Safety on School Buses**
+#### Guidelines for Safety on School Buses
 
 **Procedures for Waiting for the Bus**
 
 1. Be on time at the designated pick-up point.
-2.Stand on the sidewalk or away from the roadway while waiting for the bus.<br>
-3.When the bus approaches form a line and be prepared to board immediately.<br>
-4.Stand clear of the bus until it comes to a complete stop.
+2. Stand on the sidewalk or away from the roadway while waiting for the bus.
+3. When the bus approaches form a line and be prepared to board immediately.
+4. Stand clear of the bus until it comes to a complete stop.
 
 **Procedures for Boarding the Bus**
 
 1. Do not push or shove.
-2.Use the handrail and steps.
+2. Use the handrail and steps.
 
 **Conduct on the Bus**
 
 
 1. Remain seated at all times. Standing is strictly prohibited.
-2.Normal conversation is permitted; however, loud noises may distract the driver.<br>
-3.Do not throw objects inside or outside of the bus.
-4.Pupils should face forward for the duration of the trip, and shall keep their feet on the floor in front of them and out of the way of the bus aisle.<br>
-5.Where provided, pupils are to wear seat belts at all times.
+2. Normal conversation is permitted; however, loud noises may distract the driver.
+3. Do not throw objects inside or outside of the bus.
+4. Pupils should face forward for the duration of the trip, and shall keep their feet on the floor in front of them and out of the way of the bus aisle.
+5. Where provided, pupils are to wear seat belts at all times.
 
 
 **Getting off the Bus**
@@ -47,7 +45,7 @@ Do not push or shove.
 **Admiralty Primary School | Traffic Management**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fzwVg5gILCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Safety Tips for Physical Activities
+#### Safety Tips for Physical Activities
 
 **Before the start of the sport/game**
 
