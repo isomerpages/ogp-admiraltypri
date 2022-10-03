@@ -1,9 +1,9 @@
 ---
 title: Level Matters
-permalink: /general-information/level-matters
+permalink: /general-information/level-matters/
 description: ""
 ---
-# Level Matters
+#### P1 and P2
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,8 +46,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-268o"><span style="color:#FFF">P3</span></th>
+    <th class="tg-0lax"><span style="color:#FFF">Subject</span></th>
+		 <th class="tg-268o"><span style="color:#FFF">P3</span></th>
     <th class="tg-268o"><span style="color:#FFF">P4</span></th>
   </tr>
 </thead>
