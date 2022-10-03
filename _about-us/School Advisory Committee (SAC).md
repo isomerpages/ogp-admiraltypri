@@ -1,10 +1,10 @@
 ---
 title: School Advisory Committee (SAC)
-permalink: /about-us/school-advisory-committee-sac
+permalink: /about-us/school-advisory-committee-sac/
 description: ""
 ---
-# School Advisory Committee (SAC)
-# 
+**School Advisory Committee (SAC)**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
