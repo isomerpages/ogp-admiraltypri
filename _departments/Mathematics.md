@@ -57,7 +57,7 @@ Polya’s 4-step is used to guide our students to systematically approach and so
 Step 1: **Understand** the problem
 
 *   Read the problem carefully to understand what is required in the problem.
-*   Draw or write down the information given in the problem in a simpler form 
+*   Draw or write down the information given in the problem in a simpler form
 
 Step 2: **Plan** what to do/Devise a plan
 
@@ -70,7 +70,7 @@ Step 3: **Do** it/Carry out the plan
 Step 4: **Check** the solution
 
 *   Check the reasonableness of your solution
-*   Seek alternative solutions 
+*   Seek alternative solutions
 
 The common **Heuristics** to solve problems also include: 
 
@@ -78,6 +78,5 @@ The common **Heuristics** to solve problems also include: 
 *   Guess and check / Make a supposition or assumption
 *   Simplify the problem
 *   Look for a pattern
-*   Work backwards 
-
+*   Work backwards 
 **Model drawing** is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
