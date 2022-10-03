@@ -1,10 +1,9 @@
 ---
 title: Staff
-permalink: /about-us/staff
+permalink: /about-us/staff/
 description: ""
 ---
-# Staff
-***School Executive Committee***
+### School Executive Committee
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -109,7 +108,7 @@ description: ""
 </tbody>
 </table>
 
-**Class Form Teacher - Primary 1**
+#### Class Form Teacher - Primary 1
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -183,7 +182,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:norhana_mohammed@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">norhana_mohammed@moe.edu.sg</span></a><br><a href="mailto:p_durairaj_ratha@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">p_durairaj_ratha@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">1 Graciousness</td>
+    <td class="tg-faf8">1Graciousness</td>
     <td class="tg-faf8">Mdm Chuah Xing Ying<br></td>
     <td class="tg-faf8">Mdm Daing Noor Ashikin Bte Bahnan<br>Mdm Ang Shi Min Geraldine<br></td>
   </tr>
@@ -205,7 +204,7 @@ description: ""
 </tbody>
 </table>
 
-**Class Form Teacher - Primary 2**
+#### Class Form Teacher - Primary 2
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -303,7 +302,7 @@ description: ""
 </tbody>
 </table>
 
-**Class Form Teacher - Primary 3**
+#### Class Form Teacher - Primary 3
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -390,7 +389,7 @@ description: ""
 </table>
 
 
-**Class Form Teacher - Primary 4**
+#### Class Form Teacher - Primary 4
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -463,7 +462,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_frances_sharmila_di@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">4 GA</td>
+    <td class="tg-faf8">4 GR</td>
     <td class="tg-faf8">Mdm Rageswari Virayah<br></td>
     <td class="tg-faf8">Mdm Rachelle Tjhin Hui Ying<br>Mdm  Nadianah Binte Iskandar<br></td>
   </tr>
@@ -475,7 +474,7 @@ description: ""
 </tbody>
 </table>
 
-**Class Form Teacher - Primary 5**
+#### Class Form Teacher - Primary 5
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -552,7 +551,7 @@ description: ""
 </tbody>
 </table>
 
-**Class Form Teacher - Primary 6**
+#### Class Form Teacher - Primary 6
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -628,7 +627,7 @@ description: ""
 </tbody>
 </table>
 
-# Executive and Administrative Staff
+#### Executive and Administrative Staff
 For any enquires please email us - admiralty_ps@moe.edu.sg
 
 **Administration Team**
@@ -753,11 +752,11 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
     <td class="tg-zr06">IT Trainer</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Nagarajan Poovazhahi</td>
+    <td class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
     <td class="tg-zr06">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
+    <td class="tg-zr06">Mr Soh Ri Xing</td>
     <td class="tg-zr06">Desktop Engineer</td>
   </tr>
 </tbody>
