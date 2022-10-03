@@ -1,10 +1,9 @@
 ---
 title: English
-permalink: /departments/english
+permalink: /departments/english/
 description: ""
 ---
-# English
-# Objectives:
+#### Objectives:
 
 The English Language Department is focused in developing our pupils to be confident and articulate speakers, having the ability and skills to achieve critical visual media literacy, and to be able to be avid readers and inspired writers.
 
