@@ -46,7 +46,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><span style="color:#FFF">Subject</span></th>
+    <th class="tg-268o"><span style="color:#FFF">Subject</span></th>
 		 <th class="tg-268o"><span style="color:#FFF">P3</span></th>
     <th class="tg-268o"><span style="color:#FFF">P4</span></th>
   </tr>
@@ -59,8 +59,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Maths </td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2022%20P3%20Maths%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">2022 P3 Maths</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2022%20P4%20Maths%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">2022 P4 Maths</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2022%20P3%20Maths%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2022%20P4%20Maths%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Science </td>
