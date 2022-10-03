@@ -1,16 +1,14 @@
 ---
 title: Learning Devices Policy
-permalink: /general-information/learning-device-policy
+permalink: /general-information/learning-device-policy/
 description: ""
 ---
-# Learning Devices Policy
-**Admiralty Primary School 
-Learning Device Acceptable Use Policy**
+#### Admiralty Primary School <br>Learning Device Acceptable Use Policy
 
 The Acceptable Use Policy aims to ensure that pupils gain learning opportunities from the school’s online resources safely and effectively. As part of the 21st Century Skills, digital literacy offers life skills for students to prepare them to be future ready. Cyber wellness will be reinforced to ensure that students learn how to respect self and others in the digital world, and use their devices appropriately.
 
 
-# Security Measures
+#### Security Measures
 
 * The school will regularly monitor pupils’ learning devices usage.
 
@@ -18,7 +16,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 
 * Classrooms will be locked at all times when the class vacates the classrooms.
 
-# Users’ Responsibilities (Students)
+#### Users’ Responsibilities (Students)
 
 * Do not leave learning devices unattended. Learning devices must always be in the school bags when not in use.
 
@@ -26,7 +24,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 
 * Devices must be surrendered immediately upon request by any school staff if used inappropriately. There will be follow-up with parents by form teachers/subject teachers.
 
-# Learning Devices
+#### Learning Devices
 
 * It is recommended that students should have sole ownership of their own devices.
 
@@ -41,7 +39,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 * Personal earphones should be used for hygiene purpose and earphones should only be used with the teacher’s permission.
 
 
-# Internet Usage
+#### Internet Usage
 
 * Internet usage in school will always be supervised by the school.
 
@@ -54,7 +52,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 * Any personal data must not be shared online.
 
 
-# Email
+#### Email
 * Approved email accounts may be used under supervision by or with permission from the class teacher.
 
 | Student Pledge for Learning Devices Use In and Out of School                                                                   |   |
@@ -73,7 +71,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 | I understand that my learning device is subjected to checks by the school staff at any time without notice.                    |   |
 | I agree to abide by the statements of this Student’s Pledge                                                                    |   |
 
-# Admiralty Primary School:  Learning Devices Acceptable Use Policy
+#### Admiralty Primary School:  Learning Devices Acceptable Use Policy
 **Agreement Form**
 
 Name of Pupil: __________________ 
