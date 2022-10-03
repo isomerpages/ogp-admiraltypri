@@ -1,6 +1,6 @@
 ---
 title: Principal Message
-permalink: /about-us/principal-message
+permalink: /about-us/principal-message/
 description: ""
 ---
 # Principal Message
@@ -19,7 +19,5 @@ Our staff works hard and is committed to providing a good learning environment f
 From
 
 Mr Pek Wee Haur
-
 Principal
-
 Admiralty Primary School
