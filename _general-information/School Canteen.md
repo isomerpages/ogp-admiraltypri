@@ -21,7 +21,7 @@ To ensure there is balance between quality of food, affordable prices and busine
 |       7       |      Warung Mee     |  Malay Noodle   |                        |
 
 
-# Canteen Rules
+#### Canteen Rules
 
 Students are to abide by the following rules relating to the school canteen:
 
