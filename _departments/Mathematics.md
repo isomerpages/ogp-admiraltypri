@@ -30,3 +30,18 @@ _________________________________________________________________________
 ![](/images/Departments/task.jpg)**Task:**<br>
 **Find a different way to identify the winner of the completed game of Reversi.**<br>
 The winner is the person who manages to acquire the most number of pieces at the end of the game. Other than counting the black or white pieces individually to determine the winner, a more efficient method is to group the discs into multiple groups of equal black and white discs. There are two remaining white discs after the grouping. This means the winner is the person holding the WHITE pieces.
+
+<hr>
+
+**Purpose of the task:** <br>
+* Using tools or items around us to help us make closer estimates to the real values.
+
+**Math understanding:** <br>
+* Concept of estimation
+* Concept of measurements
+
+Select or pick a tree near your house or school. Explain and show clearly how you would be able to estimate the height of the tree. Take a picture of the tree with the item or tools of reference you are using.
+![](/images/Departments/task1.jpg)
+
+**Responses:** <br>
+The tree outside my HDB flat is about 2½ times of a level. A level in my HDB is about 4 m in height based on the research of the architecture rule in Singapore. I add the height of two levels and ½ of a level to estimate the height of the tree.
