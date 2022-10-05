@@ -71,3 +71,124 @@ The common **Heuristics** to solve problems also include: 
 **Model drawing** is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
 
 ![](/images/Model%20drawing.jpg)
+
+#### Learn-with-Technology tasks
+
+In the digital era, students must be equipped with the necessary knowledge, skills, and dispositions to thrive in an interconnected, diverse, and rapidly changing world. The secondary and higher learning institution students have been learning through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning. In Admiralty Primary, we would like to prepare our students early for this blended learning experience.   
+
+  
+
+Learn-with-Technology (LwT) task is the meaningful incorporation of technology in daily teaching and learning. It is a shift in the learning culture that provides our students with more opportunities to learn at their own pace, and there is dedicated time and space to allow them to pursue their own interests and learn outside of the curriculum.
+
+  
+
+LwT tasks also go beyond the classrooms with the intentional extension of topics from daily classroom teaching to e-learning on designated days and school holidays. Students are encouraged to explore the affordances of technology to represent and present what they have discovered and learnt. The LwT routines for Math were built up from the lower primary years.
+
+![](/images/lwt.jpg)
+
+#### Differentiated Instructions
+
+At Admiralty Primary, we believe that every child can learn Math. The department provides additional support to the students who need more guidance and help in learning Math through specialized early intervention programmes like **Learning Support for Math (LSM).**
+
+  
+
+LSM is an early intervention effort that provides additional support to students who do not have the necessary foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Students who need such early intervention are identified at the beginning of their Primary 1 education. Specially trained LSM teachers are assigned to teach and guide these students. The LSM lessons are structured with lots of hands-on work with concrete materials and factual fluency to strengthen the Math foundation of the students. 
+
+  
+
+The students are grouped into smaller groups so that each student would receive more personal attention from the LSM teachers, and these students focus on small successes to build on their motivation to learn Math. There are regular check points to assess the students’ learning. Students who improve and cope better with the foundational numeracy skills and knowledge will ultimately graduate from the LSM programme. Students who still need such support after their lower primary years will continue to be supported at their mid-primary years. 
+
+  
+
+Students who have a passion in learning Math are given opportunities to further develop and strengthen their math reasoning skills with the incorporation of **Excellence 2000 (E2K)** Math resources in their math lessons. The students learn to deepen their conceptual understanding through an inquiry approach. They work either independently or collaborate with their peers in mathematical explorations such as games and puzzles as well as mathematical investigations. Such tasks are usually open-ended in nature to facilitate the thinking, reasoning, and to raise students’ awareness that not all math problems have a fixed one answer solution. 
+
+  
+
+#### Formative assessments
+
+  
+
+**Primary 1 & 2** 
+
+  
+
+There have been no weighted assessments for Primary 1 and 2 students since 2019 when MOE removed all mid-year and year-end examinations for the lower primary years to encourage schools to assess students holistically. In line with the holistic assessment, Admiralty Primary uses **subject specific learning outcomes** (LO) and **qualitative feedback** to report **Primary 1 and 2 students’ progress** at the end of Semester 1 and 2. These holistic reports which provide overall feedback to parents on the learning progress will also include recommended strategies on how parents could help and support their students’ learning at home. Admiralty Primary recognises the importance of building students’ confidence and intrinsic motivation to learn at an early age. All these changes build on efforts to inculcate the joy of learning, subject mastery and self-discovery. 
+
+  
+
+**Primary 3 to Primary 6** 
+
+  
+
+As part of our teaching and learning processes, teachers plan and execute their lessons with clear learning intentions that are aligned with the relevant instructional pedagogy to bring about meaningful learning experiences. Teachers also gather evidence of students’ learning so that they could rectify any misconceptions and bridge emerging learning gaps. Assessment is an integral part of the teaching and learning process. At Admiralty Primary, we believe in a balanced assessment system which includes summative and formative assessments. While it is essential to ascertain the competency of a student at a certain point of learning in the form of a paper-and-pen test, it is equally important to monitor the student’s learning and involve students in peer or self-assessment as part of their daily learning process.
+
+## Assessments
+
+#### Weighted assessments
+
+  
+
+**Primary 3 to 6 Weighted Assessments**
+
+  
+
+Since 2020, there have been no mid-year examinations (MYE) for Primary 3 and Primary 5 students, and MYE for Primary 4 students was also removed in 2022. Therefore, Primary 3 to Primary 5 students will have weighted assessments (WA) for terms 2 and 3, and End-of-Year Examination (EOY Exam) in Term 4. 
+
+  
+
+Primary 6 students will have their term 2 WA and continue to have their Preliminary Examination in Term 3. All Primary 6 pupils will sit for the Primary School Leaving Examination (PSLE) at the end of their primary education. Posting to secondary school will be based only on the PSLE results.
+
+  
+
+In addition to the term WA, Admiralty Primary also included Math LwT tasks and Performance Task (P3) as part of weighted assessments. The purpose of incorporating alternative tasks as part of the weighted assessments provides a more holistic assessment of the students’ overall mathematical competency throughout the year. This will also help to reduce students’ test anxiety when the reporting is not entirely dependent on single written tests. 
+
+  
+
+**Mark Range and Achievement Band (Primary 3 and Primary 4)**
+
+  
+
+The mark range and description for each achievement band in Mathematics are given below.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Mark Range</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Achievement Band</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Brief Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">85 and above</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Is very good in the subject</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">70 – 84 </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 2</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Is good in the subject</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">50 – 69</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">3</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Has adequate grasp of the subject</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Below 50</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Has not met the minimum requirements for the subject </span></td>
+  </tr>
+</tbody>
+</table>
+
