@@ -15,7 +15,8 @@ As we commemorate 25 years in the community, we would like to share with you som
 
 [**HIGHLIGHT - CLICK HERE**](https://drive.google.com/file/d/1NCwbRpthqA_qpyMT5ojxgBmgVLj40vLK/view?usp=sharing)
 
-***
+<hr></hr>
+
 <a href="https://ogp-admiraltypri-staging.netlify.app/about-us/25th-anniversary-commemoration/booth-showcase/">
 <img src="/images/booth%20showcase.png" style="width:35%" align="right"></a>
 	
@@ -24,7 +25,7 @@ As we commemorate 25 years in the community, we would like to share with you som
 	
 [Click here](https://drive.google.com/file/d/1vdygqwFRX-i99LJGhRtfDyVmUGoIhd1E/view?usp=sharing) for Logo Design
 	
-***
+<hr></hr>
 	
 <a href="https://drive.google.com/file/d/11MXvKUqZLasxRyyK26zXnQ-ea5D7aDjN/view">
 	<img src="/images/LKY.jpg" style="width:35%" align="left"></a>
@@ -34,7 +35,7 @@ As we commemorate 25 years in the community, we would like to share with you som
 <p><b>Click on the picture </b> to view our newly installed LKY wall.</p>
 </div>
 
-***
+<hr></hr>
 
 <a href="https://drive.google.com/file/d/1ZhC-gBGOpQg829Vv_5XYNDr_q5einhXl/view">
 	<img src="/images/SHG.jpg" style="width:35%" align="right"></a>
