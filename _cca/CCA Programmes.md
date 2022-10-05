@@ -49,3 +49,10 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 <img src="/images/design&innovation.png" style="width:40%">
 </a>
 
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/visual-arts-club">
+<img src="/images/visual%20arts%20club.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/photography-club">
+<img src="/images/photography%20club.png" style="width:40%">
+</a>
