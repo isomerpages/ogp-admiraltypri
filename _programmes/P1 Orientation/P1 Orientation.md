@@ -24,3 +24,31 @@ Principal
 
 ***
 
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/preparing-for-primary-1/">
+	<img src="/images/preparing%20for%20primary%201.png" style="width:30%" >
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/adp-experience/">
+	<img src="/images/ADP.png" style="width:30%" >
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/first-day-of-school/">
+	<img src="/images/first%20day%20of%20school.png" style="width:30%" >
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/orientation-information/">
+	<img src="/images/FAQ.png" style="width:30%" >
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/p1-administration-package/">
+	<img src="/images/administration%20package.png" style="width:30%" >
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/partnership/">
+	<img src="/images/partnership.png" style="width:30%" >
+</a>
+
+
+
+
