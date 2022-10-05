@@ -71,16 +71,40 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 <img src="/images/indian%20dance.png" style="width:40%">
 </a>
 
-<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/indian-dance/">
-<img src="/images/indian%20dance.png" style="width:40%">
-</a>
-
-<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/indian-dance/">
-<img src="/images/indian%20dance.png" style="width:40%">
-</a>
-
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/guitar-ensemble">
 <img src="/images/guitar%20ensemble.png" style="width:40%">
 </a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/malay-dance">
+<img src="/images/malay%20dance.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/guzheng-ensemble">
+<img src="/images/guzheng.png" style="width:40%">
+</a>
+
+### Sports
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/sports-club">
+<img src="/images/sports%20club.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/football">
+<img src="/images/football.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/wushu/">
+<img src="/images/wushu.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/rope-skipping/">
+<img src="/images/rope%20skipping.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/track-n-field">
+<img src="/images/track&field.png" style="width:40%">
+</a>
+
+
 
 
