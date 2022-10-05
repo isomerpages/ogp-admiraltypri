@@ -60,4 +60,48 @@ third_nav_title: P1 Orientation
 
 6. Where can we get the application forms for School Bus, School Student Care Centre etc?
 
-You can find the link to the forms [here](https://admiraltypri-moe-edu-sg-admin.cwp.sg/programmes/p1-orientation/p1-administration-package) (Click on “here”).
+**You can find the link to the forms [here](https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/p1-administration-package/) (Click on “here”).**
+
+7. What if I am unable to download or print the online forms?
+
+**In this case, you may obtain a copy of the application form at the school’s General Office.**
+
+8. Does the school have a student care centre?
+
+**Yes, it is operated by The Learning Harbour. You may get more information from their website - https://scc.learningharbour.org/tlh-Admiralty-primary-school/**
+
+9. Where can I get more information about student care centres around the school?
+
+**You can get more information from the MSF website. (https://www.msf.gov.sg/studentcare/_layouts/15/MSFSCCMainSolution/pages/centrelist.aspx)**
+
+#### School Hours
+
+10. What are the school hours?
+
+Primary 1 school hours are as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y7qa">Monday</th>
+    <th class="tg-y7qa">Reporting Time: 10:00am<br>Dismissal Time: 2:40pm</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y7qa">Tuesday to Friday</td>
+    <td class="tg-y7qa">Reporting Time: 7:30am<br>Dismissal Time: 2:10pm</td>
+  </tr>
+</tbody>
+</table>
+
+
+
