@@ -56,3 +56,31 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/photography-club">
 <img src="/images/photography%20club.png" style="width:40%">
 </a>
+
+### Performing Arts
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/choir">
+<img src="/images/choir.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/chinese-dance">
+<img src="/images/chinese%20dance.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/indian-dance/">
+<img src="/images/indian%20dance.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/indian-dance/">
+<img src="/images/indian%20dance.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/indian-dance/">
+<img src="/images/indian%20dance.png" style="width:40%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/performing-arts/guitar-ensemble">
+<img src="/images/guitar%20ensemble.png" style="width:40%">
+</a>
+
+
