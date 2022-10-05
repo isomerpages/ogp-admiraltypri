@@ -48,4 +48,30 @@ As we commemorate 25 years in the community, we would like to share with you som
 	
 <p><b>Click on the picture </b> to view our newly installed School Heritage Gallery.</p>
 </div>
+
+***
+	
+<div>
+
+<a href="https://drive.google.com/file/d/1dcaFZjTV5Oakb4SLIQEBUj4Iyh0WMNR1/view?usp=sharing">
+	<img src="/images/NE.jpg" style="width:30%"></a>
+	
+<p><b>Click on the picture </b> for our newly installed NE Wall.</p>
 </div>
+	
+***
+	
+<div>
+<img src="/images/Performances.jpg" 
+     style="width:30%">
+	
+Stay tuned as we bring to you our performers as they are preparing and practicing for our commemoration event.
+	
+<img src="/images/Slide3-1.jpg" 
+     style="width:60%">
+
+<img src="/images/Slide4.jpg" 
+     style="width:60%">
+	
+<img src="/images/Slide5.jpg" 
+     style="width:60%">
