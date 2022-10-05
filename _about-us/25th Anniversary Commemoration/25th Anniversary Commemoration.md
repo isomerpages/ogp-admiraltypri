@@ -38,7 +38,7 @@ As we commemorate 25 years in the community, we would like to share with you som
 <hr></hr>
 
 <a href="https://drive.google.com/file/d/1ZhC-gBGOpQg829Vv_5XYNDr_q5einhXl/view">
-	<img src="/images/SHG.jpg" style="width:35%" align="right"></a>
+	<img src="/images/SHG.jpg" style="width:30%" align="right"></a>
 
 
 <div style="text-align: justify;"><p>Our Heritage Gallery features the significant events that had taken place in the 25 years of our school history under the leadership of three former principals – Mr Freddie Kee, Mdm Lim Soh Lian and Mr Albert Alcantara. It also pays tribute to their contribution to the school and community.</p>
