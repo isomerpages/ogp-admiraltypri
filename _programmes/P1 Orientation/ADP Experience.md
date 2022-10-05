@@ -16,3 +16,20 @@ All of us at Admiralty Primary want to provide our children with a quality educa
 <img src="/images/Maths.jpg"  style="width:40%">
 </a>
 
+<a href="https://drive.google.com/file/d/1an_ULrYc21fup4WSSDR46P6lc8wKnPfH/view">
+<img src="/images/CCE.jpg"  style="width:40%">
+</a>
+
+<a href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view">
+<img src="/images/MT.jpg"  style="width:40%">
+</a>
+
+<a href="https://drive.google.com/file/d/1yLB4vOrJbk-WtBb8uN2qLIK_b_xf9JPN/view">
+<img src="/images/PE.jpg"  style="width:40%">
+</a>
+
+<a href="https://drive.google.com/file/d/1WeqVlBrNgq4PtY8lQlAr-rXwYkOZq9TI/view">
+<img src="/images/SML.jpg"  style="width:40%">
+</a>
+
+
