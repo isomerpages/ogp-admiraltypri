@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - 25th Anniversary Commemoration/Booth Showcase.md
-      - 25th Anniversary Commemoration/25th Anniversary Commemoration.md
       - 25th Anniversary Commemoration/.keep
+      - 25th Anniversary Commemoration/25th Anniversary Commemoration.md
+      - 25th Anniversary Commemoration/Booth Showcase.md
       - Principal Message.md
       - School History.md
       - School Core Values, Vision and Mission.md
