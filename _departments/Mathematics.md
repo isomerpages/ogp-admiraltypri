@@ -310,8 +310,12 @@ Admiralty Primary has engaged an online math learning portal from Singapore, Koo
 	<a href="/files/KooBits%202022%20Term%201%20Winners.pdf">
 <img src="/images/Term1.jpeg"width="215" height="113">
 </a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><img src="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/Pictures/Department/Maths/Term2.JPG" alt="Term2.JPG" width="214" height="114"></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><img src="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/Pictures/Department/Maths/Term3.JPG" alt="Term3.JPG" width="235" height="114"></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href="/files/KooBits%202022%20Term%202%20Winners.pdf">
+<img src="/images/Term2.jpeg" width="100" height="132">
+</a></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href="/files/KooBits%202022%20Term%203%20Winners.pdf">
+<img src="/images/Term3.jpeg" width="100" height="132">
+</a></th>
   </tr>
 </thead>
 <tbody>
