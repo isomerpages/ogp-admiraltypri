@@ -15,7 +15,8 @@ As we commemorate 25 years in the community, we would like to share with you som
 
 [**HIGHLIGHT - CLICK HERE**](https://drive.google.com/file/d/1NCwbRpthqA_qpyMT5ojxgBmgVLj40vLK/view?usp=sharing)
 
-<div>
+***
+
 <a href="https://ogp-admiraltypri-staging.netlify.app/about-us/25th-anniversary-commemoration/booth-showcase/">
 <img src="/images/booth%20showcase.png" style="width:35%" align="right"></a>
 	
@@ -24,8 +25,8 @@ As we commemorate 25 years in the community, we would like to share with you som
 	
 [Click here](https://drive.google.com/file/d/1vdygqwFRX-i99LJGhRtfDyVmUGoIhd1E/view?usp=sharing) for Logo Design
 	
-</div>
-<hr>
+	
+***
 
 <div>
 <a href="https://drive.google.com/file/d/11MXvKUqZLasxRyyK26zXnQ-ea5D7aDjN/view">
