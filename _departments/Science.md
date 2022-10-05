@@ -1,133 +1,45 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
 ---
-# Science
-# Programmes
-* Science Infusion (P1 &amp; P2)
-* Discover Science (P3 to P5)
-* Young Scientists’ Challenge (P3 to P5)
-* Science Carnival (P1 to P5)
-* Science Learning Journeys and Trails (P1 to P6)
-* Science Thematic Bingo (P3 to P5)
-* Hydroponics (P3)
-* Vermicomposting (P4) VIA
+### Science & Engineering Practices
 
-Young Scientist Challenge – [Click here](https://drive.google.com/drive/folders/1I2pJ5tZKYyVg2cE-DPre_Qeu6m7U4KTw) for more information
+This set of practices describe behaviours that scientists engage in as they investigate phenomena and build theories about the world around them. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Science Infusion (P1&amp;P2)</th>
-    <th class="tg-0lax">Science TV</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/images/student%204.png">
-    </td><td class="tg-0lax"><img src="/images/student%205.png"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Start DNA detective workshop</td>
-    <td class="tg-0lax">Science Carnival</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="/images/student%206.png"> </td>
-    <td class="tg-0lax"><img src="/images/student%207.png">
-  </td></tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
 
-# Environmental Education
-**Environmental Education (EE) Framework**
-![](/images/pyramid.png)
+It provides a framework to help students deepen their scientific thinking by combining knowledge with practice. Students acquire skills such as questioning, gathering data, analysing and communicating, all of which are transferable across other disciplines.
 
-The school adopts the 3A approach outlined in the Environmental Education Framework to instil in our students the love for the environment. To achieve this goal, we aim to shape our students’ attitude towards caring for the environment through enhancing the green culture and greening the school environment. Raising the environmental awareness among the school community is achieved through the structured infusion of EE into the school curriculum. Having acquired the knowledge and skills in protecting the environment, the committee hopes these can be translated into actions through the various environmental projects and outreach programmes the school community have carried out.
+<img src="/images/Picture2.jpg" 
+     style="width:50%">
 
-The school also works in collaboration with external partners such as National Environmental Agency (NEA), Singapore Environment Council (SEC), National Parks Board (NPB) and North West Community Development Council (NWCDC) so as to garner their expertise and support the activities run by these external partners.
+<img src="/images/Picture3.jpg" 
+     style="width:50%">
+<i>Students collect data and use them to draw conclusions about the investigation.</i>
 
-Recycling corner in the canteen. Green ambassadors carry out recess activities (recycling crafts, quizzes) to share recycling tips and green values with their peers.
+![](/images/Picture4.jpg)
+<i>Students plan investigations to collect data to  identify scientific principles  (e.g., measurements, observations, patterns) to support their scientific explanations.</i>
 
-**They also sell their harvest from hydroponics to raise funds for the needy pupils.**
+<img src="/images/Picture5.jpg" 
+     style="width:75%">
+<i>Students construct models to explain phenomena or solve problems.</i>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><image src="/images/school%201.png"></th>
-    <th class="tg-0lax"><image src="images/school%202.png"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><image src="/images/school%203.png"></td>
-    <td class="tg-0lax"><image src="/images/school%204.png"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+<img src="/images/Picture6.jpg" 
+     style="width:75%">
+<i>Students construct a scientific argument by comparing and evaluating competing new evidence and ethical issues.</i>
 
-**Plant a Tree Campaign**
-![](/images/school%205.png)
+### Environmental Education
 
-**Climate Change Trail**
+To shape students’ attitude towards caring for the environment, the school seeks to raise awareness of environmental issues and develop green habits in our students. Through rethinking their everyday actions, students learn that every one can play a part in environmental sustainability. Students are also encouraged to be an advocate for the environment by encouraging their peers and family members to adopt green habits.
 
-An interactive learning trail powered by augmented reality. Students scan the images with a smart device to reveal missions that will help them learn about the carbon footprint of a school in a fun way.
+The school also works in collaboration with external partners such as National Environmental Agency (NEA), Waterways Watch Society (WWS) and North West Community Development Council (NWCDC) to garner their expertise and support the activities run by these external partners.
 
-![](/images/school%206.png)
 
-**World Water Day (Exhibition & Quiz) – Partnering PUB**
-![](/images/school%207.png)
+<img src="/images/Picture7.jpg" 
+     style="width:75%">
+		 
+Regular reminders and campaigns were conducted to encourage students to practice green habits in school and at home.
 
-**World Water Day (Exhibition & Quiz) – Partnering PUB
-**
-
-![](/images/school%208.png)
-
-**WWF Overseas Learning Journey to Green Flag school in Kuala Lumpur**
-
-![](/images/school%209.png)
-
-# Objectives
-**Vision**
-
-Inquiring Minds, Creative Thinkers
-
-**Mission**
-
-To prepare our students to be sufficiently adept as effective citizens, able to contribute to an increasingly 21st century world
-
-**Philosophy**
-
-Student as inquirer, teacher is the leader of inquiry
+<img src="/images/Picture8.jpg" 
+     style="width:75%">
+Students advocate for the environment by encouraging others to recycle.
