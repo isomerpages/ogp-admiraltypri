@@ -14,3 +14,11 @@ As we commemorate 25 years in the community, we would like to share with you som
 [**OUR LIVE YOUTUBE CELEBRATION - CLICK HERE**](https://youtu.be/_WxshQWsqlQ)
 
 [**HIGHLIGHT - CLICK HERE**](https://drive.google.com/file/d/1NCwbRpthqA_qpyMT5ojxgBmgVLj40vLK/view?usp=sharing)
+
+***
+
+
+
+
+
+[Click here](https://drive.google.com/file/d/1vdygqwFRX-i99LJGhRtfDyVmUGoIhd1E/view?usp=sharing) for Logo Design
