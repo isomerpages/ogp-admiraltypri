@@ -115,3 +115,11 @@ They also use the sketchbooks to refine their ideas and skills before proceeding
      style="width:50%">
 <img src="/images/Slide14.jpg" 
      style="width:70%">
+		 
+**Arts for Life - Being an Artist Beyond Class**  
+
+Arts education in school is a foundation to their learning experience. 
+
+We strongly encourage our students to continue their arts journey beyond their lessons and even school. Students can discover how Art and Music is everywhere and explore ways to document this learning to complement what they are learning in school at their own time.
+
+![](/images/art1.png)
