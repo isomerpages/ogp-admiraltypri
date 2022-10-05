@@ -104,3 +104,14 @@ You may refer to Ministry of Education’s Art and Music syllabi here.
 ![](/images/Slide11.jpg)
 ![](/images/Slide12.jpg)
 ![](/images/Slide13.jpg)
+
+**Artist Practice**
+
+In Art, our students have their own sketchbooks for them to document their research and exploration. 
+
+They also use the sketchbooks to refine their ideas and skills before proceeding with their final artwork. This get students to experience the practice of an artist and understand what goes behind creating an artwork.
+
+<img src="/images/Picture.png" 
+     style="width:50%">
+<img src="/images/Slide14.jpg" 
+     style="width:70%">
