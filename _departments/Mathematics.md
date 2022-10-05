@@ -351,3 +351,16 @@ Mathematics Learning Journeys provide opportunities for students to explore and 
 Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony. The programme provides nuggets of Math information which include history of Mathematics and application of Mathematics concepts in real life The programme aims to help our students connect their learning to the real-world context and inspire them to appreciate Mathematics.
 
 ![](/images/AMMA.jpg)
+
+#### *   Celebration of Learning 2021
+
+* [Primary 1](https://drive.google.com/file/d/14EZHn4ob22LGFvNT_P5sQ_KyImt7Ding/view)
+
+* [Primary 2](https://drive.google.com/file/d/1Yh20TTLNgKJsLlyZGLMyPSZQjZHrSixK/view)
+
+* [Primary 3](https://drive.google.com/file/d/1y7csQ3D7r5D1ZRpoUiDAP8mB9lL4XCPp/view)
+
+* [Primary 4](https://drive.google.com/file/d/1juKm2y7q-LYVrd-T38oTQgalFSXQix7H/view)
+
+* [Primary 5 &  Primary 6](https://drive.google.com/file/d/1tu24FMdTYMPp3UhQvTswDnTFQuwYGc9c/view)
+
