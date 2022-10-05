@@ -4,7 +4,6 @@ permalink: /programmes/p1-orientation/orientation-information/
 description: ""
 third_nav_title: P1 Orientation
 ---
-
 ### Orientation Slides
 
 
@@ -67,3 +66,5 @@ It is a concern that students may start to compare the extent in which these cel
   
 
 We can still celebrate birthdays meaningfully by singing birthday song and giving well wishes to the birthday boy or girl. This will bring about stronger teacher-student-student relationship which will create a positive schooling experience for your child.
+
+## [Click here](https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/orientation-frequently-asked-questions/) for FAQ
