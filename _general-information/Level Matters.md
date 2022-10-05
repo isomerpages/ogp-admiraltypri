@@ -95,5 +95,19 @@ description: ""
 * [P5 LwT Tasks March Holiday.pdf](/files/P5%20LwT%20Tasks_March%20holiday.pdf)
 * [P6 LwT Tasks March Holiday.pdf](/files/P6%20LwT%20Tasks_March%20holiday.pdf)
 
+### Task Sheet (Term 3)
+
+* [P1 LwT Tasks_Term 3](/files/P1%20LwT%20Tasks_Term%203.pdf)
+* [P2 LwT Tasks_Term 3](/files/P2%20LwT%20Tasks_Term%203.pdf)
+* [P3 LwT Tasks_Term 3](/files/P3%20LwT%20Tasks_Term%203.pdf)
+* [P4 LwT Tasks_Term 3](/files/P4%20LwT%20Tasks_Term%203.pdf)
+* [P5 LwT Tasks_Term 3](/files/P5%20LwT%20Tasks_Term%203.pdf)
+
+### Task Sheet (Term 4)
+* [P1 LwT Tasks_Term 4](/files/P1%20LwT%20Tasks_Term%204.pdf)
+* [P2 LwT Tasks_Term 4](/files/P2%20LwT%20Tasks_Term%204.pdf)
+* [P3 LwT Tasks_Term 4](/files/P3%20LwT%20Tasks_Term%204.pdf)
+* [P4 LwT Tasks_Term 4](/files/P4%20LwT%20Tasks_Term%204.pdf)
+* [P5 LwT Tasks_Term 4](/files/P5%20LwT%20Tasks_Term%204.pdf)
 
 **PARENTS BRIEFING**
