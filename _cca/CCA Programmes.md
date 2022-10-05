@@ -20,3 +20,14 @@ As trials are not conducted in our school, observation by teachers during Progra
 
 Selecting a CCA at the end of Primary 2 is a key milestone for our students. It is an opportunity for our students to exercise their decision making. Students are required to submit their three different CCA options at end of Primary 2 as we encourage our students to keep their options open. 
 The conversations with CCA leaders during CCA Recruitment Drive would allow P2 students to have a better understanding of the CCA. With the guidance of the Form Teachers and parents, students would have to consider their options based on their interest and strengths. While it important for parents to guide the students in making the decision, the final decision of the choice of CCA should be made by students and they should take ownership of their own decision.
+
+### Uniform Group
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/uniform-groups/brownies/">
+<img src="/images/brownies.png" style="width:50%">
+</a>
+
+<a href="https://ogp-admiraltypri-staging.netlify.app/cca/uniform-groups/scouts/">
+<img src="/images/scouts.png" style="width:50%">
+</a>
+
