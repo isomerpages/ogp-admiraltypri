@@ -4,16 +4,13 @@ permalink: /programmes/p1-orientation/first-day-of-school/
 description: ""
 third_nav_title: P1 Orientation
 ---
-What to bring (Coming Soon)
----------------------------
+### What to bring (Coming Soon)
+
 
 Content
 
-Reporting and Dismissal Time 
------------------------------
-
+### Reporting and Dismissal Time 
   
-
 Please note that parents/guardians will not be allowed to park your vehicles in school carpark and are encouraged to park at the nearby HDB carparks next to the school.
 
   
@@ -28,8 +25,8 @@ Our children will be dismissed at 2.00 p.m. on the first day of school.
 
   
 
-Canteen & Recess for Students
------------------------------
+### Canteen & Recess for Students
+
 
   
 
