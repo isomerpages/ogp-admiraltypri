@@ -192,3 +192,132 @@ The mark range and description for each achievement band in Mathematics are give
 </tbody>
 </table>
 
+**Mark Range and Achievement Band (Primary 5 and Primary 6)**  
+
+In line with the PSLE new scoring system in 2020, the mark range and Achievement Level (AL) are given below
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Achievement Level (AL)</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Mark range</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">1</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">≥ 90</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">2</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">85 – 89</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 3</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 80 – 84</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 4</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 75 – 79</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 5</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 65 – 74</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 6</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 45 – 64</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 7</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">20 – 44 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 8</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &lt; 20</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Grades</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Mark range</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Equivalent Standard Level (AL)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">A</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">75 – 100</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> B</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">30 – 74 </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 7</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> C</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &lt; 30</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> 8</span></td>
+  </tr>
+</tbody>
+</table>
+
+## Department Programme
+
+#### *   Koobits programme
+
+Admiralty Primary has engaged an online math learning portal from Singapore, KooBits Problem Sums, as an additional learning resource for our students. This portal is developed to help build problem-solving skills in our students and to promote self-directed learning. Our students can access Self-Practice, Homework, Mock Tests in the system, and be engaged in daily activities and Math games to earn points and win prizes. This technology-assisted learning platform is used to promote independent and self-directed learning.
+
+
+<img src="/images/Koobits%20Winners.jpg" 
+     style="width:60%">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 1</span><br>
+	<a href="/files/KooBits%202022%20Term%201%20Winners.pdf">
+<img src="/images/Term1.jpeg"width="215" height="113">
+</a></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><img src="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/Pictures/Department/Maths/Term2.JPG" alt="Term2.JPG" width="214" height="114"></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><img src="https://admiraltypri.moe.edu.sg/qql/slot/u234/2022/Pictures/Department/Maths/Term3.JPG" alt="Term3.JPG" width="235" height="114"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w" colspan="3"><span style="color:#222;background-color:#EAEAEA">Click on the image to view winners list</span><br></td>
+  </tr>
+</tbody>
+</table>
+
