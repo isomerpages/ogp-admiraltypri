@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - P1 Orientation/P1 Orientation.md
       - P1 Orientation/.keep
       - DSA & ECG.md
       - Learning for Life Programme (LLP).md
