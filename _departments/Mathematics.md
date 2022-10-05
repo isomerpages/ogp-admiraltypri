@@ -325,3 +325,29 @@ Admiralty Primary has engaged an online math learning portal from Singapore, Koo
 </tbody>
 </table>
 
+#### *   Family Math
+
+Family Math activities are designed to engage families in the students’ learning experiences outside of school. Families are well positioned to talk about quantity, counting, shapes, patterns, and other math concepts at home, in the parks, or during grocery shopping. Family Math is usually conducted during June holidays. Through the activities, students take part in experiential learning that involves explorations, journaling, hands-on activities, quizzes, and games. Family members get together to do fun hands-on activities that allow the students to learn through real life experiences alongside with their families. The parents enjoy these meaningful bonding moments with their children and the children are also more motivated to take ownership of their own learning. The variety of activities also give parents a greater insight into their children’s learning.
+
+![](/images/Family%20Math.jpg)
+
+#### *   Math@Lunch
+
+  
+
+Math@Lunch is conducted once every term during lunch hour near the canteen area to foster interest in Math. Our students get to experience different Math-related activities such as Math video screening, games, and quizzes after enjoying their meals. The objective of the programme is to encourage students to do Mathematics outside the classroom and to inculcate their interest in using Mathematics through the fun activities. Students get to play various digital Math games or hands-on manipulatives such as number cards, tangrams, and board games. They can also win tokens by participating in the booth challenge or online quizzes.
+
+![](/images/Math%20Lunch.jpg)
+
+#### *   Math Learning Journey / Math E-Learning Journey
+
+Mathematics Learning Journeys provide opportunities for students to explore and develop appreciation of Mathematics elements around them in a real-world context. Students are also encouraged to apply mathematical skills to solve real-life problems through the tasks given. In recent years because of Covid situation, the format of the learning journeys has been changed from a physical one to a virtual learning journey. For instance, the Primary 4 used to visit Changi Airport for their learning journey. In 2021, the Primary 4 visited Changi Airport virtually via the Student Learning Space.
+
+![](/images/Math%20Learning%20Journey1.jpg)
+![](/images/Math%20Learning%20Journey.jpg)
+
+#### *   AM.MA
+
+Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony. The programme provides nuggets of Math information which include history of Mathematics and application of Mathematics concepts in real life The programme aims to help our students connect their learning to the real-world context and inspire them to appreciate Mathematics.
+
+![](/images/AMMA.jpg)
