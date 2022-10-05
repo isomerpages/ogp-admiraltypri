@@ -37,7 +37,7 @@ third_nav_title: P1 Orientation
     <td class="tg-zr06"> Submit completed form to GO</td>
   </tr>
   <tr>
-    <td class="tg-wmsy"><a href="https://go.gov.sg/moe-efas"><span style="text-decoration:none;color:#383E8E">Application eForm (MOE Financial Assistance)</span></a><br><br><img src="/images/moe-efas.jpg" alt="moe-efas.jpg"></td>
+    <td class="tg-wmsy"><a href="https://go.gov.sg/moe-efas"><span style="text-decoration:none;color:#383E8E">Application eForm (MOE Financial Assistance)</span></a><br><br><img src="/images/moe-efas.jpg" style="width:25%"></td>
     <td class="tg-zr06"> Change to " New - Please submit early"</td>
   </tr>
 </tbody>
@@ -88,4 +88,3 @@ third_nav_title: P1 Orientation
   </tr>
 </tbody>
 </table>
-
