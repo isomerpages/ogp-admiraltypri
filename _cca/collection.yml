@@ -4,11 +4,11 @@ collections:
     order:
       - CCA Programmes.md
       - Sports/.keep
-      - Sports/Track & Field.md
-      - Sports/Rope Skipping.md
-      - Sports/Wushu.md
-      - Sports/Football.md
       - Sports/Sports Club.md
+      - Sports/Football.md
+      - Sports/Wushu.md
+      - Sports/Rope Skipping.md
+      - Sports/Track & Field.md
       - Performing Arts/.keep
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Guitar Ensemble.md
