@@ -348,7 +348,7 @@ description: ""
   <tr>
     <td class="tg-faf8">3 ED</td>
     <td class="tg-faf8">Mr Kelvin Lee Kwee- Ming<br></td>
-    <td class="tg-faf8">Mr Muhammad Afiq Bin Hanim<br>Mr Tan Jia Jin</td>
+    <td class="tg-faf8">Mr Tan Jia Jin</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
@@ -520,12 +520,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">5 ET</td>
-    <td class="tg-9678">Mr Saravanan S/O Govindan<br></td>
+    <td class="tg-9678"><br></td>
     <td class="tg-faf8">Mr Jumat Baba<br>Mdm Lee Cher Hiang Christine<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:saravanan_govindan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">saravanan_govindan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:saravanan_govindan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E"></span></a><br></td>
     <td class="tg-wmsy"><a href="mailto:jumat_b_baba@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jumat_b_baba@moe.edu.sg</span></a><br><a href="mailto:lee_cher_kiang@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">lee_cher_kiang@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
