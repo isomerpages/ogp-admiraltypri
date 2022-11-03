@@ -1,33 +1,33 @@
 ---
 title: Contact Us
-permalink: /about-us/contact-us
+permalink: /about-us/contact-us/
 description: ""
 ---
+
 # Contact Us
 
-***ADMIRALTY PRIMARY SCHOOL***
+**_ADMIRALTY PRIMARY SCHOOL_**
 
-
-***Address:***
+**_Address:_**
 
 11, Woodlands Circle, Singapore 738907
 
-***Tel:***
+**_Tel:_**
 
 63620598
 
-***Fax:***
+**_Fax:_**
 
 63627512
 
-***Email:***
+**_Email:_**
 
 admiralty_ps@moe.edu.sg
 
-***Bus Services***
+**_Bus Services_**
 
 TIBS 965 , 964 , 913
 
-***Nearest MRT Station***
+**_Nearest MRT Station_**
 
 Admiralty Station

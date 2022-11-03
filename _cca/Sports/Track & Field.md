@@ -1,23 +1,25 @@
 ---
 title: Track & Field
-permalink: /cca/Sports/track-n-field
+permalink: /cca/Sports/track-n-field/
 description: ""
 third_nav_title: Sports
 ---
+
 # Track & Field
- **Goal**
 
-To develop a passion for sports in life. 
+**Goal**
 
-**Objectives** 
+To develop a passion for sports in life.
 
-To develop students in the skills of running, jumping and throwing. 
+**Objectives**
 
-**Overview** 
+To develop students in the skills of running, jumping and throwing.
 
-Lower primary students to develop a set of fundamental skills from the three domains: running, jumping and throwing. 
+**Overview**
 
-Upper primary students to specialised from the three domains that is catered to their interest and strength. 
+Lower primary students to develop a set of fundamental skills from the three domains: running, jumping and throwing.
+
+Upper primary students to specialised from the three domains that is catered to their interest and strength.
 
 **Introduction**
 
@@ -30,34 +32,34 @@ Through such contests, students can heighten their opportunities to enter establ
 You can read more on DSA through MOE website.
 (www.moe.gov.sg/education/admissions/dsa-sec).
 
-**Schedule** 
+**Schedule**
 
 |           |                               |
-|-----------|-------------------------------|
+| --------- | ----------------------------- |
 | Monday    | 740 - 940                     |
 | Wednesday | 330 – 530 (subject to change) |
 |           |                               |
 
 **Teachers**
 
-* Mr Kok Choon
+- Mr Kok Choon
 
-* Mr Andrew Yeo
+- Mr Andrew Yeo
 
-* Mrs Poh
+- Mrs Poh
 
-* Ms Lim Shu Hui
+- Ms Lim Shu Hui
 
-* Mdm P Durairaj Ratha
+- Mdm P Durairaj Ratha
 
-* Ms Feng xia
+- Ms Feng xia
 
-* Ms Irfah
+- Ms Irfah
 
 **Achievements**
 
 |                                                                        |           |
-|------------------------------------------------------------------------|-----------|
+| ---------------------------------------------------------------------- | --------- |
 | C Boys 50m finals (Primary 5 – 2017)                                   | 3rd       |
 | B Girls 100m finals (Primary 6 – 2016)                                 | 4th       |
 | B Girls 200m finals (Primary 6 – 2016)                                 | 3rd       |
@@ -79,12 +81,12 @@ Multi-skill events (D Division)
 
 4 main segment
 
-* Standing start
+- Standing start
 
-* Run over hurdles
+- Run over hurdles
 
-* Pick up bean bag + acceleration
+- Pick up bean bag + acceleration
 
-* Overhead throw with master and non-master hands
+- Overhead throw with master and non-master hands
 
 ![](/images/TF.png)

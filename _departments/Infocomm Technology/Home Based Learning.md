@@ -1,11 +1,12 @@
 ---
 title: Home Based Learning
-permalink: /general-information/Infocomm-Technology/home-based-learning
+permalink: /general-information/Infocomm-Technology/home-based-learning/
 description: ""
 third_nav_title: Infocomm Technology
 ---
 
 # Home-Based Learning
+
 [Installing Zoom to Android Parents](/files/Installing-Zoom-to-Android_Parents.pdf)
 
 [Installing Zoom to Computer Parents](/files/Installing-Zoom-to-Computer_Parents.pdf)
@@ -41,7 +42,6 @@ Our teachers will continue to monitor the progress of your child through HBL ass
 Please ensure that your child stays at home and continues to observe good hygiene practices such as washing their hands frequently with soap. Temperature taking should be done once a day with the temperature readings submitted online. Your child’s form teacher will be in touch with you on how this can be done. If your child feels unwell, please seek medical attention promptly and inform his/her form teacher if he/she displays any fever or flu-like symptoms.
 
 We plan to resume classes on 5 May 2020. MOE will continue to closely monitor the COVID-19 situation to assess if HBL needs to be extended. We urge you to rely on official sources of information and not to circulate any unconfirmed information. If you have any further queries, please contact our General Office at 63620598.
-
 
 Thank you and keep safe!
 

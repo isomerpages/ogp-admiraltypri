@@ -1,8 +1,9 @@
 ---
 title: Student Care
-permalink: /general-information/student-care
+permalink: /general-information/student-care/
 description: ""
 ---
+
 # Student Care
 
 # TLH @ Admiralty Primary School
