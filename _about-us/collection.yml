@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal Message.md
+      - School History.md
+      - School Core Values, Vision and Mission.md
+      - School Song & Crest.md
+      - Staff.md
+      - School Advisory Committee (SAC).md
+      - Contact Us.md
+      - 25th Anniversary Commemoration/.keep
+      - 25th Anniversary Commemoration/25th Anniversary Commemoration.md
+      - 25th Anniversary Commemoration/Booth Showcase.md

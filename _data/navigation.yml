@@ -1,13 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/AdmiraltyCrest.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: ABOUT US
+    collection: about-us
+  - title: General information
+    collection: general-information
+  - title: Departments
+    collection: departments
+  - title: Programmes
+    url: /cca/cca-programmes/
+    sublinks:
+      - title: CCA Programmes
+        url: /cca/cca-programmes/
+      - title: DSA & ECG
+        url: /programmes/dsa-ecg/
+      - title: "Learning for Life Programme "
+        url: /programmes/learning-for-life-programme-llp/
+      - title: Junior Entrepreneurship (JEP)
+        url: /programmes/junior-entrepreneurship-programme-jep/
+      - title: MOE Sexuality Education
+        url: /programmes/moe-sexuality-education-in-schools/
+      - title: 1:1 Learning Device Programme
+        url: /programmes/1-1-learning-device-programme/
+      - title: Overseas Learning Journey
+        url: /programmes/overseas-learning-journey/
+      - title: ADPS Virtual Run
+        url: /programmes/adps-virtual-run/
+      - title: P1 Orientation
+        url: /programmes/p1-orientation/
+  - title: Partnership
+    collection: partnership
