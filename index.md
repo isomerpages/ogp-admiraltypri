@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Admiralty Primary School
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
@@ -20,4 +19,3 @@ sections:
           description: ""
           url: /privacy/
 ---
-
