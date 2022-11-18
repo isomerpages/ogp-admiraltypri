@@ -2,5 +2,5 @@ collections:
   useful-links:
     output: true
     order:
-      - Staff Links.md
+      - For Staff.md
       - For Students Parents.md
