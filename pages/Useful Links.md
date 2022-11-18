@@ -18,7 +18,7 @@ description: ""
 | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)   | [School Cockpit](https://schoolcockpit.moe.gov.sg/)    | 
 | [HR Portal (HRP)](https://www.hrp.gov.sg)    | [SSOE MIMS Portal](https://portal.mims.moe.gov.sg/idmdash)    | 
 | [MOE Intranet](https://intranet.moe.gov.sg/)    | [Parents Gateway](https://pg.moe.edu.sg/)     | 
-| Text     | [Resource Booking](https://rbs.avero-tech.com/)    | 
+|      | [Resource Booking](https://rbs.avero-tech.com/)    | 
 
 
 
