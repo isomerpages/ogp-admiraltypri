@@ -13,11 +13,11 @@ description: ""
 | ----------- | ----------- | 
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login)    | [Parents Gateway](https://pg.moe.edu.sg/)   |
  | [Student iCON](https://workspace.google.com/dashboard)     | [Password reset form (iCON/SLS)](https://forms.gle/bd2dREPKXXsBuiiq6)    |
- | Text     | Text     |
+ | [Google classroom](Workspace.google.com/dashboard)    |     |
  
 
 
-#### Resources
+
 
 #### Staff
 
