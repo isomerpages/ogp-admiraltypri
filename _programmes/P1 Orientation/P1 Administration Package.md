@@ -26,7 +26,7 @@ third_nav_title: P1 Orientation
 <tbody>
   <tr>
     <td class="tg-zr06"><a href="/files/BookList for AY2023 - caa 311022 - P1.pdf"><span style="text-decoration:none;color:#383E8E"> P1 Booklist</td>
-    <td class="tg-zr06"> Ready in early Nov</td>
+    <td class="tg-zr06"> </td>
   </tr>
   <tr>
     <td class="tg-wmsy"><a href="/files/5_Authorisation_Form_GIRO.pdf"><span style="text-decoration:none;color:#383E8E">Authorisation Form (Interbank GIRO)</span></a></td>
