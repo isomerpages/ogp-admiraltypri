@@ -42,6 +42,9 @@ Tel: 67531489
 
 Email: sales@euniforms.com.sg
 
+Online order for school uniform
+[https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/)
+
 Business Hours: 11.30am to 8.00pm
 
 Operates in school on selected Fridays ([click here for dates](/files/2022_Uniform_Bookshop-2.pdf)) – 11.30am to 3.00pm
