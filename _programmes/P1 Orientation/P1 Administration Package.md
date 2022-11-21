@@ -25,7 +25,7 @@ third_nav_title: P1 Orientation
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"><a href="/files/BookList for AY2023 - caa 311022 - P1.pdf"><span style="text-decoration:none;color:#383E8E"> P1 Booklist </td>
+    <td class="tg-zr06"><a href="/files/BookList for AY2023 - caa 311022 - P1.pdf"><span style="text-decoration:none;color:#383E8E"> P1 Booklist </span></a></td>
     <td class="tg-zr06"> </td>
   </tr>
   <tr>
