@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ogp-admiraltypri-staging.netlify.app
-prod: https://ogp-admiraltypri-prod.netlify.app
+staging: https://staging.df0deiz1ijwin.amplifyapp.com
+prod: https://master.df0deiz1ijwin.amplifyapp.com
 shareicon: /images/AdmiraltyCrest.png
 is_government: false
 facebook-pixel: ""
