@@ -96,7 +96,7 @@ Appreciate the Arts through a Learned Lens
 
 Admiralty Primary School adapts the Discipline-Based Art Education (DBAE) framework in our Aesthetics curricula to bring about a deep and powerful arts teaching and learning. Our students analyse perspectives  in the arts through essential questions such as “What is the artist’s voice?” and "What is the role of art/the artists/the audience?".  
 
-You may refer to Ministry of Education’s [ART](https://www.moe.gov.sg/-/media/files/primary/2018_primary_art_syllabus.pdf?la=en&hash=C72D3E37FFEAF6B06D48780194B5CC020DB457B0%5C) and [Music](https://www.moe.gov.sg/-/media/files/primary/2015musicteachingandlearningsyllabusprimaryandlowersecondary.ashx?la=en&hash=41025D7E02879592E04790C645AF026FD33D64E9)](https://www.moe.gov.sg/-/media/files/primary/2015musicteac hingandlearningsyllabusprimaryandlowersecondary.ashx?la=en &hash=41025D7E02879592E04790C645AF026FD33D64E9) syllabi here.
+You may refer to Ministry of Education’s [ART](https://www.moe.gov.sg/-/media/files/primary/2018_primary_art_syllabus.pdf?la=en&hash=C72D3E37FFEAF6B06D48780194B5CC020DB457B0%5C) and [Music](https://www.moe.gov.sg/-/media/files/primary/2015musicteachingandlearningsyllabusprimaryandlowersecondary.ashx?la=en&hash=41025D7E02879592E04790C645AF026FD33D64E9) syllabi here.
 
 **Discipline-Based Art Education (DBAE)**
 
