@@ -64,7 +64,7 @@ We believe that every child is a potential ARIF BUDIMAN – the learned person w
 | Creative Writing Programme |                                                                                                                                                                                    |
 | ML Ambassador Programme    |                                                                                                                                                                                    |
 
-# Objectives
+### Objectives
 
 We aim to inculcate the love for Malay Language in our pupils so that they can be effective users of the language and to uphold the Malay heritage and cultural values. Pupils will be confident speakers and be able to interact with others effectively using the MT language. They will be self-directed learners with perseverance in achieving excellence for the language and stay strong rootedness in own culture and understanding the diversity of other cultures and respecting them.
 
