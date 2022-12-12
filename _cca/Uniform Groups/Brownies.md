@@ -52,8 +52,30 @@ Ms Veronica Yeo - veronica_yeo@moe.edu.sg
 
 **Achievements**
 
-Puan Noor Asiah Award (Gold) – 2020
-Chief Commissioner Award (2020) – 13 girls
+
+
+|  |    
+
+2021 |    
+
+2022 |
+| -------- | -------- | -------- |
+|    
+
+Puan Noor Aishah award    |    
+
+Gold     |    
+
+To be awarded next year     |
+|    
+
+Chief Commissioner award     |    
+
+7 girls (P5 and P6)    |    
+
+7 girls (P5 and P6)    |
+
+
 
 **Additional info**
 
