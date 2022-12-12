@@ -77,15 +77,3 @@ Chief Commissioner award     |
 
 
 
-**Additional info**
-
-Questions further posed by parents during our engagement sessions last year: 
-
-1.	Any requirements/pre-requisite to enter the CCA?
-2.	Is the CCA gender specific? 
-3.	Do the students need to purchase equipment on their own?
-4.	What can we do to help them to prepare themselves to be accepted into the CCA and do well?  
-
-Our Brownie unit, a divisional unit of the Girl Guides Singapore (GGS), is part of a global movement that covers 150 countries around the world. In Singapore, the movement has spanned 100 years. This year, our movement has been nominated for the Nobel Peace Prize for global contribution towards peace and dialogue.  
-
-Since 2012, Admiralty Primary School’s Brownie pack has been consistently awarded the Puan Noor Aishah (PNA) Award from GGS. We have made steady progress from a bronze award to silver award and for the past few years, gold award. It represents our unit’s active participation in programmes and activities run at division and national levels. We are confident that with the enthusiasm of the girls, support of our parents and motivation from our school leaders, we will be able to take our pack to the next level.
