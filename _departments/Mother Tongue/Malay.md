@@ -4,10 +4,9 @@ permalink: /departments/Mother-tongue/malay/
 description: ""
 third_nav_title: Mother Tongue
 ---
+### Malay
 
-# Malay
-
-# People
+#### People
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,7 +40,7 @@ third_nav_title: Mother Tongue
 </tbody>
 </table>
 
-# Programmes
+### Programmes
 
 We believe that every child is a potential ARIF BUDIMAN – the learned person who contributes to society.
 
