@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /departments/student-leadership/
 description: ""
 ---
-# Student Leadership
+### Student Leadership
 **Programme**
 Department's Vision:
 
@@ -12,9 +12,7 @@ Department's Vision:
 * Our student leaders are confident and skilful communicators who can influence others positively.
 * Our student leaders are proactive and resilient, possessing the skills to resolve their own problems.
 
-![](/images/Departments/SML%20Website%202022%20SL1.jpg)
-
-# Events
+### Events
 
 **Term 1 2022**
 
