@@ -307,13 +307,13 @@ Admiralty Primary has engaged an online math learning portal from Singapore, Koo
 <thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 1</span><br>
-	<a href="/files/KooBits%202022%20Term%201%20Winners.pdf">
+	<a href=https://drive.google.com/file/d/1hfo63cPPuta874Fat0xO0Ty6FMeumeYN/view?usp=sharing_eil_m&ts=630735cc>
 <img src="/images/Term1.jpeg"width="215" height="113">
 </a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href="/files/KooBits%202022%20Term%202%20Winners.pdf">
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href=https://drive.google.com/file/d/1AUAjAyWRBf0MqfXixaQjEQuACXlnpk5T/view?usp=sharing_eil_m&ts=630735d3">
 <img src="/images/Term2.jpeg" width="100" height="132">
 </a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href="/files/KooBits%202022%20Term%203%20Winners.pdf">
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href=https://drive.google.com/file/d/14P8OguAempm21p675URTaYEML__MUEe6/view?usp=sharing_eil_m&ts=630735d9>
 <img src="/images/Term3.jpeg" width="100" height="132">
 </a></th>
   </tr>
