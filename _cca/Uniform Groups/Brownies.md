@@ -57,24 +57,7 @@ Ms Veronica Yeo - veronica_yeo@moe.edu.sg
 **Achievements**
 
 
-
-|  |    
-
-2021 |    
-
-2022 |
+|  |  2021 |   2022 |
 | -------- | -------- | -------- |
-|    
-
-Puan Noor Aishah award    |    
-
-Gold     |    
-
-To be awarded next year     |
-|    
-
-Chief Commissioner award     |    
-
-7 girls (P5 and P6)    |    
-
-7 girls (P5 and P6)    |
+|  Puan Noor Aishah award   |   Gold     |   To be awarded next year     |
+| Chief Commissioner award     |   7 girls (P5 and P6)    |    7 girls (P5 and P6)    |
