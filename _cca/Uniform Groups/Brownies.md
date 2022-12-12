@@ -46,8 +46,9 @@ Every Monday (7.40 – 9.40 a.m.)
 Ms Siti Farhana (OIC) - siti_farhana_maidin@moe.edu.sg
 Ms Nursyafawati - nursyafawati_salam@moe.edu.sg 
 Ms Jane Sasikala - jane_sasikala_mirthunjayan@moe.edu.sg
-Ms Nurazreen - nurazreen_samsudin@moe.edu.sg 
+Ms Nurazreen - nurazreen_samsudin@moe.edu.sg
 Ms Veronica Yeo - veronica_yeo@moe.edu.sg
+
 
 **Achievements**
 
