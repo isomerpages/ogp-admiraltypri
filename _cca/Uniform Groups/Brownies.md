@@ -21,31 +21,33 @@ Our aim for our Brownies is that each girl should reach her highest potential. T
 Since 2012, Admiralty Primary School’s Brownie unit has been consistently awarded the Puan Noor Aishah (PNA) Award from GGS. We have made steady progress from a bronze award to silver award and for the past few years, gold award. It represents our unit’s active participation in programmes and activities run at division and national levels. We are confident that with the enthusiasm of the girls, support of our parents and motivation from our school leaders, we will be able to take our unit to the next level.
 
 **Goal**
+
 All girls see the value in themselves and take charge to change their community.
 
 **Objectives**
+
 To develop girls to become confident and independent leaders with a heart for the community.
 
 **Overview**
-What can the parents and students expect to be exposed to? 
-	- Can be in terms of knowledge, skills and even exposure to different activities/competitions 
-	- Can even be on character and leadership development Brownies achieve their highest potential by achieving badges, through the completion of the modules, and challenging themselves to go beyond and attain the proficiency badges. Every Brownie will go through our unique 5-point programme with various modules; personal and social development, home, outdoors, community and international. The activities within each module prepares them with the necessary skills to fulfill their Brownie Promise and Law. The modules range from personal care to international events. The girls are empowered with leadership skills to lead themselves and others towards a positive change that can be made in their community.
+
+What can the parents and students expect to be exposed to?
+
+* Can be in terms of knowledge, skills and even exposure to different activities/competitions 
+* Can even be on character and leadership development Brownies achieve their highest potential by achieving badges, through the completion of the modules, and challenging themselves to go beyond and attain the proficiency badges. Every Brownie will go through our unique 5-point programme with various modules; personal and social development, home, outdoors, community and international. The activities within each module prepares them with the necessary skills to fulfill their Brownie Promise and Law. The modules range from personal care to international events. The girls are empowered with leadership skills to lead themselves and others towards a positive change that can be made in their community.
 
 
 
 <strong>Schedule</strong> 
 
 Every Monday (7.40 – 9.40 a.m.)
-Teachers-in-Charge
 
+**Teachers-in-Charge**
 
-* <a href="mailto:siti_farhana_maidin@moe.edu.sg"> Ms Siti Farhana (OIC)</a>
-
-* <a href="mailto:Nursyafawati_salam@moe.edu.sg"> Ms Nursyafawati</a>
-
-* <a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg">Ms Jane Sasikala</a>
-
-* <a href="mailto:punitha_silverrajan@moe.edu.sg">Ms Punitha</a>
+Ms Siti Farhana (OIC) - siti_farhana_maidin@moe.edu.sg
+Ms Nursyafawati - nursyafawati_salam@moe.edu.sg 
+Ms Jane Sasikala - jane_sasikala_mirthunjayan@moe.edu.sg
+Ms Nurazreen - nurazreen_samsudin@moe.edu.sg 
+Ms Veronica Yeo - veronica_yeo@moe.edu.sg
 
 **Achievements**
 
