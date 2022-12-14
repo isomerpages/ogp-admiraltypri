@@ -71,4 +71,4 @@ Ms Veronica Yeo - veronica_yeo@moe.edu.sg
 
 
 
-![](/images/CCA/Slide4.jpg) ![](/images/CCA/Slide5.jpg) ![](/images/CCA/Slide6.jpg) ![](/images/CCA/Slide7.jpg)
+![](/images/CCA/Slide6.jpg) ![](/images/CCA/Slide7.jpg)
