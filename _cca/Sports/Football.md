@@ -4,7 +4,6 @@ permalink: /cca/Sports/football/
 description: ""
 third_nav_title: Sports
 ---
-
 # Football
 
 **Goal**
@@ -39,9 +38,9 @@ In Admiralty, we believe that Football is not just about matches and winnings. W
 
 |            |                                   |
 | ---------- | --------------------------------- |
-| Mondays    | : Mass CCA training (7.30-9.30am) |
-| Wednesdays | : 3.30 -5.30 p.m.                 |
-| Friday     | : 3.30pm-5.50pm.                  |
+| Mondays    | : Mass CCA training (7.30 - 9.30 a.m) |
+| Wednesdays | : 3.30 - 5.30 p.m.                 |
+| Friday     | : 3.30 p.m - 5.50 p.m.                  |
 
 **Achievements**
 
@@ -57,8 +56,46 @@ In Admiralty, we believe that Football is not just about matches and winnings. W
 - Ariz and Nadila (2020)
 - Peter Lim Scholarship Recipient (Nadila 2019)
 
-**Additional info**
+**Information for parents**
 
-Students go through a comprehensive skill circuit assessment at the end of each curriculum year.
+Q1: What should my child bring for CCA lessons?
 
-The assessment provides information on the current ability level of the students and the areas that are in need of improvements.
+Shoe bag with soccer boots (with studs)
+1-litre water bottle
+Shin pads
+High knee socks
+Ziplock bag or mask pouch (to store their mask)
+
+Q2: Does my child need to bring own soccer ball for CCA/ After-school training? 
+
+The soccer will provide the soccer balls and other training equipment for training. However, pupils are encouraged to own a soccer ball at home so that they can practice basic ball skills at home
+
+Q3: Must I child attend both Wednesday and Friday after-school trainings?
+
+Only selected players will be required to attend after-school training sessions. These players will be required to attend either Wednesday or Fridays training sessions.
+
+   
+
+Q4: What are the competitions available for football?
+
+National School Games (NSG) for Football is our main competition annually. There are two divisions (Junior and senior divisions) conducted annually. Senior division is for P6 players while junior division is for P4/P5 players. To ensure that our students are prepared for the NSG, we organise friendlies with other schools.
+
+Q5: Will all Football CCA players be able to participate in NSG?
+
+Only school team players will participate in NSG. School team players are selected by Team managers.
+
+Q6: Are there certified coaches to train the players?
+
+Beside our teachers, we also have certified coaches to train the players.
+
+**DSA**
+
+Q7: Where can I get more information about DSA for football?
+
+[Click here](https://www.moe.gov.sg/secondary/dsa) for more information on DSA
+
+Q8: What does my child need to prepare for DSA with regards to the sports that is being applied for?
+
+Parents can find out more from the school what is needed for the DSA application. Pupils are encouraged to keep a video of their own training as it may be required as part of their DSA application. They may need to go for interview as well as trials, depending on the requirements from the secondary schools.
+
+![](/images/CCA/Football.jpg)
