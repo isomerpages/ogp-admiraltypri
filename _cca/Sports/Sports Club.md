@@ -135,9 +135,4 @@ Parents can find out more from the school what is needed for the DSA application
 
 | ![](/images/CCA/Slide15.jpg) | ![](/images/CCA/Slide16.jpg) | 
 | -------- | -------- | 
-| ![](/images/CCA/Slide17.jpg)    | ![](/images/CCA/Slide18.jpg)     | 
-
-
-
-
-
+| ![](/images/CCA/Slide17.jpg)    | ![](/images/CCA/Slide18.jpg)     |
