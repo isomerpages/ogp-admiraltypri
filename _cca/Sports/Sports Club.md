@@ -31,22 +31,33 @@ Able to develop leadership skills
 |  Sports    | Badminton   | Tchoukball    | Floorball    |  Tchoukball |  
 |  Competition  |   | NSG Badminton Senior    |   NSG Badminton Junior   |  Tchoukball |
 
+**Additional Practice Schedule**
+
+Selected students will be invited to attend additional Tchoukball and badminton training sessions.
+
+
+| Day | Time | 
+| -------- | -------- | 
+| Thursday    | 2.30 p.m. – 4.30 p.m.     | 
+
 
 
 **Teachers-in-Charge**
 
-- Mr Vincent Kwek kwek_soon_hee_vincent@moe.edu.sg
-- Mr Liew Hun Hui liew_hun_hui@moe.edu.sg
-- Ms Lim Lay Kim lim_lay_kim@moe.edu.sg
-- Ms Geraldine Ang ang_shi_min_geraldine@moe.edu.sg
-- Ms Nurazreen nurazreen_samsudin@moe.edu.sg
-- Mdm Sanisah sanisah_slam@moe.edu.sg
+* Mr Oh Kok Choon  - oh\_kok\_choon@moe.edu.sg
+* Mr Liew Hun Hui  - liew_hun_hui@moe.edu.sg
+* Mrs Poh Siti Alfiah  -  siti_alfiah_mustafa@moe.edu.sg
+* Ms Lim Lay Kim  - lim_lay_kim@moe.edu.sg
+* Mdm Sanisah Binte Slam  -sanisah_slam@moe.edu.sg
 
-**Schedule**
 
-Selected students will be called upon to attend extra Tchoukball training sessions after school hours on Wed 3.30- 5pm.
 
 **Achievements**
 
-- Participated in Seniors and Juniors National Tchoukball Competitions in 2018 and 2019.
-- Have Tchoukball, Frisbees friendly matches with Punggol Primary School in 2019.
+2018, 2019  -  Seniors and Juniors National Tchoukball Competitions
+
+2019  -  Tchoukball, Frisbees friendly matches with Punggol Primary School
+
+2022  -     Participated in NSG Badminton (Senior Boys and Girls)
+National Primary School Tchoukball Junior Boys (Bowl Category) - 1st Runner-up
+National Primary School Tchoukball Junior Girls (Bowl Category) - 2nd Runner-up
