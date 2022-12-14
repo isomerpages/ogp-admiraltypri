@@ -59,5 +59,5 @@ Selected students will be invited to attend additional Tchoukball and badminton 
 2019  -  Tchoukball, Frisbees friendly matches with Punggol Primary School
 
 2022  -     Participated in NSG Badminton (Senior Boys and Girls)
-National Primary School Tchoukball Junior Boys (Bowl Category) - 1st Runner-up
-National Primary School Tchoukball Junior Girls (Bowl Category) - 2nd Runner-up
+								 National Primary School Tchoukball Junior Boys (Bowl Category) - 1st Runner-up
+								 National Primary School Tchoukball Junior Girls (Bowl Category) - 2nd Runner-up
