@@ -62,4 +62,4 @@ Ms Veronica Yeo - veronica_yeo@moe.edu.sg
 |  Puan Noor Aishah award   |   Gold     |   To be awarded next year     |
 | Chief Commissioner award     |   7 girls (P5 and P6)    |    7 girls (P5 and P6)    |
 
-![width="50" height="60"](/images/CCA/Slide4.jpg) ![](/images/CCA/Slide5.jpg) ![width="50" height="60"](/images/CCA/Slide6.jpg) ![](/images/CCA/Slide7.jpg)
+![](/images/CCA/Slide4.jpg) ![](/images/CCA/Slide5.jpg) ![](/images/CCA/Slide6.jpg) ![](/images/CCA/Slide7.jpg)
