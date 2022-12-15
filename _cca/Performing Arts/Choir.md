@@ -33,6 +33,14 @@ We also aim to cultivate:
 which are key ingredients for success in 
 any field
 
+**Schedule**
+
+7:40 a.m. to 9:40 a.m. on CCA Mondays
+Additional practices are required when 
+necessary. Parents will 
+receive notifications accordingly.
+
+
 **Teachers**
 
 Mdm Koon (OIC): koon_wai_hang@moe.edu.sg
@@ -66,4 +74,3 @@ Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
 |![](/images/CCA/choir3.jpg)   | ![](/images/CCA/choir4.jpg)     |
 |  ![](/images/CCA/choir2.jpg) |
 |  ![](/images/CCA/choir1.jpg) |
-
