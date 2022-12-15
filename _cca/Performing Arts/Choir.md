@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ## Choir
 
-**Goals**
+##### Goals
 
 **WE SING AS ONE!**
 
@@ -19,7 +19,7 @@ excellence and the spirit of joy when our
 students gather together to sing or to hear 
 beautiful music. 
 
-**Objectives**
+##### Objectives
 
 Our objectives are to help our students grow musically with a well-rounded and enriched singing education. Through proper vocal training, ear training, learning general music theory and terminology, and by striving for the highest quality performance within the various musical styles, we hope our students will join us with an enthusiastic heart to singing and acquiring new knowledge.
 
@@ -33,7 +33,7 @@ We also aim to cultivate:
 which are key ingredients for success in 
 any field
 
-**Schedule**
+##### Schedule
 
 7:40 a.m. to 9:40 a.m. on CCA Mondays
 Additional practices are required when 
@@ -41,7 +41,7 @@ necessary. Parents will
 receive notifications accordingly.
 
 
-**Teachers**
+##### Teachers
 
 Mdm Koon (OIC): koon_wai_hang@moe.edu.sg
 
@@ -52,7 +52,7 @@ Miss Charlotte: charlotte_sng_yi_may@moe.edu.sg
 Mdm Xu Shihui: xu_shihui@moe.edu.sg
 
 
-**Awards:**
+##### Awards
 
 **2016**  
 Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
