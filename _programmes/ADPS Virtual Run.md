@@ -3,10 +3,7 @@ title: ADPS Virtual Run
 permalink: /programmes/adps-virtual-run/
 description: ""
 ---
-
-# ADPS Virtual Run
-
-Welcome to ADPS Virtual Run!
+##### Welcome to ADPS Virtual Run!
 
 Virtual running is like any other type of running but the difference is that you can run at any location, at any pace and at any time.
 We are calling all our Primary 1 to 6 students, ADPS alumni and staff to join us in this virtual run.
@@ -16,12 +13,11 @@ Click on the following link to register and start recording your timing and dist
 
 https://sites.google.com/moe.edu.sg/adps-virtual-run-2022/home
 
-Archived:
+##### Archived:
 https://sites.google.com/moe.edu.sg/admpsvirtualrun2021/home
 
-![](/images/VIRTUAL%20RUN%202022%20POSTER%20FINAL.jpg)
 
-# FAQ
+##### FAQ
 
 1. Can my parents register for the run?
 
