@@ -78,3 +78,5 @@ We aim to instil the love for dance, while inspiring confidence, enjoyment and a
 3. What do students need to prepare when they are in the CCA? **Students are required to wear black long tights with school PE top.**  
 
 4. What can they do to help them to prepare themselves to be accepted into the CCA and do well? **Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.**
+
+[SYF 2022 Indian dance video](https://drive.google.com/file/d/1JlOV8nFMspl4E35WLv-D8YrBL6heL_uT/view?usp=share_link)
