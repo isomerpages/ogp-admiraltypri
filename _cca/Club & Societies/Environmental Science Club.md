@@ -4,48 +4,34 @@ permalink: /cca/Club-and-Societies/environmental-science-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
-# Environmental Science Club
-
-**Goal**
+##### Goal
 
 1. To inculcate in pupils a sense of responsibility towards the environment.
 2. To cultivate a love for plants and the environment.
 3. To educate pupils to enable them to become ambassadors of the green cause.
 
-**Programme focus for 2021:**
+##### Programme Focus
 
-**Primary 3: Cultivate love for nature**
+**Primary 3 / 4 : Love for nature & Biodiversity**
 
-Engaging in early opportunities to play outdoors is connected to both cognitive and physical development. Opportunities to explore the outdoors increases a child’s knowledge of the natural world. It also helps them make emotional connections with the environment around them and learn to love the nature. Students experience and explore planting using different methods at this stage of their CCA journey.
+Engaging in early opportunities to play outdoors is connected to both cognitive and physical development. Opportunities to explore the outdoors increases a child’s knowledge of the natural world.  It also helps them make connections to their environment around them and to learn to love the nature. Students experience and explore planting using different methods during this stage of their CCA journey.
 
-**Primary 4: Biodiversity**
+Biodiversity is the variety of life on Earth, in all its forms and all its interactions. Humans depend on living things in various ecosystems in a myriad of ways. Some are fairly obvious, others more complex. Students explore different types of biodiversity to understand the interaction between organisms.
 
-Biodiversity is the variety of life on Earth, in all its forms and all its interactions. Humans depend on living things in various ecosystems in a myriad of ways. Some are fairly obvious, some are more complex. Students explore different types of biodiversity in Singapore and overseas, to understand the interaction between organisms at this stage of their CCA journey.
 
-**Primary 5/6: Outreach**
+**Primary 5 / 6 : Outreach**
 
-Confident environmental activist in-the-making is our hope and aspiration for this group of students. They are given the opportunities to engage in conversations with our school population and members of the public to share about their green way of living, making contribution and giving back to the society in their own way.
+Confident environmental activists in-the-making is the hope and aspiration for our students. They are given the opportunities to engage in conversations with our school population and members of the public to share about the green ways of living, making contributions and giving back to society in their own way.
 
-**Level-wide programme**
 
-All level are to participate in World Wildlife Fund (WWF) project on Waste management.
+##### Teachers-in-Charge
 
-Project objectives:
+* Mdm Diana Koh : koh_meow_eng_diana@moe.edu.sg
+* Ms Khoo Ying Ying: khoo_ying_ying@moe.edu.sg
+* Mdm Rageswari: rageswari_virayah@moe.edu.sg
+* Mdm Rashidah Ismail Neville: rashidah_ismail_neville@moe.edu.sg
+* Mdm Siti Zakiah: siti_zakiah_ahmad@moe.edu.sg
 
-• Get the whole school to understand the importance of proper waste management
-
-• Get the whole school to be aware of and take positive actions for waste management
-
-• Create innovative solutions to manage waste in school using design thinking
-
-**Teachers-in-Charge**
-
-- Ms Khoo Ying Ying - Khoo_ying_ying@moe.edu.sg
-- Mdm Diana Koh - koh_meow_eng_diana@moe.edu.sg
-- Mdm Rageswari - rageswari_virayah@moe.edu.sg
-- Mdm Rashidah Ismail Neville - rashidah_ismail_neville@moe.edu.sg
-- Mdm Xu Shihui - xu_shihui@moe.edu.sg
 
 **Achievements**
 
