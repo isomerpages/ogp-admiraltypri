@@ -60,3 +60,10 @@ Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
 * Performance@ADMPS 25th Anniversary Commemoration
 * Singapore Youth Festival Arts Presentation
 
+
+|  |  | 
+| -------- | -------- |
+|![](/images/CCA/choir3.jpg)   | ![](/images/CCA/choir4.jpg)     |
+|  ![](/images/CCA/choir2.jpg) |
+|  ![](/images/CCA/choir1.jpg) |
+
