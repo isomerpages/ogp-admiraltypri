@@ -46,4 +46,17 @@ Mdm Xu Shihui: xu_shihui@moe.edu.sg
 
 **Awards:**
 
-- Singapore Youth Festival 2016 Arts Presentation for Choir – Certificate of Accomplishment
+**2016**  
+Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
+
+**2019** 
+* Art of Healing performance@Tan Tock Seng Hospital
+* Mother’s Day performance@Sembawang CC
+* Performance@The Esplanade
+* Performance@Voices in Harmony
+* Performance@NUSS Singathon
+
+**2022** 
+* Performance@ADMPS 25th Anniversary Commemoration
+* Singapore Youth Festival Arts Presentation
+
