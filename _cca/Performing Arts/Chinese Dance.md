@@ -6,6 +6,7 @@ third_nav_title: Performing Arts
 ---
 # Chinese Dance
 
+[Chinese Dance_25th anniversary](https://drive.google.com/file/d/1uG9X1VBrOF2X-_L1FK8Ca1Av2aktYYOa/view?usp=share_link)
 ##### Goal
 
 To cultivate students who are
