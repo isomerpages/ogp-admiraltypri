@@ -4,23 +4,22 @@ permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-# Guitar Ensemble
+### Guitar Ensemble
 
 Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the school core values of graciousness, responsibility, integrity, teamwork and grit as they embark on a journey of technical training in playing the classical guitar as well as ensemble playing skills. The Guitar Ensemble performs regularly in school as well as in external performances, allowing the members to showcase their learning at various platforms.
 
-**Objectives:**
+##### Objectives:
 
 1. Cultivate members’ interest in music
 2. Build members’ confidence to express themselves musically
 3. Attain performance-level guitar skills
 
-**Practices:**
+##### Practices:
 
 - 7.40 a.m. to 9.40 a.m. on CCA Mondays
-- 2.30 p.m. to 4.30 p.m. on selected Fridays (parents will receive notifications of the specific dates at beginning of each term)
+- 4.30 p.m. to 5.00 p.m. on selected Fridays (parents will receive notifications of the specific dates at beginning of each term)
 
-**Teachers-in-Charge**
+##### Teachers-in-Charge
 
 - Ms Soh Chiew Bee - soh_chiew_bee@moe.edu.sg
 - Miss Amanda Ang - amanda_ang_yan_ting@moe.edu.sg
@@ -28,7 +27,7 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 - Mrs Alice Tan - tan_alice@moe.edu.sg
 - Mdm Fadilah Saban - fadilah_saban@moe.edu.sg
 
-**Activities / Programmes**
+##### Activities / Programmes
 
 - Performance in school events, eg. Chinese New Year celebrations, Teacher’s Day celebrations.
 - Biennial Singapore Youth Festival (SYF)
@@ -36,12 +35,12 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 - Community outreaches, eg. performance at Tan Tock Seng hospital (Art of Healing)
 - Exchange programme with other school’s Guitar Ensemble
 
-**Achievements**
+##### Achievements
 
 - SYF Certificate of Accomplishment 2016
 - SYF Certificate of Distinction 2018
 
-**FAQs:**
+##### FAQs:
 
 1. Does my child need to have any musical knowledge in order to join the Guitar Ensemble?
 
