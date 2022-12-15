@@ -50,6 +50,7 @@ For students who are selected to represent the school in competitions, Wednesday
 |  42-style Taijiquan  | 4th    | 
 |  42-style Taijijian    | 3rd     | 
 
+![](/images/CCA/wushu.jpg)
 
  
 **Additional info**
