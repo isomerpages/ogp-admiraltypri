@@ -40,7 +40,23 @@ During the weekly CCA sessions, skippers learn rope skipping skills from the pro
 
 **Achievements**
 
+National Rope Skipping Championships (2022)
+  
+Senior Division
+
+1\. Double Dutch (Girls)            3rd Place
+
+2\. Team Freestyle (Girls)          6th Place
+
+3\. Individual Freestyle (Boys)  5th Place
+
+4\. Pair Freestyle (Boys)             6th Place
+
+5\. Speed Relay (Boys)                8th Place
+
+
 ![](/images/Rope%20Skipping%20Website%202022.jpg)
+
 
 **Additional info**
 
