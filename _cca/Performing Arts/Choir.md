@@ -4,27 +4,45 @@ permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+## Choir
 
-# Choir
+**Goals**
 
-WE SING AS ONE!
+**WE SING AS ONE!**
 
-Comprising choristers from Primary 3 to Primary 6, Admiralty Choir provides a fun and supportive environment that motivates and inspires singers to pursue their passion in choral singing.
+The primary goal of Choir is to enrich the 
+lives of participating students and their
+audience, by meanings of rehearsing and 
+performing high quality music. We wish to 
+keep alive high standards of artistic 
+excellence and the spirit of joy when our 
+students gather together to sing or to hear 
+beautiful music. 
 
-Through a holistic choral training programme, our student choristers join a CCA where they get to hone their vocal abilities and discover unique performing opportunities. They gain invaluable experiences by engaging themselves in activities such as choir exchanges, workshops, learning journeys and national performances.
+**Objectives**
 
-By the end of 4 years of CCA experiences with us, our choristers are able to appreciate fine music, develop essential interpersonal skills like cooperation, teamwork, self-discipline and responsibility and possess a positive attitude towards striving for excellence.
+Our objectives are to help our students grow musically with a well-rounded and enriched singing education. Through proper vocal training, ear training, learning general music theory and terminology, and by striving for the highest quality performance within the various musical styles, we hope our students will join us with an enthusiastic heart to singing and acquiring new knowledge.
 
-**Teachers-in-Charge**
+We also aim to cultivate:
+* a sense of responsibility
+* teamwork
+* commitment
+* self-discipline
+* confidence in performing and 
+* poise 
+which are key ingredients for success in 
+any field
 
-- Mdm Koon Wai Hang
-- Miss Tay Chun Fang
+**Teachers**
 
-- Mr Goh Piang Kang
+Mdm Koon (OIC): koon_wai_hang@moe.edu.sg
 
-- Mdm Tan Chew Fong
+Mdm Rachelle: rachelle_tjhin_hui_ying@moe.edu.sg
 
-- Mdm Rachelle Tjin
+Miss Charlotte: charlotte_sng_yi_may@moe.edu.sg
+
+Mdm Xu Shihui: xu_shihui@moe.edu.sg
+
 
 **Awards:**
 
