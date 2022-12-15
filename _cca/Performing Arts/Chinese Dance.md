@@ -69,3 +69,5 @@ Additional practices as and when required on Wednesday afternoon (2.30 pm – 4.
 | ![](/images/Copy%20of%20IMG_5788.jpg) | ![](/images/NIK_5243.jpg) |
 | -------- | -------- |
 | ![](/images/NIK_6266.jpg)   | ![](/images/UBJU7790.jpg)     |
+
+[Chinese Dance SYF 2022](https://drive.google.com/file/d/1AJpCi-Q2GeW8ev-hUUB5MSQlE3cVxxFB/view?usp=share_link)
