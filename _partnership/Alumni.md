@@ -3,10 +3,7 @@ title: Alumni
 permalink: /partnership/alumni/
 description: ""
 ---
-
-# Alumni
-
-# Admiralty Primary School Alumni Group
+#### Admiralty Primary School Alumni Group
 
 A group of passionate alumni started the Admiralty Primary School Alumni Group in 2016. This serves as a platform for graduates of Admiralty Primary School to continue to foster ties with the Admiralty family, promote a true spirit of loyalty and love for the alma mater, fostering a sense of belonging and comradeship amongst former students.
 
@@ -20,20 +17,20 @@ https://www.facebook.com/ADPSAlumni/
 **ADPS Alumni Instagram**
 https://www.instagram.com/adpsalumni/
 
-# Youth Alumni Committee
+##### Youth Alumni Committee
 
 ![](/images/alumni%201.png)
 ![](/images/alumni2.jpg)
 ![](/images/alumni3.jpg)
 
-# CONTACT US
+##### CONTACT US
 
 Register as an Alumni - [here](https://form.gov.sg/#!/5f90de0da773a8001101549b)
 
 Click [here ](https://form.gov.sg/#!/6221a08f3689e50012201293) to update your personal information
 
 We want to hear from you!
-Get in touch with our School Alumni Teachers;
+Get in touch with our School Alumni Teachers:
 
 Mrs Poh Siti Alfiah
 <br>Ms Tay Chun Fang
