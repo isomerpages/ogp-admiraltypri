@@ -3,8 +3,7 @@ title: Parent Volunteer
 permalink: /partnership/parent-volunteer/
 description: ""
 ---
-
-# Parent Volunteer
+##### Parent Volunteer
 
 Under the parent volunteer scheme, parents who volunteered their time and effort in a primary school are given an added P1 registration priority.
 
@@ -21,6 +20,6 @@ Our Parent volunteers will be able to get a chance to volunteer in the following
 
 We would like to encourage parents who are looking forward to securing a spot for their child in our school to join us. Call up the school to find out more!
 
-# PV Website
+##### PV Website
 
 [Click here to access](https://sites.google.com/moe.edu.sg/parentvolunteer/home)
