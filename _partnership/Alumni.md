@@ -3,7 +3,7 @@ title: Alumni
 permalink: /partnership/alumni/
 description: ""
 ---
-#### Admiralty Primary School Alumni Group
+##### Admiralty Primary School Alumni Group
 
 A group of passionate alumni started the Admiralty Primary School Alumni Group in 2016. This serves as a platform for graduates of Admiralty Primary School to continue to foster ties with the Admiralty family, promote a true spirit of loyalty and love for the alma mater, fostering a sense of belonging and comradeship amongst former students.
 
