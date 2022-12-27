@@ -64,3 +64,19 @@ We aim to instil the love for dance, while inspiring confidence, enjoyment and a
 **2020**
  
 -	Performance at Istana for Virtual Open House for Deepavali 2020.
+   
+
+**2022**
+- Singapore Youth Festival 2022 (Indian Dance) – Year with no benchmarking
+
+##### Frequently Asked Questions:
+
+1. Any requirements/pre-requisite to enter the CCA? **No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians  students are welcomed to join us as well.**
+
+2. Is the CCA gender specific? **Yes, the CCA is only for girls. The girls are encouraged to grow long hair.**
+
+3. What do students need to prepare when they are in the CCA? **Students are required to wear black long tights with school PE top.**  
+
+4. What can they do to help them to prepare themselves to be accepted into the CCA and do well? **Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.**
+
+[SYF 2022 Indian dance video](https://drive.google.com/file/d/1JlOV8nFMspl4E35WLv-D8YrBL6heL_uT/view?usp=share_link)

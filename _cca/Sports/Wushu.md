@@ -24,11 +24,11 @@ Aside from the hard skills that students can acquire, the CCA also emphasizes a 
 
 |                        |                                      |
 |------------------------|--------------------------------------|
-| Ms Rachel Chee Wan Lin |    chee_wan_lin_rachel@moe.edu.sg    |
+|  Mdm Zhang Zhe Jin | zhang_zhe_jin@moe.edu.sg  |
 |    Mdm Leong Yet Wah   |       leong_yet_wah@moe.edu.sg       |
-|    Mdm Zhang Zhe Jin   |       zhang_zhe_jin@moe.edu.sg       |
+|  Mr Lim Yew Beng   |       lim_yew_beng@moe.edu.sg     |
 |    Mdm Bimaljit Kaur   | bimaljit_kaur_sohan_singh@moe.edu.sg |
-|      Mr Afiq Hanim     |    muhammad_afiq_hanim@moe.edu.sg    |
+
 
 **Schedule**
 
@@ -36,22 +36,23 @@ For students who are selected to represent the school in competitions, Wednesday
 
 **Achievements**
 
- **2021 National School Games (Seniors)**
- 
- |                    |                   |          |
-|--------------------|-------------------|----------|
-|        Event       | Score (Out of 10) | Position |
-|                    |                   |          |
-| 24-Style Taijiquan |        8.05       |    4th   |
-|                    |        8.00       |    6th   |
-|                    |        7.77       |    8th   |
-| 32-Style Taijijian |        7.91       |    4th   |
-|                    |        8.02       |    6th   |
-|    5-Duan Cudgel   |        8.32       |    4th   |
-|    5-Duan Sword    |        8.65       |    7th   |
-|    4-Duan Sword    |        7.75       |    6th   |
-|  4-Duan Broadsword |        7.66       |   10th   |
+2022 National School Games (Seniors)
 
+
+| Event |  Position |
+| -------- | -------- | 
+|  4-duan Cudgel    |  5th    |
+|  4-duan Sword |  6th and 8th     |
+|  4-duan Broadsword   | 5th    | 
+|  5-duan Nanquan    | 5th     | 
+|  24-style Taijiquan    | 1st and 2nd    | 
+|  32-style Taijijian     | 2nd     | 
+|  42-style Taijiquan  | 4th    | 
+|  42-style Taijijian    | 3rd     | 
+
+![](/images/CCA/wushu.jpg)
+
+ 
 **Additional info**
 
 Frequently Asked Questions:

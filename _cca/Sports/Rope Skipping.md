@@ -40,13 +40,25 @@ During the weekly CCA sessions, skippers learn rope skipping skills from the pro
 
 **Achievements**
 
+**National Rope Skipping Championships (2022)** 
+**Senior Division**
+
+* Double Dutch (Girls)              3rd Place
+* Team Freestyle (Girls)           6th Place
+* Individual Freestyle (Boys)   5th Place
+* Pair Freestyle (Boys)             6th Place
+* Speed Relay (Boys)               8th Place
+
+
 ![](/images/Rope%20Skipping%20Website%202022.jpg)
+
 
 **Additional info**
 
 Rope skipping is an exciting sport where you will exercise and learn cool tricks in a skipping rope at the same time. 
 During every session, students are given the opportunity to train with various types of ropes such as long rope and speed rope.  They can jump to music and learn tricks in different types of ropes and combination. Rope Students’ perseverance and self-motivation will be cultivated through training. They will be given opportunities to represent Admiralty Primary School for competitions and performances.  We welcome all students who are keen in skipping to join us.
 
+![](/images/CCA/rope%20skipping.jpg)
 
 **FAQs:**
 

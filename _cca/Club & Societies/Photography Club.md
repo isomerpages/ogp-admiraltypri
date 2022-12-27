@@ -4,8 +4,7 @@ permalink: /cca/Club-and-Societies/photography-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
-# Photography Club
+##### Photography Club
 
 The Photography Club provides a platform for students to explore photography, improve their photography skills and take their first steps in developing a lifelong interest in photography.
 
@@ -15,30 +14,33 @@ They learn to take photographs according to themes, learn about exposure, ISO, s
 
 Additionally, club members will be given opportunities to develop themselves as confident photographers who embody the school core values of Graciousness, Responsibility, Integrity, and Teamwork.
 
-**Goal**
+##### Goal
 
 To develop lifelong learners in the Art of Seeing and Thinking
 
-**Objectives**
+##### Objectives
 
 1. Technical skills proficiency (camera handling)
 2. Composition fundamentals
 3. Personal Leadership & People Skills
 
-**Schedule**
+##### Schedule
 
 During timetabled CCA session: Mondays, 7.40 a.m. – 9.40 a.m.
 
-**Teachers-in-Charge**
+##### Teachers-in-Charge
 
 - Mr Calvin Tan - tan_kiat_calvin@moe.edu.sg
 - Mdm Daing Noor Ashikin - daing_noor_ashikin_bahnan@moe.edu.sg
 - Mrs Sharon Neo - lam_hui_lin_sharon@moe.edu.sg
 - Mr Kelvin Lee - lee_kwee_ming_kelvin@moe.edu.sg
 
-**Achievements**
+##### Achievements
+The Photography Club has won awards over a few years at photography competitions for primary schools – the National Photography Festival and the National Young Shutterbugs.
 
-**Additional info**
+One of our photographer’s work was part of an exhibition held at the National Library. Another of our photographer’s work was included in the Singapore Youth Festival SYFgoesONLINE! showcase.
+
+##### Additional info
 
 Questions further posed by parents during our engagement sessions last year:
 

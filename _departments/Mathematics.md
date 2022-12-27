@@ -3,9 +3,9 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-## Teaching and Learning Processes
+#### Teaching and Learning Processes
 
-#### Concrete-Pictorial-Abstract Approach
+##### Concrete-Pictorial-Abstract Approach
 
 In Admiralty Primary, we provide meaningful learning experiences to bring about deep learning where students learn to transfer their knowledge and skills to solve complex problems. 
 
@@ -14,7 +14,7 @@ Through the Concrete-Pictorial-Abstract (CPA) approach in teaching and learning,
 
 ![](/images/Concrete-Pictorial-Abstract%20Approach.jpg)
 
-#### Development of metacognition
+##### Development of metacognition
 
 In Math lessons, students are encouraged to develop their reasoning and metacognitive skills. Metacognition is the awareness and regulation of one’s thinking. Students are often exposed to non-routine or open-ended problems so that they learn to decide on the problem-solving strategies to be used. Checking for the reasonableness of their answers and thinking through the logic of their solutions are also part of the metacognitive processes. 
 
@@ -24,7 +24,7 @@ Below are some of the students’ metacognitive responses to the Math tasks.
 ![](/images/math2.png)
 ![](/images/math3.png)
 
-#### Problem-solving strategies  
+##### Problem-solving strategies  
 
 Students will face with problems coming from everyday contexts or in future work situations. Having developed a wide repertoire of problem-solving skills and critical thinking, students will then be able to apply their knowledge to solve complex and non-routine tasks. Some of the general problem-solving strategies will include the Polya’s problem solving strategy and the use of heuristics.   
 
@@ -72,7 +72,7 @@ The common **Heuristics** to solve problems also include: 
 
 ![](/images/Model%20drawing.jpg)
 
-#### Learn-with-Technology tasks
+##### Learn-with-Technology tasks
 
 In the digital era, students must be equipped with the necessary knowledge, skills, and dispositions to thrive in an interconnected, diverse, and rapidly changing world. The secondary and higher learning institution students have been learning through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning. In Admiralty Primary, we would like to prepare our students early for this blended learning experience.   
 
@@ -86,7 +86,7 @@ LwT tasks also go beyond the classrooms with the intentional extension of topics
 
 ![](/images/lwt.jpg)
 
-#### Differentiated Instructions
+##### Differentiated Instructions
 
 At Admiralty Primary, we believe that every child can learn Math. The department provides additional support to the students who need more guidance and help in learning Math through specialized early intervention programmes like **Learning Support for Math (LSM).**
 
@@ -104,7 +104,7 @@ Students who have a passion in learning Math are given opportunities to further 
 
   
 
-#### Formative assessments
+##### Formative assessments
 
   
 
@@ -122,9 +122,9 @@ There have been no weighted assessments for Primary 1 and 2 students since 2019 
 
 As part of our teaching and learning processes, teachers plan and execute their lessons with clear learning intentions that are aligned with the relevant instructional pedagogy to bring about meaningful learning experiences. Teachers also gather evidence of students’ learning so that they could rectify any misconceptions and bridge emerging learning gaps. Assessment is an integral part of the teaching and learning process. At Admiralty Primary, we believe in a balanced assessment system which includes summative and formative assessments. While it is essential to ascertain the competency of a student at a certain point of learning in the form of a paper-and-pen test, it is equally important to monitor the student’s learning and involve students in peer or self-assessment as part of their daily learning process.
 
-## Assessments
+#### Assessments
 
-#### Weighted assessments
+##### Weighted assessments
 
   
 
@@ -284,14 +284,14 @@ In line with the PSLE new scoring system in 2020, the mark range and Achievement
 </tbody>
 </table>
 
-## Department Programme
+#### Department Programme
 
-#### *   Koobits programme
+##### *   Koobits programme
 
 Admiralty Primary has engaged an online math learning portal from Singapore, KooBits Problem Sums, as an additional learning resource for our students. This portal is developed to help build problem-solving skills in our students and to promote self-directed learning. Our students can access Self-Practice, Homework, Mock Tests in the system, and be engaged in daily activities and Math games to earn points and win prizes. This technology-assisted learning platform is used to promote independent and self-directed learning.
 
 
-<img src="/images/Koobits%20Winners.jpg" 
+<a href="https://drive.google.com/file/d/19yQB1pM5vSHUkDJbkPC5WXc-WUoe7nvt/view?usp=sharing_eil_m&ts=630735ac"><img src="/images/Koobits%20Winners.jpg" 
      style="width:60%">
 
 <style type="text/css">
@@ -307,13 +307,13 @@ Admiralty Primary has engaged an online math learning portal from Singapore, Koo
 <thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 1</span><br>
-	<a href="/files/KooBits%202022%20Term%201%20Winners.pdf">
+	<a href=https://drive.google.com/file/d/1hfo63cPPuta874Fat0xO0Ty6FMeumeYN/view?usp=sharing_eil_m&ts=630735cc>
 <img src="/images/Term1.jpeg"width="215" height="113">
 </a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href="/files/KooBits%202022%20Term%202%20Winners.pdf">
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href=https://drive.google.com/file/d/1AUAjAyWRBf0MqfXixaQjEQuACXlnpk5T/view?usp=sharing_eil_m&ts=630735d3">
 <img src="/images/Term2.jpeg" width="100" height="132">
 </a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href="/files/KooBits%202022%20Term%203%20Winners.pdf">
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href=https://drive.google.com/file/d/14P8OguAempm21p675URTaYEML__MUEe6/view?usp=sharing_eil_m&ts=630735d9>
 <img src="/images/Term3.jpeg" width="100" height="132">
 </a></th>
   </tr>
@@ -325,13 +325,13 @@ Admiralty Primary has engaged an online math learning portal from Singapore, Koo
 </tbody>
 </table>
 
-#### *   Family Math
+##### Family Math
 
 Family Math activities are designed to engage families in the students’ learning experiences outside of school. Families are well positioned to talk about quantity, counting, shapes, patterns, and other math concepts at home, in the parks, or during grocery shopping. Family Math is usually conducted during June holidays. Through the activities, students take part in experiential learning that involves explorations, journaling, hands-on activities, quizzes, and games. Family members get together to do fun hands-on activities that allow the students to learn through real life experiences alongside with their families. The parents enjoy these meaningful bonding moments with their children and the children are also more motivated to take ownership of their own learning. The variety of activities also give parents a greater insight into their children’s learning.
 
 ![](/images/Family%20Math.jpg)
 
-#### *   Math@Lunch
+##### Math@Lunch
 
   
 
@@ -339,18 +339,18 @@ Math@Lunch is conducted once every term during lunch hour near the canteen area 
 
 ![](/images/Math%20Lunch.jpg)
 
-#### *   Math Learning Journey / Math E-Learning Journey
+##### Math Learning Journey / Math E-Learning Journey
 
 Mathematics Learning Journeys provide opportunities for students to explore and develop appreciation of Mathematics elements around them in a real-world context. Students are also encouraged to apply mathematical skills to solve real-life problems through the tasks given. In recent years because of Covid situation, the format of the learning journeys has been changed from a physical one to a virtual learning journey. For instance, the Primary 4 used to visit Changi Airport for their learning journey. In 2021, the Primary 4 visited Changi Airport virtually via the Student Learning Space.
 
 ![](/images/Math%20Learning%20Journey1.jpg)
 ![](/images/Math%20Learning%20Journey.jpg)
 
-#### *   AM.MA
+##### AM.MA
 
 Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony. The programme provides nuggets of Math information which include history of Mathematics and application of Mathematics concepts in real life The programme aims to help our students connect their learning to the real-world context and inspire them to appreciate Mathematics.
 
-![](/images/AMMA.jpg)
+<a href="https://drive.google.com/file/d/18MOm-EK0tHIOl4Tci10fInelPZ3bv6Ll/view?usp=sharing_eil_m&ts=62ee7d35">![](/images/AMMA.jpg)
 
 #### *   Celebration of Learning 2021
 
@@ -363,4 +363,3 @@ Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony
 * [Primary 4](https://drive.google.com/file/d/1juKm2y7q-LYVrd-T38oTQgalFSXQix7H/view)
 
 * [Primary 5 &  Primary 6](https://drive.google.com/file/d/1tu24FMdTYMPp3UhQvTswDnTFQuwYGc9c/view)
-

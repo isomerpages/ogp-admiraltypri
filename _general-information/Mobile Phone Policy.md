@@ -3,7 +3,6 @@ title: Mobile Phone Policy
 permalink: /general-information/mobile-phone-policy/
 description: ""
 ---
-
 # Mobile Phone Policy
 
 The school **DOES NOT** allow students to possess or use mobile phones in school.
@@ -15,7 +14,7 @@ The school **DOES NOT** allow students to possess or use mobile phones in school
 
 2. **Communicating with Your Child During School Hours**
 
-If you need to contact your child during school hours, you could call the General Office at Tel: 63620598. There are two coin phones located at the canteen for your child to make telephone calls. In urgent situations, students are also allowed to make telephone calls from the General Office.
+If you need to contact your child during school hours, you could call the General Office at Tel: 63620598. In urgent situations, students are also allowed to make telephone calls from the General Office.
 
 **3. Monitoring Your Child’s After School Hours**
 
