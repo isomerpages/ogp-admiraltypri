@@ -27,4 +27,5 @@ Lastly and very importantly, I cannot stress enough that my positive outlook for
 Thank you, and here’s wishing everyone a happy and fulfilling 2023. 
 
 Mr Chen Zhongyi
+
 Principal
