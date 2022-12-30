@@ -7,11 +7,9 @@ description: ""
 
 | | | 
 | -------- | -------- | 
-| Admiralty Primary School commemorated our 25th Anniversary in 2022. Established in 1997 with 45 classes, Admiralty Primary School’s educational journey through the years has seen a growth from strength to strength. We remain steadfast in our mission to nurture all our students into compassionate citizens and life-long learners.    |  ![](/images/20221213_105903.jpg)     | 
+| Admiralty Primary School commemorated our 25th Anniversary in 2022. Established in 1997 with 45 classes, Admiralty Primary School’s educational journey through the years has seen a growth from strength to strength. We remain steadfast in our mission to nurture all our students into compassionate citizens and life-long learners. |  ![](/images/20221213_105903.jpg)     | 
 
-As the fifth Principal of Admiralty Primary School, I would like to express my deepest appreciation towards the four Principals before me – Mr Freddie Kee, Mdm Lim Soh Lian, Mr Albert Alcantara and Mr Pek Wee Haur. Under their leadership and stewardship, this school has grown into the Admiralty Primary school that we know today – a school that focuses on the holistic development of every child, dedicated staff who selflessly care for and nurture our children, and a caring and enabling school environment that allows our students to flourish and develop their abilities in the moral, social, intellectual, physical and aesthetic domains. I am also well aware that this journey is an ongoing one that we will continue to walk with the support of our SAC, parents, alumni and community partners. My team and I are committed towards growing every child to his/her fullest potential.  
 
-As we usher in the new year with great hope and positivity, I would like to take this opportunity to introduce a School Theme for 2023 – one that would aptly describe our journey thus far, and create a focal point for all our students and staff moving forward:
 
 ##### Growing Together: Gratitude, Courage, Excellence
 
