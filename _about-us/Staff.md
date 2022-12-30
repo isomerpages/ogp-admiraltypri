@@ -21,7 +21,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-dgl5">Principal:</th>
-    <th class="tg-zr06">Mr Pek Wee Haur</th>
+    <th class="tg-zr06">Mr Chen Zhongyi</th>
   </tr>
 </thead>
 <tbody>
