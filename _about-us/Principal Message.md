@@ -5,7 +5,8 @@ description: ""
 ---
 ##### Principal’s Message for 2023
 
-
+<img src="/images/20221213_105903.jpg" 
+     style="width:35%">
 
 
 
