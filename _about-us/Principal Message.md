@@ -6,7 +6,7 @@ description: ""
 ##### Principal’s Message for 2023
 
 <img src="/images/20221213_105903.jpg" 
-     style="width:35%">
+     style="width:45%">
 
 Admiralty Primary School commemorated our 25th Anniversary in 2022. Established in 1997 with 45 classes, Admiralty Primary School’s educational journey through the years has seen a growth from strength to strength. We remain steadfast in our mission to nurture all our students into compassionate citizens and life-long learners.
 
