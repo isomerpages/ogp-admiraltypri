@@ -735,7 +735,7 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">Mr Simon Sarosh</td>
+    <td class="tg-zr06">Mr Hameed</td>
     <td class="tg-zr06">IT Manager</td>
   </tr>
   <tr>
