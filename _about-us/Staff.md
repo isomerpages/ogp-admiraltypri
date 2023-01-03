@@ -566,7 +566,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-faf8">6 CH</td>
+    <td class="tg-faf8">6 CO</td>
     <td class="tg-faf8">Ms Marinah Mukhtar Toh Abdullah<br></td>
     <td class="tg-faf8">Mdm Sanisah Binte Slam<br></td>
   </tr>
@@ -576,7 +576,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:sanisah_slam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sanisah_slam@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">6 CO</td>
+    <td class="tg-faf8">6 ED</td>
     <td class="tg-faf8">Mr Oh Kok Choon<br></td>
     <td class="tg-faf8">Mdm Zhu Xiaowei<br>Mr Shahril Bin Mohamed Jalani<br></td>
   </tr>
@@ -586,7 +586,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:zhu_xiaowei@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhu_xiaowei@moe.edu.sg</span></a><br><a href="mailto:shahril_mohamed_jailani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">shahril_mohamed_jailani@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">6 ED</td>
+    <td class="tg-faf8">6 ET</td>
     <td class="tg-9678">Mdm Tan Alice<br></td>
     <td class="tg-9678">Mdm Ding Xue<br></td>
   </tr>
@@ -596,7 +596,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">6 ET</td>
+    <td class="tg-faf8">6 GA</td>
     <td class="tg-9678">Mdm Xu Shihui<br></td>
     <td class="tg-9678">Mdm Leong Yet Wah<br></td>
   </tr>
@@ -606,7 +606,7 @@ description: ""
     <td class="tg-wmsy"><a href="mailto:leong_yet_wah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">leong_yet_wah@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-faf8">6 GA</td>
+    <td class="tg-faf8">6 IN</td>
     <td class="tg-9678">Mdm Bimaljit Kaur d/o Sohan Singh<br></td>
     <td class="tg-9678">Ms Tay Chun Fang<br>Mdm Nurhasliza Bte Hashim<br></td>
   </tr>
