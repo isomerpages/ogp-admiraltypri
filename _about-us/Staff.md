@@ -444,13 +444,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">4 GA</td>
-    <td class="tg-faf8">Mr Tan Kiat, Calvin<br></td>
-    <td class="tg-faf8">Mdm Sharmila d/o Divakaran Amanda<br></td>
+    <td class="tg-faf8">Mdm Nurazreen<br></td>
+    <td class="tg-faf8">Ms Koh Yen Ling<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:tan_kiat_calvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_kiat_calvin@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_frances_sharmila_di@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:nurazreen_samsudin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nurazreen_samsudin@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:yen_ling_koh@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">yen_ling_koh@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">4 GR</td>
