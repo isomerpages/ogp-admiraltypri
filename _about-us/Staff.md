@@ -607,13 +607,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">6 IN</td>
-    <td class="tg-9678">Mdm Bimaljit Kaur d/o Sohan Singh<br></td>
-    <td class="tg-9678">Ms Tay Chun Fang<br>Mdm Nurhasliza Bte Hashim<br></td>
+    <td class="tg-9678">Ms Khoo Ying Ying<br></td>
+    <td class="tg-9678">Ms Koon Wai Hang<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:bimaljit_kaur_sohan_singh@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">bimaljit_kaur_sohan_singh@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:tay_chun_fang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tay_chun_fang@moe.edu.sg</span></a><br><a href="mailto:nurhasliza_hashim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nurhasliza_hashim@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:khoo_ying_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">khoo_ying_ying@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:koon_wai_hang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">koon_wai_hang@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
