@@ -348,12 +348,12 @@ description: ""
   <tr>
     <td class="tg-faf8">3 ED</td>
     <td class="tg-faf8">Mdm K Kanagamalar <br></td>
-    <td class="tg-faf8">Mdm Rageswari Virayah</td>
+    <td class="tg-faf8">Mdm Rageswari Virayah <br>Mdm Normala</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
     <td class="tg-wmsy"><a href="mailto:kanagamalar_kumar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kanagamalar_kumar@moe.edu.sg</span></a><br></td>
-    <td class="tg-zr06"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a><br>normala_mohamed_jais@moe.edu.sg</td>
 	 </tr>
   <tr>
     <td class="tg-faf8">3 ET</td>
