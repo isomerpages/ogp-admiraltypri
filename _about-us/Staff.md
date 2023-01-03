@@ -357,23 +357,23 @@ description: ""
 	 </tr>
   <tr>
     <td class="tg-faf8">3 ET</td>
-    <td class="tg-faf8">Mdm Siti Zakiah Bte Ahmad<br></td>
-    <td class="tg-faf8">Mdm Chan Siew Li (Christy)</td>
+    <td class="tg-faf8">Ms Marinah Mukhtar Toh<br></td>
+    <td class="tg-faf8">Mdm Zhu Xiaowei</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:siti_zakiah_ahmad@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">siti_zakiah_ahmad@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:chan_siew_li@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chan_siew_li@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:marinah_mukhtar_toh_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">marinah_mukhtar_toh_abdullah@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:zhu_xiaowei@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhu_xiaowei@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">3 GA</td>
-    <td class="tg-faf8">Mdm Nurazreen Binte Samsudin</td>
-    <td class="tg-faf8">Ms Koh Yen Ling <br></td>
+    <td class="tg-faf8">Mdm Masnie Mohamed Jalani</td>
+    <td class="tg-faf8">Ms Lim Shi Hui <br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-ugoc"><a href="mailto:nurazreen_samsudin@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">nurazreen_samsudin@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:yen_ling_koh@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">yen_ling_koh@moe.edu.sg</span></a><br></td>
+    <td class="tg-ugoc"><a href="mailto:masnie_mohamed_jalani@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">masnie_mohamed_jalani@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:lim_shi_hui_a@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_shi_hui_a@moe.edu.sg</span></a><br></td>
   </tr>
   
 </tbody>
