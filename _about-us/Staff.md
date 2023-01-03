@@ -251,33 +251,33 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">2 ED</td>
-    <td class="tg-faf8">Mdm Normala Bte Mohamed Jais<br></td>
-    <td class="tg-faf8">Mdm Zhang Zhe Jin</td>
+    <td class="tg-faf8">Mdm Deepah <br></td>
+    <td class="tg-faf8">Mdm Jin Cai Yun</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0o4f"><a href="mailto:normala_mohamed_jais@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">normala_mohamed_jais@moe.edu.sg</span></a><br></td>
-    <td class="tg-23ad"><a href="mailto:zhang_zhe_jin@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">zhang_zhe_jin@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:deepah_chandra@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">deepah_chandra@moe.edu.sg</span></a><br></td>
+    <td class="tg-23ad"><a href="mailto:jin_caiyun@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">jin_caiyun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">2 ET</td>
-    <td class="tg-faf8">Mdm Nursyafawati Bte Salam</td>
-    <td class="tg-faf8">Mr Tan Ah Kow Richard<br></td>
+    <td class="tg-faf8">Mdm Rozianah Bte Rahim</td>
+    <td class="tg-faf8">Mr Muhammad Farhan<br></td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0o4f"><a href="mailto:nursyafawati_salam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nursyafawati_salam@moe.edu.sg</span></a></td>
-    <td class="tg-0o4f"><a href="mailto:Richard AhKow Tan <richard_tan_ah_kow@moe.edu.sg>"><span style="text-decoration:none;color:#383E8E">Richard AhKow Tan </span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:rozianah_rahim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rozianah_rahim@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:muhammad_farhan_mohd_huzaimy@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">muhammad_farhan_mohd_huzaimy@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">2 GA</td>
-    <td class="tg-9678">Mdm Irfah Mohamad Bte Aripin</td>
-    <td class="tg-faf8">Mdm Ng Soek Mui<br></td>
+    <td class="tg-9678">Mdm Lim Lay Kim</td>
+    <td class="tg-faf8">Mdm Norhana<br></td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0o4f"><a href="mailto:irfah_mohamad_aripin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">irfah_mohamad_aripin@moe.edu.sg</span></a></td>
-    <td class="tg-0o4f"><a href="mailto:ng_soek_mui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ng_soek_mui@moe.edu.sg</span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:lim_lay_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_lay_kim@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:norhana_mohammed@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">norhana_mohammed@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">2 GR</td>
