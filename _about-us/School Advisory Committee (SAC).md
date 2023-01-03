@@ -44,7 +44,7 @@ description: ""
     <td class="tg-faf8">Committee Member</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mr Pek Wee Haur</td>
+    <td class="tg-zr06">Mr Chen Zhongyi</td>
     <td class="tg-zr06">Principal, Admiralty Pri Sch / Honorary Secretary</td>
   </tr>
 </tbody>
