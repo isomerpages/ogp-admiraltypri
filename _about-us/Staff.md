@@ -232,22 +232,22 @@ description: ""
   <tr>
     <td class="tg-faf8">2 CH</td>
     <td class="tg-faf8">Ms A Malarvilee<br></td>
-    <td class="tg-faf8">Ms Soh Chiew Bee</td>
+    <td class="tg-faf8">Mdm Leong Yet Wah</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0o4f"><a href="mailto:siti_farhanah_maidin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">siti_farhanah_maidin@moe.edu.sg</span></a><br></td>
-    <td class="tg-0o4f"><a href="mailto:soh_chiew_bee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">soh_chiew_bee@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:a_malarvilee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">a_malarvilee@moe.edu.sg</span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:leong_yet_wah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">leong_yet_wah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">2 CO</td>
-    <td class="tg-faf8">Mdm   Akhilandeswari d/o Rajasegaran<br></td>
-    <td class="tg-faf8">Mdm Khatijah Bte Che Din</td>
+    <td class="tg-faf8">Ms Ang Feng Xia<br></td>
+    <td class="tg-faf8">Mdm Sanisah Binte Slam</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-23ad"><a href="mailto:akhilandeswari_rajasegaran@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">akhilandeswari_rajasegaran@moe.edu.sg</span></a><br></td>
-    <td class="tg-0o4f"><a href="mailto:khatijah_che_din@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">khatijah_che_din@moe.edu.sg</span></a></td>
+    <td class="tg-23ad"><a href="mailto:ang_feng_xia@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">ang_feng_xia@moe.edu.sg</span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:sanisah_slam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sanisah_slam@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">2 ED</td>
