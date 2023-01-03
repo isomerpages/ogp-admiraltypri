@@ -434,13 +434,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">4 ET</td>
-    <td class="tg-faf8">Mdm Masnie Mohamed Jalani<br></td>
-    <td class="tg-faf8">Ms Punitha Silverrajan<br></td>
+    <td class="tg-faf8">Mdm Siti Zakiah Bte Ahmad<br></td>
+    <td class="tg-faf8">Mdm Chan Siew Li (Christy)<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:masnie_mohamed_jalani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">masnie_mohamed_jalani@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:punitha_silverrajan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">punitha_silverrajan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:siti_zakiah_ahmad@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">siti_zakiah_ahmad@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:chan_siew_li@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chan_siew_li@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">4 GA</td>
