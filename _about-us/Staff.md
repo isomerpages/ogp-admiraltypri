@@ -404,33 +404,33 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-faf8">4 CH</td>
-    <td class="tg-faf8">Mrs K Kanagamalar<br></td>
-    <td class="tg-faf8">Mdm Hamimah Bte Ansor<br></td>
+    <td class="tg-faf8">Mr Oh Kok Choon<br></td>
+    <td class="tg-faf8">Mdm Siti Alfiah Mustafa<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:kanagamalar_kumar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kanagamalar_kumar@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">hamimah_ansor@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:oh_kok_choon@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">oh_kok_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:siti_alfiah_mustafa@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">siti_alfiah_mustafa@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">4 CO</td>
-    <td class="tg-faf8">Mdm Low Mui Ping<br></td>
-    <td class="tg-faf8">Mdm Nuruljannah Binte Mukasim<br></td>
+    <td class="tg-faf8">Mdm Sabiah Bte A Kunjahamad<br></td>
+    <td class="tg-faf8">Ms Nur Shaliza<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:low_mui_ping@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">low_mui_ping@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:sabiah_a_kunjahamad@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sabiah_a_kunjahamad@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:nur_shaliza_zulkifli@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nur_shaliza_zulkifli@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">4 ED</td>
-    <td class="tg-faf8">Ms Jane Sasikala d/o Mirthunjayan<br></td>
-    <td class="tg-faf8">Mr Liew Hun Hui<br></td>
+    <td class="tg-faf8">Mr Kelvin Lee Kwee-Ming<br></td>
+    <td class="tg-faf8">Mdm Nurhasliza<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jane_sasikala_mirthunjayan@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:liew_hun_hui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">liew_hun_hui@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:lee_kwee_ming_kelvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_kwee_ming_kelvin@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:nurhasliza_hashim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nurhasliza_hashim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">4 ET</td>
