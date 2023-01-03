@@ -454,13 +454,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">4 GR</td>
-    <td class="tg-faf8">Mdm Rageswari Virayah<br></td>
-    <td class="tg-faf8">Mdm Rachelle Tjhin Hui Ying<br>Mdm  Nadianah Binte Iskandar<br></td>
+    <td class="tg-faf8">Mdm Koh Meow Eng Diana<br></td>
+    <td class="tg-faf8">Mr Kwek Soon Hee Vincent<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:rachelle_tjhin_hui_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rachelle_tjhin_hui_ying@moe.edu.sg</span></a><br><a href="mailto:nadianah_iskandar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nadianah_iskandar@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:koh_meow_eng_diana@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">koh_meow_eng_diana@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:kwek_soon_hee_vincent@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kwek_soon_hee_vincent@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
