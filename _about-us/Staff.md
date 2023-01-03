@@ -587,13 +587,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">6 ET</td>
-    <td class="tg-9678">Mdm Tan Alice<br></td>
-    <td class="tg-9678">Mdm Ding Xue<br></td>
+    <td class="tg-9678">Ms Chin Yoke Lan<br></td>
+    <td class="tg-9678">Mdm Tan Alice<br>Mdm Lee Cher Hiang Christine<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:chin_yoke_lan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chin_yoke_lan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br><a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">6 GA</td>
