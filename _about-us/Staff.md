@@ -567,23 +567,23 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-faf8">6 CO</td>
-    <td class="tg-faf8">Ms Marinah Mukhtar Toh Abdullah<br></td>
-    <td class="tg-faf8">Mdm Sanisah Binte Slam<br></td>
+    <td class="tg-faf8">Mdm Rashidah Ismail Neville<br></td>
+    <td class="tg-faf8">Mdm Ding Xue<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:marinah_mukhtar_toh_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">marinah_mukhtar_toh_abdullah@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:sanisah_slam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sanisah_slam@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:rashidah_ismail_neville@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rashidah_ismail_neville@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">6 ED</td>
-    <td class="tg-faf8">Mr Oh Kok Choon<br></td>
-    <td class="tg-faf8">Mdm Zhu Xiaowei<br>Mr Shahril Bin Mohamed Jalani<br></td>
+    <td class="tg-faf8">Mr Chua Shin Huat<br></td>
+    <td class="tg-faf8">Mdm Hamimah Bte Ansori<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:oh_kok_choon@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">oh_kok_choon@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:zhu_xiaowei@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhu_xiaowei@moe.edu.sg</span></a><br><a href="mailto:shahril_mohamed_jailani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">shahril_mohamed_jailani@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:chua_shin_huat@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chua_shin_huat@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">hamimah_ansor@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">6 ET</td>
