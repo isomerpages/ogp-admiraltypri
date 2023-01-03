@@ -193,13 +193,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">1 Integrity</td>
-    <td class="tg-9678">Ms Amanda Ang Yan Ting<br></td>
-    <td class="tg-faf8">Mdm Nalayani Nair</td>
+    <td class="tg-9678">Ms Jane Sasikala<br></td>
+    <td class="tg-faf8">Ms Tay Chun Fang</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:amanda_ang_yan_ting@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_ang_yan_ting@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:nalayani_nair_mukunan_nair@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nalayani_nair_mukunan_nair@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jane_sasikala_mirthunjayan@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:tay_chun_fang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tay_chun_fang@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
