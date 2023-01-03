@@ -281,23 +281,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">2 GR</td>
-    <td class="tg-faf8">Ms Chan Min Li Mandy<br></td>
-    <td class="tg-faf8">Mdm Koon Wai Hang</td>
+    <td class="tg-faf8">Mdm Chuah Xing Ying<br></td>
+    <td class="tg-faf8">Ms Punitha</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0o4f"><a href="mailto:chan_min_li_mandy@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chan_min_li_mandy@moe.edu.sg</span></a><br></td>
-    <td class="tg-0o4f"><a href="mailto:koon_wai_hang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">koon_wai_hang@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:chuah_xing_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chuah_xing_ying@moe.edu.sg</span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:punitha_silverrajan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">punitha_silverrajan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8"> 2 IN</td>
-    <td class="tg-faf8">Mrs Sharon Neo</td>
-    <td class="tg-faf8"> Mdm Mah Yeok Ying</td>
+    <td class="tg-faf8">Ms Amanda Ang Yan Ting</td>
+    <td class="tg-faf8"> Mr Ho Eng Gay</td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0o4f"><a href="mailto:sharon_neo@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sharon_neo@moe.edu.sg</span></a><br></td>
-    <td class="tg-0o4f"><a href="mailto:mah_yeok_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mah_yeok_ying@moe.edu.sg</span></a></td>
+    <td class="tg-0o4f"><a href="mailto:amanda_ang_yan_ting@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_ang_yan_ting@moe.edu.sg</span></a><br></td>
+    <td class="tg-0o4f"><a href="mailto:ho_eng_gay@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ho_eng_gay@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
