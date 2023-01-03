@@ -521,23 +521,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">5 GA</td>
-    <td class="tg-faf8">Mdm Wong Ching Ching<br></td>
-    <td class="tg-faf8">Mr Ang Jian Hao</td>
+    <td class="tg-faf8">Mdm Charlotte Sng Yi May<br></td>
+    <td class="tg-faf8">Mdm Sharmila d/o Divakaran Amanda</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">wong_ching_ching@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:ang_jian_hao@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ang_jian_hao@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:charlotte_sng_yi_may@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">charlotte_sng_yi_may@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_frances_sharmila_di@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">5 GR</td>
-    <td class="tg-faf8">Ms Khoo Ying Ying</td>
-    <td class="tg-faf8">Ms Veronica Yeo Tin Kim<br></td>
+    <td class="tg-faf8">Mr Jumat Bin Baba</td>
+    <td class="tg-faf8">Mr Liew Hun Hui<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-ugoc"><a href="mailto:khoo_ying_ying@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">khoo_ying_ying@moe.edu.sg</span></a></td>
-    <td class="tg-zr06">veronica_yeo@moe.edu.sg</td>
+    <td class="tg-ugoc"><a href="mailto:jumat_b_baba@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">jumat_b_baba@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><a href="mailto:liew_hun_hui@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">liew_hun_hui@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
