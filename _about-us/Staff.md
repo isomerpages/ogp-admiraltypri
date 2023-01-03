@@ -163,33 +163,33 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">1 Enterprise</td>
-    <td class="tg-faf8">Mdm Rozianah Bte Rahim<br></td>
-    <td class="tg-9678">Mr Muhammad Farhan Bin Mohd Huzaimy<br></td>
+    <td class="tg-faf8">Mdm Khatijah<br></td>
+    <td class="tg-9678">Mdm Chong You Kim<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:rozianah_rahim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rozianah_rahim@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:muhammad_farhan_mohd_huzaimy@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">muhammad_farhan_mohd_huzaimy@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:khatijah_che_din@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">khatijah_che_din@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:chong_you_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chong_you_kim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">1 Gallantry</td>
-    <td class="tg-faf8">Mdm Ng-Lim Lay Kim<br></td>
-    <td class="tg-9678">Mdm Norhana Bte Mohammed<br>Mdm P Durairaj Ratha<br></td>
+    <td class="tg-faf8">Mdm Lam Hui Lin Sharon <br></td>
+    <td class="tg-9678">Mdm Nuruljannah</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:lim_lay_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_lay_kim@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:norhana_mohammed@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">norhana_mohammed@moe.edu.sg</span></a><br><a href="mailto:p_durairaj_ratha@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">p_durairaj_ratha@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:lam_hui_lin_sharon@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lam_hui_lin_sharon@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a><span style="text-decoration:none;color:#383E8E"></td>
   </tr>
   <tr>
     <td class="tg-faf8">1Graciousness</td>
-    <td class="tg-faf8">Mdm Chuah Xing Ying<br></td>
-    <td class="tg-faf8">Mdm Daing Noor Ashikin Bte Bahnan<br>Mdm Ang Shi Min Geraldine<br></td>
+    <td class="tg-faf8">Mdm Irfah Mohamad<br></td>
+    <td class="tg-faf8">Ms Soh Chiew Bee</td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:chuah_xing_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chuah_xing_ying@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:daing_noor_ashikin_bahnan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">daing_noor_ashikin_bahnan@moe.edu.sg</span></a><br><a href="mailto:ang_shi_min_geraldine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ang_shi_min_geraldine@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:irfah_mohamad_aripin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">irfah_mohamad_aripin@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:soh_chiew_bee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">soh_chiew_bee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-faf8">1 Integrity</td>
