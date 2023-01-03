@@ -133,33 +133,33 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-faf8">1 Challenge</td>
-    <td class="tg-9678">Ms A Malarvilee<br></td>
-    <td class="tg-faf8">Mdm  Chong You Kim<br></td>
+    <td class="tg-9678">Mdm Padmanathan Jayasri<br></td>
+    <td class="tg-faf8">Mr Mohd Fadzeel<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:a_malarvilee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">a_malarvilee@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:chong_you_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chong_you_kim@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:padmanathan_jayasri@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">padmanathan_jayasri@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:mohamed_fadzeel_abdul_rahm@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mohamed_fadzeel_abdul_rahm@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">1 Courage</td>
-    <td class="tg-faf8">Ms Ang Feng Xia<br></td>
-    <td class="tg-faf8">Mr Mohd Fadzeel B Abd Rahman<br></td>
+    <td class="tg-faf8">Mdm Akhilandeswari<br></td>
+    <td class="tg-faf8">Mdm Zhang Zhe Jin<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:ang_feng_xia@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ang_feng_xia@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:muhammad_fadzeel_abdul_rahm@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">muhammad_fadzeel_abdul_rahm@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:akhilandeswari_rajasegaran@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">akhilandeswari_rajasegaran@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:zhang_zhe_jin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhang_zhe_jin@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">1 Endurance</td>
-    <td class="tg-9678">Mdm Deepah d/o Chandra<br></td>
-    <td class="tg-faf8">Mdm Jin Cai yun<br></td>
+    <td class="tg-9678">Ms Siti Farhana<br></td>
+    <td class="tg-faf8">Mdm Ng Soek Mui <br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:deepah_chandra@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">deepah_chandra@moe.edu.sg</span></a></td>
-    <td class="tg-wmsy"><a href="mailto:jin_cai_yun@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">jin_cai_yun@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:siti_farhana_maidin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">siti_farhana_maidin@moe.edu.sg</span></a></td>
+    <td class="tg-wmsy"><a href="mailto:ng_soek_mui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ng_soek_mui@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">1 Enterprise</td>
