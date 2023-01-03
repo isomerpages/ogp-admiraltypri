@@ -597,13 +597,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-faf8">6 GA</td>
-    <td class="tg-9678">Mdm Xu Shihui<br></td>
-    <td class="tg-9678">Mdm Leong Yet Wah<br></td>
+    <td class="tg-9678">Mdm Wong Ching Ching<br></td>
+    <td class="tg-9678">Mdm Mah Yeok Ying<br></td>
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-wmsy"><a href="mailto:xu_shihui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">xu_shihui@moe.edu.sg</span></a><br></td>
-    <td class="tg-wmsy"><a href="mailto:leong_yet_wah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">leong_yet_wah@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">wong_ching_ching@moe.edu.sg</span></a><br></td>
+    <td class="tg-wmsy"><a href="mailto:mah_yeok_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mah_yeok_ying@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-faf8">6 IN</td>
