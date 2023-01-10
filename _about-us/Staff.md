@@ -156,7 +156,7 @@ description: ""
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:lam_hui_lin_sharon@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lam_hui_lin_sharon@moe.edu.sg</span></a><br></td>
-      <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a><span style="text-decoration:none;color:#383E8E"></td>
+      <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>1 Graciousness</strong></td>
