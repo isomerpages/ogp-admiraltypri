@@ -102,7 +102,7 @@ description: ""
 <table width="661" class="tg">
   <thead>
     <tr>
-      <th width="110" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
+      <th width="115" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
       <th width="257" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 1</th>
       <th width="257" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 2</th>
     </tr>
