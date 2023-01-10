@@ -108,9 +108,9 @@ description: ""
 </tbody>
 </table>
 
-#### Class Form Teacher - Primary 1
-
-<style type="text/css">
+<p>&nbsp;</p>
+<p>#### Class Form Teacher - Primary 1
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -121,9 +121,10 @@ description: ""
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
+  </style>
+</p>
+<table width="686" class="tg">
+  <thead>
   <tr>
     <th class="tg-dgl5">Class</th>
     <th class="tg-dgl5">Form Teacher 1</th>
@@ -205,9 +206,8 @@ description: ""
 </table>
 
 
-#### Class Form Teacher - Primary 2
-
-<style type="text/css">
+<p>#### Class Form Teacher - Primary 2
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -220,13 +220,14 @@ description: ""
 .tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-1wig">Class</th>
-    <th class="tg-1wig">Form Teacher 1</th>
-    <th class="tg-1wig">Form Teacher 2</th>
+    <th width="97" class="tg-1wig">Class</th>
+    <th width="273" class="tg-1wig">Form Teacher 1</th>
+    <th width="297" class="tg-1wig">Form Teacher 2</th>
   </tr>
 </thead>
 <tbody>
@@ -303,9 +304,8 @@ description: ""
 </tbody>
 </table>
 
-#### Class Form Teacher - Primary 3
-
-<style type="text/css">
+<p>#### Class Form Teacher - Primary 3
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -316,13 +316,14 @@ description: ""
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
 .tg .tg-ugoc{background-color:#FFF;color:#383E8E;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Class</th>
-    <th class="tg-dgl5">Form Teacher 1</th>
-    <th class="tg-dgl5">Form Teacher 2</th>
+    <th width="95" class="tg-dgl5">Class</th>
+    <th width="273" class="tg-dgl5">Form Teacher 1</th>
+    <th width="295" class="tg-dgl5">Form Teacher 2</th>
   </tr>
 </thead>
 <tbody>
@@ -381,9 +382,8 @@ description: ""
 </table>
 
 
-#### Class Form Teacher - Primary 4
-
-<style type="text/css">
+<p>#### Class Form Teacher - Primary 4
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -393,13 +393,14 @@ description: ""
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Class</th>
-    <th class="tg-dgl5">Form Teacher 1</th>
-    <th class="tg-dgl5">Form Teacher 2</th>
+    <th width="95" class="tg-dgl5">Class</th>
+    <th width="272" class="tg-dgl5">Form Teacher 1</th>
+    <th width="294" class="tg-dgl5">Form Teacher 2</th>
   </tr>
 </thead>
 <tbody>
@@ -466,9 +467,8 @@ description: ""
 </tbody>
 </table>
 
-#### Class Form Teacher - Primary 5
-
-<style type="text/css">
+<p>#### Class Form Teacher - Primary 5
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -480,13 +480,14 @@ description: ""
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
 .tg .tg-ugoc{background-color:#FFF;color:#383E8E;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Class</th>
-    <th class="tg-dgl5">Form Teacher 1</th>
-    <th class="tg-dgl5">Form Teacher 2</th>
+    <th width="92" class="tg-dgl5">Class</th>
+    <th width="272" class="tg-dgl5">Form Teacher 1</th>
+    <th width="299" class="tg-dgl5">Form Teacher 2</th>
   </tr>
 </thead>
 <tbody>
@@ -543,9 +544,9 @@ description: ""
 </tbody>
 </table>
 
-#### Class Form Teacher - Primary 6
-
-<style type="text/css">
+<p>&nbsp;</p>
+<p>#### Class Form Teacher - Primary 6
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -556,13 +557,14 @@ description: ""
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Class</th>
-    <th class="tg-dgl5">Form Teacher 1</th>
-    <th class="tg-dgl5">Form Teacher 2</th>
+    <th width="94" class="tg-dgl5">Class</th>
+    <th width="273" class="tg-dgl5">Form Teacher 1</th>
+    <th width="296" class="tg-dgl5">Form Teacher 2</th>
   </tr>
 </thead>
 <tbody>
@@ -619,12 +621,11 @@ description: ""
 </tbody>
 </table>
 
-#### Executive and Administrative Staff
-For any enquires please email us - admiralty_ps@moe.edu.sg
-
-**Administration Team**
-
-<style type="text/css">
+<p>&nbsp;</p>
+<p>#### Executive and Administrative Staff
+  For any enquires please email us - admiralty_ps@moe.edu.sg</p>
+<p>**Administration Team**
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -632,12 +633,13 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
+  </style>
+</p>
+<table width="479" class="tg">
+  <thead>
   <tr>
-    <th class="tg-dgl5">Name</th>
-    <th class="tg-dgl5">Role</th>
+    <th width="227" class="tg-dgl5">Name</th>
+    <th width="167" class="tg-dgl5">Role</th>
   </tr>
 </thead>
 <tbody>
@@ -673,10 +675,8 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
 </table>
 
 
-**Operation Team**
-
-
-<style type="text/css">
+<p>**Operation Team**
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -684,12 +684,13 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Name</th>
-    <th class="tg-dgl5">Role</th>
+    <th width="242" class="tg-dgl5">Name</th>
+    <th width="217" class="tg-dgl5">Role</th>
   </tr>
 </thead>
 <tbody>
@@ -716,9 +717,8 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
 </tbody>
 </table>
 
-**Info Technology Team**
-
-<style type="text/css">
+<p>**Info Technology Team**
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -726,12 +726,13 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
+  </style>
+</p>
 <table class="tg">
-<thead>
+  <thead>
   <tr>
-    <th class="tg-dgl5">Name</th>
-    <th class="tg-dgl5">Role</th>
+    <th width="241" class="tg-dgl5">Name</th>
+    <th width="214" class="tg-dgl5">Role</th>
   </tr>
 </thead>
 <tbody>
