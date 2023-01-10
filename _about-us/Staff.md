@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Executive Committee
 
-<table width="567" height="516" class="tg">
+<table width="450" height="516" class="tg">
   <thead>
     <tr>
       <td width="298" height="28" bgcolor="#eee" class="tg-dgl5" style="text-align: left"><strong>Principal:<span style=""></span></strong></td>
