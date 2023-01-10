@@ -537,7 +537,7 @@ description: ""
 
 For any enquires please email us - admiralty_ps@moe.edu.sg
 
-**Administration Team**
+##### **Administration Team**
 <table width="479" border="1" cellspacing="0" class="tg">
   <thead>
     <tr>
@@ -575,4 +575,64 @@ For any enquires please email us - admiralty_ps@moe.edu.sg
       <td class="tg-zr06">Receptionist</td>
     </tr>
   </tbody>
+</table>
+
+##### **Operation Team**
+<table border="1" cellspacing="0" class="tg">
+  <thead>
+    <tr>
+      <th width="242" height="28" class="tg-dgl5" style="text-align: left">Name</th>
+      <th width="217" class="tg-dgl5" style="text-align: left">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-zr06">Ms Nurul Safwanah Tupari</td>
+      <td class="tg-zr06">Operation Manager</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Rohana Bte Marzuki</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Leow Poh Mui Sharon</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Abdul Gani Bin Ibrhim</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Lam Chuen Hin</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+  </tbody>
+</table>
+
+##### **Info Technology Team**
+<table class="tg">
+  <thead>
+  <tr>
+    <th width="241" class="tg-dgl5">Name</th>
+    <th width="214" class="tg-dgl5">Role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">Mr Hameed</td>
+    <td class="tg-zr06">IT Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mrs Leo</td>
+    <td class="tg-zr06">IT Trainer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
+    <td class="tg-zr06">Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Mr Soh Ri Xing</td>
+    <td class="tg-zr06">Desktop Engineer</td>
+  </tr>
+</tbody>
 </table>
