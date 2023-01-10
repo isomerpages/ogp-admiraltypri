@@ -183,3 +183,84 @@ description: ""
 
 #### Class Form Teacher - Primary 2
 
+<table class="tg">
+  <thead>
+    <tr>
+      <th width="97" height="28" bgcolor="#ddd" class="tg-1wig" style="text-align: left">Class</th>
+      <th width="273" bgcolor="#ddd" class="tg-1wig" style="text-align: left">Form Teacher 1</th>
+      <th width="297" bgcolor="#ddd" class="tg-1wig" style="text-align: left">Form Teacher 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 CH</strong></td>
+      <td class="tg-faf8">Ms A Malarvilee<br></td>
+      <td class="tg-faf8">Mdm Leong Yet Wah</td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-0o4f"><a href="mailto:a_malarvilee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">a_malarvilee@moe.edu.sg</span></a><br></td>
+      <td class="tg-0o4f"><a href="mailto:leong_yet_wah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">leong_yet_wah@moe.edu.sg</span></a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 CO</strong></td>
+      <td class="tg-faf8">Ms Ang Feng Xia<br></td>
+      <td class="tg-faf8">Mdm Sanisah Binte Slam</td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-23ad"><a href="mailto:ang_feng_xia@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">ang_feng_xia@moe.edu.sg</span></a><br></td>
+      <td class="tg-0o4f"><a href="mailto:sanisah_slam@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">sanisah_slam@moe.edu.sg</span></a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 ED</strong></td>
+      <td class="tg-faf8">Mdm Deepah <br></td>
+      <td class="tg-faf8">Mdm Jin Cai Yun</td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-0o4f"><a href="mailto:deepah_chandra@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">deepah_chandra@moe.edu.sg</span></a><br></td>
+      <td class="tg-23ad"><a href="mailto:jin_caiyun@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">jin_caiyun@moe.edu.sg</span></a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 ET</strong></td>
+      <td class="tg-faf8">Mdm Rozianah Bte Rahim</td>
+      <td class="tg-faf8">Mr Muhammad Farhan<br></td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-0o4f"><a href="mailto:rozianah_rahim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rozianah_rahim@moe.edu.sg</span></a></td>
+      <td class="tg-0o4f"><a href="mailto:muhammad_farhan_mohd_huzaimy@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">muhammad_farhan_mohd_huzaimy@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 GA</strong></td>
+      <td class="tg-9678">Mdm Lim Lay Kim</td>
+      <td class="tg-faf8">Mdm Norhana<br></td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-0o4f"><a href="mailto:lim_lay_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_lay_kim@moe.edu.sg</span></a></td>
+      <td class="tg-0o4f"><a href="mailto:norhana_mohammed@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">norhana_mohammed@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>2 GR</strong></td>
+      <td class="tg-faf8">Mdm Chuah Xing Ying<br></td>
+      <td class="tg-faf8">Ms Punitha</td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-cly1"></td>
+      <td class="tg-0o4f"><a href="mailto:chuah_xing_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chuah_xing_ying@moe.edu.sg</span></a><br></td>
+      <td class="tg-0o4f"><a href="mailto:punitha_silverrajan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">punitha_silverrajan@moe.edu.sg</span></a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong> 2 IN</strong></td>
+      <td class="tg-faf8">Ms Amanda Ang Yan Ting</td>
+      <td class="tg-faf8"> Mr Ho Eng Gay</td>
+    </tr>
+    <tr bgcolor="#eee">
+      <td height="28" class="tg-0lax"></td>
+      <td class="tg-0o4f"><a href="mailto:amanda_ang_yan_ting@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_ang_yan_ting@moe.edu.sg</span></a><br></td>
+      <td class="tg-0o4f"><a href="mailto:ho_eng_gay@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ho_eng_gay@moe.edu.sg</span></a></td>
+    </tr>
+  </tbody>
+</table>
