@@ -3,7 +3,8 @@ title: Staff
 permalink: /about-us/staff/
 description: ""
 ---
-#### School Executive Committee
+### School Executive Committee
+
 
 <table width="450" height="516" class="tg">
   <thead>
@@ -96,4 +97,3 @@ description: ""
     </tr>
   </tbody>
 </table>
-
