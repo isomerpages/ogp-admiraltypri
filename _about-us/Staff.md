@@ -536,3 +536,43 @@ description: ""
 #### Executive and Administrative Staff 
 
 For any enquires please email us -admiralty_ps@moe.edu.sg
+
+**Administration Team**
+<table width="495" border="1" cellspacing="0" class="tg1">
+  <thead>
+    <tr>
+      <th width="239" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Name</th>
+      <th width="246" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Lee Kam Chuen</td>
+      <td class="tg-zr06">Administration Manager</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Lim Siew Cheng Lois</td>
+      <td class="tg-zr06">Admin Executive</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Tan GN</td>
+      <td class="tg-zr06">Admin Executive</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Esther Liew Mee Keow</td>
+      <td class="tg-zr06">Management Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Normawati Bte Mohd</td>
+      <td class="tg-zr06">Management Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Tang Chu Heok</td>
+      <td class="tg-zr06">Operation Support Officer (Office)</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Tay Kim Huay</td>
+      <td class="tg-zr06">Receptionist</td>
+    </tr>
+  </tbody>
+</table>
