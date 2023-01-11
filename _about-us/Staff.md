@@ -99,7 +99,7 @@ description: ""
 </table>
 
 #### Class Form Teacher - Primary 1
-<table width="600" class="tg">
+<table width="500" class="tg">
   <thead>
     <tr>
       <th width="125" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
