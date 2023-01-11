@@ -576,3 +576,35 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
     </tr>
   </tbody>
 </table>
+
+**Operation Team**
+<table border="1" cellspacing="0" class="tg1">
+  <thead>
+    <tr>
+      <th width="218" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Name</th>
+      <th width="241" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-zr06">Ms Nurul Safwanah Tupari</td>
+      <td class="tg-zr06">Operation Manager</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Rohana Bte Marzuki</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mdm Leow Poh Mui Sharon</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Abdul Gani Bin Ibrhim</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Lam Chuen Hin</td>
+      <td class="tg-zr06">Operation Support Officer</td>
+    </tr>
+  </tbody>
+</table>
