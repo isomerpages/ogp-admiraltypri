@@ -609,4 +609,30 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
   </tbody>
 </table>
 
-<span style="color: #0700C0">**Info Technology Team**</span>
+**Info Technology Team**
+<table border="1" cellspacing="0" class="tg">
+  <thead>
+    <tr>
+      <th width="241" height="28" bgcolor="#ddd" class="tg-dgl5">Name</th>
+      <th width="214" bgcolor="#ddd" class="tg-dgl5">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Hameed</td>
+      <td class="tg-zr06">IT Manager</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mrs Leo</td>
+      <td class="tg-zr06">IT Trainer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
+      <td class="tg-zr06">Desktop Engineer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Soh Ri Xing</td>
+      <td class="tg-zr06">Desktop Engineer</td>
+    </tr>
+  </tbody>
+</table>
