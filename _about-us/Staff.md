@@ -99,7 +99,7 @@ description: ""
 </table>
 
 #### Class Form Teacher - Primary 1
-<table width="661" class="tg">
+<table width="600" class="tg">
   <thead>
     <tr>
       <th width="125" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
@@ -469,3 +469,66 @@ description: ""
 </table>
 
 #### Class Form Teacher - Primary 6
+<table width="683" height="352" class="tg">
+  <thead>
+    <tr>
+      <th width="94" height="28" bgcolor="#ddd" class="tg-dgl5">Class</th>
+      <th width="273" bgcolor="#ddd" class="tg-dgl5">Form Teacher 1</th>
+      <th width="296" bgcolor="#ddd" class="tg-dgl5">Form Teacher 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>6 CO</strong></td>
+      <td class="tg-faf8">Mdm Rashidah Ismail Neville<br></td>
+      <td class="tg-faf8">Mdm Ding Xue<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:rashidah_ismail_neville@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rashidah_ismail_neville@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>6 ED</strong></td>
+      <td class="tg-faf8">Mr Chua Shin Huat<br></td>
+      <td class="tg-faf8">Mdm Hamimah Bte Ansori<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chua_shin_huat@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chua_shin_huat@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">hamimah_ansor@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>6 ET</strong></td>
+      <td class="tg-9678">Ms Chin Yoke Lan<br></td>
+      <td class="tg-9678">Mdm Tan Alice<br>
+        Mdm Lee Cher Hiang Christine<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chin_yoke_lan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chin_yoke_lan@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br>
+        <a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>6 GA</strong></td>
+      <td class="tg-9678">Mdm Wong Ching Ching<br></td>
+      <td class="tg-9678">Mdm Mah Yeok Ying<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">wong_ching_ching@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:mah_yeok_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mah_yeok_ying@moe.edu.sg</span></a><br></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>6 IN</strong></td>
+      <td class="tg-9678">Ms Khoo Ying Ying<br></td>
+      <td class="tg-9678">Ms Koon Wai Hang<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:khoo_ying_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">khoo_ying_ying@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:koon_wai_hang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">koon_wai_hang@moe.edu.sg</span></a><br></td>
+    </tr>
+  </tbody>
+</table>
