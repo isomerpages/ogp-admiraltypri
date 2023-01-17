@@ -327,7 +327,7 @@ description: ""
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
       <td bgcolor="#eee" class="tg-ugoc"><a href="mailto:masnie_mohamed_jalani@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">masnie_mohamed_jalani@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lim_shi_hui_a@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_shi_hui_a@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lim_shi_hui_a@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_shi_hui@moe.edu.sg</span></a><br></td>
     </tr>
   </tbody>
 </table>
