@@ -27,9 +27,17 @@ description: ""
       <td class="tg-faf8">Mdm Norliyeni Bte Suhaimi</td>
     </tr>
     <tr>
-      <td height="28" bgcolor="#eee" class="tg-dgl5"><strong>Year Head P3 &amp; P4:</strong></td>
-      <td bgcolor="#eee" class="tg-zr06">Mdm Norfahizah A Majid</td>
+	<tr>
+      <td height="28" bgcolor="#eee"  class="tg-mdf1"><strong>Assistant Year Head P1:</strong></td>
+      <td bgcolor="#eee" class="tg-faf8">Mdm Farhanah Banu Bte Abdul Razar</td>
+</tr>
+      <td height="28" class="tg-dgl5"><strong>Year Head P3 &amp; P4:</strong></td>
+      <td class="tg-zr06">Mdm Norfahizah A Majid</td>
     </tr>
+		<tr>
+      <td bgcolor="#eee" height="28"  class="tg-dgl5"><strong>Year Head P4 &amp; P5:</strong></td>
+      <td bgcolor="#eee" class="tg-zr06">Mr Lim Yew Beng</td>
+ </tr>
     <tr>
       <td height="28" class="tg-mdf1"><strong>Year Head P5 &amp; P6:</strong></td>
       <td class="tg-faf8">Mr Yeo Chee Hwee Andrew</td>
@@ -619,7 +627,7 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
   </thead>
   <tbody>
     <tr>
-      <td height="28" class="tg-zr06">Mr Hameed</td>
+      <td height="28" class="tg-zr06">Mr L A Shahul Hameed</td>
       <td class="tg-zr06">IT Manager</td>
     </tr>
     <tr>
