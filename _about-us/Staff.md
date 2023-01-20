@@ -39,7 +39,7 @@ description: ""
       <td bgcolor="#eee" class="tg-zr06">Mr Lim Yew Beng</td>
  </tr>
     <tr>
-      <td height="28" class="tg-mdf1"><strong>Year Head P5 &amp; P6:</strong></td>
+      <td height="28" class="tg-mdf1"><strong>Assistant Year Head P6:</strong></td>
       <td class="tg-faf8">Mr Yeo Chee Hwee Andrew</td>
     </tr>
     <tr>
