@@ -628,7 +628,7 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
   <tbody>
     <tr>
       <td height="28" class="tg-zr06">Mr L A Shahul Hameed</td>
-      <td class="tg-zr06">IT Manager</td>
+      <td class="tg-zr06">ICT Manager</td>
     </tr>
     <tr>
       <td height="28" class="tg-zr06">Mrs Leo</td>
