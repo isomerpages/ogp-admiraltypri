@@ -43,9 +43,9 @@ b.       Character and Citizenship Education (CCE)
 7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
-<p><strong>At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in 2023:</strong></p>
+**At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**
 
-<p><strong> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </strong> </p>
+<h4> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h4>
 <h3> Primary 5</h3>
 <style>
 table, th, td {
@@ -96,6 +96,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </table>
 
+<h4> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h4>
 <h3> Primary 6</h3>
 <table>
   <tr>
