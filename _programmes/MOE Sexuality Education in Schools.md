@@ -8,7 +8,7 @@ description: ""
 
 1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2.         The ***Goals*** of Sexuality Education are:
+2.         The **Goals** of Sexuality Education are:
 
 (a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
@@ -44,7 +44,7 @@ b.       Character and Citizenship Education (CCE)
 
 7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-<h1 id="information-for-parents">Information for Parents</h1>
+<h3 id="information-for-parents">Information for Parents</h3>
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form at https://go.gov.sg/2023growingyears  by 15/02/2023.
