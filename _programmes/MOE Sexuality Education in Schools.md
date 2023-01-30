@@ -96,6 +96,53 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </table>
 
+<h3> Primary 6</h3>
+<table>
+  <tr>
+    <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
+    <th bgcolor="#eee">LESSON TITLE / DURATION</th>
+		<th bgcolor="#eee">LESSON OVERVIEW</th>
+		<th bgcolor="#eee"> TIME PERIOD</th>
+  </tr>
+    <tr>
+    <td>  Growing Years </td>
+    <td>Are We More than Friends?
+Lesson 1
+(60 min)
+
+</td>
+		<td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
+</td>
+		<td> Term 2</td>
+  </tr>
+	<tr>
+		<td>Growing Years </td>
+		<td>  Are We More than Friends?
+Lesson 2
+(60 min)
+</td>
+		<td>  In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+</td>
+		<td> Term 3 </td>
+	</tr>
+	<tr> 
+		<td>Growing Years</td>
+			<td>Did You Know? *
+(60 min)
+
+ </td>
+			<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+
+  </td>
+				<td> Term 4 </td>
+	</tr>
+</table>
+
+
+
+
 <h3 id="information-for-parents">Information for Parents</h3>
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
