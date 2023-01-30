@@ -80,20 +80,17 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td>
 		<td> Term 3 </td>
 	</tr>
-	
-	    <tr>
-    <td>  Growing Years </td>
-    <td>Keeping Myself Safe
+	<tr> 
+		<td>Growing Years</td>
+			<td>Keeping Myself Safe
 (60 min)
-</td>
-		<td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+ </td>
+			<td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-</td>
-		<td> Term 4</td>
-  </tr>
-	
+  </td>
+				<td> Term 4 </td>
+	</tr>
 </table>
-
 
 <h3 id="information-for-parents">Information for Parents</h3>
 
