@@ -46,19 +46,23 @@ b.       Character and Citizenship Education (CCE)
 <p><strong>At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in 2023:</strong></p>
 
 <p><strong> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </strong> </p>
-
+<h3> Primary 5</h3>
 <style>
 table, th, td {
   border: 1px solid;
+}
+table {  width: 100%;}
+	td {
+  text-align: center;
 }
 </style>
 
 <table>
   <tr>
-    <th>  CCE(FTGP) THEME  </th>
-    <th>LESSON TITLE / DURATION</th>
-		<th>LESSON OVERVIEW</th>
-		<th> TIME PERIOD</th>
+    <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
+    <th bgcolor="#eee">LESSON TITLE / DURATION</th>
+		<th bgcolor="#eee">LESSON OVERVIEW</th>
+		<th bgcolor="#eee"> TIME PERIOD</th>
   </tr>
     <tr>
     <td>  Growing Years </td>
