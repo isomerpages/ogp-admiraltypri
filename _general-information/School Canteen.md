@@ -16,7 +16,6 @@ table, th, td { width: 100%;
   border: 1px solid;
 	 text-align: center;
 }
-}
 </style>
 <table>
 	<tr>
