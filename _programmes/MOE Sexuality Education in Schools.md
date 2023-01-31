@@ -140,7 +140,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </table>
 
-<b><u>Please Note:</b></u><br>
+**Please Note:**<br>
 <b>For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>
 
 <h3 id="information-for-parents">Information for Parents</h3>
