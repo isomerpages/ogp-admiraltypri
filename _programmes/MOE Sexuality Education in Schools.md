@@ -50,14 +50,12 @@ table, th, td { width: 100%;
   border: 1px solid;
 	 text-align: center;
 }
+	h5 {text-align: center;}
+	h4 {text-align: center;}
 </style>
 
-<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
-style='font-size:16.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>2023
-Sexuality Education Lessons in CCE 2021 </span></b></p>
-<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
-style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>Primary
-5</span></b></p>
+<h5>Sexuality Education Lessons in CCE 2021 </h5>
+<h4>Primary 5</h4>
 <table>
   <tr>
     <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
@@ -97,13 +95,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </table>
 
-<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
-style='font-size:16.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>2023
-Sexuality Education Lessons in CCE 2021 </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
-style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>Primary
-6</span></b></p>
+<h5>2023
+Sexuality Education Lessons in CCE 2021 </h5>
+<h4>Primary 6</h4>
 <table>
   <tr>
     <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
