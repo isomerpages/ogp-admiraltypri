@@ -46,7 +46,7 @@ b.       Character and Citizenship Education (CCE)
 <b>At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023:</u></b>
 
 <style>
-h3 {text-align: center;}
+h4 {text-align: center;}
 h5 {text-align: center;}
 table, th, td {
   border: 1px solid;
@@ -57,10 +57,12 @@ table {  width: 100%;}
 }
 </style>
 
-<h5> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h5>
-<h3> Primary 5</h3>
-
-
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:16.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>2023
+Sexuality Education Lessons in CCE 2021 </span></b></p>
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>Primary
+5</span></b></p>
 <table>
   <tr>
     <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
@@ -100,8 +102,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	</tr>
 </table>
 
-<h5> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h5>
-<h3> Primary 6</h3>
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:16.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>2023
+Sexuality Education Lessons in CCE 2021 </span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:28.0pt;font-family:"Arial",sans-serif;font-variant:small-caps'>Primary
+6</span></b></p>
 <table>
   <tr>
     <th bgcolor="#eee">  CCE(FTGP) THEME  </th>
