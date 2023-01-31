@@ -17,6 +17,7 @@ table, th, td { width: 100%;
 	 text-align: center;
 }
 </style>
+
 <table>
 	<tr>
 		<th bgcolor="#eee"> Stall No. </th>
