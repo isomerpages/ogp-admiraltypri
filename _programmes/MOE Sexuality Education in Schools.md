@@ -27,15 +27,15 @@ description: ""
 You may click [here]( [https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)) for more information on MOE Sexuality Education.
 
 <h3>Overview of Admiralty Primary School’s Sexuality Education Programme for 2023</h3>
-
+<p>
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here]( [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope))  for more information on the scope of Sexuality Education in the school curriculum.
-
-5.         The subjects that incorporate topics on sexuality include:
-
+</p>
+<p>
+5.         The subjects that incorporate topics on sexuality include: <br>
 a.       Science
 <br>
 b.       Character and Citizenship Education (CCE)
-
+</p>
 <u><b>Sexuality Education Lessons:</b></u>
 <p>
 6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
@@ -45,9 +45,9 @@ b.       Character and Citizenship Education (CCE)
 </p>
 <b>At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023:</u></b>
 
-<h5> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h5>
-<h3> Primary 5</h3>
 <style>
+h3 {text-align: center;}
+h5 {text-align: center;}
 table, th, td {
   border: 1px solid;
 }
@@ -56,6 +56,10 @@ table {  width: 100%;}
   text-align: center;
 }
 </style>
+
+<h5> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h5>
+<h3> Primary 5</h3>
+
 
 <table>
   <tr>
@@ -130,7 +134,6 @@ Lesson 2
 		<td>Growing Years</td>
 			<td>Did You Know? *
 (60 min)
-
  </td>
 			<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’**. 
 
