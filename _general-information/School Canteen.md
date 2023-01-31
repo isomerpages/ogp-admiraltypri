@@ -27,27 +27,27 @@ table {  width: 100%;}
 		<th bgcolor="#eee"> Food Type </th>
   </tr>
 	<tr>
-		<td> 1 </td>
+		<td>     1 </td>
 		<td> Cool Gateway </td>
 		<td> Western Food </td>
 	</tr>
 	<tr>
-		<td> 3 </td>
+		<td>     3 </td>
 		<td> Rice Paradise </td>
 		<td> Chinese Rice </td>
 	</tr>
 	<tr>
-		<td> 4 </td>
+		<td>     4 </td>
 		<td> Hot Wok Connections </td>
 		<td> Chinese Noodles </td>
 	</tr>
 	<tr>
-		<td> 5 </td>
+		<td>     5 </td>
 		<td> Cool Connections </td>
 		<td> Beverages </td>
 	</tr>
 		<tr>
-		<td> 6 </td>
+		<td>     6 </td>
 		<td> Sedap Corner </td>
 		<td> Malay Rice </td>
 	</tr>
