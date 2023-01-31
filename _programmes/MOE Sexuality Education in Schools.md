@@ -46,14 +46,9 @@ b.       Character and Citizenship Education (CCE)
 <b>At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023:</u></b>
 
 <style>
-h4 {text-align: center;}
-h5 {text-align: center;}
-table, th, td {
+table, th, td { width: 100%;
   border: 1px solid;
-}
-table {  width: 100%;}
-	td {
-  text-align: center;
+	 text-align: center;
 }
 </style>
 
