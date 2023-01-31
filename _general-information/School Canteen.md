@@ -22,7 +22,7 @@ table {  width: 100%;}
 </style>
 <table>
 	<tr>
-		<th bgcolor="#eee"> Stall Number </th>
+		<th bgcolor="#eee"> Stall No. </th>
 		<th bgcolor="#eee"> Stall Name </th>
 		<th bgcolor="#eee"> Food Type </th>
   </tr>
