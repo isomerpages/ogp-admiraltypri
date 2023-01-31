@@ -11,7 +11,6 @@ Under this programme, our canteen vendors are expected to follow food service gu
 
 To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
 
-[For menu & price list, please click here](/files/Revised%20Canteen%20Prices%20wef%201Feb2023.pdf)
 <style>
 table, th, td {
   border: 1px solid;
@@ -54,6 +53,7 @@ table {  width: 100%;}
 	</tr>
 </table>
 
+[For menu & price list, please click here](/files/Revised%20Canteen%20Prices%20wef%201Feb2023.pdf)
 #### Canteen Rules
 
 Students are to abide by the following rules relating to the school canteen:
