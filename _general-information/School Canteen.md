@@ -11,16 +11,13 @@ Under this programme, our canteen vendors are expected to follow food service gu
 
 To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
 
-
-| Stall  Number |      Stall Name     |    Food Type    |   Menu  & Price List   |
-|:-------------:|:-------------------:|:---------------:|:----------------------:|
-|       1       |     Cool Gateway    |   Western Food  |   [Please click here](/files/To%20upload%20to%20sch%20website%20Final%20Menu%20Pricelist_17%20Aug-2.pdf)|
-|       3       |    Rice Paradise    |   Chinese Rice  |                        |
-|       4       | Hot Wok Connections | Chinese Noodles |                        |
-|       5       |      Deli Point     |     Dim Sum     |                        |
-|       6       |     Sedap Corner    |    Malay Rice   |                        |
-|       7       |      Warung Mee     |  Malay Noodle   |                        |
-
+<table>
+	<tr>
+		<td> Stall Number </td>
+		<td> Stall Name </td>
+		<td> Food Type <td>
+  </tr>
+</table>
 
 #### Canteen Rules
 
