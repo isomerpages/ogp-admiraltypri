@@ -10,6 +10,8 @@ School environment plays an important role in nurturing and sustaining good eati
 Under this programme, our canteen vendors are expected to follow food service guidelines to cut down fat, sugar and salt and serve wholegrains, fruit and vegetables in their set meals. We also do not have any stall selling sweet drinks as we encourage our students to drink plain water instead. They are to bring their water bottle every day and have them refilled at the many designated water coolers within the school compound. 
 
 To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
+
+[For menu & price list, please click here](/files/Revised%20Canteen%20Prices%20wef%201Feb2023.pdf)
 <style>
 table, th, td {
   border: 1px solid;
@@ -26,29 +28,29 @@ table {  width: 100%;}
 		<th bgcolor="#eee"> Food Type </th>
   </tr>
 	<tr>
-		<td> 1.1 </td>
-		<td> 1.2 </td>
-		<td> 1.3</td>
+		<td> 1 </td>
+		<td> Cool Gateway </td>
+		<td> Western Food </td>
 	</tr>
 	<tr>
-		<td> 2.1 </td>
-		<td> 2.2 </td>
-		<td> 123</td>
+		<td> 3 </td>
+		<td> Rice Paradise </td>
+		<td> Chinese Rice </td>
 	</tr>
 	<tr>
-		<td> 3.1 </td>
-		<td> 3.2 </td>
-		<td> 3.3</td>
+		<td> 4 </td>
+		<td> Hot Wok Connections </td>
+		<td> Chinese Noodles </td>
 	</tr>
 	<tr>
-		<td> 4.1 </td>
-		<td> 4.2 </td>
-		<td> 4.3</td>
+		<td> 5 </td>
+		<td> Cool Connections </td>
+		<td> Beverages </td>
 	</tr>
 		<tr>
-		<td> 5.1 </td>
-		<td> 5.2 </td>
-		<td> 5.3</td>
+		<td> 6 </td>
+		<td> Sedap Corner </td>
+		<td> Malay Rice </td>
 	</tr>
 </table>
 
