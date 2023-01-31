@@ -10,13 +10,46 @@ School environment plays an important role in nurturing and sustaining good eati
 Under this programme, our canteen vendors are expected to follow food service guidelines to cut down fat, sugar and salt and serve wholegrains, fruit and vegetables in their set meals. We also do not have any stall selling sweet drinks as we encourage our students to drink plain water instead. They are to bring their water bottle every day and have them refilled at the many designated water coolers within the school compound. 
 
 To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
-
+<style>
+table, th, td {
+  border: 1px solid;
+}
+table {  width: 100%;}
+	td {
+  text-align: center;
+}
+</style>
 <table>
 	<tr>
-		<td> Stall Number </td>
-		<td> Stall Name </td>
-		<td> Food Type <td>
+		<th bgcolor="#eee"> Stall Number </th>
+		<th bgcolor="#eee"> Stall Name </th>
+		<th bgcolor="#eee"> Food Type </th>
   </tr>
+	<tr>
+		<td> 1.1 </td>
+		<td> 1.2 </td>
+		<td> 1.3</td>
+	</tr>
+	<tr>
+		<td> 2.1 </td>
+		<td> 2.2 </td>
+		<td> 123</td>
+	</tr>
+	<tr>
+		<td> 3.1 </td>
+		<td> 3.2 </td>
+		<td> 3.3</td>
+	</tr>
+	<tr>
+		<td> 4.1 </td>
+		<td> 4.2 </td>
+		<td> 4.3</td>
+	</tr>
+		<tr>
+		<td> 5.1 </td>
+		<td> 5.2 </td>
+		<td> 5.3</td>
+	</tr>
 </table>
 
 #### Canteen Rules
