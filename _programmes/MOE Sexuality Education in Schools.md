@@ -36,13 +36,13 @@ a.       Science
 
 b.       Character and Citizenship Education (CCE)
 
-<p><strong>Sexuality Education Lessons:</strong></p>
+<u><b>Sexuality Education Lessons:</b></u>
+
 6.         The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
 7.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-
-**At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**
+**At Admiralty Primary School, the following lessons from the Growing Years Programme will be taught in <u>2023:</u>**
 
 <h4> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </h4>
 <h3> Primary 5</h3>
@@ -78,7 +78,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td>  Did You Know? 
 (60 min)
 </td>
-		<td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
+		<td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy** ‘Stop-Think-Do’**. 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 		<td> Term 3 </td>
@@ -131,7 +131,7 @@ Lesson 2
 (60 min)
 
  </td>
-			<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
+			<td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’**. 
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
@@ -139,11 +139,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 				<td> Term 4 </td>
 	</tr>
 </table>
-  
-<u>**Please Note:**</u>
-
-**For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
-
+	<b><u>Please Note:</b></u><br>
+<b>For <u>2023</u>, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>
 
 <h3 id="information-for-parents">Information for Parents</h3>
 
