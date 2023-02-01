@@ -51,7 +51,7 @@ description: ""
       <td class="tg-faf8">Mdm Charlotte Sng Yi May</td>
     </tr>
     <tr>
-      <td height="28" bgcolor="#eee" class="tg-8rcp"><strong><span class="tg-mdf1">LEAD Teacher</span></strong></td>
+      <td height="28" bgcolor="#eee" class="tg-8rcp"><strong><span class="tg-mdf1">Lead Teacher</span></strong></td>
       <td bgcolor="#eee" class="tg-zr06">Mr Chua Shin Huat</td>
     </tr>
     <tr>
