@@ -4,4 +4,4 @@ permalink: /privacy/
 ---
 ### ** Privacy Statement**
 
-**Coming soon...**
+**Coming soon**
