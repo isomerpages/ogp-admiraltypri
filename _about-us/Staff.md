@@ -563,7 +563,7 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
       <td class="tg-zr06">Admin Executive</td>
     </tr>
     <tr>
-      <td height="28" class="tg-zr06">Mdm Tan GN</td>
+      <td height="28" class="tg-zr06">Mdm Tan Geoh Ngee</td>
       <td class="tg-zr06">Admin Executive</td>
     </tr>
     <tr>
