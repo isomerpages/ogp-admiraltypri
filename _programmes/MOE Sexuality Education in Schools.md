@@ -24,12 +24,11 @@ description: ""
 (d)          Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 </p>
 
-You may click [here]( [https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education)) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 <h3>Overview of Admiralty Primary School’s Sexuality Education Programme for 2023</h3>
-<p>
-4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here]( [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope))  for more information on the scope of Sexuality Education in the school curriculum.
-</p>
+
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.  You may click  [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 <p>
 5.         The subjects that incorporate topics on sexuality include: <br>
 a.       Science
@@ -147,6 +146,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <h3 id="information-for-parents">Information for Parents</h3>
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form at [here]( [https://go.gov.sg/2023growingyears](https://go.gov.sg/2023growingyears))
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form at [here](https://go.gov.sg/2023growingyears)
  by 15/02/2023.
 11.	Parents can contact Mrs Alice Tan  at 63620598 or email: admiraltyps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
