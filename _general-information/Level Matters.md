@@ -29,7 +29,6 @@ description: ""
 </tbody>
 </table>
 
-
 <br>
 
 <style type="text/css">
@@ -43,6 +42,9 @@ description: ""
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
 </style>
+
+<!--Commented out 
+#### P3 and P4
 <table class="tg">
 <thead>
   <tr>
@@ -85,6 +87,7 @@ description: ""
 </tbody>
 </table>
 
+Comments End-->
 
 **Learning with Technology**
 
@@ -110,4 +113,3 @@ description: ""
 * [P4 LwT Tasks_Term 4](/files/P4%20LwT%20Tasks_Term%204.pdf)
 * [P5 LwT Tasks_Term 4](/files/P5%20LwT%20Tasks_Term%204.pdf)
 
-**PARENTS BRIEFING**
