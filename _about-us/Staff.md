@@ -617,7 +617,7 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
   </tbody>
 </table>
 
-**Info Technology Team**
+**Info-Comm Technology Team**
 <table border="1" cellspacing="0" class="tg">
   <thead>
     <tr>
