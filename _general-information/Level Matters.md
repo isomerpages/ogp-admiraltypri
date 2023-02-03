@@ -87,8 +87,6 @@ description: ""
 </tbody>
 </table>
 
-Comments End-->
-
 **Learning with Technology**
 
 * [P1 LwT Tasks June Holiday.pdf](/files/P1%20LwT%20Tasks_June%20Holiday.pdf)
@@ -112,3 +110,5 @@ Comments End-->
 * [P3 LwT Tasks_Term 4](/files/P3%20LwT%20Tasks_Term%204.pdf)
 * [P4 LwT Tasks_Term 4](/files/P4%20LwT%20Tasks_Term%204.pdf)
 * [P5 LwT Tasks_Term 4](/files/P5%20LwT%20Tasks_Term%204.pdf)
+
+Comments End-->
