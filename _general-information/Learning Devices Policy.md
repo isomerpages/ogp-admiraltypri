@@ -53,7 +53,7 @@ The Acceptable Use Policy aims to ensure that pupils gain learning opportunities
 
 
 #### Email
-* Approved email accounts may be used under supervision by or with permission from the class teacher.
+Approved email accounts may be used under supervision by or with permission from the class teacher.
 
 | Student Pledge for Learning Devices Use In and Out of School                                                                   |   |
 |--------------------------------------------------------------------------------------------------------------------------------|---|
