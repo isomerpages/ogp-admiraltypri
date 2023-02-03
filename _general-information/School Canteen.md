@@ -12,9 +12,17 @@ Under this programme, our canteen vendors are expected to follow food service gu
 To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
 
 <style>
-table, th, td { width: 100%;
-  border: 1px solid;
-	 text-align: center;
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  text-align: center;
 }
 </style>
 
@@ -23,7 +31,7 @@ table, th, td { width: 100%;
 		<th bgcolor="#eee"> Stall No. </th>
 		<th bgcolor="#eee"> Stall Name </th>
 		<th bgcolor="#eee"> Food Type </th>
-  </tr>
+  	</tr>
 	<tr>
 		<td> 1 </td>
 		<td> Cool Gateway </td>
@@ -44,7 +52,7 @@ table, th, td { width: 100%;
 		<td> Cool Connections </td>
 		<td> Beverages </td>
 	</tr>
-		<tr>
+	<tr>
 		<td> 6 </td>
 		<td> Sedap Corner </td>
 		<td> Malay Rice </td>
@@ -59,5 +67,5 @@ Students are to abide by the following rules relating to the school canteen:
 1.	Students should follow the markings and queue up when buying food in the canteen.
 2.	Students are to consume food only in the canteen/ designated eating areas.
 3.	Students are to ensure they do the wipe down after using the tables.
- 4.	Students are to return all plates and utensils to the bins provided after eating.
- 5.	Students should not run and play in the canteen.
+4.	Students are to return all plates and utensils to the bins provided after eating.
+5.	Students should not run and play in the canteen.
