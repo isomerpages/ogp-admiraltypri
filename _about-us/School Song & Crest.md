@@ -20,44 +20,42 @@ The five bands signify the five shared values that form the foundation of our na
 
 #### School Song
 
-**Admiralty Primary School Song**
-
 **Verse 1:**
-
+<br>
 With an all-round education
-
+<br>
 We shall keep on moving
-
+<br>
 Striving for excellence in everything we do
-
+<br>
 Using knowledge as our strength with humanity
-
+<br>
 To care and share, a helping hand
-
+<br>
 For those who are in need
 
 **Chorus:**
-
+<br>
 We are proud of Admiralty Primary
-
+<br>
 Where the best in education can be found
-
+<br>
 We’re the best and always looking far beyond
-
+<br>
 We’ll stand proud and tall
-
+<br>
 We’ll stand proud and tall for our dear school
 
 **Verse 2:**
-
+<br>
 Here we learn to be achievers for society
-
+<br>
 We’re prepared to do our best
-
+<br>
 For our school and country
-
+<br>
 There’ll be problems we may face, but we’ll persevere
-
+<br>
 To plan our lives the best we can
-
+<br>
 For a brighter future
