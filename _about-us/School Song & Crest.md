@@ -19,8 +19,8 @@ The five bands signify the five shared values that form the foundation of our na
 
 #### School Song
 
-**Verse 1:**
-<p> With an all-round education</p>
+**Verse 1:** <br>
+With an all-round education
 <br>
 We shall keep on moving
 <br>
@@ -31,6 +31,7 @@ Using knowledge as our strength with humanity
 To care and share, a helping hand
 <br>
 For those who are in need
+
 **Chorus:**
 <br>
 We are proud of Admiralty Primary
