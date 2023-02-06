@@ -17,7 +17,7 @@ Email: sales@rickybookcentre.com.sg
 **Opening Hours on School Days**
 
 Monday – Friday — 9.00am to 2.00pm
-Selected Fridays* ([click here for dates](/files/2022_Uniform_Bookshop.pdf)) – 7.45am to 3.00pm
+Selected Fridays* ) – 7.45am to 3.00pm
 
 **Trial period to assess demand**
 
@@ -47,7 +47,8 @@ Online order for school uniform
 
 Business Hours: 11.30am to 8.00pm
 
-Operates in school on selected Fridays ([click here for dates](/files/2022_Uniform_Bookshop-2.pdf)) – 11.30am to 3.00pm
+Operates in school on selected Fridays 
+[click here for selling dates](/files/2023%20Selling%20Date%20for%20ADM.pdf)
 
 #### School Dental Service
 **SCHOOL DENTAL SERVICE**<br>
