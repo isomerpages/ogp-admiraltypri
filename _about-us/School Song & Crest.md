@@ -5,8 +5,6 @@ description: ""
 ---
 #### School Crest
 
-
-
 <img src="/images/AdmiraltyCrest.png" 
      style="width:35%">
 
@@ -18,11 +16,11 @@ The open book represents the knowledge acquired by a pupil through the two stage
 
 The five bands signify the five shared values that form the foundation of our nation. The letter ‘A’ formed by these symbols is derived from the school’s name. The circle, which endorses these symbols signifies the rounded education that the school provides.
 
+
 #### School Song
 
 **Verse 1:**
-<br>
-With an all-round education
+<p> With an all-round education</p>
 <br>
 We shall keep on moving
 <br>
@@ -33,7 +31,6 @@ Using knowledge as our strength with humanity
 To care and share, a helping hand
 <br>
 For those who are in need
-
 **Chorus:**
 <br>
 We are proud of Admiralty Primary
