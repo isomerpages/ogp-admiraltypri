@@ -18,7 +18,7 @@ The five bands signify the five shared values that form the foundation of our na
 
 
 #### School Song
-<a href="https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/view?usp=sharing">Play sound file</a>
+<a href="https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/play?usp=sharing">Play sound file</a>
 
 [Listen the song here](https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/view?usp=sharing) <br> <br>
 <b><u>Song Lyrics:</b></u> <br>
