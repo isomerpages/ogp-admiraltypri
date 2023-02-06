@@ -4,52 +4,40 @@ permalink: /general-information/school-vendors/
 description: ""
 ---
 #### School Book Shop
-**RICKY BOOK CENTRE**
-
+<b><u>RICKY BOOK CENTRE</b></u><br>
 Blk 219 Bukit Batok st 21, <br>
-#07-403 Singapore 650219
-
+#07-403 Singapore 650219. <br>
 Tel: 63639159, 68923610<br> 
-Fax: 65679035
-
+Fax: 65679035 <br>
 Email: sales@rickybookcentre.com.sg
 
-**Opening Hours on School Days**
-
+**Opening Hours on School Days:** <br>
 Monday – Friday (9:00am to 2:00pm)
 
-
-**Trial period to assess demand**
-
-You can click on the following link to place an order for  books http://www.rickybookcentre.com.sg. Please contact our bookshop vendor  if you have problems accessing the site.
+You can click on the following link to place an order for  books http://www.rickybookcentre.com.sg. Please contact our bookshop vendor,  if you have problems accessing the site.
 
 #### School Bus
-**CHANG CHEN PTE LTD**<br>
+<b><u>CHANG CHEN PTE LTD</b></u><br>
 130 Choa Chu Kang Avenue 1<br>
 #06-36,
-Singapore 680130 <br>
+Singapore 680130. <br>
 Tel: 67604835
 
 #### School Uniform
-**CHOP KONG CHONG**
-
+<b><u>CHOP KONG CHONG</b></u> <br>
 Sembawang Shopping Centre<br>
 604 Sembawang Road<br>
-#02-13, Singapore 758459 <br>
+#02-13, Singapore 758459. <br>
 Tel: 67531489 <br>
 Email: sales@euniforms.com.sg <br><br>
-Operates in school on selected Fridays <br>
+Operates in school on selected Fridays. <br>
 [click here for selling dates](/files/2023_Uniform_Selling_Date.pdf)
-<br>Online order for school uniform:
+<br><br>Online order for school uniform:
 [https://www.euniforms.com.sg/shop/](https://www.euniforms.com.sg/shop/)
 <br>Business Hours: 11:30am to 8:00pm
 
-
-
 #### School Dental Service
-**SCHOOL DENTAL SERVICE**<br>
-**OPENING HOURS**
-
-Monday – Friday (8:00am to 12:30pm & 1:30pm to 4:30pm) 
-
+<b><u>SCHOOL DENTAL SERVICE</b></u><br>
+**Opening hours:** <br>
+Monday – Friday (8:00am to 12:30pm & 1:30pm to 4:30pm) <br>
 Tel: 6362 5154
