@@ -37,7 +37,7 @@ Sembawang Shopping Centre<br>
 604 Sembawang Road<br>
 #02-13, Singapore 758459 <br>
 Tel: 67531489 <br>
-Email: sales@euniforms.com.sg <br>
+Email: sales@euniforms.com.sg <br><br>
 Operates in school on selected Fridays <br>
 [click here for selling dates](/files/2023_Uniform_Selling_Date.pdf)
 <br>Online order for school uniform:
