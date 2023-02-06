@@ -48,7 +48,7 @@ Online order for school uniform
 Business Hours: 11.30am to 8.00pm
 
 Operates in school on selected Fridays 
-[click here for selling dates](/files/2023%20Selling%20Date%20for%20ADM.pdf)
+
 
 #### School Dental Service
 **SCHOOL DENTAL SERVICE**<br>
