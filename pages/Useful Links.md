@@ -7,8 +7,6 @@ description: ""
 [Click here for 2023  School Calendar -Term 1](/files/2023_0004b_2023%20Term1%20Calendar.pdf)
 #### Students/Parents
 
-
-
 | Students | Parents| 
 | ----------- | ----------- | 
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login)    | [Parents Gateway](https://pg.moe.edu.sg/)   |
