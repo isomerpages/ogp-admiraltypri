@@ -5,7 +5,6 @@ description: ""
 ---
 #### P1 and P2
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -56,8 +55,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-zr06">English</td>
-    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P3%20STD%20ENGLISH%20TOS"><span style="text-decoration:none;color:#383E8E">P3 Std English</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P4%20STD%20ENGLISH%20TOS"><span style="text-decoration:none;color:#383E8E">P4 Std English</span></a><br></td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P3%20STD%20ENGLISH%20TOS.pdf"><span style="text-decoration:none;color:#383E8E">P3 Std English</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf"><span style="text-decoration:none;color:#383E8E">P4 Std English</span></a><br></td>
   </tr>
 </tbody>
 </table>
