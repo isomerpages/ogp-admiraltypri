@@ -117,7 +117,7 @@ description: ""
   </thead>
   <tbody>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Challenge</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 CH</strong></td>
       <td height="28" class="tg-9678">Mdm Padmanathan Jayasri<br></td>
       <td height="28" class="tg-faf8">Mr Mohd Fadzeel<br></td>
     </tr>
@@ -127,7 +127,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:mohamed_fadzeel_abdul_rahm@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mohamed_fadzeel_abdul_rahm@moe.edu.sg</span></a><br></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Courage</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 CO</strong></td>
       <td height="28" class="tg-faf8">Mdm Akhilandeswari<br></td>
       <td height="28" class="tg-faf8">Mdm Zhang Zhe Jin<br></td>
     </tr>
@@ -137,7 +137,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:zhang_zhe_jin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhang_zhe_jin@moe.edu.sg</span></a><br></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Endurance</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 ED</strong></td>
       <td height="28" class="tg-9678">Ms Siti Farhana<br></td>
       <td height="28" class="tg-faf8">Mdm Ng Soek Mui <br></td>
     </tr>
@@ -147,7 +147,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:ng_soek_mui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ng_soek_mui@moe.edu.sg</span></a><br></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Enterprise</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 ET</strong></td>
       <td height="28" class="tg-faf8">Mdm Khatijah<br></td>
       <td height="28" class="tg-9678">Mdm Chong You Kim<br></td>
     </tr>
@@ -157,7 +157,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:chong_you_kim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chong_you_kim@moe.edu.sg</span></a><br></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Gallantry</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 GA</strong></td>
       <td height="28" class="tg-faf8">Mrs Sharon Neo <br></td>
       <td height="28" class="tg-9678">Mdm Nuruljannah</td>
     </tr>
@@ -167,7 +167,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">nuruljannah_mukasim@moe.edu.sg</span></a></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Graciousness</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 GR</strong></td>
       <td height="28" class="tg-faf8">Mdm Irfah Mohamad<br></td>
       <td height="28" class="tg-faf8">Ms Soh Chiew Bee</td>
     </tr>
@@ -177,7 +177,7 @@ description: ""
       <td height="28" bgcolor="#eee" class="tg-wmsy"><a href="mailto:soh_chiew_bee@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">soh_chiew_bee@moe.edu.sg</span></a></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>1 Integrity</strong></td>
+      <td height="28" class="tg-faf8"><strong>1 IN</strong></td>
       <td height="28" class="tg-9678">Ms Jane Sasikala<br></td>
       <td height="28" class="tg-faf8">Ms Tay Chun Fang</td>
     </tr>
@@ -542,8 +542,33 @@ description: ""
 </table>
 
 #### Executive and Administrative Staff 
-
-For any enquires please email us -admiralty_ps@moe.edu.sg
+**Info-Comm Technology Team**
+<table border="1" cellspacing="0" class="tg">
+  <thead>
+    <tr>
+      <th width="241" height="28" bgcolor="#ddd" class="tg-dgl5">Name</th>
+      <th width="214" bgcolor="#ddd" class="tg-dgl5">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height="28" class="tg-zr06">Mr L A Shahul Hameed</td>
+      <td class="tg-zr06">ICT Manager</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mrs Leo</td>
+      <td class="tg-zr06">IT Trainer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
+      <td class="tg-zr06">Desktop Engineer</td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06">Mr Soh Ri Xing</td>
+      <td class="tg-zr06">Desktop Engineer</td>
+    </tr>
+  </tbody>
+</table>
 
 **Administration Team**
 <table width="495" border="1" cellspacing="0" class="tg1">
@@ -617,30 +642,4 @@ For any enquires please email us -admiralty_ps@moe.edu.sg
   </tbody>
 </table>
 
-**Info Technology Team**
-<table border="1" cellspacing="0" class="tg">
-  <thead>
-    <tr>
-      <th width="241" height="28" bgcolor="#ddd" class="tg-dgl5">Name</th>
-      <th width="214" bgcolor="#ddd" class="tg-dgl5">Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td height="28" class="tg-zr06">Mr L A Shahul Hameed</td>
-      <td class="tg-zr06">ICT Manager</td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-zr06">Mrs Leo</td>
-      <td class="tg-zr06">IT Trainer</td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
-      <td class="tg-zr06">Desktop Engineer</td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-zr06">Mr Soh Ri Xing</td>
-      <td class="tg-zr06">Desktop Engineer</td>
-    </tr>
-  </tbody>
-</table>
+For any enquires please email us at admiralty_ps@moe.edu.sg

@@ -3,7 +3,6 @@ title: Homework Policy
 permalink: /general-information/homework-policy/
 description: ""
 ---
-
 # Homework Policy
 
 **Purposes of Homework**
@@ -65,9 +64,9 @@ The table below, showing the approximate daily homework time for pupils, serves 
 
 **Communication with Parents/Guardians**
 
-- Teachers will inform parents and pupils of the homework given via the ESchool.sg portal (http://aps.eschool.sg/Login/Login.aspx)
-- Homework may also be recorded by the pupil in the Pupils’ Companion and messages can be recorded by the teacher(s) and parents as well.
-- Parents are requested to inform the teacher if their children are having dif culty with homework given.
+
+- Homework may  be recorded by the pupil in the Pupils’ Companion and messages can be recorded by the teacher(s) and parents as well.
+- Parents are requested to inform the teacher if their children are having difficulties with the  homework given.
 - If homework cannot be completed within the estimated duration of time given, do allow some extra time of about 10 mins. If the homework is still incomplete, the pupil should offer a valid reason to their teachers.
 - If a pupil repeatedly fails to do homework, the teacher will contact the parent to discuss the problem.
 

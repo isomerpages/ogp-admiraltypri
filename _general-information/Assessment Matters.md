@@ -3,7 +3,6 @@ title: Assessment Matters
 permalink: /general-information/assessment-matters/
 description: ""
 ---
-
 # Assessment Matters
 
 - Pupils are to be responsible to bring the necessary stationery and instruments (e.g. calculators and Mathematical set) for the exams.
@@ -13,10 +12,10 @@ description: ""
 - Absence without valid reasons
       Pupils who are absent without valid reason:
       -   will not be awarded any marks for the paper which he/she had missed.
-
-      Examples of absence without valid reason:
-      -   Accompanying parents overseas during term time
+<br><b>Examples of absence without valid reason:</b> <br>
+      -   Accompanying parents overseas during term time.<br>
       -   Scheduling external examinations such as piano exams/ballet exams during exam period.
-  Latecomers will not be allowed to take the exams.
-  No extra time will be given to pupils who are not able to complete their paper within the stipulated time. Answers on the answer script/s (e.g., OAS) will be taken as final.
-  The school views cheating as a serious offence. Pupils caught cheating or with an intent to cheat will be awarded a zero mark for the component/paper. Disciplinary action will also be taken against the pupil.
+
+* Latecomers will not be allowed to take the exams. 
+* No extra time will be given to pupils who are not able to complete their paper within the stipulated time. Answers on the answer script/s (e.g., OAS) will be taken as final.
+* The school views cheating as a serious offence. Pupils caught cheating or with an intent to cheat will be awarded a zero mark for the component/paper. Disciplinary action will also be taken against the pupil.
