@@ -73,8 +73,14 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-zr06">English</td>
-    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20EL_TERM1%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 EL_TERM1</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20EL_TERM1%20Lesson%20Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 EL_TERM1</span></a><br></td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf"><span style="text-decoration:none;color:#383E8E">P5 Std English</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P6%20STD%20ENGLISH%20TOS.pdf.pdf"><span style="text-decoration:none;color:#383E8E">P6 Std English</span></a><br></td>
+<td class="tg-zr06"></td>
+   </tr>
+   <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P6%20FEL%20ENGLISH%20TOS.pdf.pdf"><span style="text-decoration:none;color:#383E8E">P6 FEL English</span></a><br></td>
   </tr>
 </tbody>
 </table>
