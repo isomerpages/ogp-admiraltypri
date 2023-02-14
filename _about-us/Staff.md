@@ -80,11 +80,11 @@ description: ""
       <td class="tg-zr06">Mr Muhammad Farhan</td>
     </tr>
     <tr>
-      <td height="28" class="tg-mdf1"><strong>HOD/Student Management &amp; Leadership</strong></td>
+      <td height="28" class="tg-mdf1"><strong>HOD Student Management &amp; Leadership</strong></td>
       <td class="tg-faf8">Ms Ang Feng Xia</td>
     </tr>
     <tr bgcolor="#eee">
-      <td height="28" class="tg-dgl5"><strong>HOD/Character &amp; Citizenship Education</strong></td>
+      <td height="28" class="tg-dgl5"><strong>HOD Character &amp; Citizenship Education</strong></td>
       <td class="tg-zr06">Mrs Alice Tan</td>
     </tr>
     <tr>
@@ -92,11 +92,11 @@ description: ""
       <td class="tg-faf8">Ms  Khoo Ying Ying</td>
     </tr>
     <tr>
-      <td height="28" bgcolor="#eee" class="tg-dgl5"><strong>HOD/School Staff Development</strong></td>
+      <td height="28" bgcolor="#eee" class="tg-dgl5"><strong>HOD School Staff Development</strong></td>
       <td bgcolor="#eee" class="tg-zr06">Mrs Rashidah Neville</td>
     </tr>
     <tr>
-      <td height="28" class="tg-mdf1"><strong>HOD/Mother Tongue</strong></td>
+      <td height="28" class="tg-mdf1"><strong>HOD Mother Tongue</strong></td>
       <td class="tg-faf8">Mdm Christine Lee</td>
     </tr>
     <tr>
