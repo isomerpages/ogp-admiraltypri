@@ -44,7 +44,7 @@ description: ""
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-dgl5"><strong>HOD Knowledge Management/ICT</strong></td>
-      <td bgcolor="#eee" class="tg-zr06">Mdm Chan Siew Li</td>
+      <td bgcolor="#eee" class="tg-zr06">Mdm Chan Siew Li (Christy)</td>
     </tr>
     <tr>
       <td height="28" class="tg-mdf1"><strong>HOD English </strong></td>
@@ -668,4 +668,4 @@ description: ""
   </tbody>
 </table>
 
-For any enquires please email us at admiralty_ps@moe.edu.sg
+For any enquires please email us at <a href="mailto:admiralty_ps@moe.edu.sg">admiralty_ps@moe.edu.sg</a>
