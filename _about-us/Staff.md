@@ -533,7 +533,6 @@ description: ""
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br>
         </td>
     </tr>
-<!-- Write your comments here -->
     <tr>
       <td height="28" class="tg-faf8"><strong> </strong></td>
       <td class="tg-9678"> <br></td>
@@ -545,7 +544,6 @@ description: ""
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br>
         </td>
     </tr>
-<!-- Write your comments here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>6 GA</strong></td>
       <td class="tg-9678">Mdm Wong Ching Ching<br></td>
