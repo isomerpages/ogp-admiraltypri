@@ -9,8 +9,7 @@ Blk 219 Bukit Batok st 21, <br>
 #07-403 Singapore 650219. <br>
 Tel: 63639159, 68923610<br> 
 Fax: 65679035 <br>
-Email: sales@rickybookcentre.com.sg
-
+Email: <a href="mailto:sales@rickybookcentre.com.sg">sales@rickybookcentre.com.sg</a><br>
 **Opening Hours on School Days:** <br>
 Monday – Friday (9:00am to 2:00pm)
 
@@ -37,7 +36,7 @@ Operates in school on selected Fridays. <br>
 <br>Business Hours: 11:30am to 8:00pm
 
 #### School Dental Service
-<b><u>SCHOOL DENTAL SERVICE</b></u><br>
+
 **Opening hours:** <br>
 Monday – Friday (8:00am to 12:30pm & 1:30pm to 4:30pm) <br>
 Tel: 6362 5154
