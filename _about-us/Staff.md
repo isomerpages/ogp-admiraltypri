@@ -323,7 +323,6 @@ description: ""
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:kanagamalar_kumar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kanagamalar_kumar@moe.edu.sg</span></a><br></td>
       <td bgcolor="#eee" class="tg-zr06"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a></td>
     </tr>
-<!-- Write your comments here -->
     <tr>
       <td class="tg-faf8"></td>
       <td class="tg-faf8"> <br></td>
@@ -334,7 +333,6 @@ description: ""
 	<td bgcolor="#eee" class="tg-zr06"> <br></td>
 <td bgcolor="#eee" class="tg-zr06"><a href="mailto:normala_mohamed_jais@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">normala_mohamed_jais@moe.edu.sg</span></a></td>
     </tr>
-<!-- Write your comments here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>3 ET</strong></td>
       <td class="tg-faf8">Ms Marinah Mukhtar Toh<br></td>
@@ -527,15 +525,27 @@ description: ""
     <tr>
       <td height="28" class="tg-faf8"><strong>6 ET</strong></td>
       <td class="tg-9678">Ms Chin Yoke Lan<br></td>
-      <td class="tg-9678">Mdm Tan Alice<br>
-        Mdm Lee Cher Hiang Christine<br></td>
+      <td class="tg-9678">Mdm Tan Alice<br></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chin_yoke_lan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chin_yoke_lan@moe.edu.sg</span></a><br></td>
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br>
-        <a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br></td>
+        </td>
     </tr>
+<!-- Write your comments here -->
+    <tr>
+      <td height="28" class="tg-faf8"><strong> </strong></td>
+      <td class="tg-9678"> <br></td>
+      <td class="tg-9678">Mdm Lee Cher Hiang Christine<br></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"> <br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br>
+        </td>
+    </tr>
+<!-- Write your comments here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>6 GA</strong></td>
       <td class="tg-9678">Mdm Wong Ching Ching<br></td>
