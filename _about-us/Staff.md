@@ -293,10 +293,11 @@ description: ""
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:xu_shihui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">xu_shihui@moe.edu.sg</span></a></td>
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tam_wei_chee_jessica@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tam_wei_chee_jessica@moe.edu.sg</span></a><br></td>
     </tr>
+<!-- Disable as Mdm Nursyafawati is on Maternity leave
     <tr>
       <td height="28" class="tg-faf8"><strong>3 CO</strong></td>
       <td class="tg-faf8">Mdm Nursyafawati</td>
-      <td class="tg-faf8">Mdm Nalayani Nair</td>
+      <td class="tg-faf8">Mdm Nalayani Nair d/o Mukunan Nair</td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
@@ -313,6 +314,19 @@ description: ""
       <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_kiat_calvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_kiat_calvin@moe.edu.sg</span></a></td>
       <td bgcolor="#eee" class="tg-wmsy"> <span style="text-decoration:none;color:#383E8E"> </span></a><br></td>
     </tr>
+Disable ends here -->
+<!-- New starts here -->
+    <tr>
+      <td height="28" class="tg-faf8"><strong>3 CO</strong></td>
+      <td class="tg-faf8">Mdm Nalayani Nair d/o Mukunan Nair</td>
+      <td class="tg-faf8">Mr Tan Kiat, Calvin</td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td valign="top" bgcolor="#eee" class="tg-ugoc"><a href="mailto:nalayani_nair_mukunan_nair@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">nalayani_nair_mukunan_nair@moe.edu.sg</span></a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_kiat_calvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_kiat_calvin@moe.edu.sg</span></a></td>
+    </tr>
+<!-- New ends here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>3 ED</strong></td>
       <td class="tg-faf8">Mdm K Kanagamalar <br></td>
