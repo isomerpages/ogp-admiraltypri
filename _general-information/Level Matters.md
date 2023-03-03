@@ -71,7 +71,7 @@ description: ""
   <tr>
     <td class="tg-zr06">Malay</td>
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20ML.pdf"><span style="text-decoration:none;color:#383E8E">P3 Malay</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20ML.pdf"><span style="text-decoration:none;color:#383E8E">P4 Malay</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20ML.pdf"><span style="text-decoration:none;color:#383E8E">P4 Malay</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Tamil</td>
