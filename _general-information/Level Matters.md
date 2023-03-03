@@ -58,6 +58,26 @@ description: ""
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P3%20STD%20ENGLISH%20TOS.pdf"><span style="text-decoration:none;color:#383E8E">P3 Std English</span></a><br></td>
     <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf"><span style="text-decoration:none;color:#383E8E">P4 Std English</span></a><br></td>
   </tr>
+  <tr>
+    <td class="tg-zr06">Maths</td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20MA.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20MA.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Chinese</td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20CL.pdf"><span style="text-decoration:none;color:#383E8E">P3 Chinese</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20CL.pdf"><span style="text-decoration:none;color:#383E8E">P4 Chinese</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Malay</td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20ML.pdf"><span style="text-decoration:none;color:#383E8E">P3 Malay</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20ML.pdf"><span style="text-decoration:none;color:#383E8E">P4 Malay</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Tamil</td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL.pdf"><span style="text-decoration:none;color:#383E8E">P3 Tamil</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL.pdf"><span style="text-decoration:none;color:#383E8E">P4 Tamil</span></a><br></td>
+  </tr>
 </tbody>
 </table>
 
