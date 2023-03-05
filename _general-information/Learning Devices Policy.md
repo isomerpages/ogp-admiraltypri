@@ -62,7 +62,7 @@ Learning devices are required to be fully charged at home and be ready to use in
 ##### Liability 
 The school and school personnel shall not be liable for the loss, damage, misuse, or theft of any student-owned electronic device: possessed/used during the school day; in/on school buildings, property; during transport to/from school; while attending school activities. *
 
-<i><u>Note:</u> Information with asterisks () refer to student-owned devices.</i>
+<i><u>Note:</u> Information with asterisks (*) refer to student-owned devices.</i>
 
 ##### Student Pledge for Learning Device Use (Within and beyond School)
 All students who bring devices to school are in agreement to the following practices:
