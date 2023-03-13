@@ -85,8 +85,6 @@ Student’s thinking are made visible via their ECG Portfolio. The clearer they 
 8. Which stream will my child be studying if he/she is successful in his/her DSA application?
    To gain admission via DSA, your child still needs to attain a PSLE score that qualify them for a course (Express, Normal Academic or Normal Technical offered by the school.
 
-Some [DSA videos](https://www.youtube.com/playlist?list=PLBArqKUr8vLVuSQc9LLTgRmo9zMx2krcC)
+Some [DSA videos](https://www.youtube.com/playlist?list=PLBArqKUr8vLVuSQc9LLTgRmo9zMx2krcC). More information on DSA can be found on www.moe.gov.sg/dsa-sec.
 
-Please feel free to write to us through this [form]( https://form.gov.sg/62c3aebfd8137600126a1e6e) and we will get back to you
-
-More information on DSA can be found on www.moe.gov.sg/dsa-sec.
+Please feel free to write to us through this [form]( https://form.gov.sg/62c3aebfd8137600126a1e6e) and we will get back to you.
