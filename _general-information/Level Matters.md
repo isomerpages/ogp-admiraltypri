@@ -60,7 +60,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Maths</td>
-    <td class="tg-zr06">[P3 Maths](/files/p3%20maths.pdf)<span style="text-decoration:none;color:#383E8E">P3 Maths</span><br></td>
+    <td class="tg-zr06"><a href="files/p3%20maths.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
     <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
   </tr>
   <tr>
