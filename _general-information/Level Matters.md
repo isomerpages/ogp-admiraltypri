@@ -63,6 +63,13 @@ description: ""
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
     <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
   </tr>
+
+  <tr>
+    <td class="tg-zr06">Science</td>
+    <td class="tg-zr06"><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Science.pdf"><span style="text-decoration:none;color:#383E8E">P4 Science</span></a><br></td>
+  </tr>
+
   <tr>
     <td class="tg-zr06">Chinese</td>
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20CL.pdf"><span style="text-decoration:none;color:#383E8E">P3 Chinese</span></a><br></td>
