@@ -60,9 +60,16 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Maths</td>
-    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20MA.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20MA.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
   </tr>
+
+  <tr>
+    <td class="tg-zr06">Science</td>
+    <td class="tg-zr06"><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Science.pdf"><span style="text-decoration:none;color:#383E8E">P4 Science</span></a><br></td>
+  </tr>
+
   <tr>
     <td class="tg-zr06">Chinese</td>
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20CL.pdf"><span style="text-decoration:none;color:#383E8E">P3 Chinese</span></a><br></td>
@@ -104,30 +111,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<!-- Comments starts
-**Learning with Technology**
-
-* [P1 LwT Tasks June Holiday.pdf](/files/P1%20LwT%20Tasks_June%20Holiday.pdf)
-* [P2 LwT Tasks June Holiday.pdf](/files/P2%20LwT%20Tasks_June%20Holiday.pdf)
-* [P3 LwT Tasks March Holiday.pdf](/files/P3%20LwT%20Tasks_March%20holiday.pdf)
-* [P4 LwT Tasks March Holiday.pdf](/files/P4%20LwT%20Tasks_March%20holiday.pdf)
-* [P5 LwT Tasks March Holiday.pdf](/files/P5%20LwT%20Tasks_March%20holiday.pdf)
-* [P6 LwT Tasks March Holiday.pdf](/files/P6%20LwT%20Tasks_March%20holiday.pdf)
-
-### Task Sheet (Term 3)
-
-* [P1 LwT Tasks_Term 3](/files/P1%20LwT%20Tasks_Term%203.pdf)
-* [P2 LwT Tasks_Term 3](/files/P2%20LwT%20Tasks_Term%203.pdf)
-* [P3 LwT Tasks_Term 3](/files/P3%20LwT%20Tasks_Term%203.pdf)
-* [P4 LwT Tasks_Term 3](/files/P4%20LwT%20Tasks_Term%203.pdf)
-* [P5 LwT Tasks_Term 3](/files/P5%20LwT%20Tasks_Term%203.pdf)
-
-### Task Sheet (Term 4)
-* [P1 LwT Tasks_Term 4](/files/P1%20LwT%20Tasks_Term%204.pdf)
-* [P2 LwT Tasks_Term 4](/files/P2%20LwT%20Tasks_Term%204.pdf)
-* [P3 LwT Tasks_Term 4](/files/P3%20LwT%20Tasks_Term%204.pdf)
-* [P4 LwT Tasks_Term 4](/files/P4%20LwT%20Tasks_Term%204.pdf)
-* [P5 LwT Tasks_Term 4](/files/P5%20LwT%20Tasks_Term%204.pdf)
-
-Comments End-->
