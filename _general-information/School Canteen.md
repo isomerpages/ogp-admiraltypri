@@ -60,6 +60,7 @@ td {
 </tbody></table>
 
 [For menu &amp; price list, please click here](/files/Revised%20Canteen%20Prices%20wef%201Feb2023.pdf)
+
 [Canteen New Price](/files/canteen%20prices%20updates_10%20apr%202023.pdf)
 #### Canteen Rules
 
