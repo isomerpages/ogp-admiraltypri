@@ -27,7 +27,7 @@ td {
 </style>
 
 <table>
-	<tr>
+	<tbody><tr>
 		<th bgcolor="#eee"> Stall No. </th>
 		<th bgcolor="#eee"> Stall Name </th>
 		<th bgcolor="#eee"> Food Type </th>
@@ -57,9 +57,9 @@ td {
 		<td> Sedap Corner </td>
 		<td> Malay Rice </td>
 	</tr>
-</table>
+</tbody></table>
 
-[For menu & price list, please click here](/files/Revised%20Canteen%20Prices%20wef%201Feb2023.pdf)
+[For menu &amp; price list, please click here](/files/canteen%20prices%20updates_10%20apr%202023.pdf)
 #### Canteen Rules
 
 Students are to abide by the following rules relating to the school canteen:
