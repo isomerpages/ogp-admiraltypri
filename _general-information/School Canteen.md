@@ -55,9 +55,13 @@ td {
 	<tr>
 		<td> 6 </td>
 		<td> Sedap Corner </td>
-		<td> Malay Rice </td>
+		<td> Malay Rice (Halal) </td>
 	</tr>
-</tbody></table>
+	<tr>
+		<td> 7 </td>
+		<td> Warung Mee </td>
+		<td> Malay Noodle (Halal) </td>
+	</tr></tbody></table>
 
 [For menu &amp; price list, please click here](/files/canteen%20prices.pdf)
 
