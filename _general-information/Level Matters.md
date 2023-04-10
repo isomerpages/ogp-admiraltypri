@@ -83,7 +83,12 @@ description: ""
   <tr>
     <td class="tg-zr06">Tamil</td>
     <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20T1.pdf"><span style="text-decoration:none;color:#383E8E">P3 Tamil Term 1</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL.pdf"><span style="text-decoration:none;color:#383E8E">P4 Tamil</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20T1.pdf"><span style="text-decoration:none;color:#383E8E">P4 Tamil Term 1</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20TL%20T2.pdf"><span style="text-decoration:none;color:#383E8E">P3 Tamil Term 2</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20TL%20T2.pdf"><span style="text-decoration:none;color:#383E8E">P4 Tamil Term 2</span></a><br></td>
   </tr>
 </tbody>
 </table>
