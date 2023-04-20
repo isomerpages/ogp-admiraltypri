@@ -1,12 +1,11 @@
 ---
-title: School Song & Crest
+title: School Song &amp; Crest
 permalink: /about-us/school-crest-and-song/
 description: ""
 ---
 #### School Crest
 
-<img src="/images/AdmiraltyCrest.png" 
-     style="width:35%">
+<img src="/images/AdmiraltyCrest.png" style="width:35%">
 
 The school crest was designed through the collaborative effort of the teachers. We strive to help all our pupils acquire the thirst for knowledge with humanity; thus the motto, Knowledge with Humanity.
 
@@ -19,7 +18,7 @@ The five bands signify the five shared values that form the foundation of our na
 
 #### School Song
 
-[Listen the song here](https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/view?usp=sharing) <br> <br>
+[Listen to our school song here](https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/view?usp=sharing) <br> <br>
 
 **<u>Song Lyrics:</u>**
 
