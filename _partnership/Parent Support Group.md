@@ -5,7 +5,7 @@ description: ""
 ---
 ##### Parent Support Group
 
-<img alt="PSG Chairperson Michelle" src="/images/psg_chairperson.jpg" style="width:35%">
+<img title="PSG Chairperson Michelle" alt="PSG Chairperson Michelle" src="/images/psg_chairperson.jpg" style="width:35%">
 
 On behalf of&nbsp;Admiralty Primary PSG, welcome you to&nbsp;our Admiralty Primary family:)
 
