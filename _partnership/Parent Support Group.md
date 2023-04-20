@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /partnership/parent-support-group/
 description: ""
 ---
-##### Parent Support Group
-
 <img title="PSG Chairperson Michelle" alt="PSG Chairperson Michelle" src="/images/psg_chairperson.jpg" style="width:35%">
 
 On behalf of&nbsp;Admiralty Primary PSG, welcome you to&nbsp;our Admiralty Primary family:)
@@ -18,6 +16,7 @@ Once again, A big Thank you for saying yes to PSG :)
 
 <b>Michelle</b>
 
+##### Parent Support Group
 Our Parent Support Group is a dedicated and supportive group who plays a key role to help create a holistic education for the students.
 
 PSG aims to:
