@@ -5,8 +5,7 @@ description: ""
 ---
 ##### Principal’s Message for 2023
 
-<img src="/images/20221213_105903.jpg" 
-     style="width:35%">
+<img title="Principal Mr. Chen Zhongyi" src="/images/20221213_105903.jpg" style="width:35%">
 
 Admiralty Primary School commemorated our 25th Anniversary in 2022. Established in 1997 with 45 classes, Admiralty Primary School’s educational journey through the years has seen a growth from strength to strength. We remain steadfast in our mission to nurture all our students into compassionate citizens and life-long learners.
 
@@ -26,6 +25,5 @@ Lastly and very importantly, I cannot stress enough that my positive outlook for
 
 Thank you, and here’s wishing everyone a happy and fulfilling 2023. 
 
-Mr Chen Zhongyi
-
+<b>Mr. Chen Zhongyi</b> <br>
 Principal
