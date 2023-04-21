@@ -22,3 +22,6 @@ image: ""
 **Preschool Engagement Session**
 
 [Youtube Link](https://www.youtube.com/watch?v=UrSj4XcOkF0)
+
+**e-Open House**
+
