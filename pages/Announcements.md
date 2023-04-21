@@ -19,12 +19,8 @@ image: ""
 [P6 LwT - Cycle 1](/files/P6%20LwT%20Tasks_Cycle%201.pdf)
 
 
-**Preschool Engagement Session**
-
+**Preschool Engagement Session** - 
 [Youtube Link](https://www.youtube.com/watch?v=UrSj4XcOkF0)
 
-**e-Open House**
+**e-Open House** - [Click here](https://drive.google.com/file/d/1g1LSqr5oH2FNfRWxPn06cDgFAjGBbAqX/view?usp=share_link)
 
-```
-<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1g1LSqr5oH2FNfRWxPn06cDgFAjGBbAqX/preview"></iframe>
-```
