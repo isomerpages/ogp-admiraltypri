@@ -23,4 +23,3 @@ image: ""
 [Youtube Link](https://www.youtube.com/watch?v=UrSj4XcOkF0)
 
 **e-Open House** - [Click here](https://drive.google.com/file/d/1g1LSqr5oH2FNfRWxPn06cDgFAjGBbAqX/view?usp=share_link)
-
