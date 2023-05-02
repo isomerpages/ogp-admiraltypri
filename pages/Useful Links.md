@@ -4,7 +4,8 @@ permalink: /usefullinks/
 description: ""
 ---
 #### School Calendar
-[Click here for 2023  School Calendar -Term 1](/files/2023_0004b_2023%20Term1%20Calendar.pdf)
+[Click here for 2023  School Calendar -Term 2](/files/2023%20term%202%20calendar.pdf)
+
 #### Students/Parents
 
 | Students | Parents| 

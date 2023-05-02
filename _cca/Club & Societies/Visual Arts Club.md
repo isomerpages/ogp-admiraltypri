@@ -4,7 +4,6 @@ permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
 # Visual Arts Club
 
 In Visual Arts Club, students will be given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learner, participate in school and national events and develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
@@ -30,12 +29,32 @@ No additional sessions beyond CCA sessions on Mondays.
 
 **Teachers-in-Charge**
 
-- Ms Mandy Chan - chan_min_li_mandy@moe.edu.sg
 - Mdm Nuruljannah Mukasim - nuruljannah_mukasim@moe.edu.sg
 - Ms Tay Chun Fang - tay_chun_fang@moe.edu.sg
 - Ms Punitha Silverrajan - punitha_silverrajan@moe.edu.sg
 
 **Achievements**
+
+**2022**
+**Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022**
+![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
+<b><u>CHEN RUI XI, 4 Endurance</u></b>
+
+Here are some other entries done by our VA Club members:
+<table>
+	<tbody><tr>
+		<td>![HUANG ZIMO 5 GALLANTRY](/images/2023%20stamp%20story%20huang%20zimo%205%20gallantry.jpg)</td>
+		<td> 1.2</td>
+	</tr>
+	<tr>
+		<td>2.1 </td>
+		<td> 2.2</td>
+	</tr>
+	<tr>
+		<td>3.1 </td>
+		<td> 3.2</td>
+	</tr>
+	</tbody></table>
 
 **2021**
 
