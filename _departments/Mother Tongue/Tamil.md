@@ -7,16 +7,12 @@ third_nav_title: Mother Tongue
 # Tamil
 
 # People
-<table>
-<tbody><tr>
-<td>TL Coordinator</td><td>
-	</td><td>Mdm Sharmila Divakaran
- </td>
-</tr>
-	<tr><td>Members</td><td>
-	</td><td>Mdm Nalayani Nair, Ms Punitha Silverrajan </td>
-</tr>
-</tbody></table>
+
+
+| TL Coordinator| Mdm Sharmila Divakaran | 
+| -------- | -------- | 
+| Members     | Mdm Nalayani Nair, Ms Punitha Silverrajan     | 
+
 # Programmes
 
 Our Key programmes are designed to generate interest, lay foundation, achieve excellence and develop champions by the end of the six years in Admiralty Primary School. To achieve this, the Tamil pupils go through the following programmes.
