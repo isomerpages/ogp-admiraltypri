@@ -14,7 +14,7 @@ All registration must be done once before starting on the run. We encourage part
 
 ##### Archived:
 
-[AdmiraltyPrimary Virtual Run 2021](https://sites.google.com/moe.edu.sg/admpsvirtualrun2021/home)
+[Admiralty Primary Virtual Run 2021](https://sites.google.com/moe.edu.sg/admpsvirtualrun2021/home)
 
 
 
