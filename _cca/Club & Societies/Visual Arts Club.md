@@ -38,8 +38,23 @@ No additional sessions beyond CCA sessions on Mondays.
 **2022**
 **Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022**
 ![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
+<b><u>CHEN RUI XI, 4 Endurance</u></b>
 
-
+Here are some other entries done by our VA Club members:
+<table>
+	<tbody><tr>
+		<td>![HUANG ZIMO 5 GALLANTRY](/images/2023%20stamp%20story%20huang%20zimo%205%20gallantry.jpg)</td>
+		<td> 1.2</td>
+	</tr>
+	<tr>
+		<td>2.1 </td>
+		<td> 2.2</td>
+	</tr>
+	<tr>
+		<td>3.1 </td>
+		<td> 3.2</td>
+	</tr>
+	</tbody></table>
 
 **2021**
 
