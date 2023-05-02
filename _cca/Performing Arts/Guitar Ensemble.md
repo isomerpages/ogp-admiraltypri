@@ -23,10 +23,10 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 ##### Teachers-in-Charge
 
 - Ms Soh Chiew Bee - soh_chiew_bee@moe.edu.sg
-- Miss Amanda Ang - amanda_ang_yan_ting@moe.edu.sg
+- Mdm Wong Ching Ching wong_ching_ching@moe.edu.sg
+- Mdm Rages - rageswari_virayah@moe.edu.sg
 - Mdm Mah Yeok Ying - mah_yeok_ying@moe.edu.sg
-- Mrs Alice Tan - tan_alice@moe.edu.sg
-- Mdm Fadilah Saban - fadilah_saban@moe.edu.sg
+
 
 ##### Activities / Programmes
 
