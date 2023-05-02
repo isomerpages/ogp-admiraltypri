@@ -35,6 +35,12 @@ No additional sessions beyond CCA sessions on Mondays.
 
 **Achievements**
 
+**2022**
+**Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022**
+![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
+
+
+
 **2021**
 
 For Singapore Youth Festival 2021, our students had a chance to showcase their artworks titled ’Life Made Easy with Technology’ and ‘A Day Juggling with Technology’ through their Artist Talk presentations below. You can also view the submitted SYF works via our virtual Art Exhibition link.
