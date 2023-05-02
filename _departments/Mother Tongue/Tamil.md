@@ -7,21 +7,15 @@ third_nav_title: Mother Tongue
 # Tamil
 
 # People
-<table width="450" height="516" class="tg">
-  <thead>
-    <tr>
-      <td width="298" height="28" bgcolor="#eee" class="tg-dgl5" style="text-align: left"><strong>TL Coordinator
-<span style=""></span></strong></td>
-      <td width="257" bgcolor="#eee" class="tg-zr06" style="text-align: left">Mdm Sharmila Divakaran
-</td>
+<table border="1" cellspacing="0" class="tg">
+    <tbody><tr>
+      <td height="28" class="tg-zr06">TL Coordinator</td>
+      <td class="tg-zr06">Mdm Sharmila Divakaran</td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td height="28" class="tg-mdf1"><strong>Vice Principal</strong></td>
-      <td class="tg-faf8">Mrs Joyce Lim </td>
-    </tr>
-</tbody></table>
+      <td height="28" class="tg-zr06">Members</td>
+      <td class="tg-zr06">Mdm Nalayani Nair, Ms Punitha Silverrajan</td>
+</tr></tbody></table>
 
 # Programmes
 
