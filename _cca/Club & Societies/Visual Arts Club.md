@@ -4,7 +4,6 @@ permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
 # Visual Arts Club
 
 In Visual Arts Club, students will be given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learner, participate in school and national events and develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
@@ -30,7 +29,6 @@ No additional sessions beyond CCA sessions on Mondays.
 
 **Teachers-in-Charge**
 
-- Ms Mandy Chan - chan_min_li_mandy@moe.edu.sg
 - Mdm Nuruljannah Mukasim - nuruljannah_mukasim@moe.edu.sg
 - Ms Tay Chun Fang - tay_chun_fang@moe.edu.sg
 - Ms Punitha Silverrajan - punitha_silverrajan@moe.edu.sg
