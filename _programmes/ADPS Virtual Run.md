@@ -38,7 +38,7 @@ Your submission may be incomplete or more clarifications needed to verify your r
 
 <b>Q5. What running apps can I use?</b>
 
-Runkeeper, Nike Run Club, Strava, Adidas Running, Pacer, Map My Run etc. You can even use a simple stopwatch if you do not have any running apps!
+Runkeeper, Nike Run Club, Strava, Adidas Running, Pacer, Map My Run etc. You can even use a simple stopwatch if you do not have any running apps.
 
 <b>Q6. Do I have to take a picture of my tracking device and upload it when I submit my run results?</b>
 
