@@ -24,7 +24,7 @@ The detailed key assessment information can be found in this attachment:  [Key A
 
 ### Term 2 Assessment Details
 
-* [P3](/files/p3%20term%202%20weighted%20assessment%20details%202023.pdf)
+* [P3 (Updated as at 3 May 2023)](/files/p3%20term%202%20weighted%20assessment%20details%202023.pdf)
 * [P4](/files/p4%20term%202%20weighted%20assessment%20details%202023.pdf)
 * [P5](/files/p5%20term%202%20weighted%20assessment%20details%202023.pdf)
 * [P6](/files/p6%20term%202%20weighted%20assessment%20details%202023.pdf)
