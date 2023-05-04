@@ -41,20 +41,7 @@ No additional sessions beyond CCA sessions on Mondays.
 <b><u>CHEN RUI XI, 4 Endurance</u></b>
 
 Here are some other entries done by our VA Club members:
-<table>
-	<tbody><tr>
-		<td>![HUANG ZIMO 5 GALLANTRY](/images/2023%20stamp%20story%20huang%20zimo%205%20gallantry.jpg)</td>
-		<td> 1.2</td>
-	</tr>
-	<tr>
-		<td>2.1 </td>
-		<td> 2.2</td>
-	</tr>
-	<tr>
-		<td>3.1 </td>
-		<td> 3.2</td>
-	</tr>
-	</tbody></table>
+![other entries done by our VA Club members](/images/2023%20stamp%20story.JPG)
 
 **2021**
 
