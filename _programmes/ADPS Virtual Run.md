@@ -7,14 +7,16 @@ description: ""
 
 Virtual running is like any other type of running but the difference is that you can run at any location, at any pace and at any time.
 We are calling all our Primary 1 to 6 students, ADPS alumni and staff to join us in this virtual run.
-All registration must be done once before starting on the run. We encourage participants to commit to the distance and complete their runs.
 
-[Click on the link to register and start recording your timing and distance](https://sites.google.com/moe.edu.sg/adps-virtual-run-2022/home)
+<a href="https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home"><img title="ADPS Virtual Run 2023" alt="ADPS Virtual Run 2023 Poster" src="/images/adps%20virtual%20run%202023%20poster.jpeg"></a>
+
+[ADPS Virtual Run 2023](https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home)
 
 
 ##### Archived:
 
-[Admiralty Primary Virtual Run 2021](https://sites.google.com/moe.edu.sg/admpsvirtualrun2021/home)
+[ADPS Virtual Run 2021](https://sites.google.com/moe.edu.sg/admpsvirtualrun2021/home) <br>
+[ADPS Virtual Run 2022](https://sites.google.com/moe.edu.sg/adps-virtual-run-2022/home)
 
 
 
@@ -30,11 +32,11 @@ We encourage all participants to run/jog/walk at their own pace and readiness le
 
 <b>Q3. How can I check my total distance covered and timing?</b>
 
-[Please click our google site](https://sites.google.com/moe.edu.sg/adps-virtual-run-2022/home) to check the scoreboard. It will be updated with the top 20 runners per level as well as school wide every Tuesday. We do encourage you to keep track of your own progress so that you are on tasked to complete your 21.1km or 42.2km.
+[Please click our google site](https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home) to check the scoreboard. It will be updated with the top 20 runners per level as well as school wide every Tuesday. We do encourage you to keep track of your own progress so that you are on tasked to complete your 21.1km or 42.2km.
 
 <b>Q4. Why are my runs not being recorded or reflected in the scoreboard?</b>
 
-Your submission may be incomplete or more clarifications needed to verify your run. We examine every submission carefully to ensure that students uphold INTEGRITY in their submissions. If we find that your timing is inconsistent and dubious, we will not update the scoreboard.
+Your submission may be incomplete or more clarifications needed to verify your run. We examine every submission carefully to ensure that students uphold <b>INTEGRITY</b> in their submissions. If we find that your timing is inconsistent and dubious, we will not update the scoreboard.
 
 <b>Q5. What running apps can I use?</b>
 
