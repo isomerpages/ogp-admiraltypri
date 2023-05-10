@@ -31,7 +31,7 @@ We encourage all participants to run/jog/walk at their own pace and readiness le
 
 <b>Q3. How can I check my total distance covered and timing?</b>
 
-[Please click our google site](https://sites.google.com/moe.edu.sg/adps-virtual-run-2022/home) to check the scoreboard. It will be updated with the top 20 runners per level as well as school wide every Tuesday. We do encourage you to keep track of your own progress so that you are on tasked to complete your 21.1km or 42.2km.
+[Please click our google site](https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home) to check the scoreboard. It will be updated with the top 20 runners per level as well as school wide every Tuesday. We do encourage you to keep track of your own progress so that you are on tasked to complete your 21.1km or 42.2km.
 
 <b>Q4. Why are my runs not being recorded or reflected in the scoreboard?</b>
 
