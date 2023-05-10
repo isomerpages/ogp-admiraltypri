@@ -10,7 +10,6 @@ We are calling all our Primary 1 to 6 students, ADPS alumni and staff to join us
 
 <a href="https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home"><img alt="ADPS Virtual Run 2023" src="/images/adps%20virtual%20run%202023%20poster.jpeg"></a>
 
-
 [ADPS Virtual Run 2023](https://sites.google.com/moe.edu.sg/adps-virtual-run-2023/home)
 
 
