@@ -35,7 +35,7 @@ We encourage all participants to run/jog/walk at their own pace and readiness le
 
 <b>Q4. Why are my runs not being recorded or reflected in the scoreboard?</b>
 
-Your submission may be incomplete or more clarifications needed to verify your run. We examine every submission carefully to ensure that students uphold INTEGRITY in their submissions. If we find that your timing is inconsistent and dubious, we will not update the scoreboard.
+Your submission may be incomplete or more clarifications needed to verify your run. We examine every submission carefully to ensure that students uphold <b>INTEGRITY</b> in their submissions. If we find that your timing is inconsistent and dubious, we will not update the scoreboard.
 
 <b>Q5. What running apps can I use?</b>
 
