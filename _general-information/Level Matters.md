@@ -26,6 +26,10 @@ description: ""
     <td class="tg-wjv8"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P1%20Lesson%20Focus%20Term%201%202023.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#4372D6">P1 Lesson Focus - Term 1</span></a></td>
     <td class="tg-wjv8"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P2%20Lesson%20Focus%20Term%201%202023.Ppdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#4372D6">P2 Lesson Focus - Term 1</span></a></td>
   </tr>
+  <tr>
+    <td class="tg-wjv8"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P1%20Lesson%20Focus%20Term%202%202023.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#4372D6">P1 Lesson Focus - Term 2</span></a></td>
+    <td class="tg-wjv8"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P2%20Lesson%20Focus%20Term%202%202023.Ppdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#4372D6">P2 Lesson Focus - Term 2</span></a></td>
+  </tr>
 </tbody>
 </table>
 
