@@ -92,17 +92,6 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 	</td></tr>
 	</tbody></table>
 
-
-
-**2019**
-   Admiralty Primary School - GEMILANG TARI SI CILIK BULAN BAHASA 2019
-
-**2020**
-   Creative Cultural Cool
-
-**2021**
-   Creative Cultural Cool
-
 **2022**
 
 [ADMPS Malay Dance SYF Arts Presentation](https://drive.google.com/file/d/1kazxvwardL8I43xF0R27cePIFQ3CJQoc/view?usp=share_link)
