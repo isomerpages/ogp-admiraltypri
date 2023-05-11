@@ -49,3 +49,7 @@ The Tamil Department is focused on inculcating passion in learning the Tamil Lan
 
 **Tamil Debate Competition**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Admiralty Primary School | Tamil Debate Competition" src="https://www.youtube.com/embed/xqj6EgBsygk" height="186" width="330"></iframe>
+
+
+**Tamil Unit Celebrations**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Admiralty Primary School | Tamil Unit Celebrations" src="https://www.youtube.com/embed/zGlo_8wBcPc" height="186" width="330"></iframe>
