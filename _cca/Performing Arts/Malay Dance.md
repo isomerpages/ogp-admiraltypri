@@ -8,14 +8,14 @@ third_nav_title: Performing Arts
 
 ##### Goal
 
-1. Members are confident & gracious yet dynamic
-2. Members appreciate & understand artistic techniques expressed through dance
+1. Members are confident &amp; gracious yet dynamic
+2. Members appreciate &amp; understand artistic techniques expressed through dance
 3. Members are able to apply a variety of value systems- being responsible individual and active contributor
 
 ##### Objectives
 
 - Character Development
-- Cultural Awareness & Appreciation
+- Cultural Awareness &amp; Appreciation
 - Enjoyment and Learning through the Arts
 - Community Engagement
 
@@ -34,18 +34,42 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 5. Zapin Asyik
 
 
-##### Teachers-in-Charge
-
-- Mr Jumat ( OIC) : jumat_b_baba@moe.edu.sg
-- Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg
-- Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg
-- Mdm Khatijah : Khatijah_che_din@moe.edu.sg
-
 ##### Schedule
 
 - 7.40 a.m. to 9.40 a.m. on CCA Mondays
 - Additional practices on Wednesdays and Fridays when required. Parents will receive notifications accordingly.
 
+
+##### Our Malay Dance Family
+- Mr Shahrul - Lead Instructor : azhar_marekan@hotmail.com
+- Ms Atique - Instructor
+
+- Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg
+- Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg
+- Mr Jumat ( OIC) : jumat_b_baba@moe.edu.sg
+- Mdm Khatijah : Khatijah_che_din@moe.edu.sg
+
+
+##### Our CCA Leaders
+<table>
+	<tbody><tr>
+		<th bgcolor="#eee"> Name </th>
+		<th bgcolor="#eee">Class </th>
+  	</tr>
+	<tr>
+		<td>Daanya </td> <td>6ET </td>
+	</tr>
+		<tr> 
+		<td>Elvira </td> <td>6ET </td>
+	</tr>
+		<tr> 
+		<td>Phoebe </td> <td>5CH </td>
+	</tr>
+		<tr> 
+		<td>Shasmeen </td> <td>5GR </td>
+	</tr>
+	</tbody></table>
+   
 
 ##### Achievements
 
