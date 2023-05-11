@@ -46,3 +46,6 @@ The Tamil Department is focused on inculcating passion in learning the Tamil Lan
 **Annual Literacy Competition (Kalaithiran)**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Admiralty Primary School | Annual Literacy Competition (Kalaithiran)" src="https://www.youtube.com/embed/8LxjVL157zY" height="410" width="730"></iframe>
+
+**Tamil Debate Competition**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Admiralty Primary School | Tamil Debate Competition" src="https://www.youtube.com/embed/xqj6EgBsygk" height="186" width="330"></iframe>
