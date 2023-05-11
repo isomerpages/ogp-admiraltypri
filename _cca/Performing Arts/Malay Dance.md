@@ -73,6 +73,27 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 
 ##### Achievements
 
+<table>
+	<tbody><tr>
+		<th bgcolor="#eee"> 2019</th>
+		<th bgcolor="#eee">2020 </th>
+  	</tr>
+	<tr>
+		<td>[Gemilang Tari Si Cilik Bulan Bahasa 2019](https://www.youtube.com/watch?v=92jhn24xiPg)
+  </td> <td> </td>
+	</tr>
+		<tr> 
+		<td>Elvira </td> <td>6ET </td>
+	</tr>
+		<tr> 
+		<td>Phoebe </td> <td>5CH </td>
+	</tr>
+		<tr> 
+		<td>Shasmeen </td> <td>5GR </td>
+	</tr>
+	</tbody></table>
+
+
 **2019**
    Admiralty Primary School - GEMILANG TARI SI CILIK BULAN BAHASA 2019
 
