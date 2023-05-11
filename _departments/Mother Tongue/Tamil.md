@@ -22,7 +22,7 @@ third_nav_title: Mother Tongue
 Our Key programmes are designed to generate interest, lay a foundation, achieve excellence and develop champions by the end of the six years in Admiralty Primary School. To achieve this, Tamil pupils go through the following programmes.
 
 -  Celebrations (Deepavali and Pongal)
-- Competition (Sodpor)
+- Competition - Sodpor (சொற்போர்)
 - Annual Literary Competition - Kalaithiran (கலைத்திறன்)
 - MTL Fortnight Activities
 - Experiential learning through learning journeys
