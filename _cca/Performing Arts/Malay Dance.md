@@ -132,6 +132,17 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 		</tr>
 	</tbody>
 </table>
+<table>
+	<tbody>
+		<tr>
+			<th bgcolor="#eee">2022</th>
+  		</tr>
+		<tr>
+			<td><a href="https://www.youtube.com/watch?v=HdIzlYMulIo">ADMPS Malay Dance SYF Arts Presentation 2022</a> 
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ![](/images/Admiralty%20Primary%20Malay%20Dance%20%20Gardens%20By%20The%20Bay%20with%20PM%20Lee%20Hsien%20Loong.jpg)
 ![](/images/Admiralty%20Primary%20Malay%20Dance%20%20ADMPS%20Malay%20Dance%20SYF%20Exchange%202018.jpg)
