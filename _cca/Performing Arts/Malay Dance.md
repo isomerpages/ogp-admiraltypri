@@ -83,62 +83,6 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 		</tr>
 	</tbody>
 </table>
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2020</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=xYgMxGVpDiY">Nurul Huda Binte Muhammad Helmi [SYFgoesOnline!_DanceVerve20!]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=wDX7k13IpVw">Adriana Huda Bte Mohammed Affandi [SYFgoesOnline!_DanceVerve20!]
-</a> 
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2021</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=QWHF_IfH6UM">Muhammad Harith Bin Muhammad Farhan [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-  		
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=ErKyn9fOm8g">Zuriqah Izzati Binti Mohammed Haniff [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=A9drc0cSBGA">Sarah Falisha Binte Muhammad Nazree [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=6gpsGmYxlNA">Nur Syukrina Binte Sharil [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=bSkPIwyKBU4">Muhammad Afiq Danial Bin Muhammad Fazlee [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-**2022**
-
-[ADMPS Malay Dance SYF Arts Presentation](https://drive.google.com/file/d/1kazxvwardL8I43xF0R27cePIFQ3CJQoc/view?usp=share_link)
 
 ![](/images/Admiralty%20Primary%20Malay%20Dance%20%20Gardens%20By%20The%20Bay%20with%20PM%20Lee%20Hsien%20Loong.jpg)
 ![](/images/Admiralty%20Primary%20Malay%20Dance%20%20ADMPS%20Malay%20Dance%20SYF%20Exchange%202018.jpg)
