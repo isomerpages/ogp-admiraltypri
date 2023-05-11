@@ -42,3 +42,5 @@ A dynamic and inspiring department which ignites and develops learners’ passio
 **Mission**
 
 The Tamil Department is focused on inculcating passion in learning the Tamil Language and appreciating the Indian Culture in our pupils. We develop confident speakers to interact effectively with others using the Tamil Language. Our programmes lay the foundation for our pupils to be equipped with the 21st-century skills to achieve excellence in the Tamil language and build a strong rootedness in the Indian Culture. The Tamil Department is committed to providing holistic education to all pupils through various teaching strategies and assessment tools.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Admiralty Primary School | Annual Literacy Competition (Kalaithiran)" src="https://www.youtube.com/embed/8LxjVL157zY" height="410" width="730"></iframe>
