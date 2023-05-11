@@ -24,7 +24,6 @@ third_nav_title: Performing Arts
 Members are exposed and engaged in discussions on the origins of dances, the cultural aspects and learn respective dance skills.
 From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
    
-
 **Dance Resource Packages**
 
 1. Asli Kuala Deli
@@ -40,17 +39,18 @@ From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
 - Additional practices on Wednesdays and Fridays when required. Parents will receive notifications accordingly.
 
 
+
 ##### Our Malay Dance Family
 - Mr Shahrul - Lead Instructor : azhar_marekan@hotmail.com
 - Ms Atique - Instructor
 
 - Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg
 - Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg
-- Mr Jumat ( OIC) : jumat_b_baba@moe.edu.sg
+- Mr Jumat  : jumat_b_baba@moe.edu.sg
 - Mdm Khatijah : Khatijah_che_din@moe.edu.sg
 
 
-##### Our CCA Leaders
+##### Our CCA Leaders (2023)
 <table>
 	<tbody><tr>
 		<th bgcolor="#eee"> Name </th>
