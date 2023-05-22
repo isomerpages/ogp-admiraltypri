@@ -17,8 +17,8 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 
 ##### Practices:
 
-- 7.40 a.m. to 9.40 a.m. on CCA Mondays
-- 2.30 p.m. to 4.30 p.m. on selected Fridays (parents will receive notifications of the specific dates at beginning of each term)
+- 7:40 a.m. to 9:40 a.m. on CCA Mondays
+- 2:30 p.m. to 4:45 p.m. on selected Fridays (parents will receive notifications of the specific dates at beginning of each term)
 
 ##### Teachers-in-Charge
 
