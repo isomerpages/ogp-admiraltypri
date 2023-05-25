@@ -10,16 +10,7 @@ image: ""
 
 **Learning with Technology**
 
-[P3 LwT - Cycle 1](/files/P3%20LwT%20Tasks_Cycle%201.pdf)    
 
-[P4 LwT - Cycle 1](/files/P4%20LwT%20Tasks_Cycle%201.pdf)
-
-[P5 LwT - Cycle 1](/files/P5%20LwT%20Tasks_Cycle%201.pdf)
-
-[P6 LwT - Cycle 1](/files/P6%20LwT%20Tasks_Cycle%201.pdf)
-
-
-______________________________________________________
 
 |Term 2  |  |  |
 | -------- | -------- | -------- |
