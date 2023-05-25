@@ -24,7 +24,7 @@ ______________________________________________________
 |Term 2  |  |  |
 | -------- | -------- | -------- |
 | [P1 LwT Cycle 2](/files/p1%20lwt%20tasks_cycle%202.pdf)    | [P2 LwT Cycle 2](/files/p2%20lwt%20tasks_cycle%202.pdf)     | [P3 LwT Cycle 2](/files/p3%20lwt%20tasks_cycle%202.pdf)     |
-| [P4 LwT Cycle 2](/files/p4%20lwt%20tasks_cycle%202.pdf)    | [P5 LwT Cycle 2](/files/p5%20lwt%20tasks_cycle%202.pdf)     | [P16 LwT Cycle 2](/files/p6%20lwt%20tasks_cycle%202.pdf)     |
+| [P4 LwT Cycle 2](/files/p4%20lwt%20tasks_cycle%202.pdf)    | [P5 LwT Cycle 2](/files/p5%20lwt%20tasks_cycle%202.pdf)     | [P6 LwT Cycle 2](/files/p6%20lwt%20tasks_cycle%202.pdf)     |
 
 
 
