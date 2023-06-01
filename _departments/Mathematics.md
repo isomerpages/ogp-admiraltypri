@@ -7,7 +7,7 @@ description: ""
 
 ##### Concrete-Pictorial-Abstract Approach
 
-In Admiralty Primary, we provide meaningful learning experiences to bring about deep learning where students learn to transfer their knowledge and skills to solve complex problems. 
+In Admiralty Primary, we provide meaningful learning experiences to bring about deep learning where students learn to transfer their knowledge and skills to solve complex problems.&nbsp;
 
   
 Through the Concrete-Pictorial-Abstract (CPA) approach in teaching and learning, students learn to make connections and meanings with the more abstract concepts. Students use concrete materials like interlocked cubes, fraction discs and other materials to help them understand the concepts. Students also learn to draw models and see the connection between these models and their related equations.
@@ -16,7 +16,7 @@ Through the Concrete-Pictorial-Abstract (CPA) approach in teaching and learning,
 
 ##### Development of metacognition
 
-In Math lessons, students are encouraged to develop their reasoning and metacognitive skills. Metacognition is the awareness and regulation of one’s thinking. Students are often exposed to non-routine or open-ended problems so that they learn to decide on the problem-solving strategies to be used. Checking for the reasonableness of their answers and thinking through the logic of their solutions are also part of the metacognitive processes. 
+In Math lessons, students are encouraged to develop their reasoning and metacognitive skills. Metacognition is the awareness and regulation of one’s thinking. Students are often exposed to non-routine or open-ended problems so that they learn to decide on the problem-solving strategies to be used. Checking for the reasonableness of their answers and thinking through the logic of their solutions are also part of the metacognitive processes.&nbsp;
 
 Below are some of the students’ metacognitive responses to the Math tasks.
 
@@ -26,7 +26,7 @@ Below are some of the students’ metacognitive responses to the Math tasks.
 
 ##### Problem-solving strategies  
 
-Students will face with problems coming from everyday contexts or in future work situations. Having developed a wide repertoire of problem-solving skills and critical thinking, students will then be able to apply their knowledge to solve complex and non-routine tasks. Some of the general problem-solving strategies will include the Polya’s problem solving strategy and the use of heuristics.   
+Students will face with problems coming from everyday contexts or in future work situations. Having developed a wide repertoire of problem-solving skills and critical thinking, students will then be able to apply their knowledge to solve complex and non-routine tasks. Some of the general problem-solving strategies will include the Polya’s problem solving strategy and the use of heuristics.&nbsp;  
 
   
 
@@ -34,7 +34,7 @@ Students will face with problems coming from everyday contexts or in future work
 
   
 
-George Polya was a mathematician in the 1940s. He devised a systematic process for solving problems that is now referred to by his name, the Polya 4-Step Problem-Solving Process. 
+George Polya was a mathematician in the 1940s. He devised a systematic process for solving problems that is now referred to by his name, the Polya 4-Step Problem-Solving Process.&nbsp;
 
   
 
@@ -42,39 +42,39 @@ Polya’s 4-step is used to guide our students to systematically approach and so
 
   
 
-Step 1: **Understand** the problem
+Step 1:&nbsp;**Understand**&nbsp;the problem
 
 *   Read the problem carefully to understand what is required in the problem.
-*   Draw or write down the information given in the problem in a simpler form 
+*   Draw or write down the information given in the problem in a simpler form&nbsp;
 
-Step 2: **Plan** what to do/Devise a plan
+Step 2:&nbsp;**Plan**&nbsp;what to do/Devise a plan
 
 *   Choose a strategy to use to solve the problem
 
-Step 3: **Do** it/Carry out the plan
+Step 3:&nbsp;**Do**&nbsp;it/Carry out the plan
 
 *   Carry out your plan to solve the problem.
 
-Step 4: **Check** the solution
+Step 4:&nbsp;**Check**&nbsp;the solution
 
 *   Check the reasonableness of your solution
-*   Seek alternative solutions 
+*   Seek alternative solutions&nbsp;
 
-The common **Heuristics** to solve problems also include: 
+The common&nbsp;**Heuristics**&nbsp;to solve problems also include:&nbsp;
 
 *   Make a systematic listing
 *   Guess and check / Make a supposition or assumption
 *   Simplify the problem
 *   Look for a pattern
-*   Work backwards 
+*   Work backwards&nbsp;
 
-**Model drawing** is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
+**Model drawing**&nbsp;is an important problem-solving strategy that enables students to translate information of the given problem into a pictorial form which aid students’ understanding of the problem. As the students advance in Math learning, the more complex problem sums can be broken down using model drawing. Students learn to visualize different parts of the information to see how the parts are related to one another to form a larger pattern. Many of the more complex model drawings are permutations from the basic part-whole and comparison models from the lower primary. Therefore, it is an essential problem-solving skill that will anchor the students’ problem-solving competency.
 
 ![](/images/Model%20drawing.jpg)
 
 ##### Learn-with-Technology tasks
 
-In the digital era, students must be equipped with the necessary knowledge, skills, and dispositions to thrive in an interconnected, diverse, and rapidly changing world. The secondary and higher learning institution students have been learning through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning. In Admiralty Primary, we would like to prepare our students early for this blended learning experience.   
+In the digital era, students must be equipped with the necessary knowledge, skills, and dispositions to thrive in an interconnected, diverse, and rapidly changing world. The secondary and higher learning institution students have been learning through a mix of home-based and in-school activities, and leverage both online and offline approaches to learning. In Admiralty Primary, we would like to prepare our students early for this blended learning experience.&nbsp;  
 
   
 
@@ -88,19 +88,19 @@ LwT tasks also go beyond the classrooms with the intentional extension of topics
 
 ##### Differentiated Instructions
 
-At Admiralty Primary, we believe that every child can learn Math. The department provides additional support to the students who need more guidance and help in learning Math through specialized early intervention programmes like **Learning Support for Math (LSM).**
+At Admiralty Primary, we believe that every child can learn Math. The department provides additional support to the students who need more guidance and help in learning Math through specialized early intervention programmes like&nbsp;**Learning Support for Math (LSM).**
 
   
 
-LSM is an early intervention effort that provides additional support to students who do not have the necessary foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Students who need such early intervention are identified at the beginning of their Primary 1 education. Specially trained LSM teachers are assigned to teach and guide these students. The LSM lessons are structured with lots of hands-on work with concrete materials and factual fluency to strengthen the Math foundation of the students. 
+LSM is an early intervention effort that provides additional support to students who do not have the necessary foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Students who need such early intervention are identified at the beginning of their Primary 1 education. Specially trained LSM teachers are assigned to teach and guide these students. The LSM lessons are structured with lots of hands-on work with concrete materials and factual fluency to strengthen the Math foundation of the students.&nbsp;
 
   
 
-The students are grouped into smaller groups so that each student would receive more personal attention from the LSM teachers, and these students focus on small successes to build on their motivation to learn Math. There are regular check points to assess the students’ learning. Students who improve and cope better with the foundational numeracy skills and knowledge will ultimately graduate from the LSM programme. Students who still need such support after their lower primary years will continue to be supported at their mid-primary years. 
+The students are grouped into smaller groups so that each student would receive more personal attention from the LSM teachers, and these students focus on small successes to build on their motivation to learn Math. There are regular check points to assess the students’ learning. Students who improve and cope better with the foundational numeracy skills and knowledge will ultimately graduate from the LSM programme. Students who still need such support after their lower primary years will continue to be supported at their mid-primary years.&nbsp;
 
   
 
-Students who have a passion in learning Math are given opportunities to further develop and strengthen their math reasoning skills with the incorporation of **Excellence 2000 (E2K)** Math resources in their math lessons. The students learn to deepen their conceptual understanding through an inquiry approach. They work either independently or collaborate with their peers in mathematical explorations such as games and puzzles as well as mathematical investigations. Such tasks are usually open-ended in nature to facilitate the thinking, reasoning, and to raise students’ awareness that not all math problems have a fixed one answer solution. 
+Students who have a passion in learning Math are given opportunities to further develop and strengthen their math reasoning skills with the incorporation of&nbsp;**Excellence 2000 (E2K)**&nbsp;Math resources in their math lessons. The students learn to deepen their conceptual understanding through an inquiry approach. They work either independently or collaborate with their peers in mathematical explorations such as games and puzzles as well as mathematical investigations. Such tasks are usually open-ended in nature to facilitate the thinking, reasoning, and to raise students’ awareness that not all math problems have a fixed one answer solution.&nbsp;
 
   
 
@@ -108,15 +108,15 @@ Students who have a passion in learning Math are given opportunities to further 
 
   
 
-**Primary 1 & 2** 
+**Primary 1 &amp; 2**&nbsp;
 
   
 
-There have been no weighted assessments for Primary 1 and 2 students since 2019 when MOE removed all mid-year and year-end examinations for the lower primary years to encourage schools to assess students holistically. In line with the holistic assessment, Admiralty Primary uses **subject specific learning outcomes** (LO) and **qualitative feedback** to report **Primary 1 and 2 students’ progress** at the end of Semester 1 and 2. These holistic reports which provide overall feedback to parents on the learning progress will also include recommended strategies on how parents could help and support their students’ learning at home. Admiralty Primary recognises the importance of building students’ confidence and intrinsic motivation to learn at an early age. All these changes build on efforts to inculcate the joy of learning, subject mastery and self-discovery. 
+There have been no weighted assessments for Primary 1 and 2 students since 2019 when MOE removed all mid-year and year-end examinations for the lower primary years to encourage schools to assess students holistically. In line with the holistic assessment, Admiralty Primary uses&nbsp;**subject specific learning outcomes**&nbsp;(LO) and&nbsp;**qualitative feedback**&nbsp;to report&nbsp;**Primary 1 and 2 students’ progress**&nbsp;at the end of Semester 1 and 2. These holistic reports which provide overall feedback to parents on the learning progress will also include recommended strategies on how parents could help and support their students’ learning at home. Admiralty Primary recognises the importance of building students’ confidence and intrinsic motivation to learn at an early age. All these changes build on efforts to inculcate the joy of learning, subject mastery and self-discovery.&nbsp;
 
   
 
-**Primary 3 to Primary 6** 
+**Primary 3 to Primary 6**&nbsp;
 
   
 
@@ -132,7 +132,7 @@ As part of our teaching and learning processes, teachers plan and execute their 
 
   
 
-Since 2020, there have been no mid-year examinations (MYE) for Primary 3 and Primary 5 students, and MYE for Primary 4 students was also removed in 2022. Therefore, Primary 3 to Primary 5 students will have weighted assessments (WA) for terms 2 and 3, and End-of-Year Examination (EOY Exam) in Term 4. 
+Since 2020, there have been no mid-year examinations (MYE) for Primary 3 and Primary 5 students, and MYE for Primary 4 students was also removed in 2022. Therefore, Primary 3 to Primary 5 students will have weighted assessments (WA) for terms 2 and 3, and End-of-Year Examination (EOY Exam) in Term 4.&nbsp;
 
   
 
@@ -140,7 +140,7 @@ Primary 6 students will have their term 2 WA and continue to have their Prelimin
 
   
 
-In addition to the term WA, Admiralty Primary also included Math LwT tasks and Performance Task (P3) as part of weighted assessments. The purpose of incorporating alternative tasks as part of the weighted assessments provides a more holistic assessment of the students’ overall mathematical competency throughout the year. This will also help to reduce students’ test anxiety when the reporting is not entirely dependent on single written tests. 
+In addition to the term WA, Admiralty Primary also included Math LwT tasks and Performance Task (P3) as part of weighted assessments. The purpose of incorporating alternative tasks as part of the weighted assessments provides a more holistic assessment of the students’ overall mathematical competency throughout the year. This will also help to reduce students’ test anxiety when the reporting is not entirely dependent on single written tests.&nbsp;
 
   
 
@@ -286,44 +286,13 @@ In line with the PSLE new scoring system in 2020, the mark range and Achievement
 
 #### Department Programme
 
-##### *   Koobits programme
+#####    Koobits programme
 
 Admiralty Primary has engaged an online math learning portal from Singapore, KooBits Problem Sums, as an additional learning resource for our students. This portal is developed to help build problem-solving skills in our students and to promote self-directed learning. Our students can access Self-Practice, Homework, Mock Tests in the system, and be engaged in daily activities and Math games to earn points and win prizes. This technology-assisted learning platform is used to promote independent and self-directed learning.
 
 
-<a href="https://drive.google.com/file/d/19yQB1pM5vSHUkDJbkPC5WXc-WUoe7nvt/view?usp=sharing_eil_m&ts=630735ac"><img src="/images/Koobits%20Winners.jpg" 
-     style="width:60%">
+<a href="https://drive.google.com/file/d/19yQB1pM5vSHUkDJbkPC5WXc-WUoe7nvt/view?usp=sharing_eil_m&amp;ts=630735ac"><img src="/images/Koobits%20Winners.jpg" style="width:60%">
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 1</span><br>
-	<a href=https://drive.google.com/file/d/1hfo63cPPuta874Fat0xO0Ty6FMeumeYN/view?usp=sharing_eil_m&ts=630735cc>
-<img src="/images/Term1.jpeg"width="215" height="113">
-</a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 2</span><br><a href=https://drive.google.com/file/d/1AUAjAyWRBf0MqfXixaQjEQuACXlnpk5T/view?usp=sharing_eil_m&ts=630735d3">
-<img src="/images/Term2.jpeg" width="100" height="132">
-</a></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Term 3</span><br><a href=https://drive.google.com/file/d/14P8OguAempm21p675URTaYEML__MUEe6/view?usp=sharing_eil_m&ts=630735d9>
-<img src="/images/Term3.jpeg" width="100" height="132">
-</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ku5w" colspan="3"><span style="color:#222;background-color:#EAEAEA">Click on the image to view winners list</span><br></td>
-  </tr>
-</tbody>
-</table>
 
 ##### Family Math
 
@@ -350,9 +319,9 @@ Mathematics Learning Journeys provide opportunities for students to explore and 
 
 Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony. The programme provides nuggets of Math information which include history of Mathematics and application of Mathematics concepts in real life The programme aims to help our students connect their learning to the real-world context and inspire them to appreciate Mathematics.
 
-<a href="https://drive.google.com/file/d/18MOm-EK0tHIOl4Tci10fInelPZ3bv6Ll/view?usp=sharing_eil_m&ts=62ee7d35">![](/images/AMMA.jpg)
+</a><a href="https://drive.google.com/file/d/18MOm-EK0tHIOl4Tci10fInelPZ3bv6Ll/view?usp=sharing_eil_m&amp;ts=62ee7d35">![](/images/AMMA.jpg)
 
-#### *   Celebration of Learning 2021
+####    Celebration of Learning 2021
 
 * [Primary 1](https://drive.google.com/file/d/14EZHn4ob22LGFvNT_P5sQ_KyImt7Ding/view)
 
@@ -362,4 +331,4 @@ Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony
 
 * [Primary 4](https://drive.google.com/file/d/1juKm2y7q-LYVrd-T38oTQgalFSXQix7H/view)
 
-* [Primary 5 &  Primary 6](https://drive.google.com/file/d/1tu24FMdTYMPp3UhQvTswDnTFQuwYGc9c/view)
+* [Primary 5 &amp;&nbsp;&nbsp;Primary 6](https://drive.google.com/file/d/1tu24FMdTYMPp3UhQvTswDnTFQuwYGc9c/view)</a>
