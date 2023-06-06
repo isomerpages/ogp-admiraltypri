@@ -12,11 +12,11 @@ third_nav_title: Mother Tongue
 
 **Members**
 
-Mdm Norfahizah Bte Abdul Majid (YH P3/P4)
-Mdm Sanisah Bte Slam
-Mdm Khatijah Bte Che Din
-Mdm Nurhasliza Bte Hashim
-Mdm Nur Shaliza Bte Zulkifli
+* Mdm Norfahizah Bte Abdul Majid (YH P3/P4)
+* Mdm Sanisah Bte Slam
+* Mdm Khatijah Bte Che Din
+* Mdm Nurhasliza Bte Hashim
+* Mdm Nur Shaliza Bte Zulkifli
 
 
 ### Programmes
