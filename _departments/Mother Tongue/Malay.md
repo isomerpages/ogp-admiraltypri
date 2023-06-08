@@ -8,37 +8,16 @@ third_nav_title: Mother Tongue
 
 #### People
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sc4m{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ryel{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sc4m"><span style="color:#323232">Subject Head</span></th>
-    <th class="tg-sc4m"><span style="color:#323232">Mdm Norfahizah Abdul Majid</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ryel">ML Coordinator</td>
-    <td class="tg-ryel">Mdm Hamimah Ansor</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-ryel">Members</td>
-    <td class="tg-ryel">Mdm Daing Noor Ashikin Bahnan Mdm Sanisah Slam Mdm Khatijah Che Din Mdm Nurhasliza Bte Hashim Ms Nur Shaliza Zulkifli</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+**ML Coordinator**  :  Mdm Hamimah Ansor
+
+**Members**
+
+* Mdm Norfahizah Bte Abdul Majid (YH P3/P4)
+* Mdm Sanisah Bte Slam
+* Mdm Khatijah Bte Che Din
+* Mdm Nurhasliza Bte Hashim
+* Mdm Nur Shaliza Bte Zulkifli
+
 
 ### Programmes
 
