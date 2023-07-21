@@ -4,15 +4,12 @@ permalink: /cca/Club-and-Societies/infocomm-technology/
 description: ""
 third_nav_title: Club & Societies
 ---
-
-# Infocomm Technology
-
-**Goal**
+### Goal
 
 - To enable pupils to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 - To nurture pupils to be confident, tech-savvy and responsible digital learners.
 
-**Objectives**
+### Objectives
 
 Pupils will be able to:
 
@@ -20,7 +17,7 @@ Pupils will be able to:
 2. Apply the relevant skills acquired by taking part in Infocomm Technology.
 3. Contribute their knowledge and skills learnt to the school through school project collaborations with other CCA or committees
 
-**Overview**
+### Overview
 
 Our Infocomm Technology modules include :
 
@@ -34,19 +31,19 @@ Our Infocomm Technology modules include :
 
 Pupils will also apply the knowledge and skills acquired through the Website Design to create and build their own electronic portfolio. This e-portfolio is used to store their projects, photos and other school-related work over the years. It will also serve as a tool for DSA application whereby the pupil can use their e-portfolio to display their work.
 
-**Teachers-in-Charge**
+### Teachers-in-Charge
 
 - Mdm Hamimah Ansor - hamimah_ansor@moe.edu.sg
 - Mdm Christy Chan - chan_siew_li@moe.edu.sg
 - Mdm Ng Soek Mui - ng_soek_mui@moe.edu.sg
 
-**Schedule**
+### Schedule
 
 - Modules are taught during CCA lessons and are planned on a semesterly basis
 - Pupils will be given extra coaching and training prior to any competitions or projects due
 - Consent forms will be issued to pupils where necessary before any coaching or training takes place
 
-**Achievements**
+### Achievements
 
 |                                              |                 |
 | -------------------------------------------- | --------------- |
@@ -59,7 +56,7 @@ Pupils will also apply the knowledge and skills acquired through the Website Des
 | RoboCupJunior CoSpace Pei Hwa Challenge 2013 | – 1st           |
 | Clay Play 2012                               | – 3rd           |
 
-**Additional info**
+### Additional info
 
 - CCA lessons will be conducted in our school computer labs (Google Lab 1 & 2) from 7.40am to 9.40am every Monday.
 - The CCA Leaders will issue each pupil with a device. Types of devices used will be based on the module requirements. There is no need for pupils to bring their own device during their CCA lessons.
