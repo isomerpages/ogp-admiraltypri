@@ -4,10 +4,11 @@ permalink: /cca/Uniform-Groups/scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---
-# Scouts
+![](/images/CCA/option%202%20csltc%202023.png)
+
 To develop and enable young people in Singapore to become responsible and active citizens through the Mission of Scouting.
 
-# Objectives
+### Objectives
 
 **Responsibility**
 
@@ -17,7 +18,7 @@ To provide a group environment which is intellectually stimulating, physically v
 
 To equip the members with life skills and nurture independence, teamwork and leadership qualities in the members.
 
-# Overview
+### Overview
 **Skills**
 
 -	Presentation skills (demonstrated through attaining Arrow and proficiency badges), 
@@ -34,11 +35,11 @@ To equip the members with life skills and nurture independence, teamwork and lea
 -	Responsibility
 -	Teamwork
 
-# Schedule
+### Schedule
 
 Monday CCA Sessions:  0740 – 0940
 
-# Teachers 
+### Teachers 
 
 * <a href="mailto:chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
 
@@ -50,7 +51,7 @@ Monday CCA Sessions:  0740 – 0940
 * <a href="mailto:mohammad_nursaffwan_othman@moe.edu.sg"> Mr Saffwan</a>
 
 
-# Additional info
+### Additional info
 
 There is no specific requirement or any other requisite to enter the CCA. Currently, Admiralty Cub Scouts is only recruiting boys. 
 
