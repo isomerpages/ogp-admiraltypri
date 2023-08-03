@@ -307,7 +307,10 @@ Family Math activities are designed to engage families in the students’ learni
 Math@Lunch is conducted once every term during lunch hour near the canteen area to foster interest in Math. Our students get to experience different Math-related activities such as Math video screening, games, and quizzes after enjoying their meals. The objective of the programme is to encourage students to do Mathematics outside the classroom and to inculcate their interest in using Mathematics through the fun activities. Students get to play various digital Math games or hands-on manipulatives such as number cards, tangrams, and board games. They can also win tokens by participating in the booth challenge or online quizzes.
 
 ![](/images/Math%20Lunch.jpg)
-
+![](/images/2023_math_slide1.JPG)
+![](/images/2023_math_slide2.JPG)
+	
+[Click here for a video](https://drive.google.com/file/d/1wjnScQZASHl8NxrdRwXsZJiuzY_9M0WH/view?usp=sharing)	
 ##### Math Learning Journey / Math E-Learning Journey
 
 Mathematics Learning Journeys provide opportunities for students to explore and develop appreciation of Mathematics elements around them in a real-world context. Students are also encouraged to apply mathematical skills to solve real-life problems through the tasks given. In recent years because of Covid situation, the format of the learning journeys has been changed from a physical one to a virtual learning journey. For instance, the Primary 4 used to visit Changi Airport for their learning journey. In 2021, the Primary 4 visited Changi Airport virtually via the Student Learning Space.
