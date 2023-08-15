@@ -27,15 +27,15 @@ description: ""
       <td class="tg-faf8">Mdm Norliyeni Bte Suhaimi</td>
     </tr>
     <tr>
-	<tr>
-      <td height="28" bgcolor="#eee"  class="tg-mdf1"><strong>Assistant Year Head P1</strong></td>
+	</tr><tr>
+      <td height="28" bgcolor="#eee" class="tg-mdf1"><strong>Assistant Year Head P1</strong></td>
       <td bgcolor="#eee" class="tg-faf8">Mdm Farhanah Banu Bte Abdul Razar</td>
 </tr>
-      <td height="28" class="tg-dgl5"><strong>Year Head P3 &amp; P4</strong></td>
+      <tr><td height="28" class="tg-dgl5"><strong>Year Head P3 &amp; P4</strong></td>
       <td class="tg-zr06">Mdm Norfahizah A Majid</td>
     </tr>
 		<tr>
-      <td bgcolor="#eee" height="28"  class="tg-dgl5"><strong>Year Head P4 &amp; P5</strong></td>
+      <td bgcolor="#eee" height="28" class="tg-dgl5"><strong>Year Head P4 &amp; P5</strong></td>
       <td bgcolor="#eee" class="tg-zr06">Mr Lim Yew Beng</td>
  </tr>
     <tr>
@@ -529,7 +529,7 @@ Disable ends here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>6 ED</strong></td>
       <td class="tg-faf8">Mr Chua Shin Huat<br></td>
-      <td class="tg-faf8">Mdm Hamimah Bte Ansori<br></td>
+      <td class="tg-faf8">Mdm Hamimah Bte Ansor<br></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
