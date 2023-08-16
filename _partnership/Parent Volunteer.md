@@ -22,4 +22,4 @@ We would like to encourage parents who are looking forward to securing a spot fo
 
 ##### PV Website
 
-[Click here to access](https://sites.google.com/moe.edu.sg/parentvolunteer/home)
+[Click here to access](https://sites.google.com/moe.edu.sg/parentvolunteer/pv)

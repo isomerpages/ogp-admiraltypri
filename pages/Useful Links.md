@@ -33,6 +33,8 @@ description: ""
 
 #### Newsletter
 
+[Admiral's Buzz Newsletter 2023](/files/admiral's%20buzz%20newsletter%202023.pdf)
+
 [Parents Connect - Issue 1](/files/PARENTS%20CONNECT%20@%20ADPS%20Issue%201.pdf)
 
 [Parents Connect - Issue 2](/files/Parents%20Connect%20@ADPS%20Issue%202.pdf)
