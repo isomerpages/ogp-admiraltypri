@@ -596,8 +596,8 @@ Disable ends here -->
       <td class="tg-zr06">ICT Manager</td>
     </tr>
     <tr>
-      <td height="28" class="tg-zr06">Mrs Leo</td>
-      <td class="tg-zr06">IT Trainer</td>
+      <td height="28" class="tg-zr06">Mrs Sharmila Leo</td>
+      <td class="tg-zr06">ICT Associate</td>
     </tr>
     <tr>
       <td height="28" class="tg-zr06">Mr Muhd Afiq Bin Mohd Ghaus</td>
@@ -628,7 +628,7 @@ Disable ends here -->
       <td class="tg-zr06">Admin Executive</td>
     </tr>
     <tr>
-      <td height="28" class="tg-zr06">Mdm Tan Geoh Ngee</td>
+      <td height="28" class="tg-zr06">Mdm Maziah Zainudin</td>
       <td class="tg-zr06">Admin Executive</td>
     </tr>
     <tr>
