@@ -3,7 +3,6 @@ title: School Canteen Advertisement
 permalink: /permalink/
 description: ""
 ---
-
 \<style>
 table, th, td {
   border:1px solid black;
@@ -44,3 +43,4 @@ table, th, td {
 <li>	Food must be served hot. </li>
 <li>	The above proposed menu list is negotiable and is subject to change by the School Canteen Committee. </li>
 	</ul>
+	
