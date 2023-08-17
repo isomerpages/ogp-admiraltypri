@@ -3,7 +3,8 @@ title: School Canteen Advertisement
 permalink: /permalink/
 description: ""
 ---
-\<style>
+
+	<style>
 table, th, td {
   border:1px solid black;
 }
@@ -44,3 +45,24 @@ table, th, td {
 <li>	The above proposed menu list is negotiable and is subject to change by the School Canteen Committee. </li>
 	</ul>
 	
+#### Application and Submission
+
+1. 1.	Download and complete the [application form](/files/application_for_canteen_stall.pdf) You may also request for a hardcopy from the School’s General Office 
+2. 	Attached the following documents together with the application form:
+<ul>
+	<li>One recent passport-sized coloured photograph</li>
+<li>Photocopy of NRIC (front and back)</li>
+	<li>	Proposed Healthy Set meal menu and price list of each set meal size </li>
+<li>	Photocopy of Basic Food Hygiene Certificate and Certificate of Participation for Culinary Training Workshop for HMSP by HPB (if any) </li>
+</ul>
+3. The completed application form with the required documents must be submitted to the school General Office by closing date either by hand or post. <ul><li>Address: 11 Woodlands Circle, S738907 </li> <li>Contact No: 6362 0598 </li> <li>Contact Person: Mdm Maziah </li></ul>
+4. Late or incomplete applications will be rejected.
+5. Only shortlisted applicants will be required to attend an interview and food-tasting session where applicable at his/her own expense.
+
+##### How to get there?
+*   Nearest MRT: Admiralty MRT Station (NS10) – 10 minutes walking distance
+*   Bus number: 
+<ul> 
+	<li>913 – 3 minutes walking distance </li>
+<li>904, 964, 965, 965A, 965T and 969 – 10 minutes walking distance</li>
+	</ul>
