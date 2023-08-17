@@ -3,8 +3,7 @@ title: School Canteen Advertisement
 permalink: /permalink/
 description: ""
 ---
-
-	<style>
+<style>
 table, th, td {
   border:1px solid black;
 }
@@ -29,25 +28,24 @@ table, th, td {
 </table>
 
 #### Requirements
-<ul>
-<li>	Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above. </li>
-<li>	Able to provide good service and quality food at reasonable prices in consultation with the School. </li>
-<li>	Able to observe high standard of food and personal hygiene that meet Singapore Food Agency (SFA) requirements. </li>
-<li>	Has catering experience, preferably with running a stall in a school canteen.
-</li><li>		Both applicant and stall assistant(s) must have completed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency). Upon successful application, the applicant will be required to apply for an operating licence from Singapore Food Agency (SFA). </li>
-<li>	Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines. For more details please refer HPB’s website [HMSP Guidelines](/files/hmsp_guidelines.pdf) </li>
-<li>		Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school. </li>
-<li>		Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school. </li>
-<li>	Must be in personal attendance at the stall during operating hours. </li>
-<li>		If successful, stallholder can commence canteen service from the above stated operational date onwards. </li>
-<li>	Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria. </li>
-<li>	Food must be served hot. </li>
-<li>	The above proposed menu list is negotiable and is subject to change by the School Canteen Committee. </li>
-	</ul>
+* Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above. 
+* Able to provide good service and quality food at reasonable prices in consultation with the School. 
+* Able to observe high standard of food and personal hygiene that meet Singapore Food Agency (SFA) requirements. 
+* Has catering experience, preferably with running a stall in a school canteen.
+* Both applicant and stall assistant(s) must have completed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency). Upon successful application, the applicant will be required to apply for an operating licence from Singapore Food Agency (SFA). 
+* Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines. For more details please refer HPB’s website @  [HMSP Guidelines](/files/hmsp_guidelines.pdf)
+* Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school. 
+* Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.
+* 	Must be in personal attendance at the stall during operating hours. 
+* If successful, stallholder can commence canteen service from the above stated operational date onwards.
+* Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria. 
+* Food must be served hot.
+* The above proposed menu list is negotiable and is subject to change by the School Canteen Committee. 
+
 	
 #### Application and Submission
 
-1. 1.	Download and complete the [application form](/files/application_for_canteen_stall.pdf) You may also request for a hardcopy from the School’s General Office 
+1. Download and complete the [application form](/files/application_for_canteen_stall.pdf) You may also request for a hardcopy from the School’s General Office 
 2. 	Attached the following documents together with the application form:
 <ul>
 	<li>One recent passport-sized coloured photograph</li>
