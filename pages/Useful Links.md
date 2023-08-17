@@ -14,9 +14,9 @@ description: ""
  | [Student iCON](https://workspace.google.com/dashboard)     | [Password reset form (iCON/SLS)](https://forms.gle/bd2dREPKXXsBuiiq6)    |
  | [Google classroom](Workspace.google.com/dashboard)    |     |
  
-
-
-
+ 
+#### Advertisement
+[School Canteen Advertisement](/files/school%20canteen%20advertisement_202308.pdf)
 
 #### Staff
 
@@ -38,3 +38,5 @@ description: ""
 [Parents Connect - Issue 1](/files/PARENTS%20CONNECT%20@%20ADPS%20Issue%201.pdf)
 
 [Parents Connect - Issue 2](/files/Parents%20Connect%20@ADPS%20Issue%202.pdf)
+
+
