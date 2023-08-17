@@ -14,10 +14,11 @@ description: ""
  | [Student iCON](https://workspace.google.com/dashboard)     | [Password reset form (iCON/SLS)](https://forms.gle/bd2dREPKXXsBuiiq6)    |
  | [Google classroom](Workspace.google.com/dashboard)    |     |
  
-
-
-
-
+ 
+ #### Advertisement
+ 
+ [School Canteen Advertisement](/canteenad/)
+ 
 #### Staff
 
 
