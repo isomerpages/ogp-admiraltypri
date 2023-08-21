@@ -4,7 +4,6 @@ permalink: /cca/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 # Guzheng Ensemble
 
 **Goal**
@@ -30,9 +29,9 @@ To cultivate students who are
 
 **Teachers in-charge**
 
-- Mdm Christine Lee: lee_cher_hiang_christine@moe.edu.sg
-- Mdm Jin Caiyun: jin_caiyun@moe.edu.sg
-- Miss Lim Shi Hui: lim_shi_hui@moe.edu.sg
+- Mdm Christine Lee:  <a href="mailto:lee_cher_hiang_christine@moe.edu.sg">lee_cher_hiang_christine@moe.edu.sg</a>.<br> 
+- Mdm Jin Caiyun: <a href="mailto: jin_caiyun@moe.edu.sg"> jin_caiyun@moe.edu.sg</a>.<br> 
+- Miss Lim Shi Hui: <a href="mailto:lim_shi_hui@moe.edu.sg">lim_shi_hui@moe.edu.sg</a>.<br> 
 
 **Additional info**
 
@@ -52,3 +51,9 @@ We strongly encourage members to purchase their own Guzheng so that they will ta
 
 - Encourage him/ her to practice at home what he/ she has learnt during CCA sessions. We recommend our members to practice daily.
 - Offer him/ her words of encouragement whenever he/ she is struggling to master a certain skill or song. Allow him/ her to use additional online resources, eg. tutorial videos from YouTube or other web-sites. For e-CCA, all online lesson will be recorded and posted on Google Classroom.
+
+![2023 Guzheng 1](/images/2023%20guzheng1.jpg)
+
+![2023 Guzheng 1](/images/2023%20guzheng2.jpg)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ADPS Gucheng - SYF 2022" src="https://www.youtube.com/embed/ndG39uwAOcE" height="500" width="100%"></iframe>
