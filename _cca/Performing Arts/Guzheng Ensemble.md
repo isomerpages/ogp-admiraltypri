@@ -56,4 +56,4 @@ We strongly encourage members to purchase their own Guzheng so that they will ta
 
 ![2023 Guzheng 1](/images/2023%20guzheng2.jpg)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ADPS Gucheng - SYF 2022" src="https://www.youtube.com/embed/ndG39uwAOcE" height="500" width="640"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ADPS Gucheng - SYF 2022" src="https://www.youtube.com/embed/ndG39uwAOcE" height="500" width="100%"></iframe>
