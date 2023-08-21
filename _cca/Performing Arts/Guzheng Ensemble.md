@@ -52,4 +52,4 @@ We strongly encourage members to purchase their own Guzheng so that they will ta
 - Encourage him/ her to practice at home what he/ she has learnt during CCA sessions. We recommend our members to practice daily.
 - Offer him/ her words of encouragement whenever he/ she is struggling to master a certain skill or song. Allow him/ her to use additional online resources, eg. tutorial videos from YouTube or other web-sites. For e-CCA, all online lesson will be recorded and posted on Google Classroom.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ndG39uwAOcE" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="ADPS Gucheng - SYF 2022" src="https://www.youtube.com/embed/ndG39uwAOcE" height="315" width="560"></iframe>
