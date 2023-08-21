@@ -30,8 +30,8 @@ To cultivate students who are
 **Teachers in-charge**
 
 - Mdm Christine Lee:  <a href="mailto:lee_cher_hiang_christine@moe.edu.sg">lee_cher_hiang_christine@moe.edu.sg</a>.<br> 
-- Mdm Jin Caiyun: jin_caiyun@moe.edu.sg
-- Miss Lim Shi Hui: lim_shi_hui@moe.edu.sg
+- Mdm Jin Caiyun: <a href="mailto: jin_caiyun@moe.edu.sg"> jin_caiyun@moe.edu.sg</a>.<br> 
+- Miss Lim Shi Hui: <a href="mailto:lim_shi_hui@moe.edu.sg">lim_shi_hui@moe.edu.sg</a>.<br> 
 
 **Additional info**
 
