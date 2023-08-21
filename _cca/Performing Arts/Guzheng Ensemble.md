@@ -4,7 +4,6 @@ permalink: /cca/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 # Guzheng Ensemble
 
 **Goal**
@@ -30,7 +29,7 @@ To cultivate students who are
 
 **Teachers in-charge**
 
-- Mdm Christine Lee: lee_cher_hiang_christine@moe.edu.sg
+- Mdm Christine Lee:  <a href="mailto:lee_cher_hiang_christine@moe.edu.sg">lee_cher_hiang_christine@moe.edu.sg</a>.<br> 
 - Mdm Jin Caiyun: jin_caiyun@moe.edu.sg
 - Miss Lim Shi Hui: lim_shi_hui@moe.edu.sg
 
