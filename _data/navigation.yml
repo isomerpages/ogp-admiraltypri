@@ -13,7 +13,7 @@ links:
         url: /cca/cca-programmes/
       - title: DSA & ECG
         url: /programmes/dsa-ecg/
-      - title: "Learning for Life Programme "
+      - title: Learning for Life Programme
         url: /programmes/learning-for-life-programme-llp/
       - title: Junior Entrepreneurship (JEP)
         url: /programmes/junior-entrepreneurship-programme-jep/
@@ -25,5 +25,7 @@ links:
         url: /programmes/overseas-learning-journey/
       - title: ADPS Virtual Run
         url: /programmes/adps-virtual-run/
+      - title: Healthy Eating Campaign
+        url: /programmes/healthy-eating-campaign/
   - title: Partnership
     collection: partnership
