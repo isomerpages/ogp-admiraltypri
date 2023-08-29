@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Healthy Eating Campaign.md
       - DSA & ECG.md
       - Learning for Life Programme (LLP).md
       - Junior Entrepreneurship Programme (JEP).md
