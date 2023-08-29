@@ -11,4 +11,5 @@ You have seen the active lifestyle that is happening in ADPS, now we are introdu
 
 [Click here for details](https://adps.my.canva.site)
 
-![Healthy Eating Campaign](/images/healthy%20eating%20campaign.jpeg)
+<a href="https://adps.my.canva.site"><img title="ADPS Healthy Eating Campaign" alt="ADPS Healthy Eating Campaign Poster" src="/images/healthy%20eating%20campaign.jpeg"></a>
+
