@@ -15,9 +15,6 @@ description: ""
  | [Google classroom](Workspace.google.com/dashboard)    |     |
  
  
-#### Advertisement
- 
- [School Canteen Advertisement](/canteenad/)
  
 #### Staff
 
