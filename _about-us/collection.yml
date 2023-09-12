@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal’s Message/Principal’s Message.md
       - Principal’s Message/.keep
       - School History.md
       - School Core Values, Vision and Mission.md
