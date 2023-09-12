@@ -30,5 +30,7 @@ I hope my personal reflections and suggestions can serve as food for thought. In
 Thank you for your continued partnership and support.
 
 Yours sincerely,
+
 Mr Chen Zhongyi
+
 Principal
