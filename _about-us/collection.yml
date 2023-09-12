@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal’s Message/2023 Term 1 Message.md
+      - Principal’s Message/2023 Term 2 Message.md
       - Principal’s Message/Message for year 2023.md
       - Principal’s Message/.keep
       - School History.md
