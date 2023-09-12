@@ -59,5 +59,3 @@ Yours faithfully,
 Mr Chen Zhongyi
 
 Principal
-
-
