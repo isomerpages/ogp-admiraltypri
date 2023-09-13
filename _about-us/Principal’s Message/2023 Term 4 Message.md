@@ -56,6 +56,5 @@ Thank you for your continued support and partnership, parents and guardians. Our
  
 Yours faithfully,
 
-Mr Chen Zhongyi
-
+<b>Mr Chen Zhongyi</b> <br>
 Principal
