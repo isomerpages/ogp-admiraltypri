@@ -54,7 +54,9 @@ As we inch towards our Preliminary Examinations (Term 3) and PSLE (Oral in Term 
 
 Nevertheless, I must emphasise to all our young Admirals – the examinations and accompanying grades at the end of the day do not define who you are. The PSLE, for example, is only one check point in your academic journey to give you feedback on how you are faring at that point in time. Learning is for life – it did not start with the PSLE, and it certainly does not end with the completion of the PSLE. As a matter of fact, the subsequent choice of your secondary school, in discussion with your parents, will signal an exciting time for you after your primary level experience with ADPS. I highly encourage all children and parents to spend some time to think about the secondary school choice and gather more information to help you make an informed decision. Should you have doubts in this area, our P6 teachers would be more than happy to have an in-depth discussion with you.  
 
-Accompanying this letter is our Term 3 calendar of events. As we embark on an exciting Term 3, we look forward to our continued partnership as we grow our children into inspiring and empathetic leaders with a strong global outlook.  Thank you! 
+Accompanying this letter is our Term 3 calendar of events. As we embark on an exciting Term 3, we look forward to our continued partnership as we grow our children into inspiring and empathetic leaders with a strong global outlook.  
 
+Thank you!
 
-
+<b>Mr Chen Zhongyi</b> <br>
+Principal
