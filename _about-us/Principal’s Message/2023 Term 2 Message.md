@@ -15,7 +15,7 @@ I hope everyone had an opportunity to recharge and spend quality time with our l
 
 When I reflect upon all the meaningful experiences and learning that took place for our young Admirals in Term 1, I look forward to Term 2 – and beyond – with a lot of positivity and optimism. On the national front, the COVID-19 situation is now endemic and the DORSCON level has been stepped down from Yellow to Green with effect from 13 February 2023. Notwithstanding this shift in national posture, we must learn from our fight against the pandemic: everyone must continue to do our part to keep one another safe, exercise social responsibility and adopt good hygiene practices. By incorporating these good practices into our daily habits and way of life, we will be more resilient and better prepared for the next pandemic that might come our way in future. 
 
-On the school front, almost all our in-person teaching and learning (T&L) activities have resumed. You would have noticed from our school calendar that we have put in place several out-of-school learning activities (e.g. various subject-based Learning Journeys and Swimsafer) to complement classroom-based T&L. These multi-modal learning opportunities form a critical part of our holistic education at Admiralty Primary School (ADPS), and our children always look forward to these activities. For me, it is especially fulfilling when I get to hear our young Admirals chatter excitedly and reflect deeply on their experiences when they return to school. This is because learning – which comprises facets such as knowledge, skills and values – is reinforced when our children get to share their thoughts and emotions with one another, building on what each other has learnt, even after the activities have been completed. 
+On the school front, almost all our in-person teaching and learning (T&amp;L) activities have resumed. You would have noticed from our school calendar that we have put in place several out-of-school learning activities (e.g. various subject-based Learning Journeys and Swimsafer) to complement classroom-based T&amp;L. These multi-modal learning opportunities form a critical part of our holistic education at Admiralty Primary School (ADPS), and our children always look forward to these activities. For me, it is especially fulfilling when I get to hear our young Admirals chatter excitedly and reflect deeply on their experiences when they return to school. This is because learning – which comprises facets such as knowledge, skills and values – is reinforced when our children get to share their thoughts and emotions with one another, building on what each other has learnt, even after the activities have been completed. 
 
 At the start of the year, I announced our school’s theme to all ADPS staff and students – Growing Together: Gratitude, Courage, Excellence.  I also shared some of my thoughts in my Principal’s Address (that is featured on the school website), and outlined the direction for our school this year. For the rest of this Term 2 Letter, please allow me to share some deeper thoughts and observations pertaining to the value of “Gratitude”. 
 
@@ -31,6 +31,5 @@ Thank you for your continued partnership and support.
 
 Yours sincerely,
 
-Mr Chen Zhongyi
-
+<b>Mr Chen Zhongyi</b> <br>
 Principal
