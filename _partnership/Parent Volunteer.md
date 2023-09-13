@@ -3,23 +3,15 @@ title: Parent Volunteer
 permalink: /partnership/parent-volunteer/
 description: ""
 ---
-##### Parent Volunteer
+Under the Parent Volunteer Scheme, a child will be eligible to register in Phase 2B of the Primary One (P1) Registration Exercise, if he/she meets the following criteria: 
 
-Under the parent volunteer scheme, parents who volunteered their time and effort in a primary school are given an added P1 registration priority.
+* Child is a Singapore Citizen or Singapore Permanent Resident
+* Parent(s) has joined the school as a parent volunteer (PV) not later than 1 July of the year before P1 registration; and
+* Parent(s) has contributed at least 40 hours of voluntary service to the school within the PV service period. Parent Volunteers may be required to participate in the following:
+	* Support school activities
+	* Chaperone students during their learning journeys
+	* Prepare materials/resources for teaching and learning 
 
-Parents are required to put in a minimum of 40 hours of service in the primary school of their choice at least one year before their child is due for P1 registration. For example, for a child who is due for P1 registration in 2023, parents will need to complete the 40-hour service in 2022 in order to qualify for Phase 2B to register their child in the primary school.
+The school aspire to maintain a long-term partnership with its PVs. Should your child gain admission into our school, you are encouraged to continue your volunteering services by signing up with our Parent Support Group (PSG). To know more about our PSG, please click [here](https://www.admiraltypri.moe.edu.sg/partnership/parent-support-group/).
 
-In Admiralty Primary School, we value our parent volunteers and wish to continue for you to have a long-term partnership with us, even if you have completed the minimum 40 hours. Should your child successfully get a place in our school, we encourage you to sign up with our Parent Support Group (PSG).
-
-Our Parent volunteers will be able to get a chance to volunteer in the following:
-
-- Participate in our school activities such as our in-house events and our greenhouse project
-- Help our teachers to take care of our students during their learning journeys
-- Supporting our CCAs
-- Contributing to the community such as the Chinese New Year Orange Distribution
-
-We would like to encourage parents who are looking forward to securing a spot for their child in our school to join us. Call up the school to find out more!
-
-##### PV Website
-
-[Click here to access](https://sites.google.com/moe.edu.sg/parentvolunteer/pv)
+For parents who wish to join the Admiralty Primary School Parent Volunteer Scheme, please click [here](https://sites.google.com/moe.edu.sg/parentvolunteer/pv).

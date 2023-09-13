@@ -2,7 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Principal Message.md
+      - Principal’s Message/.keep
+      - Principal’s Message/Message for year 2023.md
+      - Principal’s Message/2023 Term 4 Message.md
+      - Principal’s Message/2023 Term 3 Message.md
+      - Principal’s Message/2023 Term 2 Message.md
       - School History.md
       - School Core Values, Vision and Mission.md
       - School Song & Crest.md
