@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - P1 Orientation.md
       - DSA & ECG.md
       - Learning for Life Programme (LLP).md
       - Junior Entrepreneurship Programme (JEP).md
