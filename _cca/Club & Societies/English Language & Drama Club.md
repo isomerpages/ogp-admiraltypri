@@ -4,36 +4,35 @@ permalink: /cca/Club-and-Societies/english-language-n-drama-club/
 description: ""
 third_nav_title: Club & Societies
 ---
+# English Language &amp; Drama Club
+The English Language &amp; Drama Club provides opportunities for pupils to develop a lifelong passion for the language through games and drama. Besides engaging in mindful play like Scrabble, students also learn about the various drama techniques of vocal variety, voice projection, facial and spatial awareness, tableau, improvisation etc. 
 
-# English Language & Drama Club
-
-The English Literary & Drama Club Club promotes the learning of English in a fun manner through games, literature and drama. Pupils also learn about the workings of the school library and what they can do to increase readership. With the English language becoming the most spoken language of communication, a good knowledge of the language can open up a world of opportunities for pupils.
-
-**Goal**
-
-We provide opportunities for pupils to develop lifelong passion for English Language and build character.
+Students are also involved in stagecraft; staging and production processes that include scriptwriting, stage managing (use of space and behind the scenes work e.g., sounds and lighting) and directing.
+Students’ knowledge on stagecraft will be deepened through learning journeys to MediaCorp / Wild Rice Theatre as they get to experience first-hand, what goes on behind the scenes of these theatres.
 
 **Objectives**
 
 Pupils will be able to :
 
-1. Develop social and emotional competencies while working to achieve a common creative goals
-2. Express, create and communicate confidently
-3. Contribute & listen to others in a group during competitions or performances
-4. Apply strategic thinking and decision-making skills
+1. Acquire acting and stagecraft (scriptwriting, stage managing &amp; directing) skills
+2. Explore, experiment and express themselves using the drama techniques
+3. Develop social and emotional competencies while working together to achieve a common creative goal 
+4. Apply strategic thinking and decision-making skills during competitions, performances, or activities carried out during CCA.
 
-**Overview**
 
-Pupils will be exposed to :
+**CCA Overview**
 
-1. Drama
-   Gain knowledge on Fables, Fractured Folktales, Monologue & Storytelling
-   Acquire Acting, Scriptwriting, Stage Managing, and Directing Skills
+<table>
+	<tbody><tr>
+		<td>   
+Members from the English Language and Drama club were always encouraged to audition for external productions. This will enable our members to be constantly networking, be mentored and engaged productively in the drama industry.
 
-2. Language Games
-   Display values such as respect, discipline and perseverance
-   Strengthen inter-personal intelligence by working in a team
-   Hone the aspects of linguistic competency
+The opportunity, exposure and CCA training provided members with the conducive support, experience and motivation to continue to pursue their zealous interest in acting. </td>
+	</tr>		
+	</tbody></table>
+
+
+
 
 **Schedule**
 
@@ -41,14 +40,31 @@ Practices are done during CCA sessions on Mondays from 07.40 a.m. to 9.40 a.m.
 
 **Teachers-in-Charge**
 
-Mdm Nurhasliza - nurhasliza_hashim@moe.edu.sg
-Ms Charlotte - charlotte_sng_yi_may@moe.edu.sg
-Ms Malar - a_malarvilee@moe.edu.sg
-<br>Mdm Wong - wong_ching_ching@moe.edu.sg
-<br>Ms Shaliza - nur_shaliza_zulkifli@moe.edu.sg
-<br>Mdm Normala - normala_mohamed_jais@moe.edu.sg
+Mdm Normala - normala_mohamed_jais@moe.edu.sg<br>
+Mdm Nurhasliza - nurhasliza_hashim@moe.edu.sg<br>
+Mdm Nur Shaliza - nur_shaliza_zulkifli@moe.edu.sg<br>
+Ms Malar - a_malarvilee@moe.edu.sg<br>
+
+
 
 **Achievements**
+
+**2023**
+***22nd Inter-school National Scrabble Championship 2023***
+
+Junior Division
+1st place (bowl category) 
+Katrina Bao (3 Enterprise)
+
+1st place (plate category) 
+– Lee Zhen Rui (4 Enterprise)
+
+1st place (Bowl Category) 
+– Sofea Fateha (4 Enterprise)
+
+4th Place (cup category) 
+– Lester Zhang (3 Challenge)
+
 
 **2020**
 
@@ -65,7 +81,7 @@ Ms Malar - a_malarvilee@moe.edu.sg
     • Senior Team – 1st and 3rd placing
     • Super zonal Senior Team : 4th
 4.  Marsiling Scrabble Competition
-    • Junior Team - 1st & 2nd , Highest Game Score
+    • Junior Team - 1st &amp; 2nd , Highest Game Score
     • Senior Team – 2nd, Highest Game Score
 5.  MediaCorp Filming
 
