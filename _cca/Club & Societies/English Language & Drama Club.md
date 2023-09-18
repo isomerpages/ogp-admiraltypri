@@ -109,27 +109,38 @@ Ms Malar - a_malarvilee@moe.edu.sg<br>
 ***Scrabble Competition***<br>
 <table>
 	<tbody><tr>
-		<td><b>1st in the North Division (senior team)</b>
+		<td><b>1st in the North Division (senior team)</b><br>
 Caleb Yeo Yi Xi (6 Endurance) <br>
-Duan Boyu (6 Endurance)
+Duan Boyu (6 Endurance)<br>
 Neo Yuan Hao Brendan (5 Integrity)
 		</td>
 		<td><b>2nd in the Super Zonal Division (junior team)</b><br>
-Aisyah Alyshah Amsyar (4 Courage)
-Dayyan Izdihar Bin Najib (3 Challenge)
+Aisyah Alyshah Amsyar (4 Courage)<br>
+Dayyan Izdihar Bin Najib (3 Challenge)<br>
 Lee Zhen Rui (3 Enterprise)
 		</td>
 </tr><tr>
 	<td><b>2nd in the North Division (junior team)</b><br>
-Darren Wong Wei Cong (4 Challenge)
+Darren Wong Wei Cong (4 Challenge)<br>
 Yi Yayan (3 Enterprise)
 		Tay Yu Quan Lennon (3 Endurance)</td>
 	<td><b>Best Player Award</b><br>
-Aisyah Alyshah Amsyar (4 Courage)
+Aisyah Alyshah Amsyar (4 Courage)<br>
 Caleb Yeo Yi Xi (6 Endurance)
  </td>
 	</tr>
 	</tbody></table>
+	
+**2021**
+1. The Mosaic 2021
+
+2. Top 20 positions for 2021 Scrabble Tournament for Beginners (Southeast Asia)
+- 5th (Zachary Zhuang Yao An)
+- 15th (Lim Zing Ui, Garrett)
+- 17th (Aashritha Ramesh)
+- 19th (Darren Wong Wei Cong)
+
+3. Allison Oak Soe auditioned and was selected to be amongst the cast of MOE’s video productions.
 
 **2020**
 
