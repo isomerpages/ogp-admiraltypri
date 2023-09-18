@@ -60,24 +60,50 @@ Ms Malar - a_malarvilee@moe.edu.sg<br>
 
 **2023**
 ***22nd Inter-school National Scrabble Championship 2023***
+
+<style>
+	table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+</style>
 <table>
 	<tbody><tr>
-		<td>
-Junior Division
-1st place (bowl category) 
-Katrina Bao (3 Enterprise)
-
-1st place (plate category) 
-– Lee Zhen Rui (4 Enterprise)
-
-1st place (Bowl Category) 
-– Sofea Fateha (4 Enterprise)
-
-4th Place (cup category) 
-– Lester Zhang (3 Challenge)
-		</td>
+		<td><b>Junior Division</b></td>
+		<td><b>Senior Division</b> 
+  	</td></tr>
+	<tr>
+			<td><b>1st place (bowl category): </b></td>
+			<td><b>1st place (bowl category): </b></td>
+	</tr><tr>
+		<td>- Katrina Bao (3 Enterprise)</td>
+		<td>- Issac Yeo (5 Graciousness)
+ </td>
 	</tr>
-</tbody></table>
+	<tr>
+	<td><b>1st place (plate category)</b></td>
+		<td><b>2nd place (plate category)</b></td>
+	</tr>
+	<tr>
+		<td>– Lee Zhen Rui (4 Enterprise)</td>
+		<td>- Aisyah Amsyar (5 Courage) </td>
+	</tr>
+	<tr>
+		<td>1st place (Bowl Category) </td>
+		<td><b>Merit Award (plate category)</b></td>
+	</tr>
+	<tr>
+		<td>– Sofea Fateha (4 Enterprise)</td>
+		<td>- Li Enxin (6 Courage) </td>
+	</tr><tr>
+		<td><b>4th Place (cup category) </b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>– Lester Zhang (3 Challenge)</td>
+		<td></td>	
+		</tr></tbody></table>
 
 **2020**
 
