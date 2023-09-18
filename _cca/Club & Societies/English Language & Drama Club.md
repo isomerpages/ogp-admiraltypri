@@ -58,7 +58,7 @@ Ms Malar - a_malarvilee@moe.edu.sg<br>
 
 **Achievements**
 
-**2023**
+**2023**<br>
 ***22nd Inter-school National Scrabble Championship 2023***
 
 <style>
@@ -104,6 +104,32 @@ Ms Malar - a_malarvilee@moe.edu.sg<br>
 		<td>– Lester Zhang (3 Challenge)</td>
 		<td></td>	
 		</tr></tbody></table>
+
+**2022**<br>
+***Scrabble Competition***<br>
+<table>
+	<tbody><tr>
+		<td><b>1st in the North Division (senior team)</b>
+Caleb Yeo Yi Xi (6 Endurance) <br>
+Duan Boyu (6 Endurance)
+Neo Yuan Hao Brendan (5 Integrity)
+		</td>
+		<td><b>2nd in the Super Zonal Division (junior team)</b><br>
+Aisyah Alyshah Amsyar (4 Courage)
+Dayyan Izdihar Bin Najib (3 Challenge)
+Lee Zhen Rui (3 Enterprise)
+		</td>
+</tr><tr>
+	<td><b>2nd in the North Division (junior team)</b><br>
+Darren Wong Wei Cong (4 Challenge)
+Yi Yayan (3 Enterprise)
+		Tay Yu Quan Lennon (3 Endurance)</td>
+	<td><b>Best Player Award</b><br>
+Aisyah Alyshah Amsyar (4 Courage)
+Caleb Yeo Yi Xi (6 Endurance)
+ </td>
+	</tr>
+	</tbody></table>
 
 **2020**
 
