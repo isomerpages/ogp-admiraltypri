@@ -147,3 +147,8 @@ Caleb Yeo Yi Xi (6 Endurance)
 **Additional info**
 
 We welcome pupils who have the passion, drive and mindset to learn tips and tricks from qualified instructors and teachers. No prior experience needed.
+
+![EL_Picture1](/images/el_pic1.jpg)
+![EL_Picture2](/images/el_pic2.jpg)
+![EL_Picture3](/images/el_pic3.jpg)
+![EL_Picture4](/images/el_pic4.jpg)
