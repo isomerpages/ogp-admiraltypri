@@ -35,7 +35,7 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 ### Clubs &amp; Societies
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/english-language-n-drama-club">
-<img src="/images/el_main1.png" style="width:40%">
+<img src="/images/el_main2.png" style="width:40%">
 </a>
 
 
