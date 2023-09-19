@@ -5,23 +5,26 @@ description: ""
 third_nav_title: Club & Societies
 ---
 # Visual Arts Club
+In Visual Arts (VA) Club, Admirals are given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learners. Our VA Admirals also participated in school and national events to develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
 
-In Visual Arts Club, students will be given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learner, participate in school and national events and develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
+![VA_Main1](/images/va_main1.jpg)
 
-![](/images/VA.jpg)
+![VA_Main2](/images/va_main2.jpg)
+
+![VA_Main3](/images/va_main3.jpg)
 
 **Goal**
 
-Members will develop and enhance their awareness and understanding of the world through appreciation of the visual arts. Members to articulate the logic of the formal, spatial, material, and technical elements of a work of art skilfully to express thoughts and messages.
+VA Admirals will develop and enhance their awareness and understanding of the world through appreciation of the visual arts. They get to articulate the logic of the formal, spatial, material, and technical elements of a work of art skillfully to express their thoughts and messages to the audience.
 
-![](/images/VA1.jpg)
 
-Objectives
+**Objectives**
 
-- To provide a structured and quality programme for Art Club members to sustain interest
-- To provide an experiential learning for members through various exhibitions / competitions
-- To promote a strong sense of achievement of their artworks
-  \*To create an environment for the nurturing of life skills through Art
+* To provide a structured and quality programme for VA Admirals to sustain interest
+* To provide an experiential learning for VA Admirals through various exhibitions / competitions
+* To promote a strong sense of achievement of VA Admirals’ artworks 
+* To create an environment for the nurturing of life skills through Art
+
 
 **Schedule**
 
