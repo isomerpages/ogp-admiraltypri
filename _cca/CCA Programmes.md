@@ -31,14 +31,16 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 <img src="/images/scouts.png" style="width:40%">
 </a>
 
+
 ### Clubs &amp; Societies
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/english-language-n-drama-club">
-<img src="/images/El_main.jpg" style="width:40%">
+<img src="/images/el_main1.png" style="width:40%">
 </a>
 
+
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/environmental-science-club">
-<img src="/images/environmental%20science%20club.png" style="width:40%">
+	<img src="/images/environmental%20science%20club.png" style="width:40%">
 </a>
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/infocomm-technology">
