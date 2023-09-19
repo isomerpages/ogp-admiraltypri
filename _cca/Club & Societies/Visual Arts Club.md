@@ -26,6 +26,14 @@ VA Admirals will develop and enhance their awareness and understanding of the wo
 * To create an environment for the nurturing of life skills through Art
 
 
+![VA_Main4](/images/va_main4.jpg)
+
+![VA_Main5](/images/va_main5.jpg)
+
+![VA_Main6](/images/va_main6.jpg)
+
+![VA_Main7](/images/va_main7.jpg)
+
 **Schedule**
 
 No additional sessions beyond CCA sessions on Mondays.
