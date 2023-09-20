@@ -89,7 +89,7 @@ Merit Award (plate category)
 	</tbody></table>
 
 **2022**<br>
-<u>***Scrabble Competition***</u><br>
+***Scrabble Competition***<br>
 <table>
 	<tbody><tr>
 		<td><b>1st in the North Division (senior team)</b><br>
