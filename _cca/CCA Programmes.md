@@ -31,14 +31,16 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 <img src="/images/scouts.png" style="width:40%">
 </a>
 
-### Clubs & Societies
+
+### Clubs &amp; Societies
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/english-language-n-drama-club">
-<img src="/images/english%20&%20drama%20club.png" style="width:40%">
+<img src="/images/el_main2.png" style="width:40%">
 </a>
 
+
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/environmental-science-club">
-<img src="/images/environmental%20science%20club.png" style="width:40%">
+	<img src="/images/environmental%20science%20club.png" style="width:40%">
 </a>
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/infocomm-technology">
@@ -46,7 +48,7 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 </a>
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/clubs-and-socities/design-n-innovation">
-<img src="/images/design&innovation.png" style="width:40%">
+<img src="/images/design&amp;innovation.png" style="width:40%">
 </a>
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/club-and-societies/visual-arts-club">
@@ -102,9 +104,5 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 </a>
 
 <a href="https://ogp-admiraltypri-staging.netlify.app/cca/sports/track-n-field">
-<img src="/images/track&field.png" style="width:40%">
+<img src="/images/track&amp;field.png" style="width:40%">
 </a>
-
-
-
-
