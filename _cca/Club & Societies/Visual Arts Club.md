@@ -34,6 +34,10 @@ VA Admirals will develop and enhance their awareness and understanding of the wo
 
 ![VA_Main7](/images/va_main7.jpg)
 
+Our VA Admirals have also worked hard to create Art works for the National Day Exhibition titled ‘My Singapore’. Please click on the image below to watch the behind-the-scenes video!
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KsRY2sBO7nQ?si=n0q1Uw34Ok-a8x9T" height="315" width="650"></iframe>
+
 **Schedule**
 
 No additional sessions beyond CCA sessions on Mondays.
