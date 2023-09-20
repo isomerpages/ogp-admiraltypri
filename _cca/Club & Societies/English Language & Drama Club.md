@@ -22,26 +22,9 @@ Pupils will be able to :
 
 **CCA Overview**
 
-<table>
-	<tbody><tr>
-		<td>   
-Members from the English Language and Drama club were always encouraged to audition for external productions. This will enable our members to be constantly networking, be mentored and engaged productively in the drama industry. <br>
-	
-The opportunity, exposure and CCA training provided members with the conducive support, experience and motivation to continue to pursue their zealous interest in acting. </td>
-		<td>![EL Overview1](/images/el_overview1.jpg) </td>
-	</tr>		
-	</tbody></table>
+![EL Overview1](/images/el_overview1.jpg)
 
-<table>
-	<tbody><tr>
-		<td>   
-We also encourage our members to actively participate in Scrabble Tournaments organized by Mattel since 2020.<br>
-	
-They were given an opportunity to engage and learn from renowned Scrabble experts in Mattel and even the Top Scrabble player in Singapore. 
-We have been consistently ranked in the 10 placings for two consecutive years. Last year, one of our P6s Scrabble players, Zachary Zhuang achieved 5th in the National competition and competed in the Southeast Asia level tournament.</td>
-		<td>![EL Overview1](/images/el_overview2.jpg) </td>
-	</tr>		
-	</tbody></table>
+![EL Overview2](/images/el_overview2.jpg)
 
 **Schedule**
 
