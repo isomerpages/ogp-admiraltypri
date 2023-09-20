@@ -40,17 +40,30 @@ Our VA Admirals have also worked hard to create Art works for the National Day E
 
 **Schedule**
 
-No additional sessions beyond CCA sessions on Mondays.
+Mondays [7.40 a.m. – 9.40 a.m.] <br>
+No additional sessions beyond CCA sessions on Mondays
 
 **Teachers-in-Charge**
 
-- Mdm Nuruljannah Mukasim - nuruljannah_mukasim@moe.edu.sg
-- Ms Tay Chun Fang - tay_chun_fang@moe.edu.sg
-- Ms Punitha Silverrajan - punitha_silverrajan@moe.edu.sg
+* Ms Chin Yoke Lan : chin_yoke_lan@moe.edu.sg 
+* Mdm Nuruljannah Mukasim : nuruljannah_mukasim@moe.edu.sg 
+* Mdm Farhanah Razar : farhanah_banu_abdul_razar@moe.edu.sg
+
 
 **Achievements**
 
-**2022**
+**2023** <br>
+This year’s SYF Art Exhibition, themed ‘Artist and Inspiration’, aims to nurture in students a keen appreciation for historical and cultural influences in art.
+Here are some of the art works that VA Admirals have submitted for the competition. 
+
+![2023 VA Achievement1](/images/2023_va_achievment1.png)
+
+![2023 VA Achievement2](/images/2023_va_achievment2.png)
+
+![2023 VA Achievement3](/images/2023_va_achievment3.png)
+
+
+**2022** <br>
 **Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022**
 ![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
 <b><u>CHEN RUI XI, 4 Endurance</u></b>
@@ -69,24 +82,7 @@ For Draw My Stamp Story Art Competition 2021, Liew Wen Xin received a Silver Awa
 
 ![](/images/VA4.jpg)
 
-**2020**
-
-In 2020, our talented student, Janelle’s artwork was selected and featured on one of 2020 NDP Together Pack.In the same year in collaboration with SMRT, students’ design for SMRT postcards were selected, printed and distributed to the public to inform and encourage the public to help create a safe travelling experience in trains and buses during COVID times.
-
-![](/images/VA5.png)
 
 **Additional info**
 
-1. No specific pre-requisite to be a member of Visual Arts Club, but need to be passionate and interested about appreciating Art.
-2. All (with interest in Art) are welcomed!
-   3.Students are required to bring along the following for a meaningful VA Club CCA Experience:
-
-- An Art Sketchbook (dedicated for Visual Arts Club). It serves as a collection point for portfolios and task explorations throughout the CCA sessions. It should be cherished and well-maintained to prepare for use in P6 (if applicable).
-- VA Bag for CCA to hold all the items
-- Art Apron
-- Art Stationeries such as 2B pencils, eraser etc.
-- A set of colour pencils and oil pastels
-- A few paint brushes for personal use
-- Scissors
-- Glue
-- A packet of dry/ wet tissue/ cloth for cleaning up
+![VA Additional Info](/images/va_additional_info.jpg)
