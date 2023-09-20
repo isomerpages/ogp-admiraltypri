@@ -49,10 +49,10 @@ Practices are done during CCA sessions on Mondays from 07.40 a.m. to 9.40 a.m.
 
 **Teachers-in-Charge**
 
-Mdm Normala - normala_mohamed_jais@moe.edu.sg<br>
-Mdm Nurhasliza - nurhasliza_hashim@moe.edu.sg<br>
-Mdm Nur Shaliza - nur_shaliza_zulkifli@moe.edu.sg<br>
-Ms Malar - a_malarvilee@moe.edu.sg<br>
+* Mdm Normala - <a href="mailto:normala_mohamed_jais@moe.edu.sg">normala_mohamed_jais@moe.edu.sg</a>
+* Mdm Nurhasliza - <a href="mailto:nurhasliza_hashim@moe.edu.sg">nurhasliza_hashim@moe.edu.sg</a>
+* Mdm Nur Shaliza - <a href="mailto: nur_shaliza_zulkifli@moe.edu.sg"> nur_shaliza_zulkifli@moe.edu.sg</a>
+* Ms Malar - <a href="a_malarvilee@moe.edu.sg"> a_malarvilee@moe.edu.sg</a>
 
 
 
