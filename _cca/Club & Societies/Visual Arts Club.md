@@ -46,8 +46,8 @@ No additional sessions beyond CCA sessions on Mondays
 **Teachers-in-Charge**
 
 * Ms Chin Yoke Lan : <a href="mailto:chin_yoke_lan@moe.edu.sg">chin_yoke_lan@moe.edu.sg</a>
-* Mdm Nuruljannah Mukasim : nuruljannah_mukasim@moe.edu.sg 
-* Mdm Farhanah Razar : farhanah_banu_abdul_razar@moe.edu.sg
+* Mdm Nuruljannah Mukasim : <a href="mailto: nuruljannah_mukasim@moe.edu.sg"> nuruljannah_mukasim@moe.edu.sg </a>
+* Mdm Farhanah Razar : <a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">farhanah_banu_abdul_razar@moe.edu.sg</a>
 
 
 **Achievements**
