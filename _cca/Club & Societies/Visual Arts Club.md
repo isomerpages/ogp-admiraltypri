@@ -4,7 +4,8 @@ permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-# Visual Arts Club
+![VAC](/images/CCA/visual%20arts.png)
+
 In Visual Arts (VA) Club, Admirals are given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learners. Our VA Admirals also participated in school and national events to develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
 
 ![VA_Main1](/images/va_main1.jpg)
@@ -41,13 +42,14 @@ Our VA Admirals have also worked hard to create Art works for the National Day E
 **Schedule**
 
 Mondays [7.40 a.m. – 9.40 a.m.] <br>
-No additional sessions beyond CCA sessions on Mondays
+No additional sessions beyond CCA sessions on Mondays <br>
 
 **Teachers-in-Charge**
 
 * Ms Chin Yoke Lan : <a href="mailto:chin_yoke_lan@moe.edu.sg">chin_yoke_lan@moe.edu.sg</a>
 * Mdm Nuruljannah Mukasim : <a href="mailto: nuruljannah_mukasim@moe.edu.sg"> nuruljannah_mukasim@moe.edu.sg </a>
 * Mdm Farhanah Razar : <a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">farhanah_banu_abdul_razar@moe.edu.sg</a>
+	
 
 
 **Achievements**
@@ -68,8 +70,6 @@ Here are some of the art works that VA Admirals have submitted for the competiti
 ![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
 <b><u>CHEN RUI XI, 4 Endurance</u></b>
 
-Here are some other entries done by our VA Club members:
-![other entries done by our VA Club members](/images/2023%20stamp%20story.JPG)
 
 **2021**
 
