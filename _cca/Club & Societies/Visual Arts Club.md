@@ -70,8 +70,6 @@ Here are some of the art works that VA Admirals have submitted for the competiti
 ![Gold Award for DRAW MY STAMP STORY COMPETITION 2022](/images/2023%20stamp%20story%20competition.jpg)
 <b><u>CHEN RUI XI, 4 Endurance</u></b>
 
-Here are some other entries done by our VA Club members:
-![other entries done by our VA Club members](/images/2023%20stamp%20story.JPG)
 
 **2021**
 
