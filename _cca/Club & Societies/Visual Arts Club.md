@@ -4,7 +4,9 @@ permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-# Visual Arts Club
+
+![VAC](/images/CCA/visual%20arts.png)
+
 In Visual Arts (VA) Club, Admirals are given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learners. Our VA Admirals also participated in school and national events to develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
 
 ![VA_Main1](/images/va_main1.jpg)
