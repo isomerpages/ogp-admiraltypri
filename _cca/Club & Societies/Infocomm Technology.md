@@ -9,7 +9,7 @@ third_nav_title: Club & Societies
 * To enable pupils to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 * To nurture pupils to be confident, tech-savvy and responsible digital learners.
 
-
+![ITC](/images/CCA/infocomm%20pic1.jpg)
 ### Objectives
 
 **Pupils will be able to:**
@@ -17,7 +17,7 @@ third_nav_title: Club & Societies
 2. Apply the relevant skills acquired by taking part in Infocomm Technology.
 3. Contribute their knowledge and skills learnt to the school through school project collaborations with other CCA or committees
 
-
+![ITC](/images/CCA/infocomm%20pic2.jpg)
 ### Overview
 
 **Our Infocomm Technology modules include :**
@@ -29,6 +29,8 @@ third_nav_title: Club & Societies
 6. Scratch (Game/Application Programming)
 
 With the learning of Google Sites, students will be capable of building their very own electronic portfolio. This e-portfolio is used to store their projects, photos and other school-related work over the years. It will also serve as a tool for DSA application whereby the pupils can use their e-portfolio to display their work.
+
+![ICT3](/images/CCA/infocomm%20pic3.png)
 
 ### Teachers-in-Charge
 
