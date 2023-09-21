@@ -4,7 +4,6 @@ permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
 ![VAC](/images/CCA/visual%20arts.png)
 
 In Visual Arts (VA) Club, Admirals are given the opportunity to explore various mediums of Art, learn to appreciate the work of Arts by famous artists and be reflective learners. Our VA Admirals also participated in school and national events to develop a sense of confidence, ownership, pride, teamwork and most importantly, leadership in their assigned scope of work.
@@ -41,7 +40,9 @@ Our VA Admirals have also worked hard to create Art works for the National Day E
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KsRY2sBO7nQ?si=n0q1Uw34Ok-a8x9T" height="315" width="650"></iframe>
 
 **Schedule**
-
+<table>
+<tbody><tr>
+	<td>
 Mondays [7.40 a.m. – 9.40 a.m.] <br>
 No additional sessions beyond CCA sessions on Mondays
 
@@ -50,6 +51,11 @@ No additional sessions beyond CCA sessions on Mondays
 * Ms Chin Yoke Lan : <a href="mailto:chin_yoke_lan@moe.edu.sg">chin_yoke_lan@moe.edu.sg</a>
 * Mdm Nuruljannah Mukasim : <a href="mailto: nuruljannah_mukasim@moe.edu.sg"> nuruljannah_mukasim@moe.edu.sg </a>
 * Mdm Farhanah Razar : <a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">farhanah_banu_abdul_razar@moe.edu.sg</a>
+	</td>
+	<td>
+		<img alt="Italian Trulli" src="pic_trulli.jpg">
+	</td>
+</tr></tbody></table>
 
 
 **Achievements**
