@@ -53,7 +53,7 @@ No additional sessions beyond CCA sessions on Mondays
 * Mdm Farhanah Razar : <a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">farhanah_banu_abdul_razar@moe.edu.sg</a>
 	</td>
 	<td>
-		<img alt="Italian Trulli" src="pic_trulli.jpg">
+		<img alt="VA Teachers-in-charge" src="/images/va_teachers.jpg">
 	</td>
 </tr></tbody></table>
 
