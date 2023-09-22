@@ -35,5 +35,3 @@ Confident environmental activists in-the-making is the hope and aspiration for o
 <a href="mailto:siti_zakiah_ahmad@moe.edu.sg">siti_zakiah_ahmad@moe.edu.sg</a>
 * Mr Ng Yi Chao : 
 <a href="mailto:ng_yi_chao@moe.edu.sg">ng_yi_chao@moe.edu.sg</a>
-
-
