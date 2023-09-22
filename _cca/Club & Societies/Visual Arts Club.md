@@ -44,6 +44,7 @@ Our VA Admirals have also worked hard to create Art works for the National Day E
 Mondays [7.40 a.m. – 9.40 a.m.] <br>
 No additional sessions beyond CCA sessions on Mondays <br>
 
+
 **Teachers-in-Charge**
 
 <table>
@@ -55,6 +56,7 @@ No additional sessions beyond CCA sessions on Mondays <br>
 					<li>Mdm Farhanah Razar : <a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">farhanah_banu_abdul_razar@moe.edu.sg</a></li><a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">
 			</a></ul><a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg">
 		</a></td>
+		<td><img alt="VA Teachers-in-charge" src="/images/va_teachers.jpg"> </td>
 </tr>	
 </tbody></table>
 
