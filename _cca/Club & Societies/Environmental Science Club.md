@@ -33,16 +33,7 @@ Confident environmental activists in-the-making is the hope and aspiration for o
 <a href="mailto:rashidah_ismail_neville@moe.edu.sg">rashidah_ismail_neville@moe.edu.sg</a>
 * Mdm Siti Zakiah : 
 <a href="mailto:siti_zakiah_ahmad@moe.edu.sg">siti_zakiah_ahmad@moe.edu.sg</a>
-
-
 * Mr Ng Yi Chao : 
 <a href="mailto:ng_yi_chao@moe.edu.sg">ng_yi_chao@moe.edu.sg</a>
 
 
-**Achievements**
-
-- National environment Quiz – 2nd place (individual) (2019)
-- Community In Bloom award – Attained Vanda Miss Joaquim (2019)
-- 3R award – Attained Gold award (2019)
-- Eco School Award - Attained Bronze award (2019)
-- School Green Award : Yellow Flame (2019)
