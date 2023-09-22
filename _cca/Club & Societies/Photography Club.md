@@ -47,7 +47,7 @@ Questions further posed by parents during our engagement sessions last year:
 
 - The student does not need to have any prior knowledge of photography.
  
- 2. Is the CCA gender specific?
+2. Is the CCA gender specific?
 - All are welcome to join.
 
 3. Do the students need to purchase equipment on their own?
