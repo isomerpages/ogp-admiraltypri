@@ -41,9 +41,8 @@ Our VA Admirals have also worked hard to create Art works for the National Day E
 
 **Schedule**
 
-Mondays [7.40 a.m. – 9.40 a.m.] <br>
-No additional sessions beyond CCA sessions on Mondays <br>
-
+During Timetabled CCA Sessions: <br>
+Mondays [7.40 a.m. to 9.40 a.m.]
 
 **Teachers-in-Charge**
 
