@@ -37,6 +37,10 @@ description: ""
 
 [Parents Connect - Issue 2](/files/Parents%20Connect%20@ADPS%20Issue%202.pdf)
 
+[Parents Connect - Issue 3](/files/parents%20connect%20issue%203.pdf)
+
+[Parents Connect - Issue 4](/files/parents%20connect%20issue%204.pdf)
+
 
 
 ##### Past School Calender

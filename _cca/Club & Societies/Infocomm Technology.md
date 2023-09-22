@@ -4,6 +4,7 @@ permalink: /cca/Club-and-Societies/infocomm-technology/
 description: ""
 third_nav_title: Club & Societies
 ---
+# Infocomm Technology
 ### Goal
 
 * To enable pupils to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.

@@ -4,8 +4,7 @@ permalink: /cca/Club-and-Societies/photography-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-##### Photography Club
-
+# Photography Club
 The Photography Club provides a platform for students to explore photography, improve their photography skills and take their first steps in developing a lifelong interest in photography.
 
 Club members learn how to use a range of cameras from compact cameras to digital single-lens reflex and mirrorless cameras. Members also learn how to use both manual and autofocus prime lenses in addition to telephoto lenses and explore the use of light boxes and studio lighting equipment.
@@ -47,7 +46,8 @@ Questions further posed by parents during our engagement sessions last year:
 1. Any requirements/pre-requisite to enter the CCA?
 
 - The student does not need to have any prior knowledge of photography.
-  2.Is the CCA gender specific?
+ 
+2. Is the CCA gender specific?
 - All are welcome to join.
 
 3. Do the students need to purchase equipment on their own?
