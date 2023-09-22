@@ -4,9 +4,7 @@ permalink: /cca/clubs-and-socities/design-n-innovation/
 description: ""
 third_nav_title: Club & Societies
 ---
-
-# Design & Innovation
-
+# Design &amp; Innovation
 **Objectives**
 
 - To enable students to learn and understand the five stages of Design Thinking.
@@ -25,9 +23,9 @@ third_nav_title: Club & Societies
 
 At the core of it, Innovation Club focusses on activities that develop curiosity and asking questions to explore, discover and learn something new. Innovation is about the willingness to try and explore a wider terrain of ideas, even if there is risk of failure. To awaken and nurture the spirit of innovation, our teachers model the attitudes and habits of mind we seek to develop in our students.
 
-Our Primary 3 & 4 pupils will be engaged in creative problem-solving process and design thinking model through our programmes that are modular based.
+Our Primary 3 &amp; 4 pupils will be engaged in creative problem-solving process and design thinking model through our programmes that are modular based.
 
-Our Primary 5 pupils are given the opportunity to participate in IvP (a module by GEP Branch). IvP is an eight-month programme where students learn the skills for problem finding, generation of creative ideas, prototyping & testing of solutions. The programme aims to stimulate students' curiosity to understand the problem at hand & encourage them to embrace experimentation in generating & testing potential solutions.
+Our Primary 5 pupils are given the opportunity to participate in IvP (a module by GEP Branch). IvP is an eight-month programme where students learn the skills for problem finding, generation of creative ideas, prototyping &amp; testing of solutions. The programme aims to stimulate students' curiosity to understand the problem at hand &amp; encourage them to embrace experimentation in generating &amp; testing potential solutions.
 
 **Teachers-in-Charge**
 
@@ -42,7 +40,7 @@ Our Primary 5 pupils are given the opportunity to participate in IvP (a module b
 
 1. Innovation Programme 2022 (IvP) Organised by GEP Branch MOE
 2. Science Busking 2022
-3. Strawbees & Quirkbot Coding
+3. Strawbees &amp; Quirkbot Coding
 4. Design Thinking
 
 **Achievements**
@@ -54,7 +52,7 @@ Our Primary 5 pupils are given the opportunity to participate in IvP (a module b
 | Science Busking 2019                                       | Participation                                       |
 | Innovation Programme 2018 (IvP)Organised by GEP Branch MOE | Merit Awards awarded to 3 teams                     |
 | Strawbees Global Challenge                                 | People's Choice AwardBest Teamwork Award            |
-| 2015 & 2016Sony Creative Science Award                     | Participation                                       |
+| 2015 &amp; 2016Sony Creative Science Award                     | Participation                                       |
 | Amazing Science-X Challenge                                | Participation                                       |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoeVMT5hMYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoeVMT5hMYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
