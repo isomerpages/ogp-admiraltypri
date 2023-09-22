@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Club & Societies
 ---
 # Photography Club
-
 The Photography Club provides a platform for students to explore photography, improve their photography skills and take their first steps in developing a lifelong interest in photography.
 
 Club members learn how to use a range of cameras from compact cameras to digital single-lens reflex and mirrorless cameras. Members also learn how to use both manual and autofocus prime lenses in addition to telephoto lenses and explore the use of light boxes and studio lighting equipment.
