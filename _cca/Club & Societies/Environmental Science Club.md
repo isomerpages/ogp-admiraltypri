@@ -28,11 +28,11 @@ Confident environmental activists in-the-making is the hope and aspiration for o
 ##### Teachers-in-Charge
 
 * Mdm Diana Koh : koh_meow_eng_diana@moe.edu.sg
-* Ms Khoo Ying Ying: khoo_ying_ying@moe.edu.sg
-* Mdm Rageswari: rageswari_virayah@moe.edu.sg
-* Mdm Rashidah Ismail Neville: rashidah_ismail_neville@moe.edu.sg
-* Mdm Siti Zakiah: siti_zakiah_ahmad@moe.edu.sg
-
+* Ms Khoo Ying Ying : khoo_ying_ying@moe.edu.sg
+* Mdm Rashidah Ismail Neville : rashidah_ismail_neville@moe.edu.sg
+* Mdm Siti Zakiah : siti_zakiah_ahmad@moe.edu.sg
+* Mr Ng Yi Chao : ng_yi_chao@moe.edu.sg 
+* 
 
 **Achievements**
 
