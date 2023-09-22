@@ -13,7 +13,7 @@ third_nav_title: Club & Societies
 
 ##### Programme Focus
 
-**Primary 3 / 4 : Love for nature & Biodiversity**
+**Primary 3 / 4 : Love for nature &amp; Biodiversity**
 
 Engaging in early opportunities to play outdoors is connected to both cognitive and physical development. Opportunities to explore the outdoors increases a child’s knowledge of the natural world.  It also helps them make connections to their environment around them and to learn to love the nature. Students experience and explore planting using different methods during this stage of their CCA journey.
 
@@ -27,12 +27,17 @@ Confident environmental activists in-the-making is the hope and aspiration for o
 
 ##### Teachers-in-Charge
 
-* Mdm Diana Koh : koh_meow_eng_diana@moe.edu.sg
-* Ms Khoo Ying Ying : khoo_ying_ying@moe.edu.sg
-* Mdm Rashidah Ismail Neville : rashidah_ismail_neville@moe.edu.sg
-* Mdm Siti Zakiah : siti_zakiah_ahmad@moe.edu.sg
-* Mr Ng Yi Chao : ng_yi_chao@moe.edu.sg 
-* 
+* Mdm Diana Koh : <a href="mailto:koh_meow_eng_diana@moe.edu.sg">koh_meow_eng_diana@moe.edu.sg</a>
+* Ms Khoo Ying Ying : <a href="mailto:khoo_ying_ying@moe.edu.sg">khoo_ying_ying@moe.edu.sg</a>
+ * Mdm Rashidah Ismail Neville : 
+<a href="mailto:rashidah_ismail_neville@moe.edu.sg">rashidah_ismail_neville@moe.edu.sg</a>
+* Mdm Siti Zakiah : 
+<a href="mailto:siti_zakiah_ahmad@moe.edu.sg">siti_zakiah_ahmad@moe.edu.sg</a>
+
+
+* Mr Ng Yi Chao : 
+<a href="mailto:ng_yi_chao@moe.edu.sg">ng_yi_chao@moe.edu.sg</a>
+
 
 **Achievements**
 
