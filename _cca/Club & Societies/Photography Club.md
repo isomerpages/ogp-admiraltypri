@@ -4,7 +4,7 @@ permalink: /cca/Club-and-Societies/photography-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-##### Photography Club
+# Photography Club
 
 The Photography Club provides a platform for students to explore photography, improve their photography skills and take their first steps in developing a lifelong interest in photography.
 
