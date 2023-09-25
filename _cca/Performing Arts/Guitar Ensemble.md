@@ -36,7 +36,7 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 - Biennial Singapore Youth Festival (SYF)
 - Biennial Mosaic performance
 - Community outreaches
-
+![2023 Performance at Sembawang West Hari Raya Open House](/images/2023_guitar.jpg)
 - Exchange programme with other school’s Guitar Ensemble
 
 ##### Achievements
