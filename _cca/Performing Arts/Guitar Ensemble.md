@@ -31,16 +31,20 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 
 ##### Activities / Programmes
 
-- Performance in school events, eg. Chinese New Year celebrations, Teacher’s Day celebrations.
+- Performance in school events, eg. Chinese New Year celebrations, Teacher’s Day celebrations. <br>
+[https://www.youtube.com/watch?v=V7ucu-HCO08](https://www.youtube.com/watch?v=V7ucu-HCO08) (15:20 to 17:37)
 - Biennial Singapore Youth Festival (SYF)
 - Biennial Mosaic performance
-- Community outreaches, eg. performance at Tan Tock Seng hospital (Art of Healing)
+- Community outreaches
+
 - Exchange programme with other school’s Guitar Ensemble
 
 ##### Achievements
 
 - SYF Certificate of Accomplishment 2016
 - SYF Certificate of Distinction 2018
+- SYF 2022 – year of no benchmarking
+
 
 ##### FAQs:
 
