@@ -4,6 +4,7 @@ permalink: /cca/Uniform-Groups/scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---
+# Scouts
 ![Scouts](/images/CCA/group%20shot.png)
 
 To develop and enable young people in Singapore to become responsible and active citizens through the Mission of Scouting.
