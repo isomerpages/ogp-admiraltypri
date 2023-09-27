@@ -4,7 +4,7 @@ permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Guitar Ensemble
+# Guitar Ensemble
 
 Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the school core values of graciousness, responsibility, integrity, teamwork and grit as they embark on a journey of technical training in playing the classical guitar as well as ensemble playing skills. The Guitar Ensemble performs regularly in school as well as in external performances, allowing the members to showcase their learning at various platforms.
 
