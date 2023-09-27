@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Uniform Groups
 ---
 # Scouts
-![Scouts](/images/CCA/group%20shot.png)
+<!--  ![Scouts](/images/CCA/group%20shot.png) -->
+![Souts Group Picture](/images/scouts_main.jpg)
 
 To develop and enable young people in Singapore to become responsible and active citizens through the Mission of Scouting.
 
