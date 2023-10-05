@@ -19,21 +19,14 @@ Parents/Guardians who walk their child/ward to school can accompany them up to t
 
 Children who arrive after 10.00 a.m. on Mondays and 7.30 a.m. from Tuesdays to Fridays are considered late and their punctuality will be reflected in their End-of-Year Report.
 
-
-
-  
-
 ##### Dismissal 
+Dismissal will be at 2.40 p.m. on Mondays and 2.10 p.m. from Tuesdays to Fridays at Gate C.
 
-  
+**Please indicate on the clip nametag the mode of dismissal for your child** (Gate C, School Bus or Name of Student Care).   
 
 #### Absence from School
 
-Parents should ensure regular attendance of your children in school. 
 
-*   The school takes a serious view of prolonged absenteeism or irregular attendance, especially without proper authorisation. Children who are absent from school must submit a Medical Certificate or letter of excuse upon their return to school.
-*   We would greatly appreciate it if you inform one of the Form Teachers before 8.00 a.m. the reason of your child’s/ward’s absence.
-*   Parents/Guardians who wish to bring their child/ward overseas on family holidays / to attend to personal matters are to do so during the school vacations.
 
   
 
