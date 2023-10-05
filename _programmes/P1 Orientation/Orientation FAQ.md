@@ -50,11 +50,11 @@ third_nav_title: P1 Orientation
 
 4. If I am applying for FAS, should I purchase the books and uniform before getting the application result?
 
-**You should wait for the application outcome before getting the books and uniform. The school provide subsidy by paying the vendor and does not reimburse parents for cost incurred on purchase of books and uniform.**
+**You should wait for the application outcome before purchasing the books and uniform. The school provides subsidy by paying the vendor and does not reimburse parents for cost incurred on purchase of books and uniform.**
 
 5. Is there a submission deadline for MOE FAS application?
 
-**There is no submission deadline. You may apply during the year should your circumstances change. However, to enjoy the full benefits, you should submit the application and documents requested by 2 Dec.**
+**There is no submission deadline. You may apply during the year should your circumstances change. However, to enjoy the full benefits, you should submit the application and documents requested by 2 Dec 2023**
 
 6. Where can we get the application forms for School Bus, School Student Care Centre etc?
 
