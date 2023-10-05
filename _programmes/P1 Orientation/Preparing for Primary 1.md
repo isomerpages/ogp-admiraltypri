@@ -18,4 +18,3 @@ In this section, you and your child will understand what it is like in a primary
 * Schoolbag Article : [6 Skills Your Child Really Needs for P1](https://www.schoolbag.edu.sg/story/put-the-books-down!-6-skills-your-child-really-needs-for-p1)
 * Schoolbag Article : [Help, My Child Isn’t Ready for Primary 1!](https://www.schoolbag.edu.sg/story/help-my-child-isn-t-ready-for-primary-1)
 * Schoolbag Article : [How to Pick and Pack Your Schoolbag](https://www.schoolbag.edu.sg/story/p1-cheat-sheet-how-to-pick-and-pack-your-schoolbag)
-
