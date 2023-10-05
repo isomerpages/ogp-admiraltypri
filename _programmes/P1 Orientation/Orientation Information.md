@@ -5,39 +5,25 @@ description: ""
 third_nav_title: P1 Orientation
 ---
 ### Orientation Slides
+**P1 (2024) Orientation will be conducted physically in the School Canteen (Level 1) & School Hall (Level 2) on Friday, 13 October 2023 from 3 p.m. to 5 p.m.**
 
-
-
+We look forward to meeting you! The presentation slides for P1 Orientation will be uploaded by Friday, 20 October 2023.
 
 ### Drop Off and Dismissal
   
-#### Drop Off
+##### Drop Off
+Parents/Guardians who walk their child/ward to school can accompany them up to the Gate A (beside security post) and Gate C respectively.
+
+* All drop-off vehicles are only allowed into the school compound until 7.30 a.m.
+* No right turn is allowed from 7.00 a.m. to 7.30 a.m. at the Vehicle Exit Gate to avoid traffic congestion along Woodlands Circle.
+
+Children who arrive after 10.00 a.m. on Mondays and 7.30 a.m. from Tuesdays to Fridays are considered late and their punctuality will be reflected in their End-of-Year Report.
+
+
 
   
 
-Parents/Guardians who walk their child/ward to school can accompany them up to the Gate A (beside security post) and Side Gate C respectively.
-
-  
-
-All drop-off vehicles are only allowed into the school compound until 7.30 a.m.
-
-  
-
-No right turn is allowed from 7.00 a.m. to 7.30 a.m. at the Vehicle Exit Gate to avoid traffic congestion along Woodlands Circle.
-
-  
-
-Children who arrive after 10.00 a.m. on Monday and 7.30 a.m. on Tuesday to Fridays are considered late and their punctuality will be reflected in their end of year report.
-
-  
-
-#### Dismissal 
-
-Dismissal will be at 2.40 p.m. on Mondays and 2.10 p.m. on Tuesdays to Fridays at Gate C.  
-
-  
-
-**Please indicate on the clip of the nametag the mode of dismissal for your child** (Gate C, School Bus or Name of Student Care). 
+##### Dismissal 
 
   
 
