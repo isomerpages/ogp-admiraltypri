@@ -24,16 +24,14 @@ third_nav_title: P1 Orientation
 *   When will my child be getting the clip-on name tags?
 &gt; The name card will be mailed to you in a package which you should receive before Christmas, **25 December 2023**.
 
-
-*   &nbsp;How long does my child have to wear the clip on name tags?
-&gt; We strongly encourage the children to wear their name cards for the first month of&nbsp;school for ease of identification and access to important information. Please ensure that&nbsp;you fill in all the information accurately.
+*   How long does my child have to wear the clip-on name tag?
+&gt; We strongly encourage the children to put on the clip-on name tag for the first month of school for ease of identification and access to important information. Please ensure that you fill in all the information accurately.
 
 *   Will we be given the timetable for the children?
-&gt; The Form Teachers will be issuing the timetable to the children in week 1. The&nbsp;timetable will start from week 2 onwards.
+&gt; The Form Teachers will be issuing the timetable to the children in Week 1. The timetable will start from Week 2 onwards.
 
-### Admin
 
-**Preparation for P1**
+#### Admin Related
 
 1. When will I get the booklist?
 
@@ -41,7 +39,11 @@ third_nav_title: P1 Orientation
 
 2. When can I start buying books?
 
-**You can start buying them during the Nov/Dec school holidays from the school bookshop. You are encouraged to buy them early and to order online, if possible. Please visit their website for more information on the different mode of purchase. (https://www.rickybookcentre.com.sg/)**
+**You can start buying the school books during the Nov/Dec school holidays from the school bookshop. You are encouraged to buy them early and to order online, if possible.**
+
+Please visit their website for more information on the different mode of purchase. 
+Website: https://www.rickybookcentre.com.sg/
+
 
 3. When can I start applying for MOE Financial Assistance Scheme and where can I find the application form?
 
