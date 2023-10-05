@@ -37,4 +37,3 @@ We can still celebrate birthdays meaningfully by singing a birthday song and giv
 
 
 <a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/orientation-frequently-asked-questions/"><img style="width:200px;height:70px;" src="/images/orientation%20faq.png"></a>
-
