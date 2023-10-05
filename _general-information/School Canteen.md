@@ -63,7 +63,7 @@ td {
 		<td> Malay Noodle (Halal) </td>
 	</tr></tbody></table>
 
-[For menu &amp; price list (wef 19 Jul 2023), please click here](/files/canteen%20prices.pdf)
+[For menu &amp; price list (wef 25 Sep 2023), please click here](/files/revised%20canteen%20prices%20wef%2025sep2023.pdf)
 
 #### Canteen Rules
 
