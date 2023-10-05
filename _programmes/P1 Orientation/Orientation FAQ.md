@@ -40,9 +40,8 @@ third_nav_title: P1 Orientation
 2. When can I start buying books?
 
 **You can start buying the school books during the Nov/Dec school holidays from the school bookshop. You are encouraged to buy them early and to order online, if possible.**
-
-Please visit their website for more information on the different mode of purchase. 
-Website: https://www.rickybookcentre.com.sg/
+<b>Please visit their website for more information on the different mode of purchase. </b>
+<b>Website: https://www.rickybookcentre.com.sg/</b>
 
 
 3. When can I start applying for MOE Financial Assistance Scheme and where can I find the application form?
