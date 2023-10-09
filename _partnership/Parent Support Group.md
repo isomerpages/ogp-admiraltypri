@@ -3,7 +3,7 @@ title: Parent Support Group
 permalink: /partnership/parent-support-group/
 description: ""
 ---
-## Parent Support Group (PSG)
+# Parent Support Group (PSG)
 <table>
 	<tbody><tr>
 		<td><img height="200%" width="100%" alt="PSG Chairperson" src="/images/psg_chairperson.jpg"> </td>
