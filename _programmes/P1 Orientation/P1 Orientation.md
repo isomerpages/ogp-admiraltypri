@@ -24,7 +24,7 @@ Principal
 <table align="center" height="427" width="492">
   <tbody>
     <tr>
-      <td height="139" width="246"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/preparing-for-primary-1/"><img alt="" height="129" width="232" src="/images/preparing%20for%20primary%201.png"></a></td>
+      <td height="139" width="246"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/preparing-for-primary-1/"><img alt="" height="74" width="132" src="/images/preparing%20for%20primary%201.png"></a></td>
       <td width="240"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/adp-experience/"><img alt="" height="128" width="232" src="/images/ADP.png"></a></td>
     </tr>
     <tr>
