@@ -89,5 +89,4 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 ##### Photo Gallery
 
 ![Indian Dance Photo Gallery](/images/2023_indiandance_pg1.jpg)<br>
-![Indian Dance  
-Photo Gallery](/images/2023_indiandance_pg2.jpg)
+![Indian Dance Performance](/images/2023_indiandance_pg3.jpg)
