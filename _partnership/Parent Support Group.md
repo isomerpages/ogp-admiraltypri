@@ -6,7 +6,7 @@ description: ""
 ## Parent Support Group (PSG)
 <table>
 	<tbody><tr>
-		<td><img alt="PSG Chairperson" src="/images/psg_chairperson.jpg"> </td>
+		<td><img height="200%" width="100%" alt="PSG Chairperson" src="/images/psg_chairperson.jpg"> </td>
 		<td>Dear Admiralty Primary School Parents, <br>
 A warm and heartfelt welcome to our PSG! We are thrilled to have you join our vibrant community of caring and engaged parents. Your presence and participation make a significant difference in our children's educational journey.
 Together, we will create a nurturing and supportive environment where our children can thrive and succeed. Your ideas, passion, and dedication are invaluable, and we look forward to working hand in hand to make a positive impact on their lives.
