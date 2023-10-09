@@ -29,6 +29,7 @@ PSG aims to: <br>
 * provide constructive thoughts (and/or be available for consultation) on school policies and goals, practices and programmes
 * support other parents in their parenting journey via suitable avenues
 
+![PSG](/images/2023_psg_main.jpg)
 
 As a PSG member, you will be able to: <br>
 * Volunteer your time to design and conduct some school programmes and events. These school programmes and events make the school a safe place for our children to learn in and help to make school life more vibrant and caring.
