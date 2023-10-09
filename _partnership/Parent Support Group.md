@@ -13,7 +13,7 @@ Let's embark on this journey together, filled with shared experiences, meaningfu
 
 Welcome aboard! <br>
 Michelle <br>
-admp.psg@gmail.com  </td>
+<a href="mailto: admp.psg@gmail.com">admp.psg@gmail.com </a> </td>
 </tr>	
 </tbody></table>
 
