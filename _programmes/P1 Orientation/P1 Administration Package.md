@@ -130,7 +130,7 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>The Learning Harbour Application Form</li>
     </ul></td>
-    <td valign="top" width="483"><p><a>[SCC Indication of Interest 2024](/files/indication%20of%20interest%202024.pdf)</a><a></a></p></td>
+    <td valign="top" width="483"><p><a href="/files/indication%20of%20interest%202024.pdf">SCC Indication of Interest 2024</a></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" height="30" width="268"><p><strong><u>POSB    Smart Buddy<br>
