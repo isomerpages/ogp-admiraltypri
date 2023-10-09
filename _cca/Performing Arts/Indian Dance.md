@@ -36,9 +36,10 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 **Teacher-in-Charge**
 
-* Mrs Kumar                       kanagamalar_kumar@moe.edu.sg
-* Mdm Nalayani               nalayani_nair_mukunan_nair@moe.edu.sg 
-* Ms Koh Yen Ling           yen_ling_koh@moe.edu.sg 
+* Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>            
+* Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
+* Ms Koh Yen Ling <a href="mailto: yen_ling_koh@moe.edu.sg"> yen_ling_koh@moe.edu.sg</a>            
+
 
 **Achievements**
 
