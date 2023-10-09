@@ -80,7 +80,7 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Bookshop Vendor Contact         Details</li>
+      <li>Bookshop Vendor Contact Details</li>
     </ul></td>
     <td valign="top" width="483"><p>&nbsp;https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</p></td>
   </tr>
@@ -128,9 +128,9 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>The Learning Harbour         Application Form</li>
+      <li>The Learning Harbour Application Form</li>
     </ul></td>
-    <td valign="top" width="483"><p>Link to    the same document as above[SCC Indication of Interest 2024](/files/indication%20of%20interest%202024.pdf)</p></td>
+    <td valign="top" width="483"><p>[SCC Indication of Interest 2024](/files/indication%20of%20interest%202024.pdf)</p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" height="30" width="268"><p><strong><u>POSB    Smart Buddy<br>
