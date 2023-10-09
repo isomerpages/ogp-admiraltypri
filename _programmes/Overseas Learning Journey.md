@@ -3,8 +3,7 @@ title: Overseas Learning Journey
 permalink: /programmes/overseas-learning-journey/
 description: ""
 ---
-
-# Overseas Learning Journey
+#### Overseas Learning Journey
 
 From Primary 1 to 4, pupils learn about the various cultures through classroom lessons, exploration in art and their visits to various local cultural sites.
 
