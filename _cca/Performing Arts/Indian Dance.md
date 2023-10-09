@@ -16,10 +16,10 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 **Objectives**
 
-1.	Develop passion for Indian Dance. 
-2.	Develop spirit of service to the community. 
-3.	Develop leadership and teamwork. 
-4.	Uphold core values, social and emotional competencies.(21CC)
+1. Develop passion for Indian Dance. 
+2. Develop spirit of service to the community. 
+3. Develop leadership and teamwork. 
+4. Uphold core values, social and emotional competencies.(21CC)
 
 **Overview**
 
