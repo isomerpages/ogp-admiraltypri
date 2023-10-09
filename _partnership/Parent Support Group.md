@@ -3,10 +3,11 @@ title: Parent Support Group
 permalink: /partnership/parent-support-group/
 description: ""
 ---
+## Parent Support Group (PSG)
 <table>
 	<tbody><tr>
 		<td><img alt="PSG Chairperson" src="/images/psg_chairperson.jpg"> </td>
-		<td>Dear Admiralty Primary School Parents,
+		<td>Dear Admiralty Primary School Parents, <br>
 A warm and heartfelt welcome to our PSG! We are thrilled to have you join our vibrant community of caring and engaged parents. Your presence and participation make a significant difference in our children's educational journey.
 Together, we will create a nurturing and supportive environment where our children can thrive and succeed. Your ideas, passion, and dedication are invaluable, and we look forward to working hand in hand to make a positive impact on their lives.
 Let's embark on this journey together, filled with shared experiences, meaningful connections, and the common goal of giving our children the best possible start in life. <br>
@@ -22,22 +23,21 @@ Michelle <br>
 ##### Parent Support Group
 Our Parent Support Group is a dedicated and supportive group who plays a key role to help create a holistic education for the students.
 
-PSG aims to:
+PSG aims to: <br>
+* promote a collaborative relationship between parents and the School Leaders, teachers and students in the school
+* provide opportunities for the parents to volunteer their services using their time and talent in student programmes and co-curricular activities
+* provide constructive thoughts (and/or be available for consultation) on school policies and goals, practices and programmes
+* support other parents in their parenting journey via suitable avenues
 
-- Promote parents involvement with the school and its programmes by raising awareness of school activities
-- Represent parents’ interest
-- Enhance communication between school teachers and parents
-- Foster educational partnership
-- Help advance school’s values and vision
-- Be a role model, by demonstrating to your child the importance you place on education
-- Provide a feedback channel for the school.
 
-As a PSG member, you will be able to:
-
-- Volunteer your time to design and conduct some school programmes and events. These school programmes and events make the school a safe place for our children to learn in and helps to make school life more vibrant and caring.
-- Use your talent to volunteer their expertise, talents, individual interests or personal networks. This helps to expand the pool of help available to the school.
-- Brainstorm and contribute constructive feedback and ideas to improve the school.
+As a PSG member, you will be able to: <br>
+* Volunteer your time to design and conduct some school programmes and events. These school programmes and events make the school a safe place for our children to learn in and help to make school life more vibrant and caring.
+* Use your talent to volunteer your expertise, talents, individual interests or personal networks. This helps to expand the pool of help available to the school.
+* Brainstorm and contribute constructive feedback and ideas to improve the school.
 
 Other than contributing to the school, our PSG is an active group that is a great support system where you can ask for advice and support from one another.
 
-If you are interested in joining our Parent Support Group, do email us at admps.psg@gmail.com.
+If you are interested in joining our Parent Support Group, do email us at 
+<a href="mailto: admp.psg@gmail.com.">admp.psg@gmail.com. </a> 
+
+
