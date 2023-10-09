@@ -130,7 +130,7 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>The Learning Harbour Application Form</li>
     </ul></td>
-    <td valign="top" width="483"><p>[SCC Indication of Interest 2024](/files/indication%20of%20interest%202024.pdf)</p></td>
+    <td valign="top" width="483"><p><a>[SCC Indication of Interest 2024](/files/indication%20of%20interest%202024.pdf)</a><a></a></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" height="30" width="268"><p><strong><u>POSB    Smart Buddy<br>
@@ -141,7 +141,7 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>POSB Smart Buddy Website</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy</p></td>
+    <td valign="top" width="483"><p>&nbsp;<a>https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
