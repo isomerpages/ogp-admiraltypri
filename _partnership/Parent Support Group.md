@@ -8,9 +8,9 @@ description: ""
 	<tbody><tr>
 		<td><img height="200%" width="100%" alt="PSG Chairperson" src="/images/psg_chairperson.jpg"> </td>
 		<td>Dear Admiralty Primary School Parents, <br>
-A warm and heartfelt welcome to our PSG! We are thrilled to have you join our vibrant community of caring and engaged parents. Your presence and participation make a significant difference in our children's educational journey.
-Together, we will create a nurturing and supportive environment where our children can thrive and succeed. Your ideas, passion, and dedication are invaluable, and we look forward to working hand in hand to make a positive impact on their lives.
-Let's embark on this journey together, filled with shared experiences, meaningful connections, and the common goal of giving our children the best possible start in life. <br>
+A warm and heartfelt welcome to our PSG! We are thrilled to have you join our vibrant community of caring and engaged parents. Your presence and participation make a significant difference in our children's educational journey. <br> <br>
+Together, we will create a nurturing and supportive environment where our children can thrive and succeed. Your ideas, passion, and dedication are invaluable, and we look forward to working hand in hand to make a positive impact on their lives. <br><br>
+Let's embark on this journey together, filled with shared experiences, meaningful connections, and the common goal of giving our children the best possible start in life. <br> <br>
 
 Welcome aboard! <br>
 Michelle <br>
