@@ -40,6 +40,14 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 * Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
 * Ms Koh Yen Ling <a href="mailto: yen_ling_koh@moe.edu.sg"> yen_ling_koh@moe.edu.sg</a>            
 
+##### Frequently Asked Questions:
+
+1. <b>Any requirements/pre-requisite to enter the CCA?&nbsp;</b><br>
+	No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians students are welcomed to join us as well.
+2. <b>Is the CCA gender specific?&nbsp;</b><br>
+	No, boys and girls are welcome. The girls are encouraged to grow long hair.   
+3. <b>What do students need to prepare when they are in the CCA?&nbsp;</b><br>Students are required to wear black long tights with school PE top.&nbsp;&nbsp;
+4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?&nbsp;</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
 
 **Achievements**
 
@@ -68,20 +76,6 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
    
 
 **2022**
-- Singapore Youth Festival 2022 (Indian Dance) – Year with no benchmarking
-
-##### Frequently Asked Questions:
-
-1. <b>Any requirements/pre-requisite to enter the CCA?&nbsp;</b><br>
-	No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians students are welcomed to join us as well.
-2. <b>Is the CCA gender specific?&nbsp;</b><br>
-	No, boys and girls are welcome. The girls are encouraged to grow long hair.   
-3. <b>What do students need to prepare when they are in the CCA?&nbsp;</b><br>Students are required to wear black long tights with school PE top.&nbsp;&nbsp;
-4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?&nbsp;</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
-
-
-##### Achievements
-<b>2022</b><br>
 * Performance at Maju Camp for Deepavali Celebration
 
 
@@ -97,3 +91,4 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 ![Indian Dance Photo Gallery](/images/2023_indiandance_pg1.jpg)<br>
 ![Indian Dance  
 Photo Gallery](/images/2023_indiandance_pg2.jpg)
+
