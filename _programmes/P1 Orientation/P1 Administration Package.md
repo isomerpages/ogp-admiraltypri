@@ -59,8 +59,8 @@ third_nav_title: P1 Orientation
 
 <table width="757" cellpadding="0" cellspacing="0" border="1">
   <tbody><tr>
-    <td style="color: #FFFFFF; font-weight: bold;" bgcolor="#858585" valign="top" height="31" width="268"><p><strong>Link    to Relevant Info and Forms</strong></p></td>
-    <td style="color: #FFFFFF" bgcolor="#858585" valign="top" width="483"><p>Links</p></td>
+    <td style="color: #FFFFFF" bgcolor="#858585" valign="top" height="31" width="268"><p><b>Link to Relevant Info and Forms</b></p></td>
+    <td style="color: #FFFFFF" bgcolor="#858585" valign="top" width="483"><p><b>Links</b></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" valign="top" height="30" width="268"><p><strong><u>Books</u></strong></p></td>
@@ -68,21 +68,21 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Booklist - <em>Ready in         early November</em></li>
+      <li>Booklist - <em>Ready in early November</em></li>
     </ul></td>
     <td valign="top" width="483"></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Bookshop Online Order         Website</li>
+      <li>Bookshop Online Order Website</li>
     </ul></td>
-    <td valign="top" width="483"><p>https://www.rickybookcentre.com.sg/index.php?route=checkout/orderingsystem</p></td>
+    <td valign="top" width="483"><p><a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/orderingsystem">https://www.rickybookcentre.com.sg/index.php?route=checkout/orderingsystem</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>Bookshop Vendor Contact Details</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</p></td>
+    <td valign="top" width="483"><p>&nbsp;<a href="https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/">https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</a></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" valign="top" height="30" width="268"><p><strong><u>Uniform</u></strong></p></td>
@@ -90,21 +90,21 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Uniform Online Order         Website</li>
+      <li>Uniform Online Order Website</li>
     </ul></td>
-    <td valign="top" width="483"><p>https://www.euniforms.com.sg/shop/product-category/primary-schools/aps/</p></td>
+    <td valign="top" width="483"><p><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/aps/">https://www.euniforms.com.sg/shop/product-category/primary-schools/aps/</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Uniform Size Measurement         Chart</li>
+      <li>Uniform Size Measurement Chart</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/</p></td>
+    <td valign="top" width="483"><p>&nbsp;<a href="https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/">https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Uniform Vendor Contact         Details</li>
+      <li>Uniform Vendor Contact Details</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</p></td>
+    <td valign="top" width="483"><p>&nbsp;<a href="https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/">https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</a></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" valign="top" height="30" width="268"><p><strong><u>School    Bus</u></strong></p></td>
@@ -112,9 +112,9 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>School Bus Vendor Contact         Details, Prices and Request Form</li>
+      <li>School Bus Vendor Contact Details, Prices and Request Form</li>
     </ul></td>
-    <td valign="top" width="483"><p>https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</p></td>
+    <td valign="top" width="483"><p><a href="https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/">https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/</a></p></td>
   </tr>
   <tr>
     <td bgcolor="#DADADA" valign="top" height="30" width="268"><p><strong><u>Student    Care Centre (SCC)</u></strong></p></td>
@@ -122,9 +122,9 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>The Learning Harbour         (School-Based SCC)</li>
+      <li>The Learning Harbour (School-Based SCC)</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://scc.learningharbour.org/student-care-centre/</p></td>
+    <td valign="top" width="483"><p>&nbsp;<a href="https://scc.learningharbour.org/student-care-centre/">https://scc.learningharbour.org/student-care-centre/</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
@@ -133,7 +133,7 @@ third_nav_title: P1 Orientation
     <td valign="top" width="483"><p><a href="/files/indication%20of%20interest%202024.pdf">SCC Indication of Interest 2024</a></p></td>
   </tr>
   <tr>
-    <td bgcolor="#DADADA" height="30" width="268"><p><strong><u>POSB    Smart Buddy<br>
+    <td bgcolor="#DADADA" height="30" width="268"><p><strong><u>POSB Smart Buddy<br>
     </u></strong></p></td>
     <td bgcolor="#DADADA" width="483"><p>&nbsp;</p></td>
   </tr>
@@ -141,7 +141,7 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>POSB Smart Buddy Website</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;<a>https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy</a></p></td>
+    <td valign="top" width="483"><p>&nbsp;<a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy">https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy</a></p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
