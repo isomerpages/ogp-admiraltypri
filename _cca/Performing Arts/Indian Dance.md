@@ -12,7 +12,7 @@ Indian Dancers are constantly given opportunities to perform regularly in school
 
 **Goal**
 
-We aim to instil the love for dance, while inspiring confidence, enjoyment and appreciation of Indian Dance. 
+We aim to instill the love for dance, while inspiring confidence, enjoyment and appreciation of Indian Dance. 
 
 **Objectives**
 
