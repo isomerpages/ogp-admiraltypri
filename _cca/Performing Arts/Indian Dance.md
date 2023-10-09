@@ -92,3 +92,5 @@ We aim to instil the love for dance, while inspiring confidence, enjoyment and a
 * School Performance for Mid Autumn Performance
 
 ##### Photo Gallery
+
+![Indian Dance Photo Gallery](/images/2023_indiandance_pg1.jpg)![Indian Dance Photo Gallery](/images/2023_indiandance_pg2.jpg)
