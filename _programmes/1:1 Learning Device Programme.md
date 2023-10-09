@@ -3,10 +3,7 @@ title: 1:1 Learning Device Programme
 permalink: /programmes/1-1-learning-device-programme/
 description: ""
 ---
-
-# 1-1 Learning Device Programme
-
-# Programme Overview
+#### Overview
 
 The 1:1 programme at Admiralty Primary is a move towards individualising learning, which can increase independence and self-directed learning in students, and extend their learning beyond the classroom.
 
@@ -18,11 +15,11 @@ In 2013, the school piloted one class with iPads and in 2014 until current, the 
 
 Moving forward, the school will be giving an option for parents to choose between iPad and Chrome Tab in 2021.
 
-# 1:1 Learning Device Programme Timeline
+#### 1:1 Learning Device Programme Timeline
 
 ![](/images/Learning%20Device%20Programme%20Timeline.png)
 
-# Resources
+#### Resources
 
 The resources below are available for students and parents. Simply click on the link.
 
