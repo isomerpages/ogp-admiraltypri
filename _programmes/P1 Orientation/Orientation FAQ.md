@@ -7,28 +7,28 @@ third_nav_title: P1 Orientation
 #### School / Student Related
 
 *   What do the students wear on the 1st day school? PE attire or uniform? When would the children be required to wear their school uniform instead of the PE attire and how often will that be?
-&gt; Students can come in the PE attire on the 1st day of school. Students are expected to wear PE attire on days they have PE or PAL lessons. Usually, students will need to wear PE attire at least 3 days in a week.
+**<br>Students can come in the PE attire on the 1st day of school. Students are expected to wear PE attire on days they have PE or PAL lessons. Usually, students will need to wear PE attire at least 3 days in a week.<br>**
 
 *   How many sets of uniform and PE attire are needed?
-&gt; We suggest 2 sets of uniform and 3 sets of PE attire.
+**<br>We suggest 2 sets of uniform and 3 sets of PE attire.<br>**
 
 *   Do the white canvas shoes need to be completely white or are small coloured logos acceptable? &nbsp;
-&gt; School shoes should be mostly white, either synthetic leather or canvas are allowed. White shoes with coloured logos are discouraged
+**<br>School shoes should be mostly white, either synthetic leather or canvas are allowed. White shoes with coloured logos are discouraged.<br>**
 
 *   Can the parents accompany the child throughout the 1st day of school?
-&gt; Parents are not allowed to accompany the student on the 1st day of school. This is to acclimatize your child to their new school and routines. Please be rest assured that our team of teachers will be with your child.
+**<br>Parents are not allowed to accompany the student on the 1st day of school. This is to acclimatize your child to their new school and routines. Please be rest assured that our team of teachers will be with your child.<br>**
 
 *   Are mobile phones allowed?
-&gt; Students are **not allowed** to bring mobile phones to school. This includes smart watches / devices that are capable of sending messages or making calls.
+**<br>Students are not allowed to bring mobile phones to school. This includes smart watches / devices that are capable of sending messages or making calls.<br>**
 
 *   When will my child be getting the clip-on name tags?
-&gt; The name card will be mailed to you in a package which you should receive before Christmas, **25 December 2023**.
+**<br>The name card will be mailed to you in a package which you should receive before Christmas, 25 December 2023.<br>**
 
 *   How long does my child have to wear the clip-on name tag?
-&gt; We strongly encourage the children to put on the clip-on name tag for the first month of school for ease of identification and access to important information. Please ensure that you fill in all the information accurately.
+**<br>We strongly encourage the children to put on the clip-on name tag for the first month of school for ease of identification and access to important information. Please ensure that you fill in all the information accurately.<br>**
 
 *   Will we be given the timetable for the children?
-&gt; The Form Teachers will be issuing the timetable to the children in Week 1. The timetable will start from Week 2 onwards.
+**<br>The Form Teachers will be issuing the timetable to the children in Week 1. The timetable will start from Week 2 onwards.<br>**
 
 
 #### Admin Related

@@ -3,8 +3,6 @@ title: Junior Entrepreneurship Programme (JEP)
 permalink: /programmes/junior-entrepreneurship-programme-jep/
 description: ""
 ---
-# Junior Entrepreneurship Programme (JEP)
-
 ### Objectives:
 
 The Junior Entrepreneurship Programme aims at introducing to pupils business and economic concepts, entrepreneurship skills and qualities, through an integration of the English, Mathematics and Art & Craft curriculum. Through this enterprising experience and journey, pupils learn to be more creative, critical, innovative and resilient. They also learn to be better team players, risk takers and thrive in the face of setbacks.

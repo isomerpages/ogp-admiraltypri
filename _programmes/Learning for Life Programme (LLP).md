@@ -3,10 +3,7 @@ title: Learning for Life Programme (LLP)
 permalink: /programmes/learning-for-life-programme-llp/
 description: ""
 ---
-
-# Learning for Life Programme (LLP)
-
-# High Performance Mindset for Personal Leadership aka “Performance Character”
+##### High Performance Mindset for Personal Leadership aka “Performance Character”
 
 While moral character is foundational in a life of character, character education must also develop students’ performance character such as effort, diligence, and perseverance in order to promote academic learning (and eventually work) and foster an ethic of excellence. Consider what happens if one has moral character without performance character. One can have good intentions but a poor ability to execute. One might want to help others but lack the organization, ingenuity, and perseverance to carry it out effectively. This LLP programme aims to improve students’ ability to work, their work ethics, provide them with the skills and to raise their confidence to pursue work excellence; qualities needed to become successful adults.
 

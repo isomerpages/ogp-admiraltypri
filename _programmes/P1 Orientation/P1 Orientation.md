@@ -21,15 +21,21 @@ Principal
 
 ***
 
-
-
-|  |  | 
-| -------- | -------- | 
-| ![](/images/preparing%20for%20primary%201.png)    | ![](/images/ADP.png)    | 
-| ![](/images/first%20day%20of%20school.png)     |  ![](/images/FAQ.png)    | 
-| ![](/images/administration%20package.png)    | ![](/images/partnership.png)    | 
-
-
+<table align="center" height="288" width="293">
+  <tbody>
+    <tr>
+      <td height="139" width="246"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/preparing-for-primary-1/"><img alt="" height="74" width="132" src="/images/preparing%20for%20primary%201.png"></a></td>
+      <td width="240"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/adp-experience/"><img alt="" height="74" width="132" src="/images/ADP.png"></a></td>
+    </tr>
+    <tr>
+      <td height="140"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/first-day-of-school/"><img alt="" height="74" width="132" src="/images/first day of school.png"></a></td>
+      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/orientation-frequently-asked-questions/"><img alt="" height="74" width="132" src="/images/FAQ.png"></a></td>
+    </tr>
+    <tr>
+      <td height="138"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/p1-administration-package/"><img alt="" height="74" width="134" src="/images/administration package.png"></a></td>
+      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/partnership/"><img alt="" height="74" width="132" src="/images/partnership.png"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2x0qTnb_WzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
