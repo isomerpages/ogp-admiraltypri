@@ -25,15 +25,15 @@ Principal
   <tbody>
     <tr>
       <td height="139" width="246"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/preparing-for-primary-1/"><img alt="" height="74" width="132" src="/images/preparing%20for%20primary%201.png"></a></td>
-      <td width="240"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/adp-experience/"><img alt="" height="128" width="232" src="/images/ADP.png"></a></td>
+      <td width="240"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/adp-experience/"><img alt="" height="74" width="132" src="/images/ADP.png"></a></td>
     </tr>
     <tr>
-      <td height="140"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/first-day-of-school/"><img alt="" height="126" width="232" src="/images/first day of school.png"></a></td>
-      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/orientation-frequently-asked-questions/"><img alt="" height="129" width="232" src="/images/FAQ.png"></a></td>
+      <td height="140"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/first-day-of-school/"><img alt="" height="74" width="132" src="/images/first day of school.png"></a></td>
+      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/orientation-frequently-asked-questions/"><img alt="" height="74" width="132" src="/images/FAQ.png"></a></td>
     </tr>
     <tr>
-      <td height="138"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/p1-administration-package/"><img alt="" height="127" width="234" src="/images/administration package.png"></a></td>
-      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/partnership/"><img alt="" height="127" width="232" src="/images/partnership.png"></a></td>
+      <td height="138"><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/p1-administration-package/"><img alt="" height="74" width="134" src="/images/administration package.png"></a></td>
+      <td><a href="https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/partnership/"><img alt="" height="74" width="132" src="/images/partnership.png"></a></td>
     </tr>
   </tbody>
 </table>
