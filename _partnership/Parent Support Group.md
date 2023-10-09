@@ -38,6 +38,13 @@ As a PSG member, you will be able to: <br>
 Other than contributing to the school, our PSG is an active group that is a great support system where you can ask for advice and support from one another.
 
 If you are interested in joining our Parent Support Group, do email us at 
-<a href="mailto: admp.psg@gmail.com.">admp.psg@gmail.com. </a> 
+<a href="mailto: admp.psg@gmail.com">admp.psg@gmail.com. </a>
 
+##### Frequently Asked Questions
 
+1. <b> I would like to join the PSG. But I am not able to support the school events physically. Can I still join the PSG? </b><br>
+Yes, you can. There are many ways to support our children and the school at large. Please email us your interest at <a href="mailto: admp.psg@gmail.com">admp.psg@gmail.com. </a> <br> <br>
+2. <b> I know of a parent who is interested to join the PSG but he/she is not very conversant in English. </b><br>
+All parents are welcome onboard. We can provide support in the Mother Tongue language that our parents are confident in where there is a match with school needs. <br> <br>
+3. <b> Can dads join? </b><br>
+We are looking for more dads to join us. Please email us your interest at <a href="mailto: admp.psg@gmail.com">admp.psg@gmail.com. </a>
