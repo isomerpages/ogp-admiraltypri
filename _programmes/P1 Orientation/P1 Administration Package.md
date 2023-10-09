@@ -141,11 +141,11 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>POSB Smart Buddy Website</li>
     </ul></td>
-    <td valign="top" width="483"><p>&nbsp;https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy</p></td>
+    <td valign="top" width="483"><p>&nbsp;[POSB smart buddy](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy)</p></td>
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Smart Buddy Promotion         e-Brochure</li>
+      <li>Smart Buddy Promotion e-Brochure</li>
     </ul></td>
     <td width="483"><p>&nbsp;</p></td>
   </tr>
