@@ -9,7 +9,7 @@ School environment plays an important role in nurturing and sustaining good eati
  
 Under this programme, our canteen vendors are expected to follow food service guidelines to cut down fat, sugar and salt and serve wholegrains, fruit and vegetables in their set meals. We also do not have any stall selling sweet drinks as we encourage our students to drink plain water instead. They are to bring their water bottle every day and have them refilled at the many designated water coolers within the school compound. 
 
-To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.30 to $2.50. All set meals comes with a serving of fruits and vegetables.
+To ensure there is balance between quality of food, affordable prices and business sustainability in the long run, the pricing for our canteen food set meal prices can range from $1.50 to $2.80. All set meals comes with a serving of fruits and vegetables.
 
 <style>
 table, td, th {
@@ -20,7 +20,7 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
+	
 td {
   text-align: center;
 }
@@ -28,37 +28,30 @@ td {
 
 <table>
 	<tbody><tr>
-		<th bgcolor="#eee"> Stall No. </th>
 		<th bgcolor="#eee"> Stall Name </th>
 		<th bgcolor="#eee"> Food Type </th>
   	</tr>
 	<tr>
-		<td> 1 </td>
 		<td> Cool Gateway </td>
 		<td> Western Food </td>
 	</tr>
 	<tr>
-		<td> 3 </td>
 		<td> Rice Paradise </td>
 		<td> Chinese Rice </td>
 	</tr>
 	<tr>
-		<td> 4 </td>
 		<td> Hot Wok Connections </td>
 		<td> Chinese Noodles </td>
 	</tr>
 	<tr>
-		<td> 5 </td>
 		<td> Cool Connections </td>
 		<td> Beverages </td>
 	</tr>
 	<tr>
-		<td> 6 </td>
 		<td> Sedap Corner </td>
 		<td> Malay Rice (Halal) </td>
 	</tr>
 	<tr>
-		<td> 7 </td>
 		<td> Warung Mee </td>
 		<td> Malay Noodle (Halal) </td>
 	</tr></tbody></table>
