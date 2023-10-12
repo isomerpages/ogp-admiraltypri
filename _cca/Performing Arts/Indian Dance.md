@@ -34,7 +34,7 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 *	7.40 a.m. to 9.40 a.m. on CCA Mondays 
 *	2.30 p.m. to 4.30 p.m. on  Wednesdays (parents will receive notifications of the specific dates at beginning of each term)
 
-**Teacher-in-Charge**
+**Teachers-in-Charge**
 
 * Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>            
 * Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
