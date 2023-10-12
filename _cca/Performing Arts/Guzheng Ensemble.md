@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 # Guzheng Ensemble
 
-**Goal**
+#### Goal
 
 To cultivate students who are
 
@@ -14,7 +14,7 @@ To cultivate students who are
 2. Responsible individuals with self-discipline practice at home or school.
 3. Collaborative individuals with contributing team players.
 
-**Overview**
+#### Overview
 
 - Understanding and appreciation of different genres of Guzheng
 - Stage performances and SYF competitions
@@ -22,20 +22,20 @@ To cultivate students who are
 - Performing arts performance character development
 - Preparation for successful Direct School Admission (DSA)
 
-**Schedule**
+#### Schedule
 
 - 7.40 a.m. to 9.40 a.m. on CCA Mondays
 - 4.15p.m. to 5.45p.m. on selected Fridays (parents will receive notifications of the specific dates at beginning of each term)
 
-**Teachers in-charge**
+#### Teachers in-charge
 
 - Mdm Christine Lee:  <a href="mailto:lee_cher_hiang_christine@moe.edu.sg">lee_cher_hiang_christine@moe.edu.sg</a>.<br> 
 - Mdm Jin Caiyun: <a href="mailto: jin_caiyun@moe.edu.sg"> jin_caiyun@moe.edu.sg</a>.<br> 
 - Miss Lim Shi Hui: <a href="mailto:lim_shi_hui@moe.edu.sg">lim_shi_hui@moe.edu.sg</a>.<br> 
 
-**Additional info**
+#### Additional info
 
-FAQs:
+**FAQs:**
 
 1. Does my child need to have any musical knowledge in order to join the Guzheng Ensemble? <br>
 
