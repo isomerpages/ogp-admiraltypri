@@ -10,31 +10,30 @@ Admiralty Primary School Indian Dance comprises students from primary 3 to 6. Ou
 
 Indian Dancers are constantly given opportunities to perform regularly in school as well as in external performances, where they can showcase their talents. 
 
-**Goal**
+##### Goal
 
 We aim to instill the love for dance, while inspiring confidence, enjoyment and appreciation of Indian Dance. 
 
-**Objectives**
+##### Objectives
 
 1. Develop passion for Indian Dance. 
 2. Develop spirit of service to the community. 
 3. Develop leadership and teamwork. 
 4. Uphold core values, social and emotional competencies.(21CC)
 
-**Overview**
+##### Overview
 
 *	Students will be exposed to different forms of Indian Dance music and steps.
 *	They will be exposed to different genres of music. 
 *	Students will gain skills and confidence to choreograph their own dance.
 *	Students will also get exposure to reach out to the community through various platforms
 
-
-**Schedule**
+##### Schedule
 
 *	7.40 a.m. to 9.40 a.m. on CCA Mondays 
 *	2.30 p.m. to 4.30 p.m. on  Wednesdays (parents will receive notifications of the specific dates at beginning of each term)
 
-**Teachers-in-Charge**
+##### Teachers-in-Charge
 
 * Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>            
 * Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
@@ -79,12 +78,12 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 ##### Frequently Asked Questions:
 
-1. <b>Any requirements/pre-requisite to enter the CCA?&nbsp;</b><br>
+1. <b>Any requirements/pre-requisite to enter the CCA?</b><br>
 	No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians students are welcomed to join us as well.
-2. <b>Is the CCA gender specific?&nbsp;</b><br>
+2. <b>Is the CCA gender specific?</b><br>
 	No, boys and girls are welcome. The girls are encouraged to grow long hair.   
-3. <b>What do students need to prepare when they are in the CCA?&nbsp;</b><br>Students are required to wear black long tights with school PE top.&nbsp;&nbsp;
-4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?&nbsp;</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
+3. <b>What do students need to prepare when they are in the CCA?</b><br>Students are required to wear black long tights with school PE top.
+4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
 
 
 ##### Photo Gallery
