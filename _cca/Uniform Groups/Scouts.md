@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Uniform Groups
 ---
 
+Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Primary School to become responsible and active citizens through the Mission of Scouting.
 
-
-To develop and enable young people in Singapore to become responsible and active citizens through the Mission of Scouting.
 
 ### Objectives
 
