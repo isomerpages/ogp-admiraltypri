@@ -4,74 +4,49 @@ permalink: /cca/Uniform-Groups/scouts/
 description: ""
 third_nav_title: Uniform Groups
 ---
-# Scouts
-<!--  ![Scouts](/images/CCA/group%20shot.png) -->
-![Souts Group Picture](/images/scouts_main.jpg)
+![](/images/CCA/Scouts/scouts1.png)
+Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Primary School to become responsible and active citizens through the Mission of Scouting.
 
-To develop and enable young people in Singapore to become responsible and active citizens through the Mission of Scouting.
+#### Teachers 
 
-### Objectives
+* Mdm Padmanathan Jayasri
+* Ms Chuah Xing Ying
+* Mdm Norhana
+* Mr Moh Wei Ping
 
-**Responsibility**
+#### Unit Achievements
 
-To provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying a child’s basic need to face and overcome challenges
+**2022** - Frank Cooper Sands Award (Gold)
+<br>**2020, 2021**– SUSPENDED
+<br>**2019** - Frank Cooper Sands Award (Gold)
+<br>**2018** - Frank Cooper Sands Award (Gold)
+<br>**2017** - Frank Cooper Sands Award (Gold)
 
-**Active Citizenship**
+**Frank Cooper Sands Award (Gold)**
+![](/images/CCA/Scouts/scouts2.png)
+<br>The Frank Cooper Sands Award (FCSA) serves to recognise the achievements of our Scout units and encourages units to continuously deliver high quality Scouting for our young people. Admiralty Otter Cub Scouts has maintained the Gold standard for the Frank Cooper Sands Award for the year 2022 for the 4th time in a row. We have been achieving the Gold standard since 2017.&nbsp; 
 
-To equip the members with life skills and nurture independence, teamwork and leadership qualities in the members.
+**Akela Award**
+![](/images/CCA/Scouts/scouts3.png)
+<br>The Akela Award is the highest honor for Cub Scouts in Singapore. The Cub Scout should have achieved the Gold Arrow and pass specific proficiency badges, show general knowledge of scouting and successfully complete an interview with the District Commissioner.
 
-### Overview
-**Skills**
+#### Unit Participations
+**Primary 3 Investiture**
+![](/images/CCA/Scouts/scouts4.png)
+<br>The investiture ceremony for our new Primary 3 Scouts signifies their official recognition as Cub Scouts to the unit. The investiture is only done after the successful earning their World Scout Badge. In the presence of School Leaders and their parents, we formally invest our Primary 3 Cub Scouts as members of the Admiralty Cub Scouts Pack to show their allegiance towards upholding the Scout Law and Promise in their daily lives.
 
--	Presentation skills (demonstrated through attaining Arrow and proficiency badges), 
--	First aid skills
--	knot-tying skills
--	foot drills
--	camp-craft
--	cheering
--	cooperative games 
+**National Day Parade March**
+<br>[For Video - Click Here](https://www.youtube.com/clip/UgkxBP7y50K1zf05C4U-3Rs7n2r-nj1-fngR)
 
-**Character/Values**
+![](/images/CCA/Scouts/scouts6.png)
+<br>The National Day Parade (NDP) in Singapore is a significant event that commemorates the nation's independence. Celebrations are not only confined to the main parade but also extend to various aspects of Singaporean society, including schools. In Admiralty Primary School, we make a point to commemorate the event with our uniform groups. By allowing our Scouts to participate in this event, it reinforces a sense of patriotism and national identity among students. It helps instill a strong sense of pride in being a Singaporean and fosters a connection to the nation's history and values.
 
--	Leadership
--	Responsibility
--	Teamwork
+**Cub Scout Leadership Training (CSLT)**
+![](/images/CCA/Scouts/scouts8.png)
+![](/images/CCA/Scouts/scouts7.png)
+<br>The Cub Scout Leadership Training Course (CSLTC), organised by the North Area of The Singapore Scout Association, aims to train exemplary Cub Scouts by integrating 21st-century competencies with Scouting principles. The course focuses on developing social-emotional skills, leadership concepts, and activity planning through the Scouting Method and Experiential Learning methods.
 
-### Schedule
-
-Monday CCA Sessions:  0740 – 0940
-
-### Teachers 
-
-* <a href="mailto:chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
-
-* <a href="mailto:saravanan_govindan@moe.edu.sg"> Mr Saravanan Govindan</a>
-
-* <a href="mailto:yi_hern_daryl_chew@moe.edu.sg"> Mr Daryl Chew</a>
-
-* <a href="mailto:norhana_mohammed@moe.edu.sg"> Mdm Norhana</a>
-* <a href="mailto:mohammad_nursaffwan_othman@moe.edu.sg"> Mr Saffwan</a>
-
-
-### Additional info
-
-There is no specific requirement or any other requisite to enter the CCA. Currently, Admiralty Cub Scouts is only recruiting boys. 
-
-The Cub Scouts Training Scheme is divided into 3 progress badges and a highest award:
-
--	Bronze Arrow
--	Silver Arrow
--	Gold Arrow
--	Akela Award
-
-All Cub scouts who have completed the relevant Arrow Badge Awards can aspire for the Akela Badge Award, which is the highest award a cub scout can attain.
-
-During the course of their CCA, Cub scouts can also earn their proficiency badges in areas of their interests such as astronomy, arts, communication, exploration, crafting, entertainment, sports and more.
-
-More details can be found from the following website:
-1) Admiralty Cub Scouts Website - https://sites.google.com/moe.edu.sg/adpscouts
-
-2) The Singapore Scouts Association Website - https://scout.sg/
-
-![](/images/Presentation1.jpg)
-![](/images/Presentation2.jpg)
+**Founders’ Day Hike**
+![](/images/CCA/Scouts/scouts9.png)
+![](/images/CCA/Scouts/scouts10.png)
+<br>In commemoration of Founder's Day on Wednesday, February 22, 2023, our Cub Scouts joined hands with fellow Cub Scouts from Qihua Primary School for a Community Hike cum Litter Picking Activity. This event deepened the camaraderie between our Cub Scouts thus fulfilling the Scout Law - A Scout Makes Friends, Establishes and Maintains Harmonious Relations.
