@@ -49,5 +49,4 @@ Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Pr
 **Founders’ Day Hike**
 ![](/images/CCA/Scouts/scouts9.png)
 ![](/images/CCA/Scouts/scouts10.png)
-<br>In commemoration of Founder's Day on Wednesday, February 22, 2023, our Cub Scouts joined hands with fellow Cub Scouts from Qihua Primary School for a Community Hike cum Litter Picking Activity. This event deepened the camaraderie between our Cub Scouts thus fulfilling the Scout Law - A Scout Makes Friends, Establishes and Maintains Harmonious Relations. 
-
+<br>In commemoration of Founder's Day on Wednesday, February 22, 2023, our Cub Scouts joined hands with fellow Cub Scouts from Qihua Primary School for a Community Hike cum Litter Picking Activity. This event deepened the camaraderie between our Cub Scouts thus fulfilling the Scout Law - A Scout Makes Friends, Establishes and Maintains Harmonious Relations.
