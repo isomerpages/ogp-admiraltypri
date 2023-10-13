@@ -5,7 +5,7 @@ description: ""
 ---
 # Assessment Matters
 
-- Pupils are to be responsible to bring the necessary stationery and instruments (e.g. calculators and Mathematical set) for the exams.
+- Pupils are to be responsible to bring the necessary stationery and instruments (e.g. calculators, Mathematical set and Mother Tongue dictionary/e-dictionary) for the exams. 
 - There will not be any make-up for the P3 to P6 End-of-Year Examinations (except for the EL and MTL Oral components).
 - Any child who is absent for the exams/exercises will need to produce a medical certificate from a medical doctor. Handwritten letters are not accepted. Marks will be computed accordingly, taking into account the absence with a valid reason.
 - Absence without valid reasons
@@ -23,13 +23,19 @@ description: ""
 The detailed key assessment information can be found in this attachment:  [Key Assessment Information (2023)](/files/key%20assessment%20information%20(2023).pdf)
 
 
+### Term 4 Assessment Details
+* [P3](/files/p3%20term%204%20yearend%20assessment%20details%202023.pdf)
+* [P4](/files/p4%20term%204%20yearend%20assessment%20details%202023.pdf)
+* [P5](/files/p5%20term%204%20yearend%20assessment%20details%202023.pdf)
+
+
+### Archived:
+
 ### Term 3 Assessment Details
 * [P3](/files/p3%20term%203%20weighted%20assessment%20details%202023.pdf)
 * [P4](/files/p4%20term%203%20weighted%20assessment%20details%202023.pdf)
 * [P5](/files/p5%20term%203%20weighted%20assessment%20details%202023.pdf)
 * [P6](/files/p6%20term%203%20prelims%20details%202023.pdf)
-
-### Archived:
 
 #### Term 2 Assessment Details
 * [P3](/files/p3%20term%202%20weighted%20assessment%20details%202023.pdf)
