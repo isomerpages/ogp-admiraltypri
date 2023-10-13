@@ -5,7 +5,7 @@ description: ""
 ---
 # Assessment Matters
 
-- Pupils are to be responsible to bring the necessary stationery and instruments (e.g. calculators and Mathematical set) for the exams.
+- Pupils are to be responsible to bring the necessary stationery and instruments (e.g. calculators, Mathematical set and Mother Tongue dictionary/e-dictionary) for the exams. 
 - There will not be any make-up for the P3 to P6 End-of-Year Examinations (except for the EL and MTL Oral components).
 - Any child who is absent for the exams/exercises will need to produce a medical certificate from a medical doctor. Handwritten letters are not accepted. Marks will be computed accordingly, taking into account the absence with a valid reason.
 - Absence without valid reasons
