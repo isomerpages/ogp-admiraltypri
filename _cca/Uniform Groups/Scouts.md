@@ -43,8 +43,3 @@ Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Pr
 
 **Cub Scout Leadership Training (CSLT)**
 ![](/images/CCA/Scouts/scouts8.png)
-
-
-
-
-
