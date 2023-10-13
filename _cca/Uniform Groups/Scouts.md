@@ -5,71 +5,41 @@ description: ""
 third_nav_title: Uniform Groups
 ---
 
+![](/images/CCA/Scouts/scouts1.png)
 Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Primary School to become responsible and active citizens through the Mission of Scouting.
 
+#### Teachers 
 
-### Objectives
+* Mdm Padmanathan Jayasri
+* Ms Chuah Xing Ying
+* Mdm Norhana
+* Mr Moh Wei Ping
 
-**Responsibility**
+#### Unit Achievements
 
-To provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying a child’s basic need to face and overcome challenges
+**2022** - Frank Cooper Sands Award (Gold)
+<br>**2020, 2021**– SUSPENDED
+<br>**2019** - Frank Cooper Sands Award (Gold)
+<br>**2018** - Frank Cooper Sands Award (Gold)
+<br>**2017** - Frank Cooper Sands Award (Gold)
 
-**Active Citizenship**
-
-To equip the members with life skills and nurture independence, teamwork and leadership qualities in the members.
-
-### Overview
-**Skills**
-
--	Presentation skills (demonstrated through attaining Arrow and proficiency badges), 
--	First aid skills
--	knot-tying skills
--	foot drills
--	camp-craft
--	cheering
--	cooperative games 
-
-**Character/Values**
-
--	Leadership
--	Responsibility
--	Teamwork
-
-### Schedule
-
-Monday CCA Sessions:  0740 – 0940
-
-### Teachers 
-
-* <a href="mailto:chuah_xing_ying@moe.edu.sg">Ms Chuah Xing Ying</a>
-
-* <a href="mailto:saravanan_govindan@moe.edu.sg"> Mr Saravanan Govindan</a>
-
-* <a href="mailto:yi_hern_daryl_chew@moe.edu.sg"> Mr Daryl Chew</a>
-
-* <a href="mailto:norhana_mohammed@moe.edu.sg"> Mdm Norhana</a>
-* <a href="mailto:mohammad_nursaffwan_othman@moe.edu.sg"> Mr Saffwan</a>
+<table height="373" width="539">
+  <tbody>
+    <tr>
+      <td height="205" width="263"><img alt="" height="109" width="300" src="/images/CCA/Scouts/scouts2.png"></td>
+      <td width="264">The Frank Cooper Sands Award (FCSA)  serves to recognise the  achievements of our Scout units and encourages units to continuously deliver  high quality Scouting for our young people. Admiralty  Otter Cub Scouts has maintained the Gold standard for the  Frank Cooper Sands Award for the year 2022 for the 4th time in a row. We have  been achieving the Gold standard since 2017.</td>
+    </tr>
+    <tr>
+      <td height="162">The Akela Award is the highest honor for Cub  Scouts in Singapore. The Cub Scout should have achieved the Gold Arrow and pass  specific proficiency badges, show general knowledge of scouting and  successfully complete an interview with the District Commissioner.</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 
-### Additional info
 
-There is no specific requirement or any other requisite to enter the CCA. Currently, Admiralty Cub Scouts is only recruiting boys. 
+**Frank Cooper Sands Award (Gold)**
+![](/images/CCA/Scouts/scouts2.png)
 
-The Cub Scouts Training Scheme is divided into 3 progress badges and a highest award:
 
--	Bronze Arrow
--	Silver Arrow
--	Gold Arrow
--	Akela Award
 
-All Cub scouts who have completed the relevant Arrow Badge Awards can aspire for the Akela Badge Award, which is the highest award a cub scout can attain.
-
-During the course of their CCA, Cub scouts can also earn their proficiency badges in areas of their interests such as astronomy, arts, communication, exploration, crafting, entertainment, sports and more.
-
-More details can be found from the following website:
-1) Admiralty Cub Scouts Website - https://sites.google.com/moe.edu.sg/adpscouts
-
-2) The Singapore Scouts Association Website - https://scout.sg/
-
-![](/images/Presentation1.jpg)
-![](/images/Presentation2.jpg)
