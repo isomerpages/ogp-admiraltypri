@@ -47,4 +47,7 @@ Admiralty Otter Cub Scouts aims to develop and enable young boys in Admiralty Pr
 <br>The Cub Scout Leadership Training Course (CSLTC), organised by the North Area of The Singapore Scout Association, aims to train exemplary Cub Scouts by integrating 21st-century competencies with Scouting principles. The course focuses on developing social-emotional skills, leadership concepts, and activity planning through the Scouting Method and Experiential Learning methods.
 
 **Founders’ Day Hike**
+![](/images/CCA/Scouts/scouts9.png)
+![](/images/CCA/Scouts/scouts10.png)
+<br>In commemoration of Founder's Day on Wednesday, February 22, 2023, our Cub Scouts joined hands with fellow Cub Scouts from Qihua Primary School for a Community Hike cum Litter Picking Activity. This event deepened the camaraderie between our Cub Scouts thus fulfilling the Scout Law - A Scout Makes Friends, Establishes and Maintains Harmonious Relations. 
 
