@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 image: ""
 ---
-<table cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" height="221" width="305"></p></td><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/pat%202024%20website%20publicity%20image.gif" height="221" width="305"></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" height="221" width="250"></p></td><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/pat%202024%20website%20publicity%20image.gif" height="221" width="305"></p></td></tr></tbody></table>
 
 
 **Celebration of Learning**
