@@ -4,7 +4,10 @@ permalink: /announcements/
 description: ""
 image: ""
 ---
-<table cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" height="221" width="250"></p></td><td><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><img src="/images/pat%202024%20website%20publicity%20image.gif" height="221" width="305"></p></td></tr></tbody></table>
+| [Click here to nominate](https://form.gov.sg/650a8bfa356d470012265669) | [Click here to nominate](https://form.gov.sg/650a5bfd07ce8a0011c0133c) | 
+| -------- | -------- | 
+|  ![](/images/oyea%202024%20website%20publicity%20image.jpg)   |  ![](/images/pat%202024%20website%20publicity%20image.gif)     | 
+
 
 
 **Celebration of Learning**
