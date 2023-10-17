@@ -4,9 +4,10 @@ permalink: /announcements/
 description: ""
 image: ""
 ---
-<a href="https://form.gov.sg/650a8bfa356d470012265669"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" style="width:60%">
+<a href="https://form.gov.sg/650a8bfa356d470012265669"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" style="width:60%"></a>
 
-</a><a href="https://form.gov.sg/650a5bfd07ce8a0011c0133c"><img src="/images/pat%202024%20website%20publicity%20image.gif" style="width:60%">
+
+<a href="https://form.gov.sg/650a5bfd07ce8a0011c0133c"><img src="/images/pat%202024%20website%20publicity%20image.gif" style="width:60%"></a>
 
 **Celebration of Learning**
 
@@ -29,4 +30,4 @@ image: ""
 **Preschool Engagement Session** - 
 [Youtube Link](https://www.youtube.com/watch?v=UrSj4XcOkF0)
 
-**e-Open House** - [Click here](https://drive.google.com/file/d/1g1LSqr5oH2FNfRWxPn06cDgFAjGBbAqX/view?usp=share_link)</a>
+**e-Open House** - [Click here](https://drive.google.com/file/d/1g1LSqr5oH2FNfRWxPn06cDgFAjGBbAqX/view?usp=share_link)
