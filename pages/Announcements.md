@@ -8,10 +8,10 @@ image: ""
 
 [Click here to nominate for Caring Teacher Awards 2024](https://www.cta.nie.edu.sg/)
 
-Click on the image to nominate for Outstanding Youth in Education Award 2024 
+**Click on the image to nominate for Outstanding Youth in Education Award 2024**
 <a href="https://form.gov.sg/650a8bfa356d470012265669"><img src="/images/oyea%202024%20website%20publicity%20image.jpg" style="width:60%"></a>
 
-Click on the image to nominate for President's Award for Teachers 2024
+**Click on the image to nominate for President's Award for Teachers 2024**
 <a href="https://form.gov.sg/650a5bfd07ce8a0011c0133c"><img src="/images/pat%202024%20website%20publicity%20image.gif" style="width:60%"></a>
 
 **Celebration of Learning**
