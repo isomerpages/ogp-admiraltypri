@@ -10,6 +10,8 @@ image: ""
 
 ![https://form.gov.sg/650a8bfa356d470012265669](/images/oyea%202024%20website%20publicity%20image.jpg)
 
+![https://form.gov.sg/650a5bfd07ce8a0011c0133c](/images/pat%202024%20website%20publicity%20image.gif) 
+
 
 **Celebration of Learning**
 
