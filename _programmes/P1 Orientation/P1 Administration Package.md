@@ -26,8 +26,8 @@ third_nav_title: P1 Orientation
     <td valign="top" width="315"><p>Apply to use    Edusave funds to pay for school fees and school enrichment programmes</p></td>
   </tr>
   <tr>
-    <td valign="top" height="65" width="308"><p>MOE Financial    Assistance Scheme Application Form – <em>Ready in late October</em></p></td>
-    <td valign="top" width="315"><p>Apply for    financial assistance</p></td>
+    <td valign="top" height="65" width="308"><p>MOE Financial    Assistance Scheme Application Form<em></em></p></td>
+    <td valign="top" width="315"><p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac">Apply for financial assistance</a></p></td>
   </tr>
 </tbody></table>
 
