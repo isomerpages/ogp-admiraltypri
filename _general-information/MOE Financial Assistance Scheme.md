@@ -26,7 +26,7 @@ description: ""
   </tr>
   <tr>
     <td valign="top" height="92" width="312"><p>eFAS User Guide</p></td>
-    <td valign="top" width="312"><p><a href="files/GO%20PDF/moe%20fas%20info%20sheet%20(in%20english).pdf">MOE-FAS Pamphlet</a></p></td>
+    <td valign="top" width="312"><p><a href="/files/GO%20PDF/fas%20user%20guide.pdf">MOE-FAS Pamphlet</a></p></td>
   </tr>
   <tr>
     <td valign="top" width="312"><p>Application Form for download (submit    completed form to GO)</p></td>
