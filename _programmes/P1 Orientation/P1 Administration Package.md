@@ -26,8 +26,8 @@ third_nav_title: P1 Orientation
     <td valign="top" width="315"><p>Apply to use    Edusave funds to pay for school fees and school enrichment programmes</p></td>
   </tr>
   <tr>
-    <td valign="top" height="65" width="308"><p>MOE Financial    Assistance Scheme Application Form – <em>Ready in late October</em></p></td>
-    <td valign="top" width="315"><p>Apply for    financial assistance</p></td>
+    <td valign="top" height="65" width="308"><p>MOE Financial    Assistance Scheme Application Form<em></em></p></td>
+    <td valign="top" width="315"><p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac">Apply for financial assistance</a></p></td>
   </tr>
 </tbody></table>
 
@@ -45,7 +45,7 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="53" width="234"><p>School-based    Student Care Centre Application Form</p></td>
-    <td valign="top" width="354"><p>&nbsp;</p></td>
+		<td valign="top" width="354"><p><a href="https://www.admiraltypri.moe.edu.sg/files/indication%20of%20interest%202024.pdf">Application Form </a></p></td>
   </tr>
   <tr>
     <td valign="top" height="55" width="234"><p>List of    external student care centres</p></td>
@@ -147,6 +147,6 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>Smart Buddy Promotion e-Brochure</li>
     </ul></td>
-    <td width="483"><p>&nbsp;</p></td>
+		<td width="483"><p><a href="/files/GO%20PDF/smart%20buddy%20promotion%20e-brochure.pdf">e-Brochure</a></p></td>
   </tr>
 </tbody></table>
