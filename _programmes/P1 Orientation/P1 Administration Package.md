@@ -45,7 +45,7 @@ third_nav_title: P1 Orientation
   </tr>
   <tr>
     <td valign="top" height="53" width="234"><p>School-based    Student Care Centre Application Form</p></td>
-    <td valign="top" width="354"><p>&nbsp;</p></td>
+		<td valign="top" width="354"><p><a href="https://www.admiraltypri.moe.edu.sg/files/indication%20of%20interest%202024.pdf">Application Form </a></p></td>
   </tr>
   <tr>
     <td valign="top" height="55" width="234"><p>List of    external student care centres</p></td>
