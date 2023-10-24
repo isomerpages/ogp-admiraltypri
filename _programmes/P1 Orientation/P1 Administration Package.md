@@ -147,6 +147,6 @@ third_nav_title: P1 Orientation
     <td valign="top" height="40" width="268"><ul type="disc">
       <li>Smart Buddy Promotion e-Brochure</li>
     </ul></td>
-    <td width="483"><p>&nbsp;</p></td>
+		<td width="483"><p><a href="/files/GO%20PDF/smart%20buddy%20promotion%20e-brochure.pdf">e-Brochure</a></p></td>
   </tr>
 </tbody></table>
