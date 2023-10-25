@@ -48,25 +48,20 @@ Please visit their website for more information on the different mode of purchas
 **4. If I am applying for FAS, should I purchase the books and uniform before getting the application result?**
 <br>You should wait for the application outcome before purchasing the books and uniform. The school provides subsidy by paying the vendor and does not reimburse parents for cost incurred on purchase of books and uniform.
 
-5. Is there a submission deadline for MOE FAS application?
+**5. Is there a submission deadline for MOE FAS application?**
+<br>There is no submission deadline. You may apply during the year should your circumstances change. However, to enjoy the full benefits, you should submit the application and documents requested by 2 Dec 2023.
 
-There is no submission deadline. You may apply during the year should your circumstances change. However, to enjoy the full benefits, you should submit the application and documents requested by 2 Dec 2023.
+**6. Where can we get the application forms for School Bus, School Student Care Centre etc.?**
+<br>You can find the link to the forms here [(Click here)](https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/p1-administration-package/)
 
-6. Where can we get the application forms for School Bus, School Student Care Centre etc.?
+**7. What if I am unable to download or print the online forms?**
+<br>In this case, you may obtain a copy of the application form at the school’s General Office.
 
-You can find the link to the forms&nbsp;here&nbsp;(click ‘here’)
+**8. Does the school have a student care centre?**
+<br>Yes, it is operated by The Learning Harbour. You may get more information from their Website: https://scc.learningharbour.org/tlh-Admiralty-primary-school/
 
-What if I am unable to download or print the online forms?
-
-In this case, you may obtain a copy of the application form at the school’s General Office.
-
-8. Does the school have a student care centre?
-
-Yes, it is operated by The Learning Harbour. You may get more information from their Website: https://scc.learningharbour.org/tlh-Admiralty-primary-school/
-
-9. Where can I get more information about student care centres around the school?
-
-You can get more information from the MSF website. 
+**9. Where can I get more information about student care centres around the school?**
+<br>You can get more information from the MSF website. 
      Website: https://www.msf.gov.sg/our-services/directories#studenttab
 
 
