@@ -62,7 +62,7 @@ Please visit their website for more information on the different mode of purchas
 
 **9. Where can I get more information about student care centres around the school?**
 <br>You can get more information from the MSF website. 
-     Website: https://www.msf.gov.sg/our-services/directories#studenttab
+<br>Website: https://www.msf.gov.sg/our-services/directories#studenttab
 
 
 
