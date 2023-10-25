@@ -45,9 +45,8 @@ Please visit their website for more information on the different mode of purchas
 **3. When can I start applying for MOE Financial Assistance Scheme and where can I find the application form?**
 <br>The application process should start in late-September. Please keep a lookout for the application forms.
 
-If I am applying for FAS, should I purchase the books and uniform before getting the application     result?
-
-You should wait for the application outcome before purchasing the books and uniform. The school provides subsidy by paying the vendor and does not reimburse parents for cost incurred on purchase of books and uniform.
+**4. If I am applying for FAS, should I purchase the books and uniform before getting the application result?**
+<br>You should wait for the application outcome before purchasing the books and uniform. The school provides subsidy by paying the vendor and does not reimburse parents for cost incurred on purchase of books and uniform.
 
 5. Is there a submission deadline for MOE FAS application?
 
