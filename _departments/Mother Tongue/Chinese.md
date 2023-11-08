@@ -45,6 +45,10 @@ variant: markdown
 </table>
 
 ### Objectives
+##### Vision
+Nurturing Passionate Learners in Mother Tongue Language
+<br>The Chinese Language Unit believes that language give learners the world by opening their minds to other cultures and opening doors to new possibilities. While learning the language, it takes learners on a journey that improves the way they communicate, interact with others, and engage with learning – and with life – at home and beyond.
+<br>We believe that through the acquisition of Chinese language and intercultural skills, our students at school will ignite their passion for the language, in turn, equipping them with confidence in the language. 
 
 ### Programmes and Activities
 
