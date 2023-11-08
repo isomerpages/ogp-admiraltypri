@@ -3,42 +3,49 @@ title: Chinese
 permalink: /departments/Mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
+### People
+         
+<table height="363" width="450">
+  <tbody>
+    <tr>
+      <td>MDM  LEE CHER HIANG CHRISTINE</td>
+      <td>MS LIM  SHI HUI</td>
+    </tr>
+    <tr>
+      <td>MDM  MAH YEOK YING</td>
+      <td>MDM NG  SOEK MUI</td>
+    </tr>
+    <tr>
+      <td>MDM  LEONG YET WAH</td>
+      <td>MS SOH  CHIEW BEE</td>
+    </tr>
+    <tr>
+      <td>MS  CHIN YOKE LAN</td>
+      <td>MDM  TAM WEI CHEE JESSICA</td>
+    </tr>
+    <tr>
+      <td>MDM  DESIREE ANG</td>
+      <td><p>MS TAY CHUN FANG</p></td>
+    </tr>
+    <tr>
+      <td>MS KOH  YEN LING</td>
+      <td>MDM  ZHANG ZHE JIN</td>
+    </tr>
+    <tr>
+      <td>MR  LIEW HUN HUI</td>
+      <td>MDM  ZHU XIAO WEI</td>
+    </tr>
+		<tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-# Chinese
 
-# People
-
-|             |                   |             |                          |
-| ----------- | ----------------- | ----------- | ------------------------ |
-| P1 Teachers |                   | P2 Teachers |                          |
-| 1CH         | MS CHOO SHU FEN   | 2CH         | MS TAY CHUN FANG         |
-| 1ED         | MDM DING XUE      | 2ED         | MDM ZHU XIAO WEI         |
-| 1ET         | MS SOH CHIEW BEE  | 2ET         | MDM TAM WEI CHEE JESSICA |
-| 1GA         | MDM ZHAO SHUANG   | 2GA         | MDM NG SOEK MUI          |
-| 1IN         | MDM LEONG YET WAH | 2IN         | MDM ZHANG ZHE JIN        |
-| 1PO         | MDM TAN CHEW FONG |             |                          |
-
-|             |                          |             |                   |
-| ----------- | ------------------------ | ----------- | ----------------- |
-| P3 Teachers |                          | P4 Teachers |                   |
-| 3A          | MS TAY CHUN FANG         | 4A          | MDM MAH YEOK YING |
-| 3B          | MS CHOO SHU FEN          | 4B          | MDM ZHAO SHUANG   |
-| 3CH         | MDM TAM WEI CHEE JESSICA | 4CH         | MDM ZHU XIAO WEI  |
-| 3CO         | MDM DING XUE             | 4CO         | MR LIEW HUN HUI   |
-| 3ED         | MDM NG SOEK MUI          | 4ED         | MDM DING XUE      |
-| 3PO         | MDM TAN CHEW FONG        |             |                   |
-
-| P5 Teachers |                              | P6 Teachers |                              |
-| ----------- | ---------------------------- | ----------- | ---------------------------- |
-| 5CH         | MDM LEE CHER HIANG CHRISTINE | 6CH         | MR GOH PIANG KANG            |
-| 5CO         | MDM MAH YEOK YING            | 6CO         | MDM ZHANG ZHE JIN            |
-| 5ED         | MDM ZHU XIAO WEI             | 6ED         | MDM LEONG YET WAH            |
-| 5ET         | MR GOH PIANG KANG            | 6ET         | MDM NG SOEK MUI              |
-| 5GA         | MR LIEW HUN HUI              | 6GA         | MS SOH CHIEW BEE             |
-|             |                              | 6PO         | MDM LEE CHER HIANG CHRISTINE |
-
-# Programmes and Activities
+### Programmes and Activities
 
 The Chinese curriculum in our school aims to cultivate the students in three main areas:
 
