@@ -14,7 +14,8 @@ variant: markdown
     <tr>
       <td height="28" class="tg-zr06">Members</td>
       <td class="tg-zr06">Mdm Nalayani Nair, Ms Punitha Silverrajan</td>
-</tr></tbody></table>
+</tr>
+			<tr></tr></tbody></table>
 
 #### Programmes
 
