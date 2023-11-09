@@ -41,12 +41,14 @@ We believe that every child is a potential ARIF BUDIMAN – the learned person w
 
 **Key Programmes**
 
-| Language                   | Culture                                                                                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Drama in Phonics           | MTL Fortnight                                                                                                                                                                      |
-| Let’s Read                 | Learning Journey to Bukit Chandu                                                                                                                                                   |
-| Tahu Nahu (Grammar)        | Pesta Bahasa dan Budaya                                                                                                                                                            |
-| Gen G (Socrative)          | Cultural Camp <br> [MTLS Video Admiralty Pri Sch](https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/view) <br>[Malay Language and Cultural Camp ](/files/MTLS.pdf) |     |
-| Spelling Bee               |                                                                                                                                                                                    |
-| Creative Writing Programme |                                                                                                                                                                                    |
-| ML Ambassador Programme    |                                                                                                                                                                                    |
+| Language                   | Culture            | Drama in Phonics           
+| MTL Fortnight 
+| Let’s Read  
+| Learning Journey to Bukit Chandu
+| Tahu Nahu (Grammar)        
+| Pesta Bahasa dan Budaya 
+| Gen G (Socrative)         
+| Cultural Camp <br> [MTLS Video Admiralty Pri Sch](https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/view) <br>[Malay Language and Cultural Camp ](/files/MTLS.pdf) |
+| Spelling Bee    
+| Creative Writing Programme |  
+| ML Ambassador Programme    |   
