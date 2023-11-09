@@ -32,7 +32,7 @@ Our Key programmes are designed to generate interest, lay a foundation, achieve 
 - Languages Fiesta 2023
 - Spelling Bee (P1-P2)
 
-#### Objectives
+# Objectives
 
 **Vision**
 
