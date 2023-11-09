@@ -7,15 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/banner1.gif
       key_highlights:
         - title: Announcements
           description: Important announcements
           url: /announcements/
-        - title: "Useful links "
+        - title: Useful links
           description: ""
           url: /usefullinks/
-        - title: "Events/Gallery "
+        - title: Events/Gallery
           description: ""
           url: /privacy/
 ---
