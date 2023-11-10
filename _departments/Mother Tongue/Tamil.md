@@ -3,10 +3,9 @@ title: Tamil
 permalink: /departments/Mother-tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
-# Tamil
-
-# People
+#### People
 <table border="1" cellspacing="0" class="tg">
     <tbody><tr>
       <td height="28" class="tg-zr06">TL Coordinator</td>
@@ -15,9 +14,10 @@ third_nav_title: Mother Tongue
     <tr>
       <td height="28" class="tg-zr06">Members</td>
       <td class="tg-zr06">Mdm Nalayani Nair, Ms Punitha Silverrajan</td>
-</tr></tbody></table>
+</tr>
+			<tr></tr></tbody></table>
 
-# Programmes
+#### Programmes
 
 Our Key programmes are designed to generate interest, lay a foundation, achieve excellence and develop champions by the end of the six years in Admiralty Primary School. To achieve this, Tamil pupils go through the following programmes.
 
@@ -37,7 +37,7 @@ Our Key programmes are designed to generate interest, lay a foundation, achieve 
 
 **Vision**
 
-A dynamic and inspiring department which ignites and develops learners’ passion for the Tamil language and culture
+Nurturing Passionate Learners in Mother Tongue Language
 
 **Mission**
 
