@@ -69,7 +69,7 @@ variant: markdown
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Booklist - <em></em></li>
+      <li>Booklist <em></em></li>
     </ul></td>
     <td valign="top" width="483"><a href="/files/Admiralty_Primary_School___BookList_for_AY2024___P1.pdf">P1 Booklist</a></td>
   </tr>
