@@ -3,11 +3,12 @@ title: Orientation Information
 permalink: /programmes/p1-orientation/orientation-information/
 description: ""
 third_nav_title: P1 Orientation
+variant: markdown
 ---
 ### Orientation Slides
 **P1 (2024) Orientation will be conducted physically in the School Canteen (Level 1) &amp; School Hall (Level 2) on Friday, 13 October 2023 from 3 p.m. to 5 p.m.**
 
-We look forward to meeting you! The presentation slides for P1 Orientation will be uploaded by Friday, 20 October 2023.
+[2023 P1 Orientation Presentation](https://drive.google.com/file/d/11scvWZnSVTWMR0epzK2b33FupC6RSdeH/view?usp=drive_link)
 
 ### Drop Off and Dismissal
   

@@ -53,8 +53,8 @@ variant: markdown
     <td valign="top" width="354"><p><a href="https://www.msf.gov.sg/our-services/directories#studenttab">https://www.msf.gov.sg/our-services/directories#studenttab</a></p></td>
   </tr>
   <tr>
-    <td valign="top" height="73" width="234"><p>Holistic Enrichment    Programme Application Form (Monday mornings)- <em>Ready in late October</em></p></td>
-    <td valign="top" width="354"><p>&nbsp;</p></td>
+    <td valign="top" height="73" width="234"><p>Holistic Enrichment Programme Application Form (Monday mornings)- <em></em></p></td>
+    <td valign="top" width="354"><p><a href="https://www.kidsexcel.net/admiraltyps">https://www.kidsexcel.net/admiraltyps</a></p></td>
   </tr>
 </tbody></table>
 
