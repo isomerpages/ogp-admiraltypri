@@ -3,8 +3,14 @@ title: Announcements
 permalink: /announcements/
 description: ""
 image: ""
+variant: markdown
 ---
-#### Awards
+##### **Opening Hours for Sale**
+
+[Click here for Uniform](/files/GO%20PDF/Sch_Holiday_Opening_Hours_Uniform.pdf)
+<br>[Click here for Books](/files/GO%20PDF/BookList_for_AY2024_hours.pdf)
+
+##### **Awards**
 
 [Click here to nominate for Caring Teacher Awards 2024](https://www.cta.nie.edu.sg/)
 

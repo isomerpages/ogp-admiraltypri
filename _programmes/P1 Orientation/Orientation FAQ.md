@@ -3,6 +3,7 @@ title: Orientation FAQ
 permalink: /programmes/p1-orientation/orientation-frequently-asked-questions/
 description: ""
 third_nav_title: P1 Orientation
+variant: markdown
 ---
 #### School / Student Related
 
@@ -34,7 +35,7 @@ third_nav_title: P1 Orientation
 #### Admin Related
 
 **1. When will I get the booklist?**
-<br>The booklist will be ready by early November. You may download a copy from our website then. Alternatively, you can get it from the General Office if you are around the corner.
+<br>The booklist will be ready early November. It will be available for download ([here](https://www.admiraltypri.moe.edu.sg/programmes/p1-orientation/p1-administration-package/)). Alternatively, you can get it from the General Office if you are around the corner.
 
 **2. When can I start buying books?**
 <br>You can start buying the school books during the Nov/Dec school holidays from the school bookshop. You are encouraged to buy them early and to order online, if possible. 
