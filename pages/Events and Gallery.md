@@ -4,6 +4,6 @@ permalink: /eventsgallery/
 variant: markdown
 description: ADPS Events and Photo Gallery
 ---
-# COL 2023
+# Celebration Of Learning (COL) 2023
 
 Testing
