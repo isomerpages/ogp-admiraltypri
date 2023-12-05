@@ -17,7 +17,7 @@ sections:
           url: /usefullinks/
         - title: Events/Gallery
           description: ""
-          url: /privacy/
+          url: /eventsgallery/
       button: opening hours for sale - Uniform and books
       url: https://www.admiraltypri.moe.edu.sg/announcements/
 ---
