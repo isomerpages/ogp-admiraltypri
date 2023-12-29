@@ -1,8 +1,9 @@
 ---
 title: Message for year 2023
-permalink: /about-us/principal-message/
+permalink: /about-us/principal-message/message-for-year-2023/
 description: ""
 third_nav_title: Principal’s Message
+variant: tiptap
 ---
 ##### Principal’s Message for 2023
 
