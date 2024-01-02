@@ -280,21 +280,21 @@ variant: markdown
 <table class="tg">
   <thead>
     <tr>
-      <th width="95" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
-      <th width="285" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 1</th>
-      <th width="283" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 2</th>
+      <th width="69" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
+      <th width="291" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 1</th>
+      <th width="303" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td height="28" class="tg-faf8"><strong>3 CH</strong></td>
-      <td class="tg-faf8">Mdm Xu Shihui</td>
-      <td class="tg-faf8">Mdm Jessica Tam Wei Chee<br></td>
+      <td class="tg-faf8"><p>Mdm Lee Cher Hiang Christine</p></td>
+      <td class="tg-faf8"><p>Mdm Siti Zakiah Bte Ahmad</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:xu_shihui@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">xu_shihui@moe.edu.sg</span></a></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tam_wei_chee_jessica@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tam_wei_chee_jessica@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="lee_cher_hiang_christine@moe.edu.sg">lee_cher_hiang_christine@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="siti_zakiah_ahmad@moe.edu.sg">siti_zakiah_ahmad@moe.edu.sg</a></td>
     </tr>
 <!-- Disable as Mdm Nursyafawati is on Maternity leave
     <tr>
@@ -321,54 +321,45 @@ Disable ends here -->
 <!-- New starts here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>3 CO</strong></td>
-      <td class="tg-faf8">Mdm Nalayani Nair d/o Mukunan Nair</td>
-      <td class="tg-faf8">Mr Tan Kiat, Calvin</td>
+      <td class="tg-faf8"><p>Mdm Koh Meow Eng Diana</p></td>
+      <td class="tg-faf8"><p>Mdm Ho Sok Ling Sharon</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td valign="top" bgcolor="#eee" class="tg-ugoc"><a href="mailto:nalayani_nair_mukunan_nair@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">nalayani_nair_mukunan_nair@moe.edu.sg</span></a></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_kiat_calvin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_kiat_calvin@moe.edu.sg</span></a></td>
+      <td valign="top" bgcolor="#eee" class="tg-ugoc"><a href="koh_meow_eng_diana@moe.edu.sg">koh_meow_eng_diana@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:ho_sok_ling_sharon@moe.edu.sg">ho_sok_ling_sharon@moe.edu.sg</a></td>
     </tr>
 <!-- New ends here -->
     <tr>
       <td height="28" class="tg-faf8"><strong>3 ED</strong></td>
-      <td class="tg-faf8">Mdm K Kanagamalar <br></td>
-      <td class="tg-faf8">Mdm Rageswari Virayah</td>
+      <td class="tg-faf8"><p>Ms Seow Qiying Alanna</p></td>
+      <td class="tg-faf8"><p>Mdm Nurazreen Binte Samsudin</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:kanagamalar_kumar@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">kanagamalar_kumar@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-zr06"><a href="mailto:rageswari_virayah@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">rageswari_virayah@moe.edu.sg</span></a></td>
-    </tr>
-    <tr>
-      <td class="tg-faf8"></td>
-      <td class="tg-faf8"> <br></td>
-      <td class="tg-faf8">Mdm Normala</td>
-    </tr>
-    <tr>
- 	<td height="28" bgcolor="#eee" class="tg-zr06"><strong> </strong></td>
-	<td bgcolor="#eee" class="tg-zr06"> <br></td>
-<td bgcolor="#eee" class="tg-zr06"><a href="mailto:normala_mohamed_jais@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">normala_mohamed_jais@moe.edu.sg</span></a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:seow_qiying@moe.edu.sg">seow_qiying@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-zr06"><a href="mailto:nurazreen_samsudin@moe.edu.sg">nurazreen_samsudin@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>3 ET</strong></td>
-      <td class="tg-faf8">Ms Marinah Mukhtar Toh<br></td>
-      <td class="tg-faf8">Mdm Zhu Xiaowei</td>
+      <td class="tg-faf8"><p>Mdm Nuruljannah Binte Mukasim</p></td>
+      <td class="tg-faf8"><p>Ms Marinah Mukhtar Toh Abdullah</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:marinah_mukhtar_toh_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">marinah_mukhtar_toh_abdullah@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:zhu_xiaowei@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">zhu_xiaowei@moe.edu.sg</span></a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:nuruljannah_mukasim@moe.edu.sg">nuruljannah_mukasim@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:marinah_mukhtar_toh_abdullah@moe.edu.sg">marinah_mukhtar_toh_abdullah@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>3 GA</strong></td>
-      <td class="tg-faf8">Mdm Masnie Mohamed Jalani</td>
-      <td class="tg-faf8">Ms Lim Shi Hui <br></td>
+      <td class="tg-faf8"><p>Mr Tan Kiat, Calvin</p></td>
+      <td class="tg-faf8"><p>Mdm Nalayani Nair d/o Mukunan Nair<br>Mdm Sabiah Bte A Kunjahamad</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-ugoc"><a href="mailto:masnie_mohamed_jalani@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">masnie_mohamed_jalani@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lim_shi_hui_a@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lim_shi_hui@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-ugoc"><a href="mailto:tan_kiat_calvin@moe.edu.sg">tan_kiat_calvin@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:nalayani_nair_mukunan_nair@moe.edu.sg">nalayani_nair_mukunan_nair@moe.edu.sg</a><br>
+      <a href="mailto:sabiah_a_kunjahamad@moe.edu.sg">sabiah_a_kunjahamad@moe.edu.sg</a></td>
     </tr>
   </tbody>
 </table>
