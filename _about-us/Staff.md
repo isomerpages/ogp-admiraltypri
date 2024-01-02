@@ -234,7 +234,7 @@ variant: markdown
       <td class="tg-23ad"><a href="ng_soek_mui@moe.edu.sg">ng_soek_mui@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td height="44" class="tg-faf8"><strong>2 ET</strong></td>
+      <td height="28" class="tg-faf8"><strong>2 ET</strong></td>
       <td class="tg-faf8"><p>Mdm Chong You Kim (Karine)</p></td>
       <td class="tg-faf8">Mdm Khatijah Bte Che Din<br>Mdm Nur Shaliza Binte Zulkifli</td>
     </tr>
