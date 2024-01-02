@@ -514,73 +514,71 @@ Disable ends here -->
 <table width="683" height="352" class="tg">
   <thead>
     <tr>
-      <th width="94" height="28" bgcolor="#ddd" class="tg-dgl5">Class</th>
-      <th width="273" bgcolor="#ddd" class="tg-dgl5">Form Teacher 1</th>
-      <th width="296" bgcolor="#ddd" class="tg-dgl5">Form Teacher 2</th>
+      <th style="text-align: left" class="tg-dgl5" bgcolor="#ddd" height="28" width="73">Class</th>
+      <th width="295" bgcolor="#ddd" class="tg-dgl5">Form Teacher</th>
+      <th width="334" bgcolor="#ddd" class="tg-dgl5">Form Teacher</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td height="28" class="tg-faf8"><strong>6 CH</strong></td>
+      <td class="tg-faf8"><p>Mdm Hamimah Bte Ansor</p></td>
+      <td class="tg-faf8"><p>Mr Shahril Bin Mohamed Jalani</p></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg">hamimah_ansor@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg">shahril_mohamed_jalani  @moe.edu.sg</a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8">&nbsp;</td>
+      <td class="tg-faf8">&nbsp;</td>
+      <td class="tg-faf8"><p>Ms Veronica Yeo Tin Kim</p></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy">&nbsp;</td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:veronica_yeo@moe.edu.sg">veronica_yeo@moe.edu.sg</a></td>
+    </tr>
+    <tr>
       <td height="28" class="tg-faf8"><strong>6 CO</strong></td>
-      <td class="tg-faf8">Mdm Rashidah Ismail Neville<br></td>
-      <td class="tg-faf8">Mdm Ding Xue<br></td>
+      <td class="tg-9678"><p>Mdm Bimaljit Kaur d/o Sohan Singh</p></td>
+      <td class="tg-9678"><p>Mr Tan Jiajin</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:rashidah_ismail_neville@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rashidah_ismail_neville@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:ding_xue@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">ding_xue@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:bimaljit_kaur_sohan_singh@moe.edu.sg">bimaljit_kaur_sohan_singh@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_jiajin@moe.edu.sg">tan_jiajin@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>6 ED</strong></td>
-      <td class="tg-faf8">Mr Chua Shin Huat<br></td>
-      <td class="tg-faf8">Mdm Hamimah Bte Ansor<br></td>
-    </tr>
-    <tr>
-      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chua_shin_huat@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chua_shin_huat@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:hamimah_ansor@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">hamimah_ansor@moe.edu.sg</span></a><br></td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-faf8"><strong>6 ET</strong></td>
-      <td class="tg-9678">Ms Chin Yoke Lan<br></td>
-      <td class="tg-9678">Mdm Tan Alice<br></td>
+      <td height="28" class="tg-faf8"><strong>6 ET </strong></td>
+      <td class="tg-9678"><p>Mdm Desiree Ang Ee Chin</p></td>
+      <td class="tg-9678"><p>Mr Ang Jian Hao</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chin_yoke_lan@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">chin_yoke_lan@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_alice@moe.edu.sg</span></a><br>
-        </td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-faf8"><strong> </strong></td>
-      <td class="tg-9678"> <br></td>
-      <td class="tg-9678">Mdm Lee Cher Hiang Christine<br></td>
-    </tr>
-    <tr>
-      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"> <br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lee_cher_hiang_christine@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">lee_cher_hiang_christine@moe.edu.sg</span></a><br>
-        </td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:desiree_ang_ee_chin@moe.edu.sg">desiree_ang_ee_chin@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:ang_jian_hao@moe.edu.sg">ang_jian_hao@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>6 GA</strong></td>
-      <td class="tg-9678">Mdm Wong Ching Ching<br></td>
-      <td class="tg-9678">Mdm Mah Yeok Ying<br></td>
+      <td class="tg-9678"><p>Mdm Charlotte Sng Yi May</p></td>
+      <td class="tg-9678"><p>Mdm Sharmila d/o Divakaran Amanda</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">wong_ching_ching@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:mah_yeok_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">mah_yeok_ying@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:charlotte_sng_yi_may@moe.edu.sg">charlotte_sng_yi_may@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg">amanda_frances_sharmila_di@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>6 IN</strong></td>
-      <td class="tg-9678">Ms Khoo Ying Ying<br></td>
-      <td class="tg-9678">Ms Koon Wai Hang<br></td>
+      <td height="28" class="tg-faf8"><strong>6 GR</strong></td>
+      <td class="tg-9678"><p>Mr Liew Hun Hui</p></td>
+      <td class="tg-9678"><p>Mr Lim Yew Beng</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:khoo_ying_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">khoo_ying_ying@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:koon_wai_hang@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">koon_wai_hang@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:liew_hun_hui@moe.edu.sg">liew_hun_hui@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:lim_yew_beng@moe.edu.sg">lim_yew_beng@moe.edu.sg</a></td>
     </tr>
   </tbody>
 </table>
