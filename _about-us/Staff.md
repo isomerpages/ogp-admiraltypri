@@ -438,64 +438,74 @@ Disable ends here -->
 </table>
 
 #### Class Form Teacher - Primary 5
-<table class="tg">
+<table class="tg" width="623">
   <thead>
     <tr>
-      <th width="92" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
-      <th width="272" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 1</th>
-      <th width="299" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher 2</th>
+      <th width="79" height="28" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Class</th>
+      <th width="238" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher</th>
+      <th width="290" bgcolor="#ddd" class="tg-dgl5" style="text-align: left">Form Teacher</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td height="28" class="tg-faf8"><strong>5 CH</strong></td>
-      <td class="tg-faf8">Ms Veronica Yeo Tin Kim<br></td>
-      <td class="tg-faf8">Mr Shahril Bin Mohamed Jalani<br></td>
+      <td class="tg-faf8"><p>Mdm Tan Alice</p></td>
+      <td class="tg-faf8"><p>Ms Chin Yoke Lan</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:veronica_yeo@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">veronica_yeo@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:shahril_mohamed_jalani@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">shahril_mohamed_jalani@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_alice@moe.edu.sg">tan_alice@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chin_yoke_lan@moe.edu.sg">chin_yoke_lan@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>5 CO</strong></td>
-      <td class="tg-faf8">Mdm Bimaljit Kaur<br></td>
-      <td class="tg-faf8">Mr Tan Jia Jin<br></td>
+      <td class="tg-faf8"><p>Mdm Nurhasliza Bte Hashim</p></td>
+      <td class="tg-faf8"><p>Mr Oh Kok Choon</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:bimaljit_kaur_sohan_singh@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">bimaljit_kaur_sohan_singh@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:tan_jiajin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">tan_jiajin@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-wmsy">&nbsp;</td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:oh_kok_choon@moe.edu.sg">oh_kok_choon@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td height="28" class="tg-faf8"><strong>5 ET</strong></td>
-      <td class="tg-9678">Mdm Rachelle Tjhin Hui Ying<br></td>
-      <td class="tg-faf8">Mdm Desiree Ang Ee Chin<br></td>
-    </tr>
-    <tr>
-      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:rachelle_tjhin_hui_ying@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">rachelle_tjhin_hui_ying@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:desiree_ang_ee_chin@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">desiree_ang_ee_chin@moe.edu.sg</span></a><br></td>
-    </tr>
-    <tr>
-      <td height="28" class="tg-faf8"><strong>5 GA</strong></td>
-      <td class="tg-faf8">Mdm Charlotte Sng Yi May<br></td>
-      <td class="tg-faf8">Mdm Sharmila d/o Divakaran Amanda</td>
+      <td height="28" class="tg-faf8">&nbsp;</td>
+      <td class="tg-9678">&nbsp;</td>
+      <td class="tg-faf8"><p>Mdm Leong Yet Wah</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:charlotte_sng_yi_may@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">charlotte_sng_yi_may@moe.edu.sg</span></a><br></td>
-      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg"><span style="text-decoration:none;color:#383E8E">amanda_frances_sharmila_di@moe.edu.sg</span></a></td>
+      <td bgcolor="#eee" class="tg-wmsy">&nbsp;</td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:leong_yet_wah@moe.edu.sg">leong_yet_wah@moe.edu.sg</a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-faf8"><strong>5 ED</strong></td>
+      <td class="tg-faf8"><p>Mdm Wong Ching Ching</p></td>
+      <td class="tg-faf8"><p>Mdm Chan Siew Li (Christy)</p></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:wong_ching_ching@moe.edu.sg">wong_ching_ching@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:chan_siew_li@moe.edu.sg">chan_siew_li@moe.edu.sg</a></td>
+    </tr>
+    <tr>
+      <td height="28" class="tg-zr06"><strong>5 GA</strong></td>
+      <td class="tg-wmsy"><p>Mdm Rashidah Ismail Neville</p></td>
+      <td class="tg-wmsy"><p>Mr Moh Wei Ping</p></td>
+    </tr>
+    <tr>
+      <td height="28" bgcolor="#eee" class="tg-zr06"></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:rashidah_ismail_neville@moe.edu.sg">rashidah_ismail_neville@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-wmsy"><a href="mailto:moh_wei_ping@moe.edu.sg">moh_wei_ping@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td height="28" class="tg-faf8"><strong>5 GR</strong></td>
-      <td class="tg-faf8">Mr Jumat Bin Baba</td>
-      <td class="tg-faf8">Mr Liew Hun Hui<br></td>
+      <td class="tg-faf8"><p>Mr Chua Shin Huat</p></td>
+      <td class="tg-faf8"><p>Ms Khoo Ying Ying</p></td>
     </tr>
     <tr>
       <td height="28" bgcolor="#eee" class="tg-zr06"></td>
-      <td bgcolor="#eee" class="tg-ugoc"><a href="mailto:jumat_b_baba@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">jumat_b_baba@moe.edu.sg</span></a></td>
-      <td bgcolor="#eee" class="tg-zr06"><a href="mailto:liew_hun_hui@moe.edu.sg"><span style="text-decoration:underline;color:#383E8E">liew_hun_hui@moe.edu.sg</span></a><br></td>
+      <td bgcolor="#eee" class="tg-ugoc"><a href="mailto:chua_shin_huat@moe.edu.sg">chua_shin_huat@moe.edu.sg</a></td>
+      <td bgcolor="#eee" class="tg-zr06"><a href="mailto:khoo_ying_ying@moe.edu.sg">khoo_ying_ying@moe.edu.sg</a></td>
     </tr>
   </tbody>
 </table>
