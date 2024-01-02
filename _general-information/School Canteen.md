@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /general-information/school-canteen/
 description: ""
+variant: markdown
 ---
 #### School Canteen
 
@@ -56,8 +57,7 @@ td {
 		<td> Malay Noodle (Halal) </td>
 	</tr></tbody></table>
 
-[For menu &amp; price list (wef 13 Oct 2023), please click here](/files/revised%20canteen%20prices%20wef%2013oct2023.pdf)
-
+[For menu &amp; price list (wef 02 Jan 2024), please click here](/files/Canteen_Prices_with_effect_from_2_Jan_2024.pdf)
 
 #### Canteen Rules
 
