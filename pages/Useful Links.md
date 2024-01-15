@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /usefullinks/
 description: ""
+variant: markdown
 ---
 #### School Calendar
 [Click here for 2023 School Calendar - Term 4](/files/2023%20term%204%20calendar.pdf)
@@ -12,7 +13,7 @@ description: ""
 | ----------- | ----------- | 
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login)    | [Parents Gateway](https://pg.moe.edu.sg/)   |
  | [Student iCON](https://workspace.google.com/dashboard)     | [Password reset form (iCON/SLS)](https://forms.gle/bd2dREPKXXsBuiiq6)    |
- | [Google classroom](Workspace.google.com/dashboard)    |     |
+ | [Google classroom](Workspace.google.com/dashboard)    |  [School Library-OPAC](https://schoolibrary.moe.edu.sg/admiraltypri/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=06601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3E%3DTHISMONTH(-4)%22%20)%20-%2006601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3C%20THISMONTH(-4)%22)&QRYTEXT=New%20Arrivals)   |
  
  
  
