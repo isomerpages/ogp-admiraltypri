@@ -2,6 +2,7 @@
 title: PE, Aesthetics, CCA
 permalink: /departments/pe-aesthetics-cca/
 description: ""
+variant: markdown
 ---
 ![People PE](/images/people_pe.JPG)
 ![](/images/Slide3.jpg)
@@ -86,7 +87,7 @@ We also provide our students the following opportunities and experiences to enjo
 *   National Day Games&nbsp;
 *   Virtual Run
 *   SwimSafer
-*   Adventure Camp
+*   Adventure Camp - [P5 Camp Briefing Parents](/files/Department/P5_Camp_Briefing_Parents.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
