@@ -2,6 +2,7 @@
 title: Homework Policy
 permalink: /general-information/homework-policy/
 description: ""
+variant: markdown
 ---
 # Homework Policy
 
@@ -17,6 +18,8 @@ c. allow students to regularly practise, and apply skills and concepts taught;
 
 d. inculcate responsibility for independent learning and
 encourage partnership with parents
+
+e. encourage partnership with parents
 
 **Types of Homework**
 
@@ -45,22 +48,12 @@ c. Extension Assignments:
 - Collaborative Assignments like project work
   IT-based Homework
 
-**Approximate Time**
+**Recommended  Homework Time**
 
-The table below, showing the approximate daily homework time for pupils, serves only as a guide. All homework includes reading as mandatory component.
+The table below shows the guide for homework time.
 
-| Monday to Friday |                   | Saturday to Sunday               |                         |
-| ---------------- | ----------------- | -------------------------------- | ----------------------- |
-| Class            | Duration Per Day  | Duration Per Day (Mother Tongue) | Duration of Homework\*  |
-| P1               | 30 min to 1 h     | 30 min                           | 2 h – 2 h 30 min        |
-| P2               | 30 min to 1 h     | 30 min                           | 2 h – 2 h 30 min        |
-| P3               | 1 h to 2 h        | 30 min to 45 min                 | 2 h 30 min – 3 h 30 min |
-| P4               | 1 h to 2 h        | 30 min to 45 min                 | 2 h 30 min – 3 h 30 min |
-| P5#              | 2 h to 2 h 30 min | 45 min to 1 h 30 min             | 2 h 30 min – 4 h        |
-| P6#              | 2 h to 2 h 30 min | 45 min to 1 h 30 min             | 2 h 30 min – 4 h        |
 
-- include homework that promotes partnership
-- Additional homework time for Higher Mother Tongue
+![Recommended Home Work Time](/images/HomeworkTable.jpg)
 
 **Communication with Parents/Guardians**
 
