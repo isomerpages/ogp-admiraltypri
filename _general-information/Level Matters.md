@@ -2,6 +2,7 @@
 title: Level Matters
 permalink: /general-information/level-matters/
 description: ""
+variant: markdown
 ---
 #### P1 and P2
 
@@ -55,6 +56,7 @@ description: ""
 .tg .tg-wmsy{background-color:#FFF;color:#383E8E;text-align:left;vertical-align:top}
 </style>
 
+
 #### P3 and P4
 <table class="tg">
 <thead>
@@ -72,8 +74,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-zr06">Maths</td>
-    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P3%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
-    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/P4%20Maths.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
+    <td class="tg-zr06"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2024_P3_Maths_Lesson_Focus.pdf"><span style="text-decoration:none;color:#383E8E">P3 Maths</span></a><br></td>
+    <td class="tg-wmsy"><a href="https://ogp-admiraltypri-staging.netlify.app/files/2024_P4_Maths_Lesson_Focus.pdf"><span style="text-decoration:none;color:#383E8E">P4 Maths</span></a><br></td>
   </tr>
 
   <tr>
