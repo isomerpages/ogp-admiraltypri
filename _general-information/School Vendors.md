@@ -2,6 +2,7 @@
 title: School Vendors
 permalink: /general-information/school-vendors/
 description: ""
+variant: markdown
 ---
 #### School Book Shop
 <b><u>RICKY BOOK CENTRE</u></b><br>
@@ -47,5 +48,7 @@ Operates in school on selected Fridays. <br>
 #### School Dental Service
 
 **Opening hours:** <br>
-Monday – Friday (8:00am to 12:30pm &amp; 1:30pm to 4:30pm) <br>
-Tel: 6362 5154
+Monday to Thursday - 8:00am to 5:30pm<br>
+Friday - 8:00am to 5:00pm <br>
+Lunch Time - 1:00pm to 2:00pm <br>
+Tel: 85184719
