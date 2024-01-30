@@ -2,6 +2,7 @@
 title: Assessment Matters
 permalink: /general-information/assessment-matters/
 description: ""
+variant: markdown
 ---
 # Assessment Matters
 
@@ -20,25 +21,13 @@ description: ""
 * The school views cheating as a serious offence. Pupils caught cheating or with an intent to cheat will be awarded a zero mark for the component/paper. Disciplinary action will also be taken against the pupil.
 
 
-The detailed key assessment information can be found in this attachment:  [Key Assessment Information (2023)](/files/key%20assessment%20information%20(2023).pdf)
+The detailed key assessment information can be found in this attachment:  [Key Assessment Information (2024)](/files/key%20assessment%20information%20(2024).pdf)
 
 
-### Term 4 Assessment Details
-* [P3](/files/p3%20term%204%20yearend%20assessment%20details%202023.pdf)
-* [P4](/files/p4%20term%204%20yearend%20assessment%20details%202023.pdf)
-* [P5](/files/p5%20term%204%20yearend%20assessment%20details%202023.pdf)
+### Term 1 Assessment Details
 
+* [P3](/files/p3%20term1%20assessment%20details%202024.pdf)
+* [P4](/files/p4%20term1%20assessment%20details%202024.pdf)
+* [P5](/files/p5%20term1%20assessment%20details%202024.pdf.pdf)
+* [P6](/files/p5%20term1%20assessment%20details%202024.pdf.pdf)
 
-### Archived:
-
-### Term 3 Assessment Details
-* [P3](/files/p3%20term%203%20weighted%20assessment%20details%202023.pdf)
-* [P4](/files/p4%20term%203%20weighted%20assessment%20details%202023.pdf)
-* [P5](/files/p5%20term%203%20weighted%20assessment%20details%202023.pdf)
-* [P6](/files/p6%20term%203%20prelims%20details%202023.pdf)
-
-#### Term 2 Assessment Details
-* [P3](/files/p3%20term%202%20weighted%20assessment%20details%202023.pdf)
-* [P4](/files/p4%20term%202%20weighted%20assessment%20details%202023.pdf)
-* [P5](/files/p5%20term%202%20weighted%20assessment%20details%202023.pdf)
-* [P6](/files/p6%20term%202%20weighted%20assessment%20details%202023.pdf)
