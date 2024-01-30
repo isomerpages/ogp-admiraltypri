@@ -49,8 +49,7 @@ Disciplinary action will also be taken against the pupil.</p>
 </li>
 </ul>
 <p>The detailed key assessment information can be found in this attachment:
-<a href="/files/key%20assessment%20information%20(2024).pdf" rel="noopener noreferrer nofollow" target="_blank">Key Assessment</a><a href="/files/key_assessment_information__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Informati</a><a href="/files/2024_Key_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">on </a>
-<a href="/files/key%20assessment%20information%20(2024).pdf" rel="noopener noreferrer nofollow" target="_blank">(2024)</a>
+<a href="/files/2024_Key_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Assessment Information 2024</a>
 </p>
 <h3>Term 1 Assessment Details</h3>
 <ul data-tight="true" class="tight">
