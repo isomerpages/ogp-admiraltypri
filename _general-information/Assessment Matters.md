@@ -55,20 +55,21 @@ Disciplinary action will also be taken against the pupil.</p>
 <h3>Term 1 Assessment Details</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/p3%20term1%20assessment%20details%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+<p><a href="/files/2024_P3_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/p4%20term1%20assessment%20details%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+<p><a href="/files/2024_P4_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/p5%20term1%20assessment%20details%202024.pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+<p><a href="/files/2024_P5_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/p5%20term1%20assessment%20details%202024.pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+<p><a href="/files/2024_P6_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
