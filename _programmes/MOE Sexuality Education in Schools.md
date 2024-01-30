@@ -255,9 +255,8 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/adps-sed-2024</a> by
+an opt-out form at <a href="https://go.gov.sg/adps-sed-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/adps-sed-2024 </a>by
 15/02/2024.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mrs Alice
-Tan&nbsp; at 63620598 or email: <a rel="noopener noreferrer nofollow" target="_blank">admiraltyps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+Tan&nbsp; at 63620598 or email: <a href="admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
