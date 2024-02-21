@@ -12,7 +12,7 @@ In this section, you and your child will understand what it is like in a primary
 
 #### Engaging Reads
 
-* Parent Kit : [Transition from Preschool to Primary School](https://ogp-admiraltypri-staging.netlify.app/files/Doc%20for%20Preparing.pdf)
+* Parent Kit : [Transition from Preschool to Primary School](/files/Doc%20for%20Preparing.pdf)
 * Useful Tips Sheet : [Transition to P1](https://www.schoolbag.edu.sg/story/transition-to-primary-one---tips-for-parents)
 * Video : [Transition to P1](https://www.youtube.com/watch?v=l0EnKuLTHpQ)
 * Schoolbag Article : [6 Skills Your Child Really Needs for P1](https://www.schoolbag.edu.sg/story/put-the-books-down!-6-skills-your-child-really-needs-for-p1)
