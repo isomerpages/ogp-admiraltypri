@@ -53,7 +53,7 @@ Please visit their website for more information on the different mode of purchas
 <br>There is no submission deadline. You may apply during the year should your circumstances change. However, to enjoy the full benefits, you should submit the application and documents requested by 2 Dec 2023.
 
 **6. Where can we get the application forms for School Bus, School Student Care Centre etc.?**
-<br>You can find the link to the forms here [(Click here)](https://ogp-admiraltypri-staging.netlify.app/programmes/p1-orientation/p1-administration-package/)
+<br>You can find the link to the forms here [(Click here)](/programmes/p1-orientation/p1-administration-package/)
 
 **7. What if I am unable to download or print the online forms?**
 <br>In this case, you may obtain a copy of the application form at the school’s General Office.
