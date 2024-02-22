@@ -1,0 +1,18 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - School Rules.md
+      - School Hours.md
+      - School Safety.md
+      - Level Matters.md
+      - Assessment Matters.md
+      - Homework Policy.md
+      - School Bag Policy.md
+      - Mobile Phone Policy.md
+      - School Library Policy.md
+      - Learning Devices Policy.md
+      - MOE Financial Assistance Scheme.md
+      - Student Care.md
+      - School Canteen.md
+      - School Vendors.md
