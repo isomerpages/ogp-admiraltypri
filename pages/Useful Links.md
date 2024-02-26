@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### School Calendar
-[Click here for 2023 School Calendar - Term 4](/files/2023%20term%204%20calendar.pdf)
+[Term 1 - 2024](/files/GO%20PDF/2024_Term_1_Calendar.pdf)
 
 #### Students/Parents
 
