@@ -87,7 +87,8 @@ We also provide our students the following opportunities and experiences to enjo
 *   National Day Games&nbsp;
 *   Virtual Run
 *   SwimSafer
-*   Adventure Camp - [P5 Camp Briefing Parents](/files/Department/P5_Camp_Briefing_Parents.pdf)
+*   Adventure Camp - [P5 Camp Briefing Parents](/files/Department/PAM/P5_Camp_Briefing_Parents.pdf)
+<br>[P5 Camp Photos - To view instructions and download photos, click this link.](/files/Department/PAM/P5_Camp_Website_post.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
