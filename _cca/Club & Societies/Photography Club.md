@@ -3,6 +3,7 @@ title: Photography Club
 permalink: /cca/Club-and-Societies/photography-club/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 # Photography Club
 The Photography Club provides a platform for students to explore photography, improve their photography skills and take their first steps in developing a lifelong interest in photography.
@@ -32,7 +33,7 @@ During timetabled CCA session: Mondays, 7.40 a.m. – 9.40 a.m.
 - Mr Calvin Tan - tan_kiat_calvin@moe.edu.sg
 - Mdm Daing Noor Ashikin - daing_noor_ashikin_bahnan@moe.edu.sg
 - Mrs Sharon Neo - lam_hui_lin_sharon@moe.edu.sg
-- Mr Kelvin Lee - lee_kwee_ming_kelvin@moe.edu.sg
+- Ms Khoo Ying Ying - khoo_ying_ying@moe.edu.sg
 
 ##### Achievements
 The Photography Club has won awards over a few years at photography competitions for primary schools – the National Photography Festival and the National Young Shutterbugs.
