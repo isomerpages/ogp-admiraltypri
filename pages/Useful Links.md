@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 #### School Calendar
-[Term 1 - 2024](/files/GO%20PDF/2024_Term_1_Calendar.pdf)
+[Term 1 - 2024](/files/GO%20PDF/2024_Term_1_Calendar.pdf) <br>
+[Term 2 - 2024](/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf)
 
 #### Students/Parents
 
@@ -13,14 +14,14 @@ variant: markdown
 | ----------- | ----------- | 
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login)    | [Parents Gateway](https://pg.moe.edu.sg/)   |
  | [Student iCON](https://workspace.google.com/dashboard)     | [Password reset form (iCON/SLS)](https://forms.gle/bd2dREPKXXsBuiiq6)    |
- | [Google classroom](Workspace.google.com/dashboard)    |  [School Library-OPAC](https://schoolibrary.moe.edu.sg/admiraltypri/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=06601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3E%3DTHISMONTH(-4)%22%20)%20-%2006601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3C%20THISMONTH(-4)%22)&QRYTEXT=New%20Arrivals)   |
+ | [Google classroom](Workspace.google.com/dashboard)    |  [School Library-OPAC](https://schoolibrary.moe.edu.sg/admiraltypri/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?QRY=06601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3E%3DTHISMONTH(-4)%22%20)%20-%2006601%5C%3E%20(FILTER%3A%201%20%2B%20ITMFADTE%3A%20%22%3C%20THISMONTH(-4)%22)&amp;QRYTEXT=New%20Arrivals)   |
  
  
  
 #### Staff
 
 
-| MOE Links | Teaching & Learning |
+| MOE Links | Teaching &amp; Learning |
 | -------- | -------- | 
 | [Icon 2.0](https://icon.moe.edu.sg)     | [Student Learning Space](https://vle.learning.moe.edu.sg/login)    | 
 | [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)   | [School Cockpit](https://schoolcockpit.moe.gov.sg/)    | 
