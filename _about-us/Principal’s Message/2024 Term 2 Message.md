@@ -27,7 +27,7 @@ of these messages back and sharing their reflections with you! If not,
 it is certainly not too late to start, and by bringing this to your awareness,
 I would like to encourage you to check in with your child on his/her understanding
 of what has been said. Most importantly, do ask them to reflect on these
-values and think about<strong> how they can apply them in their daily lives. </strong>
+values and think about<strong> how they can apply them in their daily lives.</strong>
 </p>
 <p>Let me give you an example of a “life lesson” that was delivered by Mdm
 Normala on 8 March, the last day of Term 1 – her sharing on this day has
@@ -60,7 +60,7 @@ learning! I am confident that we can do this together.</p>
 learning is a long process. Indeed, some will say that it is a lifelong
 journey in and of itself. The Ministry of Education’s Framework for 21st
 Century Competencies and Student Outcomes (see attached link) offers good
-insights on this: <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies</a> 
+insights on this: <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/21st-century-competencies</a>
 </p>
 <p>MOE has identified 3 emerging 21st Century Competencies (E21CC) that can
 enable our students to thrive in school, beyond school, and a future world
