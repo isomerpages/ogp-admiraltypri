@@ -43,16 +43,18 @@ below. Please submit the request form to the school bus operator directly.
 <p><strong><u>CHOP KONG CHONG</u></strong> 
 <br>Sembawang Shopping Centre
 <br>604 Sembawang Road
-<br>#02-13, Singapore 758459.</p>
-<p>Business Hours: 11:30am to 8:00pm&lt;/br&gt;
+<br>#02-13, Singapore 758459.
+<br>Opening Hours:
+<br> * Mon to Sat: 11.30am to 8pm
+<br> * Sun: 11.30am to 6pm
 <br>Tel: 67531489
+<br> Enquiry for uniform Whatsapp : 90772932 (Chat and Message only)
 <br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a>
 </p>
-<p>
+
+<strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
 <br>
-<br><strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
-<br>
-</p>
+<p></p>
 <h4>School Dental Service</h4>
 <p><strong>Opening hours:</strong> 
 <br>Monday to Thursday - 8:00am to 5:30pm
