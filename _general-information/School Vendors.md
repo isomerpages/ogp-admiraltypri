@@ -5,19 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h4>School Book Shop</h4>
-<p><strong><u>RICKY BOOK CENTRE</u></strong>
+<p><strong><u>RICKY BOOK CENTRE</u></strong> 
 <br>Blk 219 Bukit Batok st 21,
 <br>#07-403 Singapore 650219.
 <br>Tel: 63639159, 68923610
 <br>Fax: 65679035
-<br>Email: <a href="mailto:sales@rickybookcentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@rickybookcentre.com.sg</a>
+<br>Email: <a href="mailto:sales@rickybookcentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@rickybookcentre.com.sg</a> 
 <br><strong>Opening Hours on School Days:</strong> 
 <br>Monday – Friday (9:00am to 2:00pm)</p>
 <p>You can click on the following link to place an order for books http://www.rickybookcentre.com.sg.
 Please contact our bookshop vendor, if you have problems accessing the
 site.</p>
 <h4>School Bus</h4>
-<p><strong><u>CHANG CHEN PTE LTD</u></strong>
+<p><strong><u>CHANG CHEN PTE LTD</u></strong> 
 <br>130 Choa Chu Kang Avenue 1
 <br>#06-36, Singapore 680130.
 <br>Tel: 67604835</p>
