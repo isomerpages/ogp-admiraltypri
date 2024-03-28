@@ -45,7 +45,7 @@ below. Please submit the request form to the school bus operator directly.
 <br>604 Sembawang Road
 <br>#02-13, Singapore 758459.
 <br>Tel: 67531489
-<br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a> 
+<br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a>
 </p>
 <p>Business Hours: 11:30am to 8:00pm
 <br>
