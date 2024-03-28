@@ -2,7 +2,7 @@
 title: School Vendors
 permalink: /general-information/school-vendors/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>School Book Shop</h4>
 <p><strong><u>RICKY BOOK CENTRE</u></strong> 
@@ -48,12 +48,12 @@ below. Please submit the request form to the school bus operator directly.
 <br> * Mon to Sat: 11.30am to 8pm
 <br> * Sun: 11.30am to 6pm
 <br>Tel: 67531489
-<br> Enquiry for uniform Whatsapp : 90772932 (Chat and Message only)
+<br>Enquiry for uniform Whatsapp : 90772932 (Chat and Message only)
 <br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a>
 </p>
-
-<strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
+<p><strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
 <br>
+</p>
 <p></p>
 <h4>School Dental Service</h4>
 <p><strong>Opening hours:</strong> 
