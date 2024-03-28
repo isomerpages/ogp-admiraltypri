@@ -34,20 +34,24 @@ below. Please submit the request form to the school bus operator directly.
 <p><a href="/files/request%20for%20school%20bus%20services.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
 </p>
 <h4>School Uniform</h4>
+<p><strong><u>CHOP KONG CHONG</u></strong>
+</p>
 <p>Operates in Admiralty Primary School</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/GO/uniform_time.png">
+</div>
 <p><strong><u>CHOP KONG CHONG</u></strong> 
 <br>Sembawang Shopping Centre
 <br>604 Sembawang Road
 <br>#02-13, Singapore 758459.
 <br>Tel: 67531489
-<br>Email: sales@euniforms.com.sg
+<br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a> 
+</p>
+<p>Business Hours: 11:30am to 8:00pm
 <br>
-<br>Operates in school on selected Fridays.
-<br><a href="/files/2023_Uniform_Selling_Date.pdf" rel="noopener noreferrer nofollow" target="_blank">click here for selling dates</a> 
+<br><strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
 <br>
-<br>Online order for school uniform: <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
-<br>Business Hours: 11:30am to 8:00pm</p>
+</p>
 <h4>School Dental Service</h4>
 <p><strong>Opening hours:</strong> 
 <br>Monday to Thursday - 8:00am to 5:30pm
