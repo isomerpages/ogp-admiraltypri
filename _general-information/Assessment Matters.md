@@ -69,6 +69,25 @@ Disciplinary action will also be taken against the pupil.</p>
 <p><a href="/files/2024_P6_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
 </p>
 <p></p>
+	<h3>Term 2 Assessment Details</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_P3_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
 </li>
-</ul>
+<li>
+<p><a href="/files/2024_P4_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P5_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P6_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+</p>
 <p></p>
+</li>
+
+</ul>
+<p></p></li></ul>
