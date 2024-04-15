@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # Guitar Ensemble
 
@@ -44,6 +45,7 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 - SYF Certificate of Accomplishment 2016
 - SYF Certificate of Distinction 2018
 - SYF 2022 – year of no benchmarking
+- SYF Certificate of Distinction 2024
 
 
 ##### FAQs:
