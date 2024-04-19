@@ -44,7 +44,7 @@ The conversations with CCA leaders during CCA Recruitment Drive would allow P2 s
 	<img src="/images/environmental%20science%20club.png" style="width:40%">
 </a>
 
-<a href="/cca/Club-and-Societies/infocomm-technology">
+<a href="/cca/Club-and-Societies/infocomm-technology/">
 <img src="/images/infocomm%20technology.png" style="width:40%">
 </a>
 
