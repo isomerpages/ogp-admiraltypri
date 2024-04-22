@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 #### Teaching and Learning Processes
 
@@ -324,14 +325,3 @@ Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony
 
 </a><a href="https://drive.google.com/file/d/18MOm-EK0tHIOl4Tci10fInelPZ3bv6Ll/view?usp=sharing_eil_m&amp;ts=62ee7d35">![](/images/AMMA.jpg)</a>
 
-####    Celebration of Learning 2021
-
-* [Primary 1](https://drive.google.com/file/d/14EZHn4ob22LGFvNT_P5sQ_KyImt7Ding/view)
-
-* [Primary 2](https://drive.google.com/file/d/1Yh20TTLNgKJsLlyZGLMyPSZQjZHrSixK/view)
-
-* [Primary 3](https://drive.google.com/file/d/1y7csQ3D7r5D1ZRpoUiDAP8mB9lL4XCPp/view)
-
-* [Primary 4](https://drive.google.com/file/d/1juKm2y7q-LYVrd-T38oTQgalFSXQix7H/view)
-
-* [Primary 5 &amp;&nbsp;&nbsp;Primary 6](https://drive.google.com/file/d/1tu24FMdTYMPp3UhQvTswDnTFQuwYGc9c/view)
