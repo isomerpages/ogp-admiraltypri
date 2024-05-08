@@ -4,10 +4,14 @@ permalink: /eventsgallery/
 variant: markdown
 description: ADPS Events and Photo Gallery
 ---
-# Celebration Of Learning (COL) 2023 
+##### e-Open House
+Pre-school Engagement &amp; e-Open House Session 2024
 <br>
+Video Link - Click here
 
-### Photo Gallery
+##### Celebration Of Learning (COL) 2023 
+<br>
+**Photo Gallery**
 
 [Primary 1 Awardees](https://drive.google.com/drive/folders/1qYlJbk0TCfnwZ_ltqKBt-Bo8Wgcx1e_t?usp=drive_link) <br>
 [Primary 2 Awardees](https://drive.google.com/drive/folders/1KEBrqBgBWcLEI4-WkNlB82E2Rq82ousB?usp=drive_link)<br>
