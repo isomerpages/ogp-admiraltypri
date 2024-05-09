@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /usefullinks/
         - title: Events/Gallery
-          description: ""
+          description: E-Open House
           url: /eventsgallery/
       variant: center
 ---
