@@ -16,10 +16,7 @@ sections:
           description: ""
           url: /usefullinks/
         - title: Events/Gallery
-          description: ""
+          description: E-Open House
           url: /eventsgallery/
-      button: Open House & Pre-school Engagement (Online) on 7th May 2024 click to
-        register
-      url: https://forms.gle/18DBGfyZz4HnEXpE8
       variant: center
 ---
