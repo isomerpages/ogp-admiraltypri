@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Executive Committee</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -18,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
+<p><strong>Vice-Principal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -27,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal Admin</strong>
+<p><strong>Vice-Principal Admin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P2 &amp; Student well Being</strong>
+<p><strong>Assistant Year Head / P2 &amp; Student Well-being</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher / Math</strong>
+<p><strong>Lead Teacher / Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Mother Tongue Language</strong>
+<p><strong>HOD / Mother Tongue Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head / Chinese Language</strong>
+<p><strong>Level Head / Chinese Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +239,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Class Form Teacher - Primary 1</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -429,7 +438,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Class Form Teacher - Primary 2</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -623,7 +637,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Class Form Teacher - Primary 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -766,7 +785,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Class Form Teacher - Primary 4</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -930,7 +954,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Class Form Teacher - Primary 5</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1093,7 +1122,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Class Form Teacher - Primary 6</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1259,7 +1293,11 @@ variant: tiptap
 <h4>Executive and Administrative Staff</h4>
 <p><strong>Info-Comm Technology Team</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1305,7 +1343,11 @@ variant: tiptap
 </table>
 <p><strong>Administration Team</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1375,7 +1417,11 @@ variant: tiptap
 </table>
 <p><strong>Operation Team</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
