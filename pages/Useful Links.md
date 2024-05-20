@@ -6,7 +6,8 @@ variant: markdown
 ---
 #### School Calendar
 [Term 1 - 2024](/files/GO%20PDF/2024_Term_1_Calendar.pdf) <br>
-[Term 2 - 2024](/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf)
+[Term 2 - 2024]
+(/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf)
 
 #### Students/Parents
 
@@ -32,6 +33,7 @@ variant: markdown
 
 
 #### Newsletter
+[Admiral's Buzz Newsletter 2024 Issue 1](/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf)
 
 [Admiral's Buzz Newsletter 2023](/files/admiral's%20buzz%20newsletter%202023.pdf)
 
