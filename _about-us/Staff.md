@@ -1359,7 +1359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kam Chuen</p>
+<p>Mdm Maziah Bte Zainudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -1375,7 +1375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maziah Bte Zainudin</p>
+<p>Mdm Asha Parthivan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
