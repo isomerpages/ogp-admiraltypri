@@ -19,4 +19,6 @@ sections:
           description: E-Open House
           url: /eventsgallery/
       variant: center
+      button: School phone is out of order. Please contact us via school email
+      url: https://www.admiraltypri.moe.edu.sg/announcements/
 ---
