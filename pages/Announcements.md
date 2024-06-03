@@ -5,6 +5,9 @@ description: ""
 image: ""
 variant: markdown
 ---
+There is a distrubtion to our General Office phone line. Please send in your enquiries through our email address at admiralty_ps@moe.edu.sg and we will get back to you as soon as we can.  Sorry for the inconvenience.
+
+
 ##### **Opening Hours for Sale**
 
 [Click here for Uniform](/files/GO%20PDF/Sch_Holiday_Opening_Hours_Uniform.pdf)
