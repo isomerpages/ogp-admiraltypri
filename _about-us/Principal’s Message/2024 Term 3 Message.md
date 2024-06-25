@@ -443,8 +443,7 @@ timing for P1-P2s) smoothly. Should you foresee any challenges, pls do
 not hesitate to get in touch with us so that we can work something out
 together.</p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Thank you once again for partnering us in the educational journey of our
+<p>Thank you once again for partnering us in the educational journey of our
 Admirals. If you have any concerns of questions, please do not hesitate
 to get in touch with your child’s teachers or the school. Take care and
 here’s wishing everyone a very fruitful Term 3!</p>
