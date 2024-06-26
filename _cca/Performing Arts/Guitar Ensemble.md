@@ -19,13 +19,13 @@ Admiralty Primary School Guitar Ensemble was started in 2009. Members apply the 
 ##### Practices:
 
 - 7:40 a.m. to 9:40 a.m. on CCA Mondays
-- 2:30 p.m. to 4:45 p.m. on selected Wednesdays (parents will receive notifications of the specific dates at beginning of each term)
+- 2:30 p.m. to 4:30 p.m. on selected Wednesdays (parents will receive notifications of the specific dates at beginning of each term)
 
 ##### Teachers-in-Charge
 
 - Ms Soh Chiew Bee - <a href="mailto: soh_chiew_bee@moe.edu.sg">soh_chiew_bee@moe.edu.sg</a>
 - Mdm Wong Ching Ching - <a href="mailto: wong_ching_ching@moe.edu.sg">wong_ching_ching@moe.edu.sg</a>
-- Mdm Rages - <a href="mailto:  rageswari_virayah@moe.edu.sg">rageswari_virayah@moe.edu.sg</a>
+- Mrs Bala - <a href="mailto: saraswathy_jayapalan@moe.edu.sg">saraswathy_jayapalan@moe.edu.sg</a>
 - Mdm Mah Yeok Ying - <a href="mailto: mah_yeok_ying@moe.edu.sg">mah_yeok_ying@moe.edu.sg
 </a>
 
