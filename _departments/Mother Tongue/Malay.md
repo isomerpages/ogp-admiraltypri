@@ -48,7 +48,7 @@ We believe that every child is a potential ARIF BUDIMAN – the learned person w
 | Tahu Nahu (Grammar)        
 | Pesta Bahasa dan Budaya 
 | Gen G (Socrative)         
-| Cultural Camp <br> [MTLS Video Admiralty Pri Sch](https://drive.google.com/file/d/1y25fSU9YtRjKvUGklxtXnES1hbhUZ7g3/view) <br>[Malay Language and Cultural Camp ](/files/MTLS.pdf) |
+| Cultural Camp  | [Malay Language and Cultural Camp ](/files/MTLS.pdf) <br>
 | Spelling Bee    
 | Creative Writing Programme |  
-| ML Ambassador Programme    |   
+| ML Ambassador Programme    |
