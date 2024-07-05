@@ -3,11 +3,9 @@ title: Chinese Dance
 permalink: /cca/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-# Chinese Dance
-
-[Chinese Dance_25th anniversary](https://drive.google.com/file/d/1uG9X1VBrOF2X-_L1FK8Ca1Av2aktYYOa/view?usp=share_link)
-##### Goal
+#### Goal
 
 To cultivate students who are
 
@@ -15,7 +13,7 @@ To cultivate students who are
 2. Responsible individuals and contributing team players.
 3. Reflective performers with heightened sense of aesthetics.
 
-##### Objectives
+#### Objectives
 
 By Primary 6,
 
@@ -24,7 +22,7 @@ By Primary 6,
 - Ability to create and modify dance moves independently
 - Have the confidence and knowledge to apply for Direct School Admissions (DSA) through Chinese Dance and continue their passion for dance in their Secondary school.
 
-##### Overview
+#### Overview
 
 * Develop passion and appreciation of dance
 * Understand and appreciate different genres of Chinese dance 
@@ -35,20 +33,20 @@ By Primary 6,
 * Preparation for successful Direct School Admission (DSA)
 
 
-##### Teachers-in-Charge
+#### Teachers-in-Charge
 
 * Mrs Cheong (Low Mui Ping): low_mui_ping@moe.edu.sg
 * Mdm Ding Xue: ding_xue@moe.edu.sg
 * Mdm Zhu Xiaowei:  zhu_xiaowei@moe.edu.sg
 
 
-##### Schedule
+#### Schedule
 
 Every Monday 7.40 am – 8.40 am
 Additional practices as and when required on Wednesday afternoon (2.30 pm – 4.30 pm).  Parents will receive notifications accordingly.
 
 
-##### Achievements
+#### Achievements
 
 * Singapore Youth Festival 2022 (Chinese Dance) – Year with no benchmarking
 * Singapore Youth Festival Online 2020 (Chinese Dance) - 3 participants with their work featured on the National Day Video
@@ -56,7 +54,7 @@ Additional practices as and when required on Wednesday afternoon (2.30 pm – 4.
 * Singapore Youth Festival 2016 (Chinese Dance) – Distinction
 
 
-##### Frequently Asked Questions
+#### Frequently Asked Questions
 
 * Any requirements/pre-requisite to enter the CCA? **No**
 * Is the CCA gender specific? **Yes, the CCA is only for girls (The girls are need to grow long hair)**
