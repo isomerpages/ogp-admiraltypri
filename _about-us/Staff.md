@@ -512,7 +512,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Farhana Binti Maidin</p>
+<p>Mdm Saraswathy D/O Jayapalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Soek Mui</p>
@@ -523,7 +523,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="siti_farhana_maidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_farhana_maidin@moe.edu.sg</a>
+<p><a href="saraswathy_jayapalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saraswathy_jayapalan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
