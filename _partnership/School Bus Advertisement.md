@@ -12,6 +12,3 @@ provide services to the following schools:</p>
 <p>•&nbsp;&nbsp;
 Admiralty Primary School</p>
 <p>&nbsp;To apply, please click this link:<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.woodlandspri.moe.edu.sg/school-bus-advertisement-2024/</a> </p>
-<p>
-Template as attached. Do let me know if you have further clarification.
-Thank you.</p>
