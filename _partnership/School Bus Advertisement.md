@@ -4,7 +4,6 @@ permalink: /school-bus-advertisement/
 variant: markdown
 description: ""
 ---
-<h1>School Bus Advertisement</h1>
 <p>This is a grouped school bus service. Bus vendor is expected to provide
 services to the following schools:</p>
 <p>•&nbsp;&nbsp;Woodlands Primary School</p>
