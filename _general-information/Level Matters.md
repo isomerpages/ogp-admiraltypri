@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4>P1 and P2</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,10 +41,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P1_Lesson_Focus_Term_3_2024__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Lesson Focus - Term 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P2_Lesson_Focus_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Lesson Focus - Term 3</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -49,7 +55,12 @@ variant: tiptap
 <br>
 </p>
 <h4>P3 and P4</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -200,7 +211,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>P5 and P6</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
