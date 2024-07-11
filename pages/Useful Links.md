@@ -33,6 +33,7 @@ variant: markdown
 
 
 #### Newsletter
+
 [Admiral's Buzz Newsletter 2024 Issue 1](/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf)
 
 [Admiral's Buzz Newsletter 2023](/files/admiral's%20buzz%20newsletter%202023.pdf)
@@ -44,6 +45,10 @@ variant: markdown
 [Parents Connect - Issue 3](/files/parents%20connect%20issue%203.pdf)
 
 [Parents Connect - Issue 4](/files/parents%20connect%20issue%204.pdf)
+
+[Parents Connect - Issue 5](/files/News%20Letters/Parents_connect_issue_5.pdf)
+
+[Parents Connect - Issue 6](/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf)
 
 
 
