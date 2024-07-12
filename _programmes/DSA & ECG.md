@@ -2,10 +2,12 @@
 title: DSA & ECG
 permalink: /programmes/dsa-ecg/
 description: ""
+variant: markdown
 ---
-# DSA / ECG
 
-# Direct School Admission (DSA)
+<img height="600" width="500" alt="ecg" src="/images/Departments/1720766216201_3df9e987_ca56_4762_9cdf_8a9b95d1397f_1.jpg">
+
+### Direct School Admission (DSA)
 
 DSA for ALL
 
@@ -13,7 +15,7 @@ All secondary schools are offering DSA and hence, we want DSA to be accessible t
 
 We want ADP students to be able to make better strategic choices to enter the secondary school of their choice - be it via academic merit or Direct School Admission (DSA).
 
-# Education & Career Guidance (ECG)
+### Education &amp; Career Guidance (ECG)
 
 This is the online platform for us to have conversations with the students – as a level, class or even individuals. We also push out reminders on e-open house, scheduled secondary schools talks and DSA information and info-guides here.
 
@@ -34,7 +36,7 @@ This is the online platform for us to have conversations with the students – a
 </thead>
 </table>
 
-# ECG Portfolio
+### ECG Portfolio
 
 Student’s thinking are made visible via their ECG Portfolio. The clearer they are of their goals, the more willing they are to work hard. With feedback, they will continue to refine and sharpen their choices.
 
@@ -57,7 +59,7 @@ Student’s thinking are made visible via their ECG Portfolio. The clearer they 
 
 ![](/images/DSA%20Website.jpg)
 
-# FAQ
+### FAQ
 
 1. What is DSA-Sec?
    DSA-Sec aims to promote holistic education and provides Primary 6 students an opportunity to seek admission to a secondary school based on a diverse range of talents and achievements that may not be demonstrated at the PSLE. Each secondary school offers distinctive programmes and sets its own selection process and criteria to admit students with talents that can be further developed by these programmes.
@@ -87,4 +89,4 @@ Student’s thinking are made visible via their ECG Portfolio. The clearer they 
 
 Some [DSA videos](https://www.youtube.com/playlist?list=PLBArqKUr8vLVuSQc9LLTgRmo9zMx2krcC). More information on DSA can be found on www.moe.gov.sg/dsa-sec.
 
-Please feel free to write to us through this [form]( https://form.gov.sg/62c3aebfd8137600126a1e6e) and we will get back to you.
+Please feel free to write to us through&nbsp;this [form]( https://form.gov.sg/62c3aebfd8137600126a1e6e) and we will get back to you.
