@@ -3,6 +3,7 @@ title: Infocomm Technology
 permalink: /cca/Club-and-Societies/infocomm-technology/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 # Infocomm Technology
 ### Goal
@@ -35,9 +36,9 @@ With the learning of Google Sites, students will be capable of building their ve
 
 ### Teachers-in-Charge
 
-* Ms Amanda Ang Yan Ting 	- amanda_ang_yan_ting@moe.edu.sg
+* Mdm Siti Zakiah Bte Ahmad - siti_zakiah_ahmad@moe.edu.sg
 * Mdm Christy Chan 		- chan_siew_li@moe.edu.sg
-* Mdm Ng Soek Mui 		- ng_soek_mui@moe.edu.sg
+* Ms Amanda Ang Yan Ting 	- amanda_ang_yan_ting@moe.edu.sg
 * Mr Tan JiaJin 		- tan_jiajin@moe.edu.sg
 
 
