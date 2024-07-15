@@ -65,6 +65,7 @@ to 17:37)</p>
 </li>
 <li>
 <p>Biennial Singapore Youth Festival (SYF)</p>
+<p>&nbsp;<a href="https://youtu.be/TrsRE06ZbzU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/TrsRE06ZbzU</a>&nbsp;</p>
 </li>
 <li>
 <p>Biennial Mosaic performance</p>
