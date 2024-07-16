@@ -2,7 +2,6 @@ collections:
   partnership:
     output: true
     order:
-      - School Bus Advertisement.md
       - Parent Support Group.md
       - Parent Volunteer.md
       - Alumni.md
