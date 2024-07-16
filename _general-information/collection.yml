@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Rules.md
       - School Hours.md
       - School Safety.md
@@ -17,3 +16,4 @@ collections:
       - Student Care.md
       - School Canteen.md
       - School Vendors.md
+      - School Bus Advertisement.md
