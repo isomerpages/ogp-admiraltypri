@@ -1,7 +1,8 @@
 ---
-title: School Song &amp; Crest
+title: School Song & Crest
 permalink: /about-us/school-crest-and-song/
 description: ""
+variant: markdown
 ---
 #### School Crest
 
@@ -18,7 +19,13 @@ The five bands signify the five shared values that form the foundation of our na
 
 #### School Song
 
-[Listen to our school song here](https://drive.google.com/file/d/1X6v_j39y7bRSdij8WgqBQO6YW3T7_NxH/view?usp=sharing) <br> <br>
+<audio controls="">
+  <source type="audio/ogg" src="horse.ogg">
+  <source allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1GtEOmROPKeqErR92do1d0eAYYSifdOGr/preview">
+Listen to our school song here
+</audio>
+
+Listen to our school song here
 
 **<u>Song Lyrics:</u>**
 
