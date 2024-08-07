@@ -292,7 +292,7 @@ In line with the PSLE new scoring system in 2020, the mark range and Achievement
 Admiralty Primary has engaged an online math learning portal from Singapore, KooBits Problem Sums, as an additional learning resource for our students. This portal is developed to help build problem-solving skills in our students and to promote self-directed learning. Our students can access Self-Practice, Homework, Mock Tests in the system, and be engaged in daily activities and Math games to earn points and win prizes. This technology-assisted learning platform is used to promote independent and self-directed learning.
 
 
-<a href="https://drive.google.com/file/d/19yQB1pM5vSHUkDJbkPC5WXc-WUoe7nvt/view?usp=sharing_eil_m&amp;ts=630735ac"><img src="/images/Koobits%20Winners.jpg" style="width:60%">
+<a href="https://drive.google.com/file/d/19yQB1pM5vSHUkDJbkPC5WXc-WUoe7nvt/view?usp=sharing_eil_m&amp;ts=630735ac"><img src="/images/Koobits%20Winners.jpg" style="width:60%"></a>
 
 
 ##### Family Math
@@ -322,6 +322,3 @@ Mathematics Learning Journeys provide opportunities for students to explore and 
 ##### AM.MA
 
 Morning Math Programme (AM.MA) is conducted during the pre-flag raising ceremony. The programme provides nuggets of Math information which include history of Mathematics and application of Mathematics concepts in real life The programme aims to help our students connect their learning to the real-world context and inspire them to appreciate Mathematics.
-
-</a><a href="https://drive.google.com/file/d/18MOm-EK0tHIOl4Tci10fInelPZ3bv6Ll/view?usp=sharing_eil_m&amp;ts=62ee7d35">![](/images/AMMA.jpg)</a>
-
