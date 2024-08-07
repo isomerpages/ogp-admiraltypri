@@ -19,13 +19,7 @@ The five bands signify the five shared values that form the foundation of our na
 
 #### School Song
 
-<audio controls="">
-	<source type="audio/ogg" src="horse.ogg">
-  <source height="480" width="640" src="https://drive.google.com/file/d/1GtEOmROPKeqErR92do1d0eAYYSifdOGr/preview">
-Listen to our school song here
-</audio>
-
-Listen to our school song here
+[Listen to our school song here](https://drive.google.com/file/d/1GtEOmROPKeqErR92do1d0eAYYSifdOGr/view?usp=sharing)
 
 **<u>Song Lyrics:</u>**
 
