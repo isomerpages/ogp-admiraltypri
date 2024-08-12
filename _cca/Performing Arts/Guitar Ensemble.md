@@ -64,8 +64,7 @@ Day celebrations.
 to 17:37)</p>
 </li>
 <li>
-<p>Biennial Singapore Youth Festival (SYF)</p>
-<p>&nbsp;<a href="https://youtu.be/TrsRE06ZbzU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/TrsRE06ZbzU</a>&nbsp;</p>
+<p>Biennial Singapore Youth Festival (SYF) <a href="https://youtu.be/TrsRE06ZbzU" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/TrsRE06ZbzU</a>&nbsp;</p>
 </li>
 <li>
 <p>Biennial Mosaic performance</p>
@@ -78,6 +77,10 @@ to 17:37)</p>
 </li>
 <li>
 <p>Exchange programme with other school’s Guitar Ensemble</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="guitar" src="/images/CCA/RGS_1.jpg">
+</div>
 </li>
 </ul>
 <h5>Achievements</h5>
