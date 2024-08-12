@@ -8,21 +8,20 @@ variant: markdown
 # Infocomm Technology
 ### Goal
 
-* To enable pupils to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
-* To nurture pupils to be confident, tech-savvy and responsible digital learners.
+To instill a spirit of life-long learning in our pupils through the use of technology. 
+To provide opportunities for students to acquire digital skills and apply these skills as they navigate new technologies and  increasingly digitalized world and with confidence.
 
 ![ITC](/images/CCA/infocomm%20pic1.jpg)
 ### Objectives
 
-**Pupils will be able to:**
-1. Acquire new information and technology skills and knowledge through the CCA modules.
-2. Apply the relevant skills acquired by taking part in Infocomm Technology.
-3. Contribute their knowledge and skills learnt to the school through school project collaborations with other CCA or committees
+To acquire new infocomm skills and knowledge through the CCA modules
+To apply the relevant skills acquired in their project work, competition, and e-portfolio.(transferable skills).
+To contribute their knowledge and skills learnt to the school through school project collaborations with other CCA groups and committees  
 
 ![ITC](/images/CCA/infocomm%20pic2.jpg)
 ### Overview
 
-**Our Infocomm Technology modules include :**
+**Our Infocomm Technology (2024) modules include:**
 1. Google Sites (Website Design)
 2. Procreate (Digital Art)
 3. Thunkable (Block-based Programming)
