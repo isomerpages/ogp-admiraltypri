@@ -89,6 +89,22 @@ or training takes place</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>IDE Code Builder 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finals (7th)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Infocomm Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>IDE Series – Scratch 3.0 Coding Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
