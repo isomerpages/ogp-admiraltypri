@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Club & Societies
 variant: tiptap
 ---
-<h1>Environmental Science Club</h1>
 <h5>Goal</h5>
 <ol data-tight="true" class="tight">
 <li>
@@ -58,8 +57,11 @@ their own way.</p>
 <li>
 <p>Mr. Chua Shin Huat : <a href="mailto:chua_shin_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shin_huat@moe.edu.sg</a>
 </p>
-<p></p>
 </li>
 </ul>
-<p>* Please be informed that with effect from January 2025, Environmental
-Science Club will be merged into Design and Innovation Club.</p>
+<p></p>
+<p><strong>Note:</strong> Starting in 2025, the Environmental Science and
+Design &amp; Innovation co-curricular activities (CCAs) will be merging.
+The combined CCA will be known as Design &amp; Innovation.</p>
+<p></p>
+<p></p>
