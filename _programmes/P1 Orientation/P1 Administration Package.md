@@ -91,14 +91,17 @@ variant: markdown
   </tr>
   <tr>
     <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Uniform Online Order Website</li>
+      <li>Uniform Page</li>
     </ul></td>
-    <td valign="top" width="483"><p><a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/aps/">https://www.euniforms.com.sg/shop/product-category/primary-schools/aps/</a></p></td>
+    <td valign="top" width="483"><p><a valign="top" height="40" href="https://www.euniforms.com.sg/shop/</a></p></td>
   </tr>
   <tr>
-    <td valign="top" height="40" width="268"><ul type="disc">
-      <li>Uniform Size Measurement Chart</li>
-    </ul></td>
+    <td width="></a></p><ul type="disc"><a valign="top" height="40" href="https://www.euniforms.com.sg/shop/</a></p></td>
+  </tr>
+  <tr>
+    <td width=">
+      <li>Uniform Page</li>
+    </a></ul></td>
     <td valign="top" width="483"><p>&nbsp;<a href="https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/">https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/</a></p></td>
   </tr>
   <tr>
