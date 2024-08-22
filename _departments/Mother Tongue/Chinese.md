@@ -27,7 +27,7 @@ variant: markdown
     </tr>
     <tr>
       <td>MDM  DESIREE ANG</td>
-      <td><p>MS TAY CHUN FANG</p></td>
+      <td>MS TAY CHUN FANG</td>
     </tr>
     <tr>
       <td>MS KOH  YEN LING</td>
@@ -38,7 +38,7 @@ variant: markdown
       <td>MDM  ZHU XIAO WEI</td>
     </tr>
 		<tr>
-      <td></td>
+      <td>MDM JIN CAIYUN</td>
       <td></td>
     </tr>
   </tbody>
@@ -74,4 +74,4 @@ With the curriculum framework in mind, the unit planned and crafted programmes t
 * P3 Cultural Camp
 * Heritage trails 
 * Cultural Performance Exposure
-* Festivals celebrations 
+* Festivals celebrations
