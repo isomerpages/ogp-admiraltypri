@@ -256,4 +256,8 @@ School lies in the ability of our school and parents to collaborate, and
 to reinforce school-home messages in both directions. Let us continue to
 build on this strength for the benefit of all our Admirals. Thank you and
 here’s wishing everyone a very meaningful Term 4!</p>
-<p>Yours faithfully,Mr Chen ZhongyiPrincipal</p>
+<p></p>
+<p>Yours faithfully,</p>
+<p>Mr Chen Zhongyi</p>
+<p>Principal</p>
+<p></p>
