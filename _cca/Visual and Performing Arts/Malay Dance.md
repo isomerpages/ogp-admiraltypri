@@ -113,7 +113,7 @@ receive notifications accordingly.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
 </div>
 </th>
 </tr>
@@ -169,6 +169,26 @@ receive notifications accordingly.</p>
 </tbody>
 </table>
 <h4>Achievements</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="https://youtu.be/omq4_MCjjQ4?si=hNEmKJZYBFOJs0fK" rel="noopener nofollow" target="_blank">ADP Malay Dance SYF Arts Presentation 2024</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -271,19 +291,49 @@ receive notifications accordingly.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20Gardens%20By%20The%20Bay%20with%20PM%20Lee%20Hsien%20Loong.jpg">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Website___Term_4_20242.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20ADMPS%20Malay%20Dance%20SYF%20Exchange%202018.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Website___Term_4_2024.jpg">
 </div>
+<h4>Additional Information</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>No specific pre-requisite to be a member of Malay Dance Club but you need
+to be passionate and interested about appreciating dance.</p>
+</li>
+<li>
+<p>All (with interest in dance) are welcomed!</p>
+</li>
+<li>
+<p>Students are required to be ready with the following for a meaningful
+Malay Dance CCA Experience:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proper training attire</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PE t-shirt</p>
+</li>
+<li>
+<p>long (dark blue or black) pants</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Hair neat and tidy</p>
+</li>
+<li>
+<p>Writing materials</p>
+</li>
+</ul>
+<p>To know more, you can visit this link: <a href="https://tinyurl.com/ADPSmalaydance" rel="noopener nofollow" target="_blank">ADPS Malay Dance</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20Kg%20Admiralty%20Mid%20Autumn%20Fest%202019%201.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY%202.jpg">
-</div>
 <p></p>
