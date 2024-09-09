@@ -3,148 +3,256 @@ title: Malay Dance
 permalink: /cca/Performing-Arts/malay-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
-# Malay Dance
-
-##### Goal
-
-1. Members are confident &amp; gracious yet dynamic
-2. Members appreciate &amp; understand artistic techniques expressed through dance
-3. Members are able to apply a variety of value systems- being responsible individual and active contributor
-
-##### Objectives
-
-- Character Development
-- Cultural Awareness &amp; Appreciation
-- Enjoyment and Learning through the Arts
-- Community Engagement
-
-##### Overview
-
-Members are exposed and engaged in discussions on the origins of dances, the cultural aspects and learn respective dance skills.
-From Pri 3 to 6, members learn and appreciate 5 genres of basic Malay dance:
-   
-**Dance Resource Packages**
-
-1. Asli Kuala Deli
-2. Mak Inang Pulau Kampai
-3. Joget Serampang Dua Belas
-4. Masri Kaparinyo
-5. Zapin Asyik
-
-
-##### Schedule
-
-- 7.40 a.m. to 9.40 a.m. on CCA Mondays
-- Additional practices on Wednesdays and Fridays when required. Parents will receive notifications accordingly.
-
-
-
-##### Our Malay Dance Family
-- Mr Shahrul - Lead Instructor : azhar_marekan@hotmail.com
-- Ms Atique - Instructor
-
-- Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg
-- Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg
-- Mr Jumat  : jumat_b_baba@moe.edu.sg
-- Mdm Khatijah : Khatijah_che_din@moe.edu.sg
-
-
-##### Our CCA Leaders (2023)
-<table>
-	<tbody><tr>
-		<th bgcolor="#eee"> Name </th>
-		<th bgcolor="#eee">Class </th>
-  	</tr>
-	<tr>
-		<td>Daanya </td> <td>6ET </td>
-	</tr>
-		<tr> 
-		<td>Elvira </td> <td>6ET </td>
-	</tr>
-		<tr> 
-		<td>Phoebe </td> <td>5CH </td>
-	</tr>
-		<tr> 
-		<td>Shasmeen </td> <td>5GR </td>
-	</tr>
-	</tbody></table>
-   
-
-##### Achievements
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2019</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=92jhn24xiPg">Gemilang Tari Si Cilik Bulan Bahasa 2019</a> 
-			</td>
-		</tr>
-	</tbody>
+<p></p>
+<h4>Goal</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Members are confident &amp; gracious yet dynamic</p>
+</li>
+<li>
+<p>Members appreciate &amp; understand artistic techniques expressed through
+dance</p>
+</li>
+<li>
+<p>Members are able to apply a variety of value systems- being responsible
+individual and active contributor</p>
+</li>
+</ol>
+<h4>Objectives</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Character Development</p>
+</li>
+<li>
+<p>Cultural Awareness &amp; Appreciation</p>
+</li>
+<li>
+<p>Enjoyment and Learning through the Arts</p>
+</li>
+<li>
+<p>Community Engagement</p>
+</li>
+</ul>
+<h4>Overview</h4>
+<p>Members are exposed and engaged in discussions on the origins of dances,
+the cultural aspects and learn respective dance skills. From Pri 3 to 6,
+members learn and appreciate 5 genres of basic Malay dance:</p>
+<h4>Dance Resource Packages</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Asli Kuala Deli</p>
+</li>
+<li>
+<p>Mak Inang Pulau Kampai</p>
+</li>
+<li>
+<p>Joget Serampang Dua Belas</p>
+</li>
+<li>
+<p>Masri Kaparinyo</p>
+</li>
+<li>
+<p>Zapin Asyik</p>
+</li>
+</ol>
+<h4>Schedule</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>7.40 a.m. to 9.40 a.m. on CCA Mondays</p>
+</li>
+<li>
+<p>Additional practices on Wednesdays and Fridays when required. Parents
+will receive notifications accordingly.</p>
+</li>
+</ul>
+<h4>Our Malay Dance Family</h4>
+<ul>
+<li>
+<p>Mr Shahrul - Lead Instructor : azhar_marekan@hotmail.com</p>
+</li>
+<li>
+<p>Ms Atique - Instructor</p>
+</li>
+<li>
+<p>Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg</p>
+</li>
+<li>
+<p>Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg</p>
+</li>
+<li>
+<p>Mr Jumat : jumat_b_baba@moe.edu.sg</p>
+</li>
+<li>
+<p>Mdm Khatijah : Khatijah_che_din@moe.edu.sg</p>
+</li>
+</ul>
+<h4>Our CCA Leaders (2023)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daanya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6ET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elvira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6ET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5CH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shasmeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5GR</p>
+</td>
+</tr>
+</tbody>
 </table>
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2020</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=xYgMxGVpDiY">Nurul Huda Binte Muhammad Helmi [SYFgoesOnline!_DanceVerve20!]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=wDX7k13IpVw">Adriana Huda Bte Mohammed Affandi [SYFgoesOnline!_DanceVerve20!]
-</a> 
-			</td>
-		</tr>
-	</tbody>
+<h4>Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2019</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=92jhn24xiPg" rel="noopener noreferrer nofollow" target="_blank">Gemilang Tari Si Cilik Bulan Bahasa 2019</a>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2021</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=QWHF_IfH6UM">Muhammad Harith Bin Muhammad Farhan [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=ErKyn9fOm8g">Zuriqah Izzati Binti Mohammed Haniff [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=A9drc0cSBGA">Sarah Falisha Binte Muhammad Nazree [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=6gpsGmYxlNA">Nur Syukrina Binte Sharil [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=bSkPIwyKBU4">Muhammad Afiq Danial Bin Muhammad Fazlee [SYFgoesOnline!_DanceVerve 21]
-</a> 
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2020</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=xYgMxGVpDiY" rel="noopener noreferrer nofollow" target="_blank">Nurul Huda Binte Muhammad Helmi [SYFgoesOnline!_DanceVerve20!]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=wDX7k13IpVw" rel="noopener noreferrer nofollow" target="_blank">Adriana Huda Bte Mohammed Affandi [SYFgoesOnline!_DanceVerve20!]</a>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
-<table>
-	<tbody>
-		<tr>
-			<th bgcolor="#eee">2022</th>
-  		</tr>
-		<tr>
-			<td><a href="https://www.youtube.com/watch?v=HdIzlYMulIo">ADMPS Malay Dance SYF Arts Presentation 2022</a> 
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2021</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=QWHF_IfH6UM" rel="noopener noreferrer nofollow" target="_blank">Muhammad Harith Bin Muhammad Farhan [SYFgoesOnline!_DanceVerve 21]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=ErKyn9fOm8g" rel="noopener noreferrer nofollow" target="_blank">Zuriqah Izzati Binti Mohammed Haniff [SYFgoesOnline!_DanceVerve 21]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=A9drc0cSBGA" rel="noopener noreferrer nofollow" target="_blank">Sarah Falisha Binte Muhammad Nazree [SYFgoesOnline!_DanceVerve 21]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=6gpsGmYxlNA" rel="noopener noreferrer nofollow" target="_blank">Nur Syukrina Binte Sharil [SYFgoesOnline!_DanceVerve 21]</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=bSkPIwyKBU4" rel="noopener noreferrer nofollow" target="_blank">Muhammad Afiq Danial Bin Muhammad Fazlee [SYFgoesOnline!_DanceVerve 21]</a>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-![](/images/Admiralty%20Primary%20Malay%20Dance%20%20Gardens%20By%20The%20Bay%20with%20PM%20Lee%20Hsien%20Loong.jpg)
-![](/images/Admiralty%20Primary%20Malay%20Dance%20%20ADMPS%20Malay%20Dance%20SYF%20Exchange%202018.jpg)
-![](/images/Admiralty%20Primary%20Malay%20Dance%20%20Kg%20Admiralty%20Mid%20Autumn%20Fest%202019%201.jpg)
-![](/images/CNY%202.jpg)
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=HdIzlYMulIo" rel="noopener noreferrer nofollow" target="_blank">ADMPS Malay Dance SYF Arts Presentation 2022</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20Gardens%20By%20The%20Bay%20with%20PM%20Lee%20Hsien%20Loong.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20ADMPS%20Malay%20Dance%20SYF%20Exchange%202018.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admiralty%20Primary%20Malay%20Dance%20%20Kg%20Admiralty%20Mid%20Autumn%20Fest%202019%201.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY%202.jpg">
+</div>
+<p></p>
