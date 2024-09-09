@@ -7,7 +7,8 @@ variant: markdown
 #### School Calendar
 [Term 1 - 2024](/files/GO%20PDF/2024_Term_1_Calendar.pdf) <br>
 [Term 2 - 2024](/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf)<br>
-[Term 3 - 2024](/files/GO%20PDF/2024_Term_3_Calendar.pdf)
+[Term 3 - 2024](/files/GO%20PDF/2024_Term_3_Calendar.pdf)<br>
+[Term 4 - 2024](/files/2024_Term_4_Calendar.pdf)
 
 #### Students/Parents
 
