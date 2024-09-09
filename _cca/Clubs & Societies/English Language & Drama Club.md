@@ -17,8 +17,11 @@ on stagecraft will be deepened through learning journeys to MediaCorp /
 Esplanade / Wild Rice Theatre as they get to experience first-hand, what
 goes on behind the scenes of these theatres.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/English Language &amp; Drama/English_Language___Drama1.jpg">
+</div>
 <h4><strong>Objectives</strong></h4>
-<p>Pupils will be able to :</p>
+<p>Pupils will be able to:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Acquire acting and stagecraft (scriptwriting, stage managing &amp; directing)
@@ -36,7 +39,52 @@ a common creative goal</p>
 performances, or activities carried out during CCA.</p>
 </li>
 </ol>
+<p></p>
 <h4><strong>CCA Overview</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members from the English Language and Drama club were always encouraged
+to audition for external productions. This will enable our members to be
+constantly networking, be mentored and engaged productively in the drama
+industry.</p>
+<p></p>
+<p>The opportunity, exposure and CCA training provided members with the conducive
+support, experience and motivation to continue to pursue their zealous
+interest in acting.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We also encourage our members to actively participate in Scrabble Tournaments
+organized by Mattel since 2020.</p>
+<p>They were given an opportunity to engage and learn from renowned Scrabble
+experts in Mattel and even the Top Scrabble player in Singapore.</p>
+<p></p>
+<p>We have been consistently ranked in the 10 placings for two consecutive
+years. Two years back in 2022, one of our ex-students, Zachary Zhuang achieved
+5th in the National competition and competed in the Southeast Asia level
+tournament.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h4><strong>Schedule</strong></h4>
 <p>Practices are done during CCA sessions on Mondays from 07.40 a.m. to 9.40
 a.m.</p>
@@ -47,15 +95,15 @@ a.m.</p>
 </p>
 </li>
 <li>
-<p>Mdm Nurhasliza - <a href="mailto:nurhasliza_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhasliza_hashim@moe.edu.sg</a>
+<p>Mdm Nurhasliza - <a href="mailto:normala_mohamed_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhasliza_hashim@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Mdm Nur Shaliza - <a href="mailto: nur_shaliza_zulkifli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaliza_zulkifli@moe.edu.sg</a>
+<p>Mdm Nur Shaliza - <a href="mailto:normala_mohamed_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaliza_zulkifli@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Ms Malar - <a href="a_malarvilee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_malarvilee@moe.edu.sg</a>
+<p>Ms Malar - <a href="mailto:normala_mohamed_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">a_malarvilee@moe.edu.sg</a>
 </p>
 </li>
 </ul>
