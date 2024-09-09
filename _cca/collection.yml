@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - CCA Programmes.md
-      - Sports/.keep
-      - Sports/Sports Club.md
-      - Sports/Football.md
-      - Sports/Wushu.md
-      - Sports/Rope Skipping.md
-      - Sports/Track & Field.md
+      - Games & Sports/.keep
+      - Games & Sports/Sports Club.md
+      - Games & Sports/Football.md
+      - Games & Sports/Wushu.md
+      - Games & Sports/Rope Skipping.md
+      - Games & Sports/Track & Field.md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Chinese Dance.md
