@@ -2,7 +2,7 @@
 title: Choir
 permalink: /cca/Performing-Arts/choir/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 ---
 # Choir
 

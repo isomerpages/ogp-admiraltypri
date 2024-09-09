@@ -2,7 +2,7 @@
 title: Guitar Ensemble
 permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <p>Admiralty Primary School Guitar Ensemble was started in 2009. Members
@@ -71,12 +71,14 @@ to 17:37)</p>
 </li>
 <li>
 <p>Community outreaches</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 Performance at Sembawang West Hari Raya Open House" src="/images/2023_guitar.jpg">
-</div>
 </li>
 <li>
 <p>Exchange programme with other school’s Guitar Ensemble</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2024_09_06_at_3_54_31_PM.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="guitar" src="/images/CCA/RGS_1.jpg">

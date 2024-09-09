@@ -2,7 +2,7 @@
 title: Wushu
 permalink: /cca/Sports/wushu/
 description: ""
-third_nav_title: Sports
+third_nav_title: Games & Sports
 ---
 # Wushu
 **Goal**
@@ -24,7 +24,7 @@ Aside from the hard skills that students can acquire, the CCA also emphasizes a 
 
 |                        |                                      |
 |------------------------|--------------------------------------|
-|  Mdm Zhang Zhe Jin | zhang_zhe_jin@moe.edu.sg  |
+|  Mdm&nbsp;Zhang&nbsp;Zhe&nbsp;Jin | zhang_zhe_jin@moe.edu.sg  |
 |    Mdm Leong Yet Wah   |       leong_yet_wah@moe.edu.sg       |
 |  Mr Lim Yew Beng   |       lim_yew_beng@moe.edu.sg     |
 |    Mdm Bimaljit Kaur   | bimaljit_kaur_sohan_singh@moe.edu.sg |

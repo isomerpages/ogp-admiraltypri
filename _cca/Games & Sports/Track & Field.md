@@ -2,7 +2,7 @@
 title: Track & Field
 permalink: /cca/Sports/track-n-field/
 description: ""
-third_nav_title: Sports
+third_nav_title: Games & Sports
 variant: tiptap
 ---
 <h4><strong>Goal</strong></h4>

@@ -2,7 +2,7 @@
 title: Visual Arts Club
 permalink: /cca/Club-and-Societies/visual-arts-club/
 description: ""
-third_nav_title: Club & Societies
+third_nav_title: Visual and Performing Arts
 ---
 ![VAC](/images/CCA/visual%20arts.png)
 

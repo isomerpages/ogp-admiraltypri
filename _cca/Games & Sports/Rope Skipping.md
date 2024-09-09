@@ -2,7 +2,7 @@
 title: Rope Skipping
 permalink: /cca/Sports/rope-skipping/
 description: ""
-third_nav_title: Sports
+third_nav_title: Games & Sports
 ---
 # Rope-Skipping
 
@@ -11,8 +11,7 @@ third_nav_title: Sports
 Rope Skipping aims to cultivate a holistic approach of healthy lifestyle in our students. It is also a platform for our students to develop effective communication and social interaction skills. At the same time, it provides the learning experiences for our students to be confident and self-disciplined individuals, as well as team players, who demonstrate GRIT. 
 
 
-<img src="/images/Picture1.jpg" 
-     style="width:45%">
+<img src="/images/Picture1.jpg" style="width:45%">
 		 
 **Overview**
 
@@ -43,11 +42,11 @@ During the weekly CCA sessions, skippers learn rope skipping skills from the pro
 **National Rope Skipping Championships (2022)** 
 **Senior Division**
 
-* Double Dutch (Girls)              3rd Place
-* Team Freestyle (Girls)           6th Place
-* Individual Freestyle (Boys)   5th Place
-* Pair Freestyle (Boys)             6th Place
-* Speed Relay (Boys)               8th Place
+* Double Dutch (Girls)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   3rd Place
+* Team Freestyle (Girls)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  6th Place
+* Individual Freestyle (Boys)  &nbsp;5th Place
+* Pair Freestyle (Boys)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6th Place
+* Speed Relay (Boys)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8th Place
 
 
 ![](/images/Rope%20Skipping%20Website%202022.jpg)

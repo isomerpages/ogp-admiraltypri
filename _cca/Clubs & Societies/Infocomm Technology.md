@@ -2,7 +2,7 @@
 title: Infocomm Technology
 permalink: /cca/Club-and-Societies/infocomm-technology/
 description: ""
-third_nav_title: Club & Societies
+third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3>Goal</h3>

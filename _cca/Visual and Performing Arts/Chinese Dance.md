@@ -2,7 +2,7 @@
 title: Chinese Dance
 permalink: /cca/Performing-Arts/chinese-dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 #### Goal

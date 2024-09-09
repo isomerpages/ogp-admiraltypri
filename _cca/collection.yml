@@ -3,26 +3,26 @@ collections:
     output: true
     order:
       - CCA Programmes.md
-      - Sports/.keep
-      - Sports/Sports Club.md
-      - Sports/Football.md
-      - Sports/Wushu.md
-      - Sports/Rope Skipping.md
-      - Sports/Track & Field.md
-      - Performing Arts/.keep
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Dance.md
-      - Performing Arts/Indian Dance.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Club & Societies/.keep
-      - Club & Societies/English Language & Drama Club.md
-      - Club & Societies/Environmental Science Club.md
-      - Club & Societies/Infocomm Technology.md
-      - Club & Societies/Design & Innovation.md
-      - Club & Societies/Visual Arts Club.md
-      - Club & Societies/Photography Club.md
+      - Games & Sports/.keep
+      - Games & Sports/Sports Club.md
+      - Games & Sports/Football.md
+      - Games & Sports/Wushu.md
+      - Games & Sports/Rope Skipping.md
+      - Games & Sports/Track & Field.md
+      - Visual and Performing Arts/Photography Club.md
+      - Visual and Performing Arts/Visual Arts Club.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Indian Dance.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Guitar Ensemble.md
+      - Visual and Performing Arts/Guzheng Ensemble.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/English Language & Drama Club.md
+      - Clubs & Societies/Environmental Science Club.md
+      - Clubs & Societies/Infocomm Technology.md
+      - Clubs & Societies/Design & Innovation.md
       - Uniform Groups/.keep
       - Uniform Groups/Brownies.md
       - Uniform Groups/Scouts.md
