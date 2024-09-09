@@ -6,6 +6,9 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/1.jpg">
+</div>
 <h4>Goal</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -16,8 +19,9 @@ variant: tiptap
 dance</p>
 </li>
 <li>
-<p>Members are able to apply a variety of value systems- being responsible
-individual and active contributor</p>
+<p>Members are able to apply a variety of value systems - being responsible
+individuals and active contributors</p>
+<p></p>
 </li>
 </ol>
 <h4>Objectives</h4>
@@ -26,7 +30,7 @@ individual and active contributor</p>
 <p>Character Development</p>
 </li>
 <li>
-<p>Cultural Awareness &amp; Appreciation</p>
+<p>Cultural Awareness and Appreciation</p>
 </li>
 <li>
 <p>Enjoyment and Learning through the Arts</p>
@@ -37,9 +41,10 @@ individual and active contributor</p>
 </ul>
 <h4>Overview</h4>
 <p>Members are exposed and engaged in discussions on the origins of dances,
-the cultural aspects and learn respective dance skills. From Pri 3 to 6,
-members learn and appreciate 5 genres of basic Malay dance:</p>
-<h4>Dance Resource Packages</h4>
+the cultural aspects and learn respective dance skills. From Primary 3
+to 6, members learn and appreciate 5 genres of basic Malay dance:</p>
+<p><strong>Dance Resource Packages</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Asli Kuala Deli</p>
@@ -63,31 +68,57 @@ members learn and appreciate 5 genres of basic Malay dance:</p>
 <p>7.40 a.m. to 9.40 a.m. on CCA Mondays</p>
 </li>
 <li>
-<p>Additional practices on Wednesdays and Fridays when required. Parents
-will receive notifications accordingly.</p>
+<p>Additional practices on Thursdays and Fridays when required. Parents will
+receive notifications accordingly.</p>
 </li>
 </ul>
 <h4>Our Malay Dance Family</h4>
-<ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Mr Shahrul - Lead Instructor : azhar_marekan@hotmail.com</p>
+<p>Mr Fadzeel</p>
 </li>
 <li>
-<p>Ms Atique - Instructor</p>
+<p>Mdm Khatijah</p>
 </li>
 <li>
-<p>Mr Fadzeel : mohamed_fadzeel_abdul_rahm@moe.edu.sg</p>
+<p>Mdm Sabiah</p>
 </li>
 <li>
-<p>Mdm Sabiah :sabiah_a_kunjahamad@moe.edu.sg</p>
-</li>
-<li>
-<p>Mr Jumat : jumat_b_baba@moe.edu.sg</p>
-</li>
-<li>
-<p>Mdm Khatijah : Khatijah_che_din@moe.edu.sg</p>
+<p>Ms Syafa</p>
 </li>
 </ul>
+<p></p>
+<p><strong>Instructors</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Shahrul – Lead instructor</p>
+</li>
+<li>
+<p>Ms Artiqa</p>
+</li>
+</ul>
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>Our CCA Leaders (2023)</h4>
 <table style="minWidth: 50px">
 <colgroup>
