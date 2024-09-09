@@ -113,7 +113,7 @@ receive notifications accordingly.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
 </div>
 </th>
 </tr>
@@ -136,34 +136,34 @@ receive notifications accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Daanya</p>
+<p>Nur Shazmeen Binte Abdul Anwaar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6ET</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elvira</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6ET</p>
+<p>6CH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phoebe</p>
+<p>Phoebe Nur Arielle Binte Muhammad Adha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5CH</p>
+<p>6CH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shasmeen</p>
+<p>Muhammad Aarshiq Jayden Bin Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5GR</p>
+<p>5CO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fatin Shaista Binte Muhammad Faisal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5GA</p>
 </td>
 </tr>
 </tbody>
