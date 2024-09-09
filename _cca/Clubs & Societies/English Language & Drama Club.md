@@ -87,12 +87,6 @@ tournament.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<h4><strong>Schedule</strong></h4>
-<p>Practices are done during CCA sessions on Mondays from 07.40 a.m. to 9.40
-a.m.</p>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,6 +107,50 @@ a.m.</p>
 </li>
 </ul>
 <h4><strong>Achievements</strong></h4>
+<p><strong><em>2024</em></strong>
+</p>
+<p><strong><em>23rd Inter-school National Scrabble Championship 2024</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Individual Event</p>
+<p>1st place (Cup category)</p>
+<p>– Sharifah Raisyah (3 Courage)</p>
+<p></p>
+<p>1st place (Premier Cup category)</p>
+<p>– Adam Asrie (3 Endurance)</p>
+<p></p>
+<p>2nd place (Plate Category)</p>
+<p>– Lester Zhang (4 Challenge)</p>
+<p></p>
+<p>3rd Place (Cup category)</p>
+<p>– Aisyah Amsyar (6 Courage)</p>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Team Event</p>
+<p>1st place (Junior Division Bowl category)</p>
+<p>– Team Captain: Katrina Bao (4 Enterprise)</p>
+<p>– Lester Zhang (4 Challenge)</p>
+<p>– Mahira Ariqa (4 Challenge)</p>
+<p>– Scarlett Javier Woong (4 Endurance)</p>
+<p></p>
+<p>2nd place (Senior Division Bowl category)</p>
+<p>– Team Captain: Darren Wong (6 Gallantry)</p>
+<p>– Aisyah Amsyar (6 Courage)</p>
+<p>– Isaac Yeo (6 Graciousness)</p>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 <br><strong><em>22nd Inter-school National Scrabble Championship 2023</em></strong>
 </p>
@@ -124,43 +162,26 @@ a.m.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Division</strong>
-<br>
-<br>1st place (bowl category)
-<br>- Katrina Bao (3 Enterprise)</p>
-<p>1st place (plate category)
-<br>– Lee Zhen Rui (4 Enterprise)</p>
-<p>1st place (Bowl Category)
-<br>– Sofea Fateha (4 Enterprise)</p>
-<p>4th Place (cup category)
-<br>– Lester Zhang (3 Challenge)</p>
+<p>Junior Division</p>
+<p>1st place (bowl category)</p>
+<p>Katrina Bao (3 Enterprise)</p>
+<p>1st place (plate category)</p>
+<p>– Lee Zhen Rui (4 Enterprise)</p>
+<p>1st place (Bowl Category)</p>
+<p>– Sofea Fateha (4 Enterprise)</p>
+<p>4th Place (cup category)</p>
+<p>– Lester Zhang (3 Challenge)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Division</strong>
-<br>
-<br>1st place (bowl category)
-<br>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
+<p>Senior Division</p>
+<p>1st place (bowl category)</p>
 <p>Issac Yeo (5 Graciousness)</p>
-</li>
-</ul>
 <p>2nd place (plate category)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Aisyah Amsyar (5 Courage)
-<br>
-</p>
-</li>
-</ul>
+<p>Aisyah Amsyar (5 Courage)</p>
 <p>Merit Award (plate category)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Li Enxin (6 Courage)</p>
-</li>
-</ul>
+<p>- Li Enxin (6 Courage)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
