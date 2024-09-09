@@ -108,9 +108,9 @@ receive notifications accordingly.</p>
 <p>Ms Artiqa</p>
 </li>
 </ul>
-<p></p>
 </td>
 <th rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Malay Dance/Malay_Dance_Teachers_and_Instructors_2.png">
