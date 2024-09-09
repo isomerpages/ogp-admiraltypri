@@ -319,7 +319,15 @@ needed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="EL_Picture3" src="/images/el_pic3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EL_Picture4" src="/images/el_pic4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/English Language &amp; Drama/English_Language___Drama6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/English Language &amp; Drama/English_Language___Drama4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/English Language &amp; Drama/English_Language___Drama5.jpg">
 </div>
 <p></p>
