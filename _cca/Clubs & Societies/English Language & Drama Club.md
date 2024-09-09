@@ -162,24 +162,40 @@ tournament.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junior Division</p>
-<p>1st place (bowl category)</p>
+<p><strong>Junior Division</strong>
+</p>
+<p></p>
+<p><strong>1st place (bowl category)</strong>
+</p>
 <p>Katrina Bao (3 Enterprise)</p>
-<p>1st place (plate category)</p>
+<p></p>
+<p><strong>1st place (plate category)</strong>
+</p>
 <p>– Lee Zhen Rui (4 Enterprise)</p>
-<p>1st place (Bowl Category)</p>
+<p></p>
+<p><strong>1st place (Bowl Category)</strong>
+</p>
 <p>– Sofea Fateha (4 Enterprise)</p>
-<p>4th Place (cup category)</p>
+<p></p>
+<p><strong>4th Place (cup category)</strong>
+</p>
 <p>– Lester Zhang (3 Challenge)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Division</p>
-<p>1st place (bowl category)</p>
+<p><strong>Senior Division</strong>
+</p>
+<p></p>
+<p><strong>1st place (bowl category)</strong>
+</p>
 <p>Issac Yeo (5 Graciousness)</p>
-<p>2nd place (plate category)</p>
+<p></p>
+<p><strong>2nd place (plate category)</strong>
+</p>
 <p>Aisyah Amsyar (5 Courage)</p>
-<p>Merit Award (plate category)</p>
+<p></p>
+<p><strong>Merit Award (plate category)</strong>
+</p>
 <p>- Li Enxin (6 Courage)</p>
 <p></p>
 </td>
