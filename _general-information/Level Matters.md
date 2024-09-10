@@ -108,12 +108,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023_P3%20SC_Sem%201.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Science Semeseter 1</a> 
-<br>
+<p><a href="/files/Level Matters/P3_Science.pdf" rel="noopener nofollow" target="_blank">P3 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20Science.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Science</a> 
+<p><a href="/files/Level Matters/P4_Science.pdf" rel="noopener nofollow" target="_blank">P4 Science</a>
 <br>
 </p>
 </td>
