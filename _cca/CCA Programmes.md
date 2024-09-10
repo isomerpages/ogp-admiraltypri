@@ -40,65 +40,151 @@ and strengths. While it important for parents to guide the students in
 making the decision, the final decision of the choice of CCA should be
 made by students and they should take ownership of their own decision.</p>
 <p></p>
-<h4>Uniform Group</h4>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/brownies.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/scouts.png">
-</div>
-<h4>Clubs &amp; Societies</h4>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/el_main2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/environmental%20science%20club.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/infocomm%20technology.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/design&amp;innovation.png">
-</div>
-<h4>Visual and Performing Arts</h4>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/visual%20arts%20club.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/photography%20club.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/choir.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/chinese%20dance.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/indian%20dance.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/guitar%20ensemble.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/malay%20dance.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/guzheng.png">
-</div>
 <h4>Games &amp; Sports</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/sports%20club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sports club.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/football.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/wushu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/rope%20skipping.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rope skipping.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/track&amp;field.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/track&amp;field.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Visual and Performing Arts</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Clubs &amp; Societies</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Uniform Groups</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
