@@ -3,8 +3,8 @@ title: Home Based Learning
 permalink: /general-information/Infocomm-Technology/home-based-learning/
 description: ""
 third_nav_title: Infocomm Technology
+variant: markdown
 ---
-
 # Home-Based Learning
 
 [Installing Zoom to Android Parents](/files/Installing-Zoom-to-Android_Parents.pdf)
@@ -19,7 +19,7 @@ Thank you for standing by your child and supporting schools through the HBL peri
 
 With the upcoming holidays, your child will be spending more time at home. This presents you with the opportunity to deepen your relationship with your child and bond more as a family. By making small changes to what you say and do, you can relate better to your child, and equip them with the much needed support and positive attitude needed for life.
 
-This issue of Parent Kit provides you with tips on how you can frame your conversations with your child positively, and things you can do to guide your child to become mentally and emotionally resilient. It also suggests ways in which your family (your child included) can bond while showing care for each other. [SGunited](https://www.sgunited.gov.sg/)
+This issue of Parent Kit provides you with tips on how you can frame your conversations with your child positively, and things you can do to guide your child to become mentally and emotionally resilient. It also suggests ways in which your family (your child included) can bond while showing care for each other.
 
 [Resource Kit - HBL (Part 4)](/files/Resource-Kit-HBL-Part-4.pdf)
 
