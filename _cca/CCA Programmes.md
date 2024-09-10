@@ -49,38 +49,23 @@ made by students and they should take ownership of their own decision.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sports club.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Sports/sports-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/sports club.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Sports/football/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Sports/wushu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rope skipping.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Sports/rope-skipping/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/rope skipping.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/track&amp;field.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Sports/track-n-field/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/track&amp;field.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
