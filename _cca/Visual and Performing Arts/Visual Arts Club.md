@@ -120,7 +120,46 @@ Silver Award for her submission!</p>
 </div>
 <p><strong>Additional info</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VA Additional Info" src="/images/va_additional_info.jpg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>There is no specific pre-requisite to be a member of Visual Arts Club.</p>
+</li>
+<li>
+<p>Admirals need to be passionate and have the interest in Art.</p>
+</li>
+<li>
+<p>Admirals are required to bring along the following items for a meaningful
+VA Club CCA Experience:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art Sketchbook (dedicated for VA Club).</p>
+</li>
+<li>
+<p>It serves as a collection point for portfolios and task explorations throughout
+the CCA sessions.</p>
+<p>It should be cherished and well-maintained to prepare for use in P6.</p>
+</li>
+<li>
+<p>VA Bag to hold all the itemsArt Apron</p>
+</li>
+<li>
+<p>Art Stationery such as 2B Pencils, Ruler, and Eraser</p>
+</li>
+<li>
+<p>A Set of Colour Pencils and Oil Pastels</p>
+</li>
+<li>
+<p>A Few Paint Brushes for Personal Use</p>
+</li>
+<li>
+<p>A Glue Stick</p>
+</li>
+<li>
+<p>A Packet of Dry / Wet Tissue / Cloth (for cleaning up)</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
 <p></p>
