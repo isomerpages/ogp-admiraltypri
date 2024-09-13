@@ -68,7 +68,7 @@ of young innovators to dream big and think creatively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide9.jpg">
 </div>
-<p><strong>Primary 5 / 6 : </strong>
+<p><strong>Primary 5 / 6 :</strong>
 </p>
 <p>Our Primary 5 pupils are given the opportunity to participate in IvP (a
 module by GEP Branch). IvP is an eight-month programme where students learn
