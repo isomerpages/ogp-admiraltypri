@@ -113,6 +113,43 @@ in P1 or P2 gain direct entry into Chinese Dance CCA? No</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide9.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chinese Dance/Slide10.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>SYF 2024 - <a href="https://www.youtube.com/watch?v=PK7R8ai6__k" rel="noopener nofollow" target="_blank">Click here to watch</a>
 </p>
