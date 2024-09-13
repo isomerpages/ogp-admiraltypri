@@ -80,12 +80,44 @@ Admission (DSA).</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Seniors 2 boys 80m - (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 2 boys Shot Put - (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 boys 30m - (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 boys Vertical jump - (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 girls 1500m - 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
