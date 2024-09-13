@@ -117,14 +117,6 @@ International Bazaar 23</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir3.jpg">
@@ -156,13 +148,11 @@ International Bazaar 23</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website3.jpg">
 </div>
@@ -170,13 +160,11 @@ International Bazaar 23</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website_updates.jpg">
 </div>
@@ -184,4 +172,9 @@ International Bazaar 23</p>
 </tr>
 </tbody>
 </table>
+<p>Click here to watch some video</p>
+<p><a href="https://drive.google.com/file/d/14CTrwKj4RqdeZio73_2PTFJ5jaMLw2Lf/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 SYF piece</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1YVL9icSzE9OcYN7osh6rhcRVGAuwz_SM/view?usp=sharing" rel="noopener nofollow" target="_blank">Why join Choir?</a>
+</p>
 <p></p>
