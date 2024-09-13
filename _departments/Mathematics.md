@@ -141,7 +141,7 @@ Primary 6 students will have their term 2 WA and continue to have their Prelimin
 
   
 
-In addition to the term WA, Admiralty Primary also included Math LwT tasks and Performance Task (P3) as part of weighted assessments. The purpose of incorporating alternative tasks as part of the weighted assessments provides a more holistic assessment of the students’ overall mathematical competency throughout the year. This will also help to reduce students’ test anxiety when the reporting is not entirely dependent on single written tests.&nbsp;
+In addition to the term WA, Admiralty Primary also includes Performance Assessments on Math Journaling and Performance Task (P3) as part of the weighted assessments. The purpose of incorporating these alternative tasks is to provide opportunities for students to engage more deeply in mathematical thinking, applying practical skills and reasoning in authentic tasks. This approach offers a more holistic assessment of students' overall mathematical competency throughout the year and helps reduce test anxiety by not relying solely on traditional written tests.
 
   
 
