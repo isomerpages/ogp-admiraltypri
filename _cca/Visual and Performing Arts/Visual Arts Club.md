@@ -136,8 +136,8 @@ VA Club CCA Experience:</p>
 </li>
 <li>
 <p>It serves as a collection point for portfolios and task explorations throughout
-the CCA sessions.</p>
-<p>It should be cherished and well-maintained to prepare for use in P6.</p>
+the CCA sessions. It should be cherished and well-maintained to prepare
+for use in P6.</p>
 </li>
 <li>
 <p>VA Bag to hold all the itemsArt Apron</p>
