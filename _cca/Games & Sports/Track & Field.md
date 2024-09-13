@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Games & Sports
 variant: tiptap
 ---
-<h4><strong>Goal</strong></h4>
+<h4>Goal</h4>
 <p>To develop a passion for sports in life.</p>
-<h4><strong>Objectives</strong></h4>
+<h4>Objectives</h4>
 <p>To develop students in the skills of running, jumping and throwing.</p>
-<h4><strong>Overview</strong></h4>
+<h4>Overview</h4>
 <p>Lower primary students to develop a set of fundamental skills from the
 three domains: running, jumping and throwing.</p>
 <p>Upper primary students to specialised from the three domains that is catered
@@ -25,7 +25,7 @@ as the National School Games (NSG) and other track sporting events.</p>
 <p>Through such contests, students can heighten their opportunities to enter
 established schools which offers Track and Field CCA through Direct School
 Admission (DSA).</p>
-<h4><strong>Schedule</strong></h4>
+<h4>Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,13 +66,13 @@ Admission (DSA).</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers</strong></h4>
+<h4>Teachers</h4>
 <p>Mr Vincent Kwek</p>
 <p>Mr Andrew Yeo</p>
 <p>Ms Yeo Xuan</p>
 <p>Mdm Yeni</p>
 <p>Mrs Desiree Ng</p>
-<h4><strong>Achievements</strong></h4>
+<h4>Achievements</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -80,12 +80,44 @@ Admission (DSA).</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Seniors 2 boys 80m - (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 2 boys Shot Put - (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 boys 30m - (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 boys Vertical jump - (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Seniors 1 girls 1500m - 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -201,7 +233,7 @@ Admission (DSA).</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Some Events at National School Games</strong></h4>
+<h4>Some Events at National School Games</h4>
 <p><strong>Running</strong>
 </p>
 <ul data-tight="true" class="tight">
