@@ -14,15 +14,19 @@ artists and be reflective learners. Our VA Admirals also participated in
 school and national events to develop a sense of confidence, ownership,
 pride, teamwork and most importantly, leadership in their assigned scope
 of work.</p>
-<p><strong>Goal</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA4.jpg">
+</div>
+<h4>Goal</h4>
 <p>VA Admirals will develop and enhance their awareness and understanding
 of the world through appreciation of the visual arts. They get to articulate
 the logic of the formal, spatial, material, and technical elements of a
 work of art skillfully to express their thoughts and messages to the audience.</p>
-<p>Art in Action: Students Leading Creative Workshops for the Community</p>
-<p><strong>Objectives</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA6.jpg">
+</div>
+<h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To provide a structured and quality programme for VA Admirals to sustain
@@ -39,17 +43,14 @@ interest</p>
 <p>To create an environment for the nurturing of life skills through Art</p>
 </li>
 </ul>
-<p></p>
 <p>Our VA Admirals have also worked hard to create Art works for the National
 Day Exhibition titled ‘My Singapore’. Please click on the image below to
 watch the behind-the-scenes video!</p>
 <p></p>
-<p><strong>Schedule</strong>
-</p>
+<h4>Schedule</h4>
 <p>During Timetabled CCA Sessions:
 <br>Mondays [7.40 a.m. to 9.40 a.m.]</p>
-<p><strong>Teachers-in-Charge</strong>
-</p>
+<h4>Teachers-in-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,8 +77,11 @@ watch the behind-the-scenes video!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA7.jpg">
+</div>
+<h4>Achievements</h4>
 <p><strong>2023</strong> 
 <br>This year’s SYF Art Exhibition, themed ‘Artist and Inspiration’, aims
 to nurture in students a keen appreciation for historical and cultural
@@ -106,7 +110,6 @@ submitted for the competition.</p>
 their artworks titled ’Life Made Easy with Technology’ and ‘A Day Juggling
 with Technology’ through their Artist Talk presentations below. You can
 also view the submitted SYF works via our virtual Art Exhibition link.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
 </div>
