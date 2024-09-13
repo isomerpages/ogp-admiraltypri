@@ -5,14 +5,16 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide1.jpg">
+</div>
 <p>Join the Design and Innovation Club to explore, discover, and lead innovation
 through hands-on activities that spark curiosity and creative thinking.
 By embracing a willingness to try new ideas—even when there's a risk of
 failure—you will learn to tackle complex problems using design thinking.
 Our teachers and CCA members model the innovative mindsets we aim to develop,
 making this CCA the optimal place to grow as a leader in innovation.</p>
-<p>The objectives of the Design and Innovation Club are to:</p>
+<h4>The objectives of the Design and Innovation Club are to:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Teach students the five stages of Design Thinking: Empathy, Define, Ideate,
@@ -32,42 +34,60 @@ and teamwork skills for managing innovative projects.</p>
 </ol>
 <p>Join us to enhance your skills and become a Leader in Innovation!</p>
 <p></p>
-<p>Programme Focus</p>
-<p>Primary 3 / 4 :</p>
+<h4>Programme Focus</h4>
+<p><strong>Primary 3 / 4 :</strong>
+</p>
 <p>Our Primary 3 and 4 pupils participate in modular-based programmes that
 emphasize creative problem-solving and the design thinking model.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide4.jpg">
+</div>
+<p>In this module, the Primary 3 pupils were introduced to microcontrollers
+like the Micro:Bit. After learning how to code the Micro:Bit, the pupils
+had fun making mini projects like a burglar alarm and designing a game.</p>
+<p>Besides Digital Making, the pupils also tinkered with Analogue Making
+using recycled paper. Inspired by the innovation of aircraft, the pupils
+made different models of paper airplanes and observed how the structure
+of the airplane affects its flight.</p>
+<p>They shared their love for innovation by conducting Makerspace activities
+for their fellow Admirals, teaching them how to fold paper airplanes that
+can stay afloat longer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide6.jpg">
+</div>
+<p>Our Primary 4 pupils showcased their creativity and ingenuity by participating
+in the Sony Creative Science Award, a toy-making competition, where they
+crafted imaginative and unique toys. They eagerly shared their insights
+and experiences with their Primary 3 juniors, inspiring the next generation
+of young innovators to dream big and think creatively.</p>
 <p></p>
-<h4>Goal</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Encourage pupils to learn by trying and experimenting.</p>
-</li>
-<li>
-<p>Pupils create lightweight structures based on STEAM based lessons.</p>
-</li>
-<li>
-<p>Encourage creativity by coding, creating confidence and hands-on prototyping.</p>
-</li>
-<li>
-<p>Help develop complex problem-solving, critical thinking and creative thinking
-skills.</p>
-</li>
-</ul>
-<p>At the core of it, Innovation Club focusses on activities that develop
-curiosity and asking questions to explore, discover and learn something
-new. Innovation is about the willingness to try and explore a wider terrain
-of ideas, even if there is risk of failure. To awaken and nurture the spirit
-of innovation, our teachers model the attitudes and habits of mind we seek
-to develop in our students.</p>
-<p>Our Primary 3 &amp; 4 pupils will be engaged in creative problem-solving
-process and design thinking model through our programmes that are modular
-based.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide9.jpg">
+</div>
+<p><strong>Primary 5 / 6 : </strong>
+</p>
 <p>Our Primary 5 pupils are given the opportunity to participate in IvP (a
 module by GEP Branch). IvP is an eight-month programme where students learn
 the skills for problem finding, generation of creative ideas, prototyping
-&amp; testing of solutions. The programme aims to stimulate students' curiosity
+&amp; testing of solutions. The programme aims to stimulate students’ curiosity
 to understand the problem at hand &amp; encourage them to embrace experimentation
 in generating &amp; testing potential solutions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Design and Innovation/Slide13.jpg">
+</div>
 <h4>Teachers-in-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -117,21 +137,6 @@ in generating &amp; testing potential solutions.</p>
 </tr>
 </tbody>
 </table>
-<p>Activities/ Programmes</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Innovation Programme 2022 (IvP) Organised by GEP Branch MOE</p>
-</li>
-<li>
-<p>Science Busking 2022</p>
-</li>
-<li>
-<p>Strawbees &amp; Quirkbot Coding</p>
-</li>
-<li>
-<p>Design Thinking</p>
-</li>
-</ol>
 <h4>Achievements</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -141,23 +146,47 @@ in generating &amp; testing potential solutions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Competition</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation Programme 2023 (IvP, organized by GE Branch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 teams were awarded Distinction Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North Zone Hackathon 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Carlo Acutis Award (Coding)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Buskers 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Won the Most Creative Video Award for Primary Category</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Science Busking 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Judges Choice Award given to Team Coders: Piano Fun</p>
+<p>Judges Choice Award given to Team Coders</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Innovation Programme 2019 (IvP)Organised by GEP Branch MOE</p>
+<p>Innovation Programme 2019 (IvP, organized by GE Branch)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Awards awarded to 2 teams</p>
@@ -165,47 +194,21 @@ in generating &amp; testing potential solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science Busking 2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Innovation Programme 2018 (IvP)Organised by GEP Branch MOE</p>
+<p>Innovation Programme 2018 (IvP, organized by GE Branch)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Awards awarded to 3 teams</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Strawbees Global Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>People's Choice AwardBest Teamwork Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015 &amp; 2016Sony Creative Science Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Amazing Science-X Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-</tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XoeVMT5hMYY"></iframe>
-</div>
-<p></p>
+<h4>Get ready for an exciting change in 2025!</h4>
+<p><strong>Note:</strong> Staring in 2025, the Environmental Science and Design
+and Innovation co-curricular activities (CCAs) will be merging. The combined
+CCA will be known as Design &amp; Innovation.</p>
+<p>This newly merged club will not only spark creativity and innovation but
+also lead the charge in eco-sustainability. We’re taking our passion for
+design and innovation to the next level—focusing on creating solutions
+that benefit the environment. Together, we’ll combine environmental science
+and innovation to design a greener, more sustainable future. Join us in
+making a difference!</p>
