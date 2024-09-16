@@ -64,10 +64,10 @@ Responsibility, Integrity, and Teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Daing Noor Ashikin</p>
+<p>Mdm Hamimah Bte Ansor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daing_noor_ashikin_bahnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daing_noor_ashikin_bahnan@moe.edu.sg</a>
+<p><a href="mailto:hamimah_ansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamimah_ansor@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -3,8 +3,10 @@ title: Indian Dance
 permalink: /cca/Performing-Arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Indian Dance
+![ADPS Indian Dance](/images/APS_Indian_Dance.jpg)
 
 Admiralty Primary School Indian Dance comprises students from primary 3 to 6. Our dancers come from different ethnic background. Our members uphold school core values of graciousness, responsibility, integrity, teamwork as they are involved in the CCA.  
 
@@ -35,8 +37,8 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 ##### Teachers-in-Charge
 
-* Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>            
-* Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
+* Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>     
+* Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>                      
 * Ms Koh Yen Ling <a href="mailto: yen_ling_koh@moe.edu.sg"> yen_ling_koh@moe.edu.sg</a>            
 
 ##### Achievements
@@ -76,17 +78,25 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 * School Performance for Kalaithiran 2023
 * School Performance for Mid Autumn Performance
 
+<b>2024</b><br>
+* Singapore Youth Festival (SYF) 2024
+* Performance at Woodlands Galaxy CC for Tamil New Year Celebration
+* School Performance for Mid-Autumn Celebration
+* Community Outreach Programme (PCF Sparkletots)
+* Learning Journey: NATYARPANAM 2024
+
 ##### Frequently Asked Questions:
 
 1. <b>Any requirements/pre-requisite to enter the CCA?</b><br>
 	No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians students are welcomed to join us as well.
 2. <b>Is the CCA gender specific?</b><br>
-	No, boys and girls are welcome. The girls are encouraged to grow long hair.   
+	No, boys and girls are welcome. 
 3. <b>What do students need to prepare when they are in the CCA?</b><br>Students are required to wear black long tights with school PE top.
-4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
+4. <b>What can parents do to help them to prepare themselves to be accepted into the CCA and do well?</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
 
 
 ##### Photo Gallery
 
 ![Indian Dance Photo Gallery](/images/2023_indiandance_pg1.jpg)<br>
 ![Indian Dance Performance](/images/2023_indiandance_pg3.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qSi7ITQxCp4?si=zFh1PfHdwoALF8br" height="315" width="560"></iframe>
