@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /cca/Performing-Arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 # Indian Dance
 
@@ -35,8 +36,8 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 ##### Teachers-in-Charge
 
-* Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>            
-* Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>                   
+* Mdm Nalayani  <a href="mailto: nalayani_nair_mukunan_nair@moe.edu.sg"> nalayani_nair_mukunan_nair@moe.edu.sg</a>     
+* Mrs Kumar <a href="mailto:kanagamalar_kumar@moe.edu.sg">kanagamalar_kumar@moe.edu.sg</a>                      
 * Ms Koh Yen Ling <a href="mailto: yen_ling_koh@moe.edu.sg"> yen_ling_koh@moe.edu.sg</a>            
 
 ##### Achievements
@@ -75,6 +76,13 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 * School Performance for Chinese New Year Celebration
 * School Performance for Kalaithiran 2023
 * School Performance for Mid Autumn Performance
+
+<b>2024</b><br>
+* Singapore Youth Festival (SYF) 2024
+* Performance at Woodlands Galaxy CC for Tamil New Year Celebration
+* School Performance for Mid-Autumn Celebration
+* Community Outreach Programme (PCF Sparkletots)
+* Learning Journey: NATYARPANAM 2024
 
 ##### Frequently Asked Questions:
 
