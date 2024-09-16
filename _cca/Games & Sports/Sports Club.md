@@ -119,8 +119,81 @@ badminton training sessions.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide8.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide9.jpg">
+</div>
+<h4>Achievement</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11.jpg">
+</div>
+<h4>Further information</h4>
+<p><strong>Q1: What kind of sports can my child learn during CCA?</strong> 
+</p>
+<p>There are 3 sports modules spread across 4 terms, namely Badminton, Tchoukball
+and Floorball. Sports Club members are exposed to all the 3 sports modules
+during CCA sessions to develop their fundamental skills and knowledge of
+the sports.</p>
+<p><strong>Q2: Can my child take part in competitions? </strong>
+</p>
+<p>Through observations and recommendation by CCA teachers, students will
+be identified to specialise for extra trainings to prepare them for school
+competition.</p>
+<p>Currently, students are only sent for Badminton and Tchoukball competitions.</p>
+<p><strong>Q3: Why does my child need to keep a CCA journal for Sports Club?</strong>
+</p>
+<p>At the end of each CCA session, pupils can reflect on what they have learnt
+and jot down notes so that they can reflect on the sports concepts learned
+and the skills they need to work on.</p>
+<p><strong>Q4: What should my child bring for CCA lessons?</strong>
+</p>
+<p>Pupils can bring a small bag to hold their water bottle to hydrate themselves
+and their writing material.</p>
+<p><strong>Q5: Does my child need to bring any equipment for CCA/training sessions? </strong>
+</p>
+<p>Badminton rackets and tchoukball equipment for all CCA sessions and extra
+trainings will be provided.</p>
+<p>For badminton, students can bring their own personal racket.</p>
+<p>For Tchoukball, students are encouraged to purchase their own knee pads
+for hygiene purpose.</p>
+<p><strong>Q6: What is the recommended footwear for training?</strong>
+</p>
+<p>Students are encouraged to bring along a pair of court shoes as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>it will provide extra support to protect their ankles.</p>
+</li>
+<li>
+<p>it offers grip which will also prevent slipping and injury.</p>
+</li>
+<li>
+<p>it uses lightweight materials for students to work on their footwork.</p>
+</li>
+</ul>
+<p><strong>Q7: What are the sports that my child can apply for through DSA?</strong>
+</p>
+<p>Currently, pupils can apply through badminton and tchoukball.</p>
+<p><strong>Q8: What are the schools that my child can apply through DSA that are related to badminton and tchoukball?</strong>
+</p>
+<p>Parents can find out more on schools offering DSA through sports from
+: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p>Students are encouraged to keep a video of their own training as it may
+be required as part of their DSA application.</p>
+<p>They may need to go for interview as well as trials, depending on the
+requirements from the secondary schools.</p>
 <p></p>
 <p></p>
