@@ -72,7 +72,7 @@ for a Brownie as well, the Chief Commissioners Award.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>nze - 2013</p>
+<p>Bronze - 2013</p>
 </li>
 <li>
 <p>Silver - 2014-2016</p>
@@ -94,4 +94,30 @@ for a Brownie as well, the Chief Commissioners Award.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Brownies/Brownie_3.jpg">
 </div>
+<h4>What can parents and students expect?</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Character and leadership development </strong>
+</p>
+<p>Brownies achieve their highest potential by achieving badges, through
+the completion of the modules, and challenging themselves to go beyond
+and attain the proficiency badges.</p>
+</li>
+<li>
+<p>Knowledge and skills development and even exposure to different activities/competitions</p>
+</li>
+<li>
+<p>The girls are empowered with leadership skills to lead themselves and
+others towards a positive change that can be made in their community.</p>
+</li>
+</ul>
+<h4>Teachers-in-Charge</h4>
+<p>Ms Jane Sasikala - <a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jane_sasikala_mirthunjayan@moe.edu.sg</a>
+</p>
+<p>Ms Veronica Yeo - <a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_yeo@moe.edu.sg</a>
+</p>
+<p>Ms Nurazreen - <a href="mailto:jane_sasikala_mirthunjayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurazreen_samsudin@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
