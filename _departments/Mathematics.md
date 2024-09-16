@@ -127,28 +127,16 @@ As part of our teaching and learning processes, teachers plan and execute their 
 
 ##### Weighted assessments
 
-  
-
 **Primary 3 to 6 Weighted Assessments**
 
-  
-
 Since 2020, there have been no mid-year examinations (MYE) for Primary 3 and Primary 5 students, and MYE for Primary 4 students was also removed in 2022. Therefore, Primary 3 to Primary 5 students will have weighted assessments (WA) for terms 2 and 3, and End-of-Year Examination (EOY Exam) in Term 4.&nbsp;
-
-  
-
+ 
 Primary 6 students will have their term 2 WA and continue to have their Preliminary Examination in Term 3. All Primary 6 pupils will sit for the Primary School Leaving Examination (PSLE) at the end of their primary education. Posting to secondary school will be based only on the PSLE results.
 
-  
-
 In addition to the term WA, Admiralty Primary also includes Performance Assessments on Math Journaling and Performance Task (P3) as part of the weighted assessments. The purpose of incorporating these alternative tasks is to provide opportunities for students to engage more deeply in mathematical thinking, applying practical skills and reasoning in authentic tasks. This approach offers a more holistic assessment of students' overall mathematical competency throughout the year and helps reduce test anxiety by not relying solely on traditional written tests.
-
-  
-
+ 
 **Mark Range and Achievement Band (Primary 3 and Primary 4)**
-
-  
-
+ 
 The mark range and description for each achievement band in Mathematics are given below.
 
 <style type="text/css">
@@ -311,4 +299,4 @@ Math@Lunch is conducted once every term during lunch hour near the canteen area 
 ![](/images/2023_math_slide1.JPG)
 ![](/images/2023_math_slide2.JPG)
 	
-[Click here for the video](https://drive.google.com/file/d/1wjnScQZASHl8NxrdRwXsZJiuzY_9M0WH/view?usp=sharing)	
+[Click here for the video](https://drive.google.com/file/d/1wjnScQZASHl8NxrdRwXsZJiuzY_9M0WH/view?usp=sharing)
