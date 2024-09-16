@@ -108,7 +108,8 @@ in generating &amp; testing potential solutions.</p>
 <p>Mdm Akhilandeswari d/o Rajasegaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>akhilandeswari_rajasegaran@moe.edu.sg</p>
+<p><a href="akhilandeswari_rajasegaran@moe.edu.sg" rel="noopener nofollow" target="_blank">akhilandeswari_rajasegaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +117,8 @@ in generating &amp; testing potential solutions.</p>
 <p>Mdm Masnie Mohamed Jalani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>masnie_mohamed_jalani@moe.edu.sg</p>
+<p><a href="masnie_mohamed_jalani@moe.edu.sg" rel="noopener nofollow" target="_blank">masnie_mohamed_jalani@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +126,8 @@ in generating &amp; testing potential solutions.</p>
 <p>Ms Marinah Mukhtar Toh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>marinah_mukhtar_toh_abdullah@moe.edu.sg</p>
+<p><a href="marinah_mukhtar_toh_abdullah@moe.edu.sg" rel="noopener nofollow" target="_blank">marinah_mukhtar_toh_abdullah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +135,8 @@ in generating &amp; testing potential solutions.</p>
 <p>Mdm Rozianah Bte Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rozianah_rahim@moe.edu.sg</p>
+<p><a href="rozianah_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">rozianah_rahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
