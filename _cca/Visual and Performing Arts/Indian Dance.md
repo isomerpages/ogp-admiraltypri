@@ -89,9 +89,9 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 1. <b>Any requirements/pre-requisite to enter the CCA?</b><br>
 	No, as long as you are interested and have a passion for dance, we welcome you to join us. Non-Indians students are welcomed to join us as well.
 2. <b>Is the CCA gender specific?</b><br>
-	No, boys and girls are welcome. The girls are encouraged to grow long hair.   
+	No, boys and girls are welcome. 
 3. <b>What do students need to prepare when they are in the CCA?</b><br>Students are required to wear black long tights with school PE top.
-4. <b>What can they do to help them to prepare themselves to be accepted into the CCA and do well?</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
+4. <b>What can parents do to help them to prepare themselves to be accepted into the CCA and do well?</b><br>Have a strong interest in dancing, a positive team mindset, and the willingness to put in efforts to learn and improve.
 
 
 ##### Photo Gallery
