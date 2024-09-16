@@ -141,13 +141,13 @@ badminton training sessions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11.jpg">
 </div>
 <h4>Further information</h4>
-<p><strong>Q1: What kind of sports can my child learn during CCA?</strong> 
+<p><strong>Q1: What kind of sports can my child learn during CCA?</strong>
 </p>
 <p>There are 3 sports modules spread across 4 terms, namely Badminton, Tchoukball
 and Floorball. Sports Club members are exposed to all the 3 sports modules
 during CCA sessions to develop their fundamental skills and knowledge of
 the sports.</p>
-<p><strong>Q2: Can my child take part in competitions? </strong>
+<p><strong>Q2: Can my child take part in competitions?</strong>
 </p>
 <p>Through observations and recommendation by CCA teachers, students will
 be identified to specialise for extra trainings to prepare them for school
@@ -162,7 +162,7 @@ and the skills they need to work on.</p>
 </p>
 <p>Pupils can bring a small bag to hold their water bottle to hydrate themselves
 and their writing material.</p>
-<p><strong>Q5: Does my child need to bring any equipment for CCA/training sessions? </strong>
+<p><strong>Q5: Does my child need to bring any equipment for CCA/training sessions?</strong>
 </p>
 <p>Badminton rackets and tchoukball equipment for all CCA sessions and extra
 trainings will be provided.</p>
