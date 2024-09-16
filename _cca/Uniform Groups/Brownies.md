@@ -32,29 +32,13 @@ lasting friendships.</p>
 steadily in strength from a mere 20 members to the current 58-odd members.
 Girls are interested to join Brownies because we offer them opportunities
 to novel experiences.&nbsp;&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Each brownie will go through our unique 5-point programme with various
 modules;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Brownies/Brownie_1.png">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Each module prepares them with the necessary skills to fulfill their Brownie
@@ -77,11 +61,6 @@ The most deserving girls have an opportunity to aim for the highest award
 for a Brownie as well, the Chief Commissioners Award.</p>
 </li>
 </ul>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>
