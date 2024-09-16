@@ -6,6 +6,7 @@ third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 # Indian Dance
+![ADPS Indian Dance](/images/APS_Indian_Dance.jpg)
 
 Admiralty Primary School Indian Dance comprises students from primary 3 to 6. Our dancers come from different ethnic background. Our members uphold school core values of graciousness, responsibility, integrity, teamwork as they are involved in the CCA.  
 
@@ -98,3 +99,4 @@ We aim to instill the love for dance, while inspiring confidence, enjoyment and 
 
 ![Indian Dance Photo Gallery](/images/2023_indiandance_pg1.jpg)<br>
 ![Indian Dance Performance](/images/2023_indiandance_pg3.jpg)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qSi7ITQxCp4?si=zFh1PfHdwoALF8br" height="315" width="560"></iframe>
