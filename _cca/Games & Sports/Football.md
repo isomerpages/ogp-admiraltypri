@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Games & Sports
 variant: tiptap
 ---
-<p><strong>Goal</strong>
-</p>
+<h4>Goal</h4>
 <p>To further develop student’s passion for football and for them to be advocates
 of also to teach the students sports for life.</p>
-<p><strong>Objectives</strong>
-</p>
+<h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To teach and further develop ball mastery in the students.</p>
@@ -20,16 +18,14 @@ of also to teach the students sports for life.</p>
 them to be a better sportsperson.</p>
 </li>
 </ul>
-<p><strong>Overview</strong>
-</p>
+<h4>Overview</h4>
 <p>Admiralty Football training involves ball skills, strengthening, speed
 work, plyometric, anaerobic and aerobic training, and endurance training.
 Activation, co-ordination and ball mastery are the essence of the trainings.
 These different types of training help the pupils to be stronger, faster
 and fitter. The values of discipline, dedication and determination are
 instilled in pupils as they hone their skills to become better players.</p>
-<p><strong>Introduction</strong>
-</p>
+<h4>Introduction</h4>
 <p>The football programme in Admiralty caters to pupils of all playing levels,
 from the beginner who wants to learn how to kick a ball, to the nurturing
 of talents for a potential career in professional football.</p>
@@ -45,8 +41,7 @@ other important domains such as food and nutrition, leadership and character
 education. These newly accustomed-to platforms are being utilized continuously
 to ensure that our pupils have a cut above face-to-face sessions. As a
 result, our students are more self-directed.</p>
-<p><strong>Teachers-in-Charge</strong>
-</p>
+<h4>Teachers-in-Charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Deepah – <a href="deepah_chandra@moe.edu.sg" rel="noopener nofollow" target="_blank">deepah_chandra@moe.edu.sg</a>
@@ -57,7 +52,7 @@ result, our students are more self-directed.</p>
 </p>
 </li>
 <li>
-<p>Mr Ang Jian Hao – <a href="mailto:ang_jian_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_jian_hao@moe.edu.sg</a> 
+<p>Mr Ang Jian Hao – <a href="mailto:ang_jian_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_jian_hao@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -65,9 +60,7 @@ result, our students are more self-directed.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p><strong>Schedule</strong>
-</p>
+<h4>Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -108,8 +101,7 @@ result, our students are more self-directed.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Achievements</strong>
-</p>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2016 SPSSC Primary Schools Football Championships Nationals (Senior Girls)
@@ -153,8 +145,7 @@ result, our students are more self-directed.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Information for parents</strong>
-</p>
+<h4>Information for parents</h4>
 <p><strong>Q1: What should my child bring for CCA lessons?</strong>
 </p>
 <p>Shoe bag with soccer boots (with studs) 1-litre water bottle Shin pads
