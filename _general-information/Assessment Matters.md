@@ -53,6 +53,22 @@ Disciplinary action will also be taken against the pupil.</p>
 </p>
 <p>Please note that assessment details for each term will be uploaded onto
 this website by Week 5 of the term.</p>
+<h3>Term 4 Assessment Details</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_P3_T4.pdf" rel="noopener nofollow" target="_blank">P3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P4_T4.pdf" rel="noopener nofollow" target="_blank">P4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_P5_T4.pdf" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+</li>
+</ul>
+<h3>Archived:</h3>
 <h3>Term 3 Assessment Details</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -72,8 +88,6 @@ this website by Week 5 of the term.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<h3>Archived:</h3>
 <h3>Term 2 Assessment Details</h3>
 <ul data-tight="true" class="tight">
 <li>
