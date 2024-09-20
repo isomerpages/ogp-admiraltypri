@@ -5,7 +5,7 @@ description: ""
 third_nav_title: P1 Orientation
 variant: tiptap
 ---
-<h3>P1 Orientation – 11 October 2024</h3>
+<h3>11 October 2024</h3>
 <p>P1 (2025) Orientation will be conducted physically in the School Canteen
 (Level 1) &amp; School Hall (Level 2) on Friday, 11 October 2024 from 2.45
 p.m. to 5.30 p.m.</p>
