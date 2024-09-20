@@ -12,22 +12,36 @@ essential skills that will empower them to thrive in an ever-evolving future.
 Our aspiration extends beyond achieving excellence in national examinations;
 we are dedicated to instilling enduring values and positive habits that
 will serve them well throughout their lives beyond their school years.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/English.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/Maths.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/CCE.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/MT.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/PE.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/SML.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ZnJ11pzYH1LTf9E2Ib7DYIYaAk4SlsJ6/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/English.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1CIKtFaMRXOzqxUba7b92_r6veH84hCzy/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Maths.jpg"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1an_ULrYc21fup4WSSDR46P6lc8wKnPfH/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/CCE.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yLB4vOrJbk-WtBb8uN2qLIK_b_xf9JPN/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/PE.jpg"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1WeqVlBrNgq4PtY8lQlAr-rXwYkOZq9TI/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/SML.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
