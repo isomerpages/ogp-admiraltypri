@@ -3,27 +3,66 @@ title: First Day of School
 permalink: /programmes/p1-orientation/first-day-of-school/
 description: ""
 third_nav_title: P1 Orientation
+variant: tiptap
 ---
-### Things to Bring
-* Pupil’s Companion Book (please complete student’s particulars on page 2)
-* Pencil Case (containing sharpened pencils, an eraser and a ruler)
-* Colour Pencils
-* Water Bottle
-* Money / Smart Buddy Watch for Lunch
-* Healthy Snack Break (e.g. fruits, biscuits, bread)
-
-### Reporting and Dismissal Time 
-  
-Please note that parents/guardians will not be allowed to park in the school carpark. You are encouraged to park at the nearby HDB carparks next to the school.
-
-For the first day of school on **Tuesday, 2 January 2024, your child/ward will report to school by 8.00 a.m.**
-
-Parents will be allowed to drop off your child/ward at the bus bay. You will have to leave the school after dropping off your child/ward.
-
-**Your child/ward will be dismissed at 12.00 p.m. on the first day of school via Gate C only.**
-
-### Lunch Time 
-
-Students will be allowed to purchase food from the canteen and we encourage parents/guardians to give pocket money of about $2.00 - $2.50 to your child/ward if he/she is intending to purchase his/her own food during lunch.
-
-Due to the limited space in the canteen area and to ensure the well-being of our students, parents/guardians will not be allowed to view your child/ward during lunch. This is to acclimatize your child/ward to their new school and routines. Please be rest assured that our team of teachers will be stationed at the canteen to assist your child/ward to buy his/her food.
+<h3>2 Jan 2025</h3>
+<h4>What to Bring</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pupil’s Companion Book (please complete student’s particulars on page
+2)</p>
+</li>
+<li>
+<p>Pencil Case (containing sharpened pencils, an eraser and a ruler)</p>
+</li>
+<li>
+<p>Colour Pencils</p>
+</li>
+<li>
+<p>Water Bottle</p>
+</li>
+<li>
+<p>Money / Smart Buddy Watch for Lunch</p>
+</li>
+<li>
+<p>Healthy Snack Break (e.g. fruits, biscuits, bread)</p>
+</li>
+</ul>
+<h4>Reporting and Dismissal Time</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please note that parents/guardians will not be allowed to park in the
+school carpark. You are encouraged to park at the nearby HDB carparks next
+to the school.</p>
+</li>
+<li>
+<p>For the first day of school on&nbsp;<strong>Thursday, 2 January 2025, your child/ward will report to school by 8.00 a.m.</strong>
+</p>
+</li>
+<li>
+<p>Parents will be allowed to drop off your child/ward at the bus bay. You
+are not allowed to accompany your child to the classroom. Please follow
+the First Day of School Programme for parents.</p>
+</li>
+<li>
+<p><strong>Your child/ward will be dismissed at 12.00 p.m. on the first day of school via Gate C only.</strong>
+</p>
+</li>
+</ul>
+<h4>First Day of School Programme for Parents</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>TBC</p>
+</li>
+</ul>
+<h4>Lunch on 2 Jan 2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>TBC</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
