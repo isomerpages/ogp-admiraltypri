@@ -91,14 +91,6 @@ programmes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School-based Student Care Centre Application Form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be updated in November 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>List of external student care centres</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +149,7 @@ programmes</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>ookshop Online Order Website</p>
+<p>Bookshop Online Order Website</p>
 </li>
 </ul>
 </td>
@@ -197,7 +189,8 @@ programmes</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.euniforms.com.sg/shop/uniform-size-measurement-chart/" rel="noopener nofollow" target="_blank">Uniform Size Measurement Chart</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +259,7 @@ programmes</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/indication%20of%20interest%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Indication of Interest 2024</a>
+<p><a href="/files/GO PDF/Indication_of_Interest_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Indication of Interest 2024</a>
 </p>
 </td>
 </tr>
