@@ -29,9 +29,7 @@ site.</p>
 <p><strong>Request for School Bus Services</strong> 
 <br>To request for school bus services in 2024, download and fill in the form
 below. Please submit the request form to the school bus operator directly.
-<br>
-</p>
-<p><a href="/files/request%20for%20school%20bus%20services.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+<br><strong><u>Note: There will be a new vendor for 2025, details will be released soon.</u></strong>
 </p>
 <h4>School Uniform</h4>
 <p><strong><u>CHOP KONG CHONG</u></strong>
