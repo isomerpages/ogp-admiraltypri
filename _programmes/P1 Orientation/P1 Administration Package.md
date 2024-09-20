@@ -115,13 +115,9 @@ programmes</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Link to Relevant Info and Forms</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Links</strong>
-</p>
+<td rowspan="1" colspan="2">
+<p></p>
+<h4>Link to Relevant Info and Forms</h4>
 </td>
 </tr>
 <tr>
