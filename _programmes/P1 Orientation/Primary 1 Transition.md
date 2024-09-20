@@ -12,6 +12,13 @@ essential skills that will empower them to thrive in an ever-evolving future.
 Our aspiration extends beyond achieving excellence in national examinations;
 we are dedicated to instilling enduring values and positive habits that
 will serve them well throughout their lives beyond their school years.</p>
+<h4>Transition to Primary 1</h4>
+<p>Please click on the links provided and go through these resources to prepare
+your child for school next year.</p>
+<p>In this section, you and your child will understand what it is like in
+a primary school setting.&nbsp; Gather some tips on how to help your child
+transit to Primary 1 and know how you and the school can work together
+to support your child.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,4 +51,7 @@ will serve them well throughout their lives beyond their school years.</p>
 </tr>
 </tbody>
 </table>
+<h4></h4>
+<p></p>
+<p></p>
 <p></p>
