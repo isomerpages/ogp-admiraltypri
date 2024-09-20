@@ -66,5 +66,3 @@ Board, the school has implemented the Healthy Meals in School Programme
 <p>Ever wondered what our school’s canteen menu is like? You can discuss
 with your child on how to make healthy food choices. Click here for more
 information</p>
-<p></p>
-<p></p>
