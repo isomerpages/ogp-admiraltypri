@@ -42,8 +42,9 @@ variant: tiptap
 <p>7.40 a.m. to 9.40 a.m. on CCA Mondays</p>
 </li>
 <li>
-<p>4.15p.m. to 5.45p.m. on selected Fridays (parents will receive notifications
+<p>2.15p.m. to 3.45p.m. on selected Fridays (Parents will receive PG’s notifications
 of the specific dates at beginning of each term)</p>
+<p></p>
 </li>
 </ul>
 <h4>Teachers in-charge</h4>
@@ -66,13 +67,30 @@ of the specific dates at beginning of each term)</p>
 </p>
 </li>
 </ul>
-<h4>Achievements</h4>
+<h4>Achievements / Programmes</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>SYF Certificate of Distinction 2024</p>
 </li>
 <li>
 <p>SYF 2022 - year of no benchmenking</p>
+</li>
+<li>
+<p>Performance in school events:</p>
+<p>1. Chinese New Year Celebrations</p>
+<p>2. Teacher’s Day Celebration</p>
+<p>3. Hari Raya Concert</p>
+<p>4. Mid-autumn Festival Carnival</p>
+<p>5. Celebration of Learning</p>
+</li>
+<li>
+<p>Biennial Singapore Youth Festival (SYF)</p>
+</li>
+<li>
+<p>Biennial Mosaic performance</p>
+</li>
+<li>
+<p>Community outreaches</p>
 <p></p>
 </li>
 </ol>
@@ -118,12 +136,11 @@ all online lesson will be recorded and posted on Google Classroom.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 Guzheng 1" src="/images/2023%20guzheng1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2023 Guzheng 1" src="/images/2023%20guzheng2.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndG39uwAOcE"></iframe>
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/guzheng_update_2024_CCA_website.jpg">
+</div>
+<p><a href="https://www.youtube.com/@adpsguzheng" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/@adpsguzheng</a>
+</p>
