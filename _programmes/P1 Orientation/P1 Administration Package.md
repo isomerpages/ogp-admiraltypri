@@ -57,8 +57,7 @@ programmes</p>
 <p>MOE Financial Assistance Scheme Application Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">Apply for financial assistance</a>
-</p>
+<p>To be updated in November 2024</p>
 </td>
 </tr>
 </tbody>
