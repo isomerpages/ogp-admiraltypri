@@ -14,28 +14,67 @@ world and with confidence.</p>
 <h4>Objectives</h4>
 <p>To acquire new infocomm skills and knowledge through the CCA modules</p>
 <p>To apply the relevant skills acquired in their project work, competition,
-and e-portfolio.(transferable skills).</p>
+and e-portfolio. (transferable skills).</p>
 <p>To contribute their knowledge and skills learnt to the school through
 school project collaborations with other CCA groups and committees</p>
 <h4>Overview</h4>
 <p><strong>Our Infocomm Technology (2024) modules include:</strong>
 </p>
-<p>1. Google Sites (Website Design)</p>
-<p>2. Canva (Presentation)</p>
-<p>3. AI-EP-POF: Artificial Intelligence (AI) Roadmap (AI mBot)</p>
-<p>4. UBTECH-SOROBOT: Social Robotics with UBTECH (AI Social Robotics)</p>
-<p>5- Scratch (Game/Application Programming)</p>
-<p>6- Procreate (Digital Art)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Google Sites (Website Design)</p>
+</li>
+<li>
+<p>Canva (Presentation)</p>
+</li>
+<li>
+<p>AI-EP-POF: Artificial Intelligence (AI) Roadmap (AI mBot)</p>
+</li>
+<li>
+<p>UBTECH-SOROBOT: Social Robotics with UBTECH (AI Social Robotics)</p>
+</li>
+<li>
+<p>Scratch (Game/Application Programming)</p>
+</li>
+<li>
+<p>Procreate (Digital Art)</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide2.jpg">
+</div>
 <p><strong>Workshops include:</strong>
 </p>
-<p>1- Drone Flight Adventure using Chromebooks</p>
-<p>2- Minecraft and AI</p>
-<p>3- Public Speaking</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Drone Flight Adventure using Chromebooks</p>
+</li>
+<li>
+<p>Minecraft and AI</p>
+</li>
+<li>
+<p>Public Speaking</p>
+</li>
+</ol>
 <p>With the learning of Google Sites, students will be capable of building
 their very own electronic portfolio. This e-portfolio is used to store
 their projects, photos and other school-related work over the years. It
 will also serve as a tool for DSA application whereby the pupils can use
 their e-portfolio to display their work.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide7.jpg">
+</div>
 <h4>Achievements</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -134,6 +173,9 @@ their e-portfolio to display their work.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm Technology/Slide1.jpg">
+</div>
 <h4>Additional info</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -164,7 +206,7 @@ of Office Suite' with the school support staff.</p>
 for all our members.</p>
 </li>
 </ul>
-<h3>Schedule</h3>
+<h4>Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Modules are taught during CCA lessons and are planned on a semesterly
@@ -179,7 +221,7 @@ or projects due.</p>
 or training takes place.</p>
 </li>
 </ul>
-<h3>Teachers-in-Charge</h3>
+<h4>Teachers-in-Charge</h4>
 <p>Mdm Siti Zakiah Bte Ahmad - <a href="mailto:siti_zakiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zakiah_ahmad@moe.edu.sg</a>
 </p>
 <p>Mdm Christy Chan - <a href="mailto:chan_siew_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siew_li@moe.edu.sg</a>
