@@ -29,52 +29,7 @@ for the development of every Admiral.</p>
 <p>Yours faithfully,</p>
 <p>Mr. Chen Zhongyi</p>
 <p>Principal</p>
-<p></p>
 <hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="132" alt="" src="/images/preparing%20for%20primary%201.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="132" alt="" src="/images/ADP.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="132" alt="" src="/images/first day of school.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="132" alt="" src="/images/FAQ.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="134" alt="" src="/images/administration package.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="74" width="132" alt="" src="/images/partnership.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2x0qTnb_WzQ"></iframe>
 </div>
