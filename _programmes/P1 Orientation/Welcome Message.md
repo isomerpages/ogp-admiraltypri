@@ -1,6 +1,6 @@
 ---
-title: P1 Orientation
-permalink: /programmes/p1-orientation/p1-orientation/
+title: Welcome Message
+permalink: /programmes/p1-orientation/welcome-message/
 description: ""
 third_nav_title: P1 Orientation
 variant: tiptap

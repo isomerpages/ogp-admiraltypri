@@ -53,8 +53,34 @@ accordingly.</p>
 <p>Ms Zarita: <a href="mailto:zarita_ahmad_zakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarita_ahmad_zakri@moe.edu.sg</a>
 </p>
 <p></p>
-<h4>Awards</h4>
-<p><strong>2023 Performances</strong>
+<h4>Awards &amp; Performances</h4>
+<p><strong><u>2024 Award</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Distinction - Singapore Youth Festival Arts Presentation</p>
+</li>
+</ul>
+<p><strong>Performances</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lunar New Year Celebration@ADPS</p>
+</li>
+<li>
+<p>National Day Celebration@Admiralty MRT station for Adopt-a-Station programme</p>
+</li>
+<li>
+<p>National Day Celebration@ADPS</p>
+</li>
+<li>
+<p>Teachers’ Day Celebration@ADPS</p>
+</li>
+<li>
+<p>Performance cum Sharing@Little Skool-House</p>
+</li>
+</ul>
+<p><strong><u>2023 Performances</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,7 +100,7 @@ accordingly.</p>
 International Bazaar 23</p>
 </li>
 </ul>
-<p><strong>2022</strong>
+<p><strong><u>2022</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -84,7 +110,7 @@ International Bazaar 23</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </li>
 </ul>
-<p><strong>2019</strong>
+<p><strong><u>2019</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -103,43 +129,13 @@ International Bazaar 23</p>
 <p>Performance@NUSS Singathon</p>
 </li>
 </ul>
-<p><strong>2016</strong>
+<p><strong><u>2016</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival Arts Presentation – Certificate of Accomplishment</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
