@@ -5,7 +5,7 @@ description: ""
 third_nav_title: P1 Orientation
 variant: tiptap
 ---
-<h3>School Hours</h3>
+<h4>School Hours</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -74,7 +74,25 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>HSB</h4>
+<h4>Drop Off and Dismissal</h4>
+<p><strong>Drop Off</strong>
+</p>
+<p>Parents/Guardians who walk their child/ward to school can accompany them
+up to the Gate A (beside security post) and Gate C respectively.</p>
+<p>All drop-off vehicles are only allowed into the school compound until
+7.30 a.m.</p>
+<p>No right turn is allowed from 7.00 a.m. to 7.30 a.m. at the Vehicle Exit
+Gate to avoid traffic congestion along Woodlands Circle.</p>
+<p>Children who arrive after 10.00 a.m. on Mondays and 7.30 a.m. from Tuesdays
+to Fridays are considered late and their punctuality will be reflected
+in their End-of-Year Report.</p>
+<p><strong>Dismissal&nbsp;</strong>
+</p>
+<p>Dismissal will be at 2.40 p.m. on Mondays and 2.10 p.m. from Tuesdays
+to Fridays at Gate C.</p>
+<p>Please indicate on the clip nametag the mode of dismissal for your child&nbsp;(Gate
+C, School Bus or Name of Student Care).&nbsp;</p>
+<h4>Healthy Snack Break (HSB)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are encouraged to bring their HSB from home as they will not
