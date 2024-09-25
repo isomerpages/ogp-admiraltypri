@@ -313,5 +313,5 @@ visit MOE website and link “MOE website” to <a href="https://www.moe.gov.sg/
 </tbody>
 </table>
 <h4>Orientation Slides</h4>
-<p>Slides will be uploaded after the orientation day.</p>
+<p>Slides will be uploaded after the orientation day</p>
 <p></p>
