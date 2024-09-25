@@ -5,7 +5,6 @@ description: ""
 third_nav_title: P1 Orientation
 variant: tiptap
 ---
-<h3>2 Jan 2025</h3>
 <h4>What to Bring</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,8 +44,11 @@ are not allowed to accompany your child to the classroom. Please follow
 the First Day of School Programme for parents.</p>
 </li>
 <li>
-<p><strong>Your child/ward will be dismissed at 12.00 p.m. on the first day of school via Gate C only.</strong>
+<p><strong>Your child/ward will be dismissed at 11.30 a.m. on the first day of school via Gate C only.</strong>
 </p>
+</li>
+<li>
+<p>Please indicate on the nametag the mode of dismissal for your child (<em>Gate C, School Bus or Name of Student Care</em>).</p>
 </li>
 </ul>
 <h4>First Day of School Programme for Parents</h4>
