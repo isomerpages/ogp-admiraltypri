@@ -44,8 +44,8 @@ interest</p>
 </li>
 </ul>
 <p>Our VA Admirals have also worked hard to create Art works for the National
-Day Exhibition titled ‘My Singapore’. Please click on the image below to
-watch the behind-the-scenes video!</p>
+Day Exhibition titled ‘My Singapore’. Please <a href="https://www.youtube.com/watch?v=KsRY2sBO7nQ" rel="noopener nofollow" target="_blank">click here</a> to watch
+the behind-the-scenes video!</p>
 <p></p>
 <h4>Schedule</h4>
 <p>During Timetabled CCA Sessions:

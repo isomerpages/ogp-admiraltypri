@@ -83,13 +83,12 @@ up to the Gate A (beside security post) and Gate C respectively.</p>
 7.30 a.m.</p>
 <p>No right turn is allowed from 7.00 a.m. to 7.30 a.m. at the Vehicle Exit
 Gate to avoid traffic congestion along Woodlands Circle.</p>
-<p>Children who arrive after 10.00 a.m. on Mondays and 7.30 a.m. from Tuesdays
+<p>Children who arrive after 9.30 a.m. on Mondays and 7.30 a.m. from Tuesdays
 to Fridays are considered late and their punctuality will be reflected
 in their End-of-Year Report.</p>
 <p><strong>Dismissal&nbsp;</strong>
 </p>
-<p>Dismissal will be at 2.40 p.m. on Mondays and 2.10 p.m. from Tuesdays
-to Fridays at Gate C.</p>
+<p>Dismissal will be at 2.10 p.m. from Monday to Fridays at Gate C.</p>
 <p>Please indicate on the clip nametag the mode of dismissal for your child&nbsp;(Gate
 C, School Bus or Name of Student Care).&nbsp;</p>
 <h4>Healthy Snack Break (HSB)</h4>
