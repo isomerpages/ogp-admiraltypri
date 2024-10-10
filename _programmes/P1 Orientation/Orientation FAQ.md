@@ -26,7 +26,7 @@ variant: markdown
 **<br>We strongly encourage the children to put on the clip-on name tag for the first month of school for ease of identification and access to important information. Please ensure that you fill in all the information accurately.<br>**
 
 *   Will we be given the timetable for the children?
-**<br>The Form Teachers will be issuing the timetable to the children by 8th Jan. <br>**
+**<br>The Form Teachers will be issuing the timetable to the children by 8th Jan 2025. <br>**
 
 
 #### Admin Related
