@@ -35,51 +35,29 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Application Procedure</h4>
+<p>Application Procedure</p>
+<p><strong>Application Procedure</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+hardcopy from the School’s General Office.
+<br>•&nbsp;<a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
-</ul>
-</li>
 <li>
-<p>Attached the following documents together with the application form:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
-</li>
-<li>
-<p>List of proposed menu and pricing for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+<p>Attached the following documents together with the application form:
+<br>• Photocopy of the NRIC (front and back)
+<br>• List of proposed menu and pricing for all items
+<br>• Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
 </li>
-</ul>
-</li>
 <li>
-<p>Submit the completed application form and documents by closing date by <strong>12pm</strong> via
-email OR to the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: 11, Woodlands Circle, Singapore 738907</p>
-</li>
-<li>
-<p>Contact No: 6362 0598</p>
-</li>
-<li>
-<p>Email : <a href="mailto:admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Contact Person: Mdm Maziah Binte Zainudin (Admin Manager)</p>
-</li>
-</ul>
+<p>Submit the completed application form and documents by closing date&nbsp;<strong>by 12pm&nbsp;</strong>via
+email OR to the School’s General Office.
+<br>• Address: 11, Woodlands Circle, Singapore 738907
+<br>• Contact No: 6362 0598 / Email :&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a>
+<br>• Contact Person: Mdm Maziah Binte Zainudin (Admin Manager)</p>
 </li>
 </ol>
 <p><strong>Interest applicants must meet the following criteria:</strong>
@@ -87,16 +65,14 @@ email OR to the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
-</li>
-<li>
-<p>Able to provide good service and quality food with prices determined in
+and stall assistant.
+<br>Able to provide good service and quality food with prices determined in
 consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines (see link).</p>
+Programme (HMSP)” guidelines (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">see link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -120,8 +96,4 @@ Food Hygiene Certificate.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
-</p>
-<p></p>
-<p></p>
 <p></p>
