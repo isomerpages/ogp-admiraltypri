@@ -313,5 +313,17 @@ visit MOE website and link “MOE website” to <a href="https://www.moe.gov.sg/
 </tbody>
 </table>
 <h4>Orientation Slides</h4>
-<p>Slides will be uploaded after the orientation day</p>
+<p><a href="/files/GO PDF/1__Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
+<p><a href="/files/GO PDF/2__Year_Head_Presentation.pdf" rel="noopener nofollow" target="_blank">Year Head Presentation</a>
+</p>
+<p><a href="/files/GO PDF/3__Parent_Support_Group_PSG.pdf" rel="noopener nofollow" target="_blank">Parent Support Group_PSG</a>
+</p>
+<p><a href="/files/GO PDF/4__POSB_Smart_Buddy.pdf" rel="noopener nofollow" target="_blank">POSB Smart Buddy</a>
+</p>
+<p><a href="/files/GO PDF/5__Additional_Resources_How_can_I_support_my_child.pdf" rel="noopener nofollow" target="_blank">Additional Resources_How can I support my child</a>
+</p>
+<p><a href="/files/P1_Orientation_Admin_Matters.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Admin Matters</a>
+</p>
+<p></p>
 <p></p>
