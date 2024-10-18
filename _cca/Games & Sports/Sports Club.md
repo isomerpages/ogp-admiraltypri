@@ -49,7 +49,7 @@ badminton training sessions.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45 pm – 5.15 pm</p>
+<p>2.30 pm – 4.45 pm</p>
 </td>
 </tr>
 <tr>
@@ -129,16 +129,29 @@ badminton training sessions.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide10_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide9_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide8_1.jpg">
 </div>
 <h4>Achievement</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide12_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide13_1.jpg">
 </div>
 <h4>Further information</h4>
 <p><strong>Q1: What kind of sports can my child learn during CCA?</strong>
