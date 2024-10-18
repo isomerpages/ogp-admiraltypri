@@ -457,6 +457,18 @@ to play various digital Math games or hands-on manipulatives such as number
 cards, tangrams, and board games. They can also win tokens by participating
 in the booth challenge or online quizzes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Maths/5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Maths/4.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Maths/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Maths/3.png">
+</div>
 <p><a href="https://drive.google.com/file/d/1d3dlBQEU136tmgON6zXp8z51LtpbmSql/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here for the video</a>
 </p>
