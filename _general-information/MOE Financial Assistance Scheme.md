@@ -4,14 +4,18 @@ permalink: /general-information/moe-fas/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MOE FAS Info Sheet (In English)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document4a_MOE_FAS_pamphet_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
+<p><a href="/files/GO PDF/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 </p>
 </td>
 </tr>
@@ -20,7 +24,7 @@ variant: tiptap
 <p>MOE FAS Info Sheet (In Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document4c_MOE_FAS_pamphet_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
+<p><a href="/files/GO PDF/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 </p>
 </td>
 </tr>
@@ -29,7 +33,7 @@ variant: tiptap
 <p>MOE FAS Info Sheet (In Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document4b_MOE_FAS_pamphet_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
+<p><a href="/files/GO PDF/Document_4b_MOE_FAS_pamphet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 </p>
 </td>
 </tr>
@@ -38,7 +42,7 @@ variant: tiptap
 <p>MOE FAS Info Sheet (In Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document4d_MOE_FAS_pamphet_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
+<p><a href="/files/GO PDF/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
 </p>
 </td>
 </tr>
@@ -47,7 +51,7 @@ variant: tiptap
 <p>Electronic Application Form (eFAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 </td>
 </tr>
