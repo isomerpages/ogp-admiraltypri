@@ -146,7 +146,8 @@ visit MOE website and link “MOE website” to <a href="https://www.moe.gov.sg/
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated in November 2024</p>
+<p><a href="/files/Admiralty_Primary_School___BookList_for_AY2025___caa_071124___FINAL___P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a>
+</p>
 </td>
 </tr>
 <tr>
