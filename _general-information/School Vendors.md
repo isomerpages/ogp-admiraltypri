@@ -17,20 +17,23 @@ variant: tiptap
 Please contact our bookshop vendor, if you have problems accessing the
 site.</p>
 <h4>School Bus</h4>
-<p><strong><u>CHANG CHEN PTE LTD</u></strong> 
-<br>130 Choa Chu Kang Avenue 1
-<br>#06-36, Singapore 680130.
-<br>Tel: 67604835</p>
-<p><strong>School Bus Operator and Bus Fare</strong>
+<p><strong>RushOwl Singapore Pte Ltd</strong>
+</p>
+<p>Contact Person: <strong>Ms. Zoe</strong>
+</p>
+<p>Contact No: 6871 8817</p>
+<p>Email: <a href="mailto:school@rushowl.sg" rel="noopener noreferrer nofollow" target="_blank">school@rushowl.sg</a>
+</p>
+<p>Registration Form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRplxEBZG_jP7Lk7tibjZk3FrxR-bZGnIqVbH9scecYp35Gw/viewform" rel="noopener nofollow" target="_blank">RushOwl School Bus Transportation Registration Form</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bus fare" src="/images/school%20bus%20fare.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Departments/GO/Busform.png">
 </div>
-<p><strong>Request for School Bus Services</strong> 
-<br>To request for school bus services in 2024, download and fill in the form
-below. Please submit the request form to the school bus operator directly.
-<br><strong><u>Note: There will be a new vendor for 2025, details will be released soon.</u></strong>
-</p>
+<p>Bus Fare Period: 1 Jan 2025 to 31 Dec 2026</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
+</div>
 <h4>School Uniform</h4>
 <p><strong><u>CHOP KONG CHONG</u></strong>
 </p>
