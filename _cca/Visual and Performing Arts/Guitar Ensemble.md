@@ -29,7 +29,7 @@ allowing the members to showcase their learning at various platforms.</p>
 <h5>Practices:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>7:40 a.m. to 9:40 a.m. on CCA Mondays</p>
+<p>7:40 a.m. to 9:10 a.m. on CCA Mondays</p>
 </li>
 <li>
 <p>2:30 p.m. to 4:30 p.m. on selected Wednesdays (parents will receive notifications
@@ -40,10 +40,6 @@ of the specific dates at beginning of each term)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Soh Chiew Bee - <a href="mailto: soh_chiew_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chiew_bee@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Mdm Wong Ching Ching - <a href="mailto: wong_ching_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_ching@moe.edu.sg</a>
 </p>
 </li>
 <li>
