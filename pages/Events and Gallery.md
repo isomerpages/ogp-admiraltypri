@@ -5,7 +5,7 @@ variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
 <h4>2024 - Celebration of Learning</h4>
-<p></p>
+<p>Click the links below to view the COL photos.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -24,21 +24,21 @@ description: ADPS Events and Photo Gallery
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1yjmhLBLZbngOSxSPMBuKbAlX7tJ5tOeS?usp=sharing" rel="noopener nofollow" target="_blank">P2</a>
+<p><strong><a href="https://drive.google.com/drive/folders/1yjmhLBLZbngOSxSPMBuKbAlX7tJ5tOeS?usp=sharing" rel="noopener nofollow" target="_blank">P2</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1Xq7PzlCayMvvH7mj8-maE9kOBus1qv9z?usp=sharing" rel="noopener nofollow" target="_blank">P5</a>
+<p><strong><a href="https://drive.google.com/drive/folders/1Xq7PzlCayMvvH7mj8-maE9kOBus1qv9z?usp=sharing" rel="noopener nofollow" target="_blank">P5</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1U_6bRG3H4qyz5bA88lGafdPlbZc8D487?usp=sharing" rel="noopener nofollow" target="_blank">P3</a>
+<p><strong><a href="https://drive.google.com/drive/folders/1U_6bRG3H4qyz5bA88lGafdPlbZc8D487?usp=sharing" rel="noopener nofollow" target="_blank">P3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/13IHS1vaoVawXM3iqt5k2Q1KtLbWBxZ_S?usp=sharing" rel="noopener nofollow" target="_blank">P6</a>
+<p><strong><a href="https://drive.google.com/drive/folders/13IHS1vaoVawXM3iqt5k2Q1KtLbWBxZ_S?usp=sharing" rel="noopener nofollow" target="_blank">P6</a></strong>
 </p>
 </td>
 </tr>
