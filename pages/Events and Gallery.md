@@ -5,7 +5,11 @@ variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
 <h4>2024 - Celebration of Learning</h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Click the links below to view the COL photos.</p>
+</li>
+</ol>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,7 +48,17 @@ description: ADPS Events and Photo Gallery
 </tr>
 </tbody>
 </table>
-<p>P6 Graduation Photos - Click Here</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/drive/folders/1liNYM4IoonmEYQNlWuE4tjTcPjmKNIz_?usp=sharing" rel="noopener nofollow" target="_blank">P6 - Graduation</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/drive/folders/1KsEJmt6veQrduwg4DqbqFXr00qabyePz?usp=sharing" rel="noopener nofollow" target="_blank">Photo Booth Photos</a>
+</p>
+<p></p>
+</li>
+</ol>
 <h4>e-Open House</h4>
 <p><a href="/files/GO%20PDF/Pre_school_Engagement___e_Open_House_Session_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pre-school Engagement &amp; e-Open House Session 2024 - Slides</a>
 <br><a href="https://youtu.be/O_WkT6XSy6w?si=YExN2oUyrCStL7ZX" rel="noopener noreferrer nofollow" target="_blank">Video Link - Click Here</a>
