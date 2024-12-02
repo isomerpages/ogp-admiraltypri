@@ -36,7 +36,7 @@ allowing the members to showcase their learning at various platforms.</p>
 of the specific dates at beginning of each term)</p>
 </li>
 </ul>
-<h5>Teachers-in-Charge</h5>
+<h5>Teachers-in-charge</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Soh Chiew Bee - <a href="mailto: soh_chiew_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chiew_bee@moe.edu.sg</a>
@@ -48,6 +48,10 @@ of the specific dates at beginning of each term)</p>
 </li>
 <li>
 <p>Mdm Mah Yeok Ying - <a href="mailto: mah_yeok_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_yeok_ying@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Mdm Sharon Ho Sok Ling - <a href="mailto:ho_sok_ling_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_sok_ling_sharon@moe.edu.sg</a>
 </p>
 </li>
 </ul>
