@@ -44,6 +44,7 @@ description: ADPS Events and Photo Gallery
 </tr>
 </tbody>
 </table>
+<p>P6 - Graduation</p>
 <h4>e-Open House</h4>
 <p><a href="/files/GO%20PDF/Pre_school_Engagement___e_Open_House_Session_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pre-school Engagement &amp; e-Open House Session 2024 - Slides</a>
 <br><a href="https://youtu.be/O_WkT6XSy6w?si=YExN2oUyrCStL7ZX" rel="noopener noreferrer nofollow" target="_blank">Video Link - Click here</a>
