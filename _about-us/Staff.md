@@ -831,11 +831,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Cher Hiang Christine</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Zakiah Bte Ahmad</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -858,11 +856,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liew Hun Hui</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Sok Ling Sharon</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -885,11 +881,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seow Qiying Alanna</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurazreen Binte Samsudin</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -912,11 +906,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mdm Nuruljannah Binte Mukasim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marinah Mukhtar Toh Abdullah</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -924,7 +916,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:nuruljannah_mukasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a>
+<p><a href="mailto:nuruljannah_mukasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -939,14 +931,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Nalayani Nair d/o Mukunan Nair</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sabiah Bte A Kunjahamad</p>
-<p></p>
 <p>Mr Tan Kiat, Calvin</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -960,7 +948,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sabiah_a_kunjahamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabiah_a_kunjahamad@moe.edu.sg</a>
 </p>
-<p></p>
 <p><a href="mailto:tan_kiat_calvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kiat_calvin@moe.edu.sg</a>
 </p>
 </td>
@@ -993,11 +980,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Charlotte Sng Yi May</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhu Xiaowei</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1020,11 +1005,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Jian Hao</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Desiree Ang Ee Chin</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1047,11 +1030,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Xu Shihui</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Normala Bte Mohamed Jais</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1078,9 +1059,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Leong Yet Wah</p>
-<p></p>
 <p>Mdm Nadianah Bte Iskandar</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1094,10 +1073,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_yet_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yet_wah@moe.edu.sg</a>
 </p>
-<p></p>
 <p><a href="mailto:nadianah_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadianah_iskandar@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1107,11 +1084,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Bimaljit Kaur d/o Sohan Singh</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hamimah Bte Ansor</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1134,11 +1109,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Loh En Qi Angie @ Mrs Angie Ho</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahril Bin Mohamed Jalani</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1181,11 +1154,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Veronica Yeo Tin Kim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chin Yoke Lan</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1208,12 +1179,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurhasliza Bte Hashim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Oh Kok Choon</p>
 <p>Mr Lim Yew Beng</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1223,7 +1192,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhasliza_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhasliza_hashim@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:oh_kok_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_kok_choon@moe.edu.sg</a>
@@ -1237,11 +1205,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Ching Ching</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Siew Li (Christy)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1264,11 +1230,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Hui</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rashidah Ismail Neville</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1291,11 +1255,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Shin Huat</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Ying Ying</p>
-<p></p>
 </td>
 </tr>
 <tr>
