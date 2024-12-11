@@ -327,10 +327,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:soh_chiew_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chiew_bee@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:padmanathan_jayasri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">padmanathan_jayasri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -351,10 +353,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sharon_neo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_neo@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nursyafawati_salam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nursyafawati_salam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -374,6 +378,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
