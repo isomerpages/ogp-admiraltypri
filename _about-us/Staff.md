@@ -901,11 +901,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>4 ET</strong>
+<p><strong>4 ET</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Nuruljannah Binte Mukasim</p>
+<p>Mdm Nuruljannah Binte Mukasim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marinah Mukhtar Toh Abdullah</p>
@@ -1200,7 +1200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 ET</strong>
+<p><strong>6 ED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
