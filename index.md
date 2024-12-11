@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /usefullinks/
         - title: Events/Gallery
-          description: E-Open House
+          description: 2024 - Celebration of Learning
           url: /eventsgallery/
       variant: center
 ---
