@@ -717,7 +717,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_eng_gay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_eng_gay@moe.edu.sg</a> 
+<p><a href="mailto:ho_eng_gay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_eng_gay@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -801,10 +801,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:rageswari_virayah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rageswari_virayah@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:amanda_frances_sharmila_di@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_frances_sharmila_di@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -825,10 +828,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:masnie_mohamed_jalani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masnie_mohamed_jalani@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:low_mui_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_mui_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -871,10 +876,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_cher_hiang_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_cher_hiang_christine@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_zakiah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zakiah_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -896,10 +903,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liew_hun_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_hun_hui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_sok_ling_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_sok_ling_sharon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
