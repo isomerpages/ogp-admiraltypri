@@ -1181,7 +1181,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shahril_mohamed_jalani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahril_mohamed_jalani@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1224,10 +1225,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:veronica_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_yeo@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_lan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1250,10 +1253,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nurhasliza_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhasliza_hashim@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_kok_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_kok_choon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1275,10 +1281,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_ching_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_ching@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chan_siew_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siew_li@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1300,10 +1308,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_shi_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_hui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rashidah_ismail_neville@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_ismail_neville@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1325,10 +1335,12 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_shin_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shin_huat@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_ying_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ying_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1516,5 +1528,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>For any enquires please email us at <a href="mailto:admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sgkwek_soon_hee_vincent@moe.edu.sg</a>
+<p>For any enquires please email us at <a href="mailto:admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a>
 </p>
