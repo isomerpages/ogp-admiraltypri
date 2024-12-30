@@ -57,7 +57,7 @@ td {
 		<td> Malay Noodle (Halal) </td>
 	</tr></tbody></table>
 
-[For menu &amp; price list please click here](/files/GO%20PDF/Canteen_Price_List_20240426.pdf)
+[For menu price list please click here](/files/GO%20PDF/2025Approved_Canteen_Price_List_caa171224_ADP_WEBSITE.pdf)
 
 #### Canteen Rules
 
