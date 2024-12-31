@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Principal’s Message
 ---
 <h4><strong>Principal’s Message for 2025</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_2_v3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_2_v4.jpg">
 </div>
 <p>A warm welcome to our Primary One Admirals, and here’s wishing everyone
 a very blessed and fulfilling 2025 in advance! We are only a day away from
