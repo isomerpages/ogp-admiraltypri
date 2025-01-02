@@ -19,8 +19,7 @@ site.</p>
 <h4>School Bus</h4>
 <p><strong>RushOwl Singapore Pte Ltd</strong>
 </p>
-<p>Contact Person: <strong>Ms. Zoe</strong>
-</p>
+<p>Contact Person: Ms. Zoe</p>
 <p>Contact No: 6871 8817</p>
 <p>Email: <a href="mailto:school@rushowl.sg" rel="noopener noreferrer nofollow" target="_blank">school@rushowl.sg</a>
 </p>
