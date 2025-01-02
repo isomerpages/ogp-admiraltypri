@@ -1054,8 +1054,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Alfiah Binte Mustafa</p>
-<p></p>
+<p>Mrs Poh Siti Alfiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Leong Yet Wah</p>
@@ -1108,7 +1107,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh En Qi Angie @ Mrs Angie Ho</p>
+<p>Mrs Angie Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahril Bin Mohamed Jalani</p>
@@ -1119,7 +1118,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_en_qi_angie@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_en_qi_angie@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahril_mohamed_jalani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahril_mohamed_jalani@schools.gov.sg</a>
