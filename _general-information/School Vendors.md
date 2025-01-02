@@ -113,8 +113,7 @@ the size.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>Walk-in Purchase at Retail Outlet</strong>
+<p><strong>Walk-in Purchase at Retail Outlet</strong>
 </p>
 <p>JEEP SING FASHION</p>
 <p>4012 Ang Mo Kio,</p>
