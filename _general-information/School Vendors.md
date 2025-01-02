@@ -30,7 +30,6 @@ site.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Departments/GO/Busform.png">
 </div>
 <p>Bus Fare Period: 1 Jan 2025 to 31 Dec 2026</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
 </div>
@@ -129,7 +128,7 @@ to 2 pm)</p>
 <p> * Sat: 10am to 2pm</p>
 <p><strong>Closed </strong>on Sun and PH</p>
 <p><strong>Mode of Payment: </strong>CASH, NETS, Paynow, DBS Paylah!</p>
-<p><strong>Online order for school uniform:</strong>  <a href="https://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.jeepsinguniform.com.sg</a> 
+<p><strong>Online order for school uniform:</strong>  <a href="https://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.jeepsinguniform.com.sg</a>
 </p>
 <p>Sales begins: 4 Jan 2024</p>
 <p><strong>For more information, please <a href="/files/GO PDF/Monthly_sale_schedule__Admiralty.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>
