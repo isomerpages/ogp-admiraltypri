@@ -35,25 +35,104 @@ site.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
 </div>
 <h4>School Uniform</h4>
-<p><strong><u>CHOP KONG CHONG</u></strong>
+<p><strong>JEEP SING FASHION</strong>
 </p>
 <p>Operating dates in Admiralty Primary School</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/uniform_time.png">
-</div>
-<p><strong><u>CHOP KONG CHONG</u></strong> 
-<br>Sembawang Shopping Centre
-<br>604 Sembawang Road
-<br>#02-13, Singapore 758459.
-<br>Opening Hours:
-<br> * Mon to Sat: 11.30am to 8pm
-<br> * Sun: 11.30am to 6pm
-<br>Tel: 67531489
-<br>Enquiry for uniform Whatsapp : 90772932 (Chat and Message only)
-<br>Email: <a href="mailto:sales@euniforms.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@euniforms.com.sg</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please bring the best-fitted garment to compare and assist you to select
+the size.</p>
+</li>
+<li>
+<p>Mode of payment: Cash, Paynow, Paylah!</p>
+</li>
+</ul>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="5">
+<p>Time 11.30am to 2pm</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10-Jan-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24-Jan-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7-Feb-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21-Feb-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7-Mar-25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28-Mar-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11-Apr-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25-Apr-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9-May-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23-May-25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-Jul-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18-Jul-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-Aug-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15-Aug-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19-Sep-25</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>Walk-in Purchase at Retail Outlet</strong>
 </p>
-<p><strong>Online order for school uniform:</strong>  <a href="https://www.euniforms.com.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/</a> 
-<br>
+<p>JEEP SING FASHION</p>
+<p>4012 Ang Mo Kio,</p>
+<p>Ave 10 #01-09,</p>
+<p>Techplace 1, Singapore 569628</p>
+<p></p>
+<p><strong>Opening Hours:</strong>
+</p>
+<p> * Mon to Friday: 10am to 6pm (Lunch break and Sanitising of Store: 1pm
+to 2 pm)</p>
+<p> * Sat: 10am to 2pm</p>
+<p><strong>Closed </strong>on Sun and PH</p>
+<p><strong>Mode of Payment: </strong>CASH, NETS, Paynow, DBS Paylah!</p>
+<p><strong>Online order for school uniform:</strong>  <a href="https://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.jeepsinguniform.com.sg</a> 
+</p>
+<p>Sales begins: 4 Jan 2024</p>
+<p><strong>For more information, please <a href="/files/GO PDF/Monthly_sale_schedule__Admiralty.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>
 </p>
 <p></p>
 <h4>School Dental Service</h4>
