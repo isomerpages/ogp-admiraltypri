@@ -49,20 +49,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P2 &amp; Student Well-being</strong>
+<p><strong>Year Head (Covering) / P3 &amp; P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhanah Banu Bte Abdul Razar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P3 &amp; P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norfahizah A Majid</p>
+<p>Mdm Norfahizah Bte Abdul Majid</p>
 </td>
 </tr>
 <tr>
@@ -71,21 +62,30 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Chee Hwee Andrew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD / Discipline</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Yew Beng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Knowledge Management / ICT</strong>
+<p><strong>Year Head / P5 &amp; P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Tze Shing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head / P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Chee Hwee Andrew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / Knowledge Management &amp; ICT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,16 +107,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Ho Sok Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher / Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Shin Huat</p>
+<p>Mdm Sharon Ho Sok Ling</p>
 </td>
 </tr>
 <tr>
@@ -139,6 +130,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Lead Teacher / Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Shin Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>HOD / Science (Covering)</strong>
 </p>
 </td>
@@ -152,12 +152,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marinah Mukhtar Toh</p>
+<p>Ms Marinah Mukhtar Toh Abdullah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / PE / Aesthetics / CCA</strong>
+<p><strong>HOD / PE, Aesthetics &amp; CCA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +179,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Farhan</p>
+<p>Mr Muhammad Farhan Bin Mohd Huzaimy</p>
 </td>
 </tr>
 <tr>
@@ -188,16 +188,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Feng Xia</p>
+<p>Mrs Chew - Ang Feng Xia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Character &amp; Citizenship Education</strong>
+<p><strong>HOD / Character &amp; Citizenship Education (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alice Tan</p>
+<p>Mdm Farhanah Banu Bte Abdul Razar</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rashidah Neville</p>
+<p>Mrs Rashidah Ismail Neville</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Christine Lee</p>
+<p>Mdm Christine Lee Cher Hiang</p>
 </td>
 </tr>
 <tr>
