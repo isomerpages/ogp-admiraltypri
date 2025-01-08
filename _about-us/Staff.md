@@ -1302,7 +1302,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_beet_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_beet_kiat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1313,7 +1314,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:christina_chua_kah_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua_kah_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1324,7 +1326,8 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ruzita_mohd_zaki@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ruzita_mohd_zaki@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1335,7 +1338,8 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_siew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_siew_hwee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1346,7 +1350,8 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="ng_yan_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_yan_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1357,7 +1362,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Ng_Lay_Hong_Lida@moe.edu.sg" rel="noopener nofollow" target="_blank">Ng_Lay_Hong_Lida@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1368,7 +1374,8 @@ variant: tiptap
 <p>Mathematics, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Ruchika_Prakash_A@moe.edu.sg" rel="noopener nofollow" target="_blank">Ruchika_Prakash_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1379,7 +1386,8 @@ variant: tiptap
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Ratha_Pichai_Odayar@moe.edu.sg" rel="noopener nofollow" target="_blank">Ratha_Pichai_Odayar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1390,7 +1398,8 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="GOH_Mei_Hui_b@moe.edu.sg" rel="noopener nofollow" target="_blank">GOH_Mei_Hui_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1401,7 +1410,8 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_sabir_abdul_gulam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_sabir_abdul_gulam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1423,7 +1433,8 @@ variant: tiptap
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="Ng_Siew_Hoon_Joyce@moe.edu.sg" rel="noopener nofollow" target="_blank">Ng_Siew_Hoon_Joyce@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1434,7 +1445,8 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="mailto:ash.salleh27@gmail.com" rel="noopener noreferrer nofollow" target="_blank">ash.salleh27@gmail.com</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1456,7 +1468,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_geoh_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geoh_ngee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1467,7 +1480,8 @@ variant: tiptap
 <p>After School Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Ho_seng_yip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ho_seng_yip@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
