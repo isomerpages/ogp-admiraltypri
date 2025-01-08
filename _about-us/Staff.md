@@ -1275,7 +1275,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Other Subject Teachers</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1285,7 +1285,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Other Subject Teachers</p>
+<p>Teacher</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Subjects Teaching</p>
