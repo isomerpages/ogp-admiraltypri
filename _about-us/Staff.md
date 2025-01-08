@@ -1232,7 +1232,7 @@ variant: tiptap
 <p>Ms Lim Shi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Ismail Neville</p>
+<p>Mrs Rashidah Ismail Neville</p>
 </td>
 </tr>
 <tr>
@@ -1302,7 +1302,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Srinivasan Sharmila (Sharmi)</p>
+<p>Mdm Srinivasan Sharmila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
@@ -1418,7 +1418,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Safwanah Tupari</p>
+<p>Ms Nurul Safwanah Binte Tupari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
@@ -1442,7 +1442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Siswandy Abdul Rahim</p>
+<p>Mr Siswandy Bin Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
