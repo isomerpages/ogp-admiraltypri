@@ -2,6 +2,7 @@
 title: School Safety
 permalink: /general-information/school-safety/
 description: ""
+variant: markdown
 ---
 #### Mission
 
@@ -42,8 +43,6 @@ Do not push or shove.
 5. Do not cross the road directly in front of or directly behind the bus.<br>
 6. Where possible, cross all streets at intersections. Obey all traffic signals and signs.
 
-**Admiralty Primary School | Traffic Management**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fzwVg5gILCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Safety Tips for Physical Activities
 
