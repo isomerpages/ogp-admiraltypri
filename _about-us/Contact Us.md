@@ -20,7 +20,7 @@ variant: tiptap
 <p></p>
 <p><strong><u>Bus Services</u></strong>
 </p>
-<p>TIBS - 965, 964, 913</p>
+<p>913 and 964 (Bus stop before Admiralty Primary School)</p>
 <p></p>
 <p><strong><u>Nearest MRT Station</u></strong>
 </p>
