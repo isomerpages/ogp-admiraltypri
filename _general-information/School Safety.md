@@ -2,6 +2,7 @@
 title: School Safety
 permalink: /general-information/school-safety/
 description: ""
+variant: markdown
 ---
 #### Mission
 
@@ -23,7 +24,6 @@ To create a safe and secure environment for staff and pupils
 
 **Conduct on the Bus**
 
-
 1. Remain seated at all times. Standing is strictly prohibited.
 2. Normal conversation is permitted; however, loud noises may distract the driver.
 3. Do not throw objects inside or outside of the bus.
@@ -33,7 +33,6 @@ To create a safe and secure environment for staff and pupils
 
 **Getting off the Bus**
 
-
 1. Stay seated until the bus has completely stopped.
 Do not push or shove.
 2. Use the handrail and steps.<br>
@@ -42,8 +41,10 @@ Do not push or shove.
 5. Do not cross the road directly in front of or directly behind the bus.<br>
 6. Where possible, cross all streets at intersections. Obey all traffic signals and signs.
 
+
 **Admiralty Primary School | Traffic Management**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fzwVg5gILCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x1hwryQqDjY?si=xgBWItA7rtidQztC" height="315" width="560"></iframe>
 
 #### Safety Tips for Physical Activities
 
