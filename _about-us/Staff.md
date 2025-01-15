@@ -1486,6 +1486,63 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Counsellor and SEN Officer</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mohzina Binte Mohamed Zakeria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohzina_mohamad_zakeria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohzina_mohamad_zakeria@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazeema Binte Bayruse Khan Noon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nazeema_khan_noon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazeema_khan_noon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Cai Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_cai_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_cai_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Executive and Administrative Staff</h4>
 <p><strong>Info-Comm Technology Team</strong>
 </p>
