@@ -90,15 +90,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_P3_Maths_Lesson_Focus.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Maths</a> 
+<p><a href="/files/Level Matters/2025_P3_Maths_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P3 Math</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_P4_Maths_lesson_focus.pdf" rel="noopener nofollow" target="_blank">P4 Maths</a>
+<p><a href="/files/2024_P4_Maths_lesson_focus.pdf" rel="noopener nofollow" target="_blank">P4 Math</a>
 </p>
 </td>
 </tr>
@@ -242,7 +242,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2023%20P6%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Std English</a> 
-<br>
+<br><a href="/files/2023%20P6%20FEL%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FEL English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,13 +251,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P5_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 Math</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P6%20FEL%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FEL English</a> 
+<p><a href="/files/Level Matters/P6_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
 <br>
 </p>
 </td>
