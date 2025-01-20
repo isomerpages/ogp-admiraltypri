@@ -46,6 +46,13 @@ National Environmental Agency (NEA), Waterways Watch Society (WWS) and
 North West Community Development Council (NWCDC) to garner their expertise
 and support the activities run by these external partners.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Science/Picture1.png">
+</div>
 <p>Regular reminders and campaigns were conducted to encourage students to
 practice green habits in school and at home.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Science/Picture2.png">
+</div>
 <p></p>
