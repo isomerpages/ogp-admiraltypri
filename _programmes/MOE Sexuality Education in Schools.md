@@ -4,9 +4,7 @@ permalink: /programmes/moe-sexuality-education-in-schools/
 description: ""
 variant: tiptap
 ---
-<ol>
-<li>
-<p>Sexuality Education (SEd) in schools aims to enable students to understand
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -16,12 +14,9 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p></p>
-</li>
+<ol>
 <li>
-<p>The Goals of Sexuality Education are:</p>
-</li>
-</ol>
+<p>2. The Goals of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -29,11 +24,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>The Key Messages of Sexuality Education are:</p>
-</li>
-</ol>
+<p>3. The Key Messages of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -42,6 +33,9 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
+</li>
+</ol>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
@@ -99,7 +93,13 @@ will be taught in 2024:</p>
 <p><strong>Primary 5</strong>
 </p>
 </blockquote>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -185,7 +185,13 @@ and how to seek help for themselves and their friends.</p>
 <p><strong>Primary 6</strong>
 </p>
 </blockquote>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
