@@ -78,11 +78,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P3%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Std English</a> 
+<p><a href="/files/2023%20P3%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Std English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Std English</a> 
+<p><a href="/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Std English</a>
 </p>
 </td>
 </tr>
@@ -117,11 +117,11 @@ variant: tiptap
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Chinese</a> 
+<p><a href="/files/P3%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Chinese</a> 
+<p><a href="/files/P4%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Chinese</a>
 </p>
 </td>
 </tr>
@@ -130,11 +130,11 @@ variant: tiptap
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay</a> 
+<p><a href="/files/P3%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay</a> 
+<p><a href="/files/P4%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay</a>
 </p>
 </td>
 </tr>
@@ -143,24 +143,11 @@ variant: tiptap
 <p>Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 1</a> 
+<p><a href="/files/P3%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 1</a> 
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P3%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 2</a> 
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P4%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 2</a> 
+<p><a href="/files/P4%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 1</a>
 </p>
 </td>
 </tr>
@@ -169,11 +156,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 3</a> 
+<p><a href="/files/P3%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 3</a> 
+<p><a href="/files/P4%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 2</a>
 </p>
 </td>
 </tr>
@@ -182,11 +169,24 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P3%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 4</a> 
+<p><a href="/files/P3%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P4%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 4</a> 
+<p><a href="/files/P4%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P3%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P4%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 4</a>
 </p>
 </td>
 </tr>
