@@ -79,12 +79,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2023%20P3%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Std English</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Std English</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -93,12 +91,11 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/2025_P3_Maths_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P3 Math</a>
-<br>
+<p><a href="/files/Level Matters/P3_Maths_Lesson_Focus_updated_2025.pdf" rel="noopener nofollow" target="_blank">P3 Maths</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_P4_Maths_lesson_focus.pdf" rel="noopener nofollow" target="_blank">P4 Math</a>
+<p><a href="/files/Level Matters/P4_Maths_lesson_focus_updated_2025.pdf" rel="noopener nofollow" target="_blank">P4 Maths</a>
 </p>
 </td>
 </tr>
@@ -112,7 +109,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Level Matters/P4_Science.pdf" rel="noopener nofollow" target="_blank">P4 Science</a>
-<br>
 </p>
 </td>
 </tr>
@@ -122,12 +118,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Chinese</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20CL.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Chinese</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -137,12 +131,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Malay</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20ML.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Malay</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -152,12 +144,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 1</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20TL%20T1.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 1</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -167,12 +157,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 2</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20TL%20T2.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 2</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -182,12 +170,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 3</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20TL%20T3.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 3</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -197,12 +183,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P3%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Tamil Term 4</a> 
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/P4%20TL%20T4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Tamil Term 4</a> 
-<br>
 </p>
 </td>
 </tr>
