@@ -4,7 +4,7 @@ permalink: /programmes/moe-sexuality-education-in-schools/
 description: ""
 variant: tiptap
 ---
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
@@ -20,34 +20,50 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The Goals of Sexuality Education are:</p>
-</li>
-</ol>
-<p>(a) Support students in managing their physiological, social and emotional
+<ul data-tight="true" class="tight">
+<li>
+<p>Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<ol start="3" data-tight="true" class="tight">
+</li>
+<li>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+</li>
+<li>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
+</li>
+</ul>
+<p></p>
+</li>
 <li>
 <p>The Key Messages of Sexuality Education are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Love and respect yourself as you love and respect others;</p>
 </li>
-</ol>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
+<li>
+<p>Build positive relationships based on love and respect (which are the
+foundation for strong families);</p>
+</li>
+<li>
+<p>Make responsible decisions for yourself, your family and society; and</p>
+</li>
+<li>
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
+</li>
+</ul>
+</li>
+</ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <blockquote>
-<p>Overview of ADMIRALTY Primary School’s Sexuality Education Programme for
-2024</p>
+<p><strong>OVERVIEW OF ADMIRALTY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+</p>
 </blockquote>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -59,12 +75,18 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
 </li>
 </ol>
-<p>a. Science</p>
-<p>b. Character and Citizenship Education (CCE)</p>
 <blockquote>
-<p>Sexuality Education Lessons:</p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 </blockquote>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -90,37 +112,43 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <blockquote>
-<p>At Admiralty Primary School, the following Sexuality Education lessons
-will be taught in 2024:</p>
+<p><strong>At Admiralty Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
 </blockquote>
 <blockquote>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
-<p><strong>Primary 5</strong>
-</p>
+<p>2025 SEXUALITY EDUCATION LESSONS IN CCE</p>
+<p>PRIMARY 5</p>
 </blockquote>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>CCE(FTGP) THEME</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>CCE(FTGP) THEME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>LESSON TITLE / DURATION</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Lesson OVERVIEW</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
-</th>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,13 +165,14 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Did You Know?</p>
 <p>(60 min)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students know what pornography is and how
@@ -156,13 +185,14 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Keeping Myself Safe</p>
 <p>(60 min)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn about sexual abuse, how it can happen
@@ -173,19 +203,22 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <blockquote>
-<p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
 <p><strong>Primary 6</strong>
 </p>
 </blockquote>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -203,11 +236,12 @@ and how to seek help for themselves and their friends.</p>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
 </p>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p></p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +259,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -242,21 +276,27 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Information for Parents</strong></h4>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/678b08a0f68da207d74e56ca" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 07/02/2025.</p>
+</li>
+<li>
+<p>Parents can contact the school at 63620598 or <a href="mailto:farhanah_banu_abdul_razar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+</li>
+</ol>
 <p></p>
-<p><strong>Information for Parents</strong>
-</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form at <a href="https://go.gov.sg/adps-sed-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/adps-sed-2024 </a>by
-15/02/2024.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mrs Alice
-Tan at 63620598 or email: <a href="admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
