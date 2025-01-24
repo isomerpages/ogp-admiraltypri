@@ -243,10 +243,24 @@ variant: tiptap
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P5_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 2-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 2-2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P6_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 2-2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
