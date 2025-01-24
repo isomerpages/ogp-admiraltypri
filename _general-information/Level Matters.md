@@ -21,32 +21,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Lesson_Focus_Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Lesson Focus - Term 1</a>
+<p><a href="/files/P1_Lesson_Focus___Term_1_.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Lesson_Focus_Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>P2 Lesson Focus - Term 1</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Lesson_Focus_Term_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Lesson Focus - Term 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Lesson_Focus_Term_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Lesson Focus - Term 2</a>
+<p><a href="/files/P2_Lesson_Focus___Term_1.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Lesson_Focus_Term_3_2024__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Lesson Focus - Term 3</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Lesson_Focus_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Lesson Focus - Term 3</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -244,6 +232,34 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/Level Matters/P6_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
 <br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P5_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 2-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P5_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 2-2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P6_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 1-2025</a>
+</p>
+<p><a href="/files/Level Matters/P6_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 2-2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
