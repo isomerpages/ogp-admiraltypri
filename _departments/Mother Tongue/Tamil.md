@@ -25,7 +25,7 @@ variant: tiptap
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nalayani Nair, Ms Punitha Silverrajan</p>
+<p>Mdm Nalayani Nair, Ms Ratha</p>
 </td>
 </tr>
 <tr>
