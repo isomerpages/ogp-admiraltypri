@@ -49,84 +49,12 @@ Disciplinary action will also be taken against the pupil.</p>
 </li>
 </ul>
 <p>The detailed key assessment information can be found in this attachment:
-<a href="/files/2024_Key_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Assessment Information 2024</a>
+<a href="/files/Assessment Matters/key_assessment_information_to_Parents__2025_.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2025</a>
 </p>
 <p>Please note that assessment details for each term will be uploaded onto
 this website by Week 5 of the term.</p>
-<h3>Term 4 Assessment Details</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_P3_T4.pdf" rel="noopener nofollow" target="_blank">P3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P4_T4.pdf" rel="noopener nofollow" target="_blank">P4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P5_T4.pdf" rel="noopener nofollow" target="_blank">P5</a>
-</p>
-</li>
-</ul>
-<h3>Archived:</h3>
-<h3>Term 3 Assessment Details</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Assessment Matters/P3_Term_3_Weighted_Assessment_details_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Assessment Matters/P4_Term_3_Weighted_Assessment_details_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Assessment Matters/P5_Term_3_Weighted_Assessment_details_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Assessment Matters/P6_Term_3_Weighted_Assessment_details_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
-</p>
-</li>
-</ul>
-<h3>Term 2 Assessment Details</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_P3_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Assessment Matters/2024_P4_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P5_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P6_Term2.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+<h4>Assessment Details</h4>
+<p><a href="/files/Assessment Matters/2025_Term_1_Weighted_Assessment_Details_updated.pdf" rel="noopener nofollow" target="_blank">2025 Term-1 Assessment</a>
 </p>
 <p></p>
-</li>
-</ul>
-<h3>Term 1 Assessment Details</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_P3_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P4_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P5_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P6_Term1.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
-</p>
-<p></p>
-<p></p>
-</li>
-</ul>
 <p></p>
