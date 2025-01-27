@@ -131,7 +131,6 @@ three main areas:</p>
 <p>Communication skills</p>
 </li>
 </ol>
-<p>_(Quoted from 2015 Syllabus, Chinese Language, Primary, MOE)</p>
 <p>With the curriculum framework in mind, the unit planned and crafted programmes
 that will nurture passionate learners in the Mother Tongue language.</p>
 <p><strong>Key Programmes</strong>
