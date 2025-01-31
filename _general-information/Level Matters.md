@@ -4,6 +4,9 @@ permalink: /general-information/level-matters/
 description: ""
 variant: tiptap
 ---
+<h3>Content of Student's File</h3>
+<p></p>
+<h3>Lesson Focus</h3>
 <h4>P1 and P2</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -39,9 +42,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <h4>P3 and P4</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -231,7 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Level Matters/P6_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
