@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/Content/2025_P1_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P1 EL </a>
+<p><a href="/files/Level Matters/Content/2025_P1_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P1 EL</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -38,7 +38,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/2025_P6_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P6 EL</a>
+</p>
 </td>
 </tr>
 </tbody>
