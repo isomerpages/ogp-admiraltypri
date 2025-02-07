@@ -244,7 +244,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P4%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Std English</a>
+<p><a href="/files/Level Matters/P4_2025_EL_Lesson_Focus_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 English</a>
 </p>
 </td>
 </tr>
@@ -382,7 +382,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Std English</a>
+<p><a href="/files/Level Matters/P5_2025_EL_Lesson_Focus_Term_1_4.pdf" rel="noopener nofollow" target="_blank">P5 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,7 +411,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P5_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 Science</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P6_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Science</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Level Matters/P5_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 1-2025</a>
