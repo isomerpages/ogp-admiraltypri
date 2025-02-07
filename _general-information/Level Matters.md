@@ -4,6 +4,182 @@ permalink: /general-information/level-matters/
 description: ""
 variant: tiptap
 ---
+<h3>Content of Student's File</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>English</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P1_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P1 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P4_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P4 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P2_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P2 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P5_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P5 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P3_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P3 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/2025_P6_EL_Content_Page__Term_1_.pdf" rel="noopener nofollow" target="_blank">2025 P6 EL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Contents_Page___Science.pdf" rel="noopener nofollow" target="_blank">2025 Science</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P6_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P6 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P6_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P6 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P6_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P6 CL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P6_HCL_Term_1.pdf" rel="noopener nofollow" target="_blank">P6 HCL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P6_FML_Term_1.pdf" rel="noopener nofollow" target="_blank">P6 FML</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P5_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P5 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P5_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P5 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P5_HCL_Term_1.pdf" rel="noopener nofollow" target="_blank">P5 HCL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P5_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P5 CL</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P4_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P4_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P4_HCL_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 HCL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P4_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 CL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P4_BML_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 BML</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P3_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P3 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P3_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P3 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P3_HCL_Term_1.pdf" rel="noopener nofollow" target="_blank">P3 HCL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P3_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P3 CL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P3_BML_Term_1.pdf" rel="noopener nofollow" target="_blank">P3 BML</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P2_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P2 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P2_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P2 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P2_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P2 CL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/Content_Page_P1_TL_Term_1.pdf" rel="noopener nofollow" target="_blank">P1 TL</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P1_ML_Term_1.pdf" rel="noopener nofollow" target="_blank">P1 ML</a>
+</p>
+<p><a href="/files/Level Matters/Content/Content_Page_P1_CL_Term_1.pdf" rel="noopener nofollow" target="_blank">P1 CL</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Lesson Focus</h3>
 <h4>P1 and P2</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -39,9 +215,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <h4>P3 and P4</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -208,13 +382,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Std English</a> 
-<br>
+<p><a href="/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Std English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P6%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Std English</a> 
-<br><a href="/files/2023%20P6%20FEL%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FEL English</a>
+<p><a href="/files/Level Matters/2025_P6_ADP_ENGLISH_LANGUAGE_LESSON_FOCUS.pdf" rel="noopener nofollow" target="_blank">P6 - EL Lesson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,7 +403,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Level Matters/P6_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
