@@ -382,13 +382,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Std English</a> 
-<br>
+<p><a href="/files/2023%20P5%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Std English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2023%20P6%20STD%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Std English</a> 
-<br><a href="/files/2023%20P6%20FEL%20ENGLISH%20TOS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 FEL English</a>
+<p><a href="/files/Level Matters/2025_P6_ADP_ENGLISH_LANGUAGE_LESSON_FOCUS.pdf" rel="noopener nofollow" target="_blank">P6 - EL Lesson</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
