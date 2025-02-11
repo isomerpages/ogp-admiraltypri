@@ -13,7 +13,7 @@ Under the Parent Volunteer Scheme, a child will be eligible to register in Phase
 	* Chaperone students during their learning journeys
 	* Prepare materials/resources for teaching and learning 
 
-For parents who wish to join the Admiralty Primary School Parent Volunteer Scheme, please click [here](https://sites.google.com/moe.edu.sg/parentvolunteer/pv).
+Please be informed that the Admiralty Primary School Parent Volunteer Scheme application 
+for children registering for Primary One in year 2026 is now closed.
 
 The school aspire to maintain a long-term partnership with its PVs. Should your child gain admission into our school, you are encouraged to continue your volunteering services by signing up with our Parent Support Group (PSG). To know more about our PSG, please click [here](https://www.admiraltypri.moe.edu.sg/partnership/parent-support-group/).
-
