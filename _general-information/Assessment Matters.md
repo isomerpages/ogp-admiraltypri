@@ -54,7 +54,7 @@ Disciplinary action will also be taken against the pupil.</p>
 <p>Please note that assessment details for each term will be uploaded onto
 this website by Week 5 of the term.</p>
 <h4>Assessment Details</h4>
-<p><a href="/files/Assessment Matters/2025_Term_1_Weighted_Assessment_Details_updated.pdf" rel="noopener nofollow" target="_blank">2025 Term-1 Assessment</a>
+<p><a href="/files/Assessment Matters/2025_Term_1_Weighted_Assessment_Details_updated_18Feb.pdf" rel="noopener nofollow" target="_blank">2025 Term-1 Assessment</a>
 </p>
 <p></p>
 <p></p>
