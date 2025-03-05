@@ -2,6 +2,7 @@
 title: Learning Devices Policy
 permalink: /general-information/learning-device-policy/
 description: ""
+variant: markdown
 ---
 ####  Learning Device Acceptable Use Policy
 
@@ -71,19 +72,19 @@ All students who bring devices to school are in agreement to the following pract
 
 * They will use the Internet and digital media for educational purposes only.
 
-* They are fully aware that everything I do on my learning device is monitored by the school.
+* They are fully aware that everything they do on my learning device is monitored by the school.
 
 * They will never send messages, emails and comments that are hurtful to another person.
 
 * They will not share personal information with anyone online.
 
-* They will not use my device to take photo, audio or video of others without their consent.
+* They will not use their device to take photo, audio or video of others without their consent.
 
 * They will not upload or share any digital media on the Internet without getting permission.
 
-* They will not share my password with anyone.
+* They will not share their password with anyone.
 
-* They will take good care of my learning device.
+* They will take good care of their learning device.
 
 * They will never leave the device unattended.
 
