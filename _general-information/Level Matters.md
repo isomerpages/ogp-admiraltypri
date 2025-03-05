@@ -382,7 +382,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/2025_P5_STD_ENGLISH_TOS_updated.pdf" rel="noopener nofollow" target="_blank">P5 English</a>
+<p><a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3a2509cd-5ef3-49c5-8ec9-f30eecd3752f" rel="noopener nofollow" target="_blank">P5 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
