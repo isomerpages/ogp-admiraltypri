@@ -56,7 +56,7 @@ the size.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="5">
-<p>Time 11.30am to 2pm</p>
+<p>Time 1pm to 4pm</p>
 </th>
 </tr>
 <tr>
