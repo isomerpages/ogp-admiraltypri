@@ -7,6 +7,8 @@ variant: tiptap
 <h4>School Calendar</h4>
 <p><a href="/files/GO PDF/2025_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Calendar</a>
 </p>
+<p><a href="/files/GO PDF/2025_Term_2_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar</a>
+</p>
 <h4>Students/Parents</h4>
 <table style="minWidth: 50px">
 <colgroup>
