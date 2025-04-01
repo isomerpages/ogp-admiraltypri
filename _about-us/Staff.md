@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Tze Shing</p>
+<p>Mdm Yang Tzy Shing</p>
 </td>
 </tr>
 <tr>
