@@ -244,7 +244,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P4_2025_EL_Lesson_Focus_Term_1.pdf" rel="noopener nofollow" target="_blank">P4 English</a>
+<p><a href="/files/Level Matters/2025_P4_STD_ENGLISH_TOS_Updated_.pdf" rel="noopener nofollow" target="_blank">P4 English</a>
 </p>
 </td>
 </tr>
@@ -382,7 +382,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3a2509cd-5ef3-49c5-8ec9-f30eecd3752f" rel="noopener nofollow" target="_blank">P5 English</a>
+<p><a href="/files/Level Matters/2025_P5_EL_Content_Page_Term_1_Updated.pdf" rel="noopener nofollow" target="_blank">P5 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
