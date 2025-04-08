@@ -2,64 +2,118 @@
 title: School Canteen Advertisement
 permalink: /canteenad/
 description: ""
+variant: tiptap
 ---
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-
 <h2>School Canteen Advertisement</h2>
-
-<table style="width:100%">
-  <tbody><tr>
-    <th>Type of Stall</th>
-    <th>Closing Date</th>
-    <th>Operational Date</th>
-		  <th>Proposed Menu</th>
-  </tr>
-  <tr>
-    <td>Malay Cooked Food Stall (Muslim-owned or Halal-certified)</td>
-    <td>30 Aug 2023 before 5pm</td>
-    <td>12 Sep 2023 (preferably)</td>
-		<td>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien. Lontong Goreng, Tahu Goreng, Prata with Chicken Curry</td>
-  </tr>	
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Mixed Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Halal</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-#### Requirements
-* Singapore Citizens or Singapore Permanent Residents, applicable to both stall holder and assistant(s). Must be age 21 years old or above. 
-* Able to provide good service and quality food at reasonable prices in consultation with the School. 
-* Able to observe high standard of food and personal hygiene that meet Singapore Food Agency (SFA) requirements. 
-* Has catering experience, preferably with running a stall in a school canteen.
-* Both applicant and stall assistant(s) must have completed the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by WDA (Workforce Development Agency). Upon successful application, the applicant will be required to apply for an operating licence from Singapore Food Agency (SFA). 
-* Able to comply with the latest Healthy Meals in Schools Programme (HMSP) guidelines. For more details please refer HPB’s website @  [HMSP Guidelines](/files/hmsp_guidelines.pdf)
-* Must be able to operate till 5pm on days whenever there are lessons and CCAs as required by school. 
-* Must be able to operate during school holidays for 2 to 3 weeks whenever there are lessons and activities as required by the school.
-* Must be in personal attendance at the stall during operating hours. 
-* If successful, stallholder can commence canteen service from the above stated operational date onwards.
-* Financial position (if applicable) of the applicants will be given due consideration upon meeting all of the above criteria. 
-* Food must be served hot.
-* The above proposed menu list is negotiable and is subject to change by the School Canteen Committee. 
-
-	
-#### Application and Submission
-
-1. Download and complete the [application form](/files/application_for_canteen_stall.pdf) You may also request for a hardcopy from the School’s General Office 
-2. Attached the following documents together with the application form:
-* One recent passport-sized coloured photograph
-* Photocopy of NRIC (front and back)
-* Proposed Healthy Set meal menu and price list of each set meal size 
-* Photocopy of Basic Food Hygiene Certificate and Certificate of Participation for Culinary Training Workshop for HMSP by HPB (if any) 
-3. The completed application form with the required documents must be submitted to the school General Office by closing date either by hand or post. 
-* Address: 11 Woodlands Circle, S738907 
-* Contact No: 6362 0598 
-* Contact Person: Mdm Maziah
-4. Late or incomplete applications will be rejected.
-5. Only shortlisted applicants will be required to attend an interview and food-tasting session where applicable at his/her own expense.
-
-#### How to get there?
-* Nearest MRT: Admiralty MRT Station (NS10) – 10 minutes walking distance
-* Bus number: 
-	* 913 – 3 minutes walking distance 
-	* 904, 964, 965, 965A, 965T and 969 – 10 minutes walking distance
+<h4>Application and Submission</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the application form. You may also request for a
+hardcopy from the School’s General Office.</p>
+<p><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Attached the following documents together with the application form:</p>
+<p></p>
+</li>
+<li>
+<p>Submit the completed application form and documents by closing date by
+12pm via email OR to the School’s General Office.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 11, Woodlands Circle, Singapore 738907</p>
+</li>
+<li>
+<p>Contact No: 6362 0598</p>
+<p></p>
+</li>
+<li>
+<p>Email : <a href="mailto:admiralty_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admiralty_ps@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mdm Maziah Binte Zainudin (Admin Manager)</p>
+</li>
+</ul>
+</li>
+</ol>
+<p><strong>Interest applicants must meet the following criteria:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
+</li>
+<li>
+<p>Able to provide cooked food that meets the health / nutritional standards
+set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
+Programme (HMSP)” guidelines (see link).</p>
+</li>
+<li>
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall.</p>
+</li>
+</ul>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.</p>
+</li>
+<li>
+<p>Possess catering experience or experience operating in a school environment.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
+<p></p>
+</li>
+</ul>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
