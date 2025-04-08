@@ -56,5 +56,7 @@ this website by Week 5 of the term.</p>
 <h4>Assessment Details</h4>
 <p><a href="/files/Assessment Matters/2025_Term_1_Weighted_Assessment_Details_updated_18Feb.pdf" rel="noopener nofollow" target="_blank">2025 Term-1 Assessment</a>
 </p>
+<p><a href="/files/Assessment Matters/2025_Term_2_Weighted_Assessment_Details.pdf" rel="noopener nofollow" target="_blank">2025 Term-2 Assessment</a>
+</p>
 <p></p>
 <p></p>
