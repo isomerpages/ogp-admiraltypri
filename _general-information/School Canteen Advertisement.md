@@ -50,7 +50,19 @@ hardcopy from the School’s General Office.</p>
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc</p>
 <p></p>
+</li>
+</ul>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date by
