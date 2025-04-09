@@ -99,7 +99,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines (see link).</p>
+Programme (HMSP)” guidelines (<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">see link)</a>.</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
