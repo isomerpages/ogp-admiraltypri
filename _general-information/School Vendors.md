@@ -23,11 +23,9 @@ site.</p>
 <p>Contact No: 6871 8817</p>
 <p>Email: <a href="mailto:school@rushowl.sg" rel="noopener noreferrer nofollow" target="_blank">school@rushowl.sg</a>
 </p>
-<p>Registration Form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRplxEBZG_jP7Lk7tibjZk3FrxR-bZGnIqVbH9scecYp35Gw/viewform" rel="noopener nofollow" target="_blank">RushOwl School Bus Transportation Registration Form</a>
+<p>Registration Form: <a href="https://rushowl-sg-ops-tracker.atlassian.net/servicedesk/customer/portal/1/group/1/create/10015" rel="noopener nofollow" target="_blank">RushOwl School Bus Transportation Registration Form</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Departments/GO/Busform.png">
-</div>
+<p></p>
 <p>Bus Fare Period: 1 Jan 2025 to 31 Dec 2026</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
