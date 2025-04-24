@@ -19,6 +19,4 @@ sections:
           description: 2024 - Celebration of Learning
           url: /eventsgallery/
       variant: center
-      button: School Canteen Advertisement
-      url: https://www.admiraltypri.moe.edu.sg/canteenad/
 ---
