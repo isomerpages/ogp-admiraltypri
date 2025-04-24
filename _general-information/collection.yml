@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Backup/.keep
       - School Rules.md
       - School Hours.md
       - School Safety.md
