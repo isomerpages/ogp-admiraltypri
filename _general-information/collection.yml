@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Backup/School Canteen Advertisement.md
       - Backup/.keep
       - School Rules.md
       - School Hours.md
