@@ -64,6 +64,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Maths</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/MATH_CONTENT__P1_to_P3_.pdf" rel="noopener nofollow" target="_blank">P1 to P3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/Content/MATH_CONTENT__P4_to_P6_.pdf" rel="noopener nofollow" target="_blank">P4 to P6</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Science</strong>
 </p>
 </td>
@@ -207,10 +232,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/P1_Lesson_Focus___Term_2.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/P2_Lesson_Focus___Term_1.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 2</a>
+</p>
 </td>
 </tr>
 </tbody>
