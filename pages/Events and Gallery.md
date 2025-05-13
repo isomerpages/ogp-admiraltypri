@@ -4,6 +4,11 @@ permalink: /eventsgallery/
 variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
+<h4>2025 Events</h4>
+<p><strong><u>e-Open House</u></strong>
+</p>
+<p><a href="https://drive.google.com/file/d/1qSlAOg4jG5rDF5Y5NXxmvlfshh05EKJs/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Session 2025 - Slides</a>
+</p>
 <h4>2024 - Celebration of Learning</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -59,7 +64,7 @@ description: ADPS Events and Photo Gallery
 <p></p>
 </li>
 </ol>
-<h4>e-Open House</h4>
+<p>e-Open House</p>
 <p><a href="/files/GO%20PDF/Pre_school_Engagement___e_Open_House_Session_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pre-school Engagement &amp; e-Open House Session 2024 - Slides</a>
 <br><a href="https://youtu.be/O_WkT6XSy6w?si=YExN2oUyrCStL7ZX" rel="noopener noreferrer nofollow" target="_blank">Video Link - Click Here</a>
 </p>
