@@ -9,6 +9,8 @@ description: ADPS Events and Photo Gallery
 </p>
 <p><a href="https://drive.google.com/file/d/1qSlAOg4jG5rDF5Y5NXxmvlfshh05EKJs/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Session 2025 - Slides</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1hPwKMOwPpaOb2fV3V3U-M7dUkTM6CePd/view?usp=sharing" rel="noopener nofollow" target="_blank">Video Link - Click Here</a>
+</p>
 <h4>2024 - Celebration of Learning</h4>
 <ol data-tight="true" class="tight">
 <li>
