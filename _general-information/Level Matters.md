@@ -232,11 +232,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Lesson_Focus___Term_2.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 2</a>
+<p><a href="/files/Level Matters/P1_Lesson_Focus___Term_2__1_.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P2_Lesson_Focus___Term_1.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 2</a>
+<p><a href="/files/Level Matters/P2_Lesson_Focus___Term_2__1_.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 2</a>
 </p>
 </td>
 </tr>
