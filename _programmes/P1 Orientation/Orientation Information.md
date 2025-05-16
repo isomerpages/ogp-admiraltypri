@@ -110,6 +110,14 @@ visit MOE website and link “MOE website” to <a href="https://www.moe.gov.sg/
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holistic Enrichment Programme Application Form (Monday mornings)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Link to Relevant Info and Forms</u></strong>
