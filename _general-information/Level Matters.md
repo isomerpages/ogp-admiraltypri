@@ -193,7 +193,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P1_Term_2.pdf" rel="noopener nofollow" target="_blank">P1 TL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +222,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P2_Term_2.pdf" rel="noopener nofollow" target="_blank">P2 TL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +257,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P3_Term_2.pdf" rel="noopener nofollow" target="_blank">P3 TL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +294,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P4_Term_2.pdf" rel="noopener nofollow" target="_blank">P4 TL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +330,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P5_Term_2.pdf" rel="noopener nofollow" target="_blank">P5 TL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -364,7 +369,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Level Matters/Content/Optimum_Core_Diet_TL_P6_Term_2.pdf" rel="noopener nofollow" target="_blank">P6 TL</a>
+</p>
 </td>
 </tr>
 </tbody>
