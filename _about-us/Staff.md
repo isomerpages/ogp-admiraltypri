@@ -1179,7 +1179,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Oh Kok Choon</p>
-<p>Mr Lim Yew Beng</p>
 </td>
 </tr>
 <tr>
@@ -1409,17 +1408,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_sabir_abdul_gulam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_sabir_abdul_gulam@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Peh Chin Hwi Christopher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
