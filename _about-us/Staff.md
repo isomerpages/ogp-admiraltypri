@@ -462,7 +462,7 @@ variant: tiptap
 <p>Ms Koh Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarita Bte Ahmad Zakri</p>
+<p>Mdm&nbsp; Chong You Kim (Karine)</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +474,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Zarita_ahmad_zakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zarita_ahmad_zakri@moe.edu.sg</a>
+<p><a href="mailto:chong_you_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_you_kim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -588,7 +588,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tam Wei Chee Jessica</p>
-<p>Mdm&nbsp; Chong You Kim (Karine)</p>
 </td>
 </tr>
 <tr>
@@ -601,8 +600,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tam_wei_chee_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tam_wei_chee_jessica@moe.edu.sg</a>
-</p>
-<p><a href="mailto:chong_you_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_you_kim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
