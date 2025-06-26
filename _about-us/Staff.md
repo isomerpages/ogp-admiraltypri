@@ -1495,7 +1495,7 @@ variant: tiptap
 <p>Mdm Mohzina Binte Mohamed Zakeria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohzina_mohamad_zakeria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohzina_mohamad_zakeria@moe.edu.sg</a>
@@ -1523,6 +1523,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_cai_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_cai_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Baizura Binte Md Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_baizura_md_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_baizura_md_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amirah Binte Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_amirah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_mohamad_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
