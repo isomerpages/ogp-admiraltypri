@@ -462,7 +462,7 @@ variant: tiptap
 <p>Ms Koh Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarita Bte Ahmad Zakri</p>
+<p>Mdm&nbsp; Chong You Kim (Karine)</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +474,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Zarita_ahmad_zakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zarita_ahmad_zakri@moe.edu.sg</a>
+<p><a href="mailto:chong_you_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_you_kim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -588,7 +588,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tam Wei Chee Jessica</p>
-<p>Mdm&nbsp; Chong You Kim (Karine)</p>
 </td>
 </tr>
 <tr>
@@ -601,8 +600,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tam_wei_chee_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tam_wei_chee_jessica@moe.edu.sg</a>
-</p>
-<p><a href="mailto:chong_you_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_you_kim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1182,7 +1179,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Oh Kok Choon</p>
-<p>Mr Lim Yew Beng</p>
 </td>
 </tr>
 <tr>
@@ -1416,17 +1412,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Chin Hwi Christopher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Siew Hoon Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1510,7 +1495,7 @@ variant: tiptap
 <p>Mdm Mohzina Binte Mohamed Zakeria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohzina_mohamad_zakeria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohzina_mohamad_zakeria@moe.edu.sg</a>
@@ -1538,6 +1523,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_cai_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_cai_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Baizura Binte Md Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_baizura_md_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_baizura_md_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amirah Binte Mohamad Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_amirah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_mohamad_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1718,7 +1727,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Chuen Hin</p>
+<p>Mdm Leow Poh Mui (Sharon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
