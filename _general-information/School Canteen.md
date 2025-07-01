@@ -82,7 +82,7 @@ with a serving of fruits and vegetables.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/GO PDF/2025Approved_Canteen_Price_List.pdf" rel="noopener nofollow" target="_blank">For menu price list please click here</a>
+<p><a href="/files/GO PDF/REVISED_2025Approved_Canteen_Price_List_caa290625.pdf" rel="noopener nofollow" target="_blank">For menu price list please click here</a>
 </p>
 <h4>Canteen Rules</h4>
 <p>Students are to abide by the following rules relating to the school canteen:</p>
