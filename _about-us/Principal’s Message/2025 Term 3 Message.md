@@ -60,3 +60,4 @@ and school. Thank you and wishing everyone an enjoyable Term 3.</p>
 <p>Yours faithfully,</p>
 <p>Mr Chen Zhongyi</p>
 <p>Principal</p>
+<p></p>
