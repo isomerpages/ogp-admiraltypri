@@ -151,6 +151,10 @@ variant: tiptap
 </p>
 <p><a href="/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 6</a>
 </p>
+<p><a href="/files/ADP_Parents_Connect_Issue_7.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 7</a>
+</p>
+<p><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
+</p>
 <h5>Past School Calender</h5>
 <p><a href="/files/GO%20PDF/2024_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - 2024</a> 
 <br><a href="/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 - 2024</a>
