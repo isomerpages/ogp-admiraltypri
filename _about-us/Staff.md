@@ -1632,7 +1632,7 @@ variant: tiptap
 <p>Mdm Lim Siew Cheng Lois</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -1640,7 +1640,7 @@ variant: tiptap
 <p>Mdm Asha Parthivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
