@@ -62,15 +62,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yew Beng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year Head / P5 &amp; P6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yang Tzy Shing</p>
 </td>
 </tr>
@@ -1632,7 +1623,7 @@ variant: tiptap
 <p>Mdm Lim Siew Cheng Lois</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>
@@ -1640,7 +1631,7 @@ variant: tiptap
 <p>Mdm Asha Parthivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Admin Executive</p>
+<p>Administrative Executive</p>
 </td>
 </tr>
 <tr>

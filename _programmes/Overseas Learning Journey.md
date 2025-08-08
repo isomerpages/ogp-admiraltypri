@@ -2,21 +2,77 @@
 title: Overseas Learning Journey
 permalink: /programmes/overseas-learning-journey/
 description: ""
+variant: tiptap
 ---
-#### Overseas Learning Journey
-
-From Primary 1 to 4, pupils learn about the various cultures through classroom lessons, exploration in art and their visits to various local cultural sites.
-
-They also participate in learning the language of another cultures through conversational language modules, as well as hosting overseas pupils in the classroom. This culminates in an Overseas Learning Journey (OLJ) to experience the cultures of neighbouring countries.
-
-First implemented in 2011, the OLJs offer an authentic immersive experience in a new culture for our pupils to develop self-confidence and independence away from home. Every pupil is offered the opportunity to participate in an OLJ at Primary 5.
-
-They get first-hand experience of daily school life in another country. The interactions with people from diverse backgrounds shape their awareness and understanding of cross-cultural differences.
-
-Across the years, Admiralty Primary School has established a network of connections with different schools around the world and exchanged opportunities for our pupils to embark on.
-
-![](/images/OLJ-1.jpg)
-![](/images/OLJ-2.jpg)
-![](/images/OLJ-3.jpg)
-![](/images/OLJ-4.png)
-![](/images/OLJ-5.jpg)
+<h4>International Exchange Programme</h4>
+<p>At Admiralty Primary School, our International Exchange Programme broadens
+our students’ horizons and nurtures them to become confident, culturally
+aware, and globally minded citizens.</p>
+<p>The programme has two key components: hosting and the Overseas Learning
+Journey (OLJ).</p>
+<p>From Primary 1 to 4, pupils learn about various cultures through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Classroom lessons and art explorations,</p>
+</li>
+<li>
+<p>Visits to local cultural sites,</p>
+</li>
+<li>
+<p>Conversational language modules to experience the language of other cultures,
+and</p>
+</li>
+<li>
+<p>Hosting overseas pupils in the classroom to learn about their lives and
+cultures firsthand.</p>
+</li>
+</ul>
+<p>These experiences prepare our students for the Overseas Learning Journey
+(OLJ) in Primary 5, where every pupil is offered the opportunity to participate.
+First implemented in 2011, the OLJ offers our students an authentic, immersive
+experience in a new culture, helping them develop self-confidence and independence
+away from home.</p>
+<p>Through the OLJ, our students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appreciate different perspectives,</p>
+</li>
+<li>
+<p>Develop cultural understanding,</p>
+</li>
+<li>
+<p>Foster independence and resilience, and</p>
+</li>
+<li>
+<p>Interact meaningfully with people from diverse backgrounds.</p>
+</li>
+</ul>
+<p>These experiences broaden our students’ worldview while strengthening
+their sense of identity and belonging as Singaporeans. They learn to navigate
+cultural differences with respect and empathy while carrying with them
+the values of care, respect, and openness wherever they go.</p>
+<p>At Admiralty Primary School, we believe these experiences are essential
+in preparing our students to thrive in a globalised world while remaining
+rooted in Singapore’s values.</p>
+<h4>Guangdong, China</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Guangdong_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Guangdong_2.jpg">
+</div>
+<h4>Penang, Malaysia</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Penang_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Penang_1.jpg">
+</div>
+<h4>Bandung, Indonesia</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/IMG_7587.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/IMG_8120.jpg">
+</div>
+<p></p>
