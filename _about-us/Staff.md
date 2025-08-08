@@ -62,15 +62,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yew Beng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year Head / P5 &amp; P6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yang Tzy Shing</p>
 </td>
 </tr>
