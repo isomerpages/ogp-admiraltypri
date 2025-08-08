@@ -54,5 +54,25 @@ the values of care, respect, and openness wherever they go.</p>
 <p>At Admiralty Primary School, we believe these experiences are essential
 in preparing our students to thrive in a globalised world while remaining
 rooted in Singapore’s values.</p>
-<p></p>
+<h4>Guangdong, China</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Guangdong_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Guangdong_2.jpg">
+</div>
+<h4>Penang, Malaysia</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Penang_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Penang_1.jpg">
+</div>
+<h4>Bandung, Indonesia</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/IMG_7587.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/IMG_8120.jpg">
+</div>
 <p></p>
