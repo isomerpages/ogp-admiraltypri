@@ -122,19 +122,19 @@ made by students and they should take ownership of their own decision.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Club-and-Societies/english-language-n-drama-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/english &amp; drama club.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Club-and-Societies/english-language-n-drama-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/english &amp; drama club.png"></a>
+<p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Club-and-Societies/environmental-science-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/environmental science club.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Club-and-Societies/infocomm-technology/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/infocomm technology.png"></a>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/Club-and-Societies/infocomm-technology/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/infocomm technology.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/clubs-and-socities/design-n-innovation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/design&amp;innovation.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.admiraltypri.moe.edu.sg/cca/clubs-and-socities/design-n-innovation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/design&amp;innovation.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
