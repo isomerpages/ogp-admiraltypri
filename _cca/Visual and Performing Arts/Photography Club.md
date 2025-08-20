@@ -85,20 +85,36 @@ Responsibility, Integrity, and Teamwork.</p>
 <h5>Additional info</h5>
 <p>Questions further posed by parents during our engagement sessions last
 year:</p>
-<p>1.	<strong>Any requirements/pre-requisite to enter the CCA?</strong>
+<p>1. <strong>Any requirements/pre-requisite to enter the CCA?</strong>
 </p>
-<p>• The student does not need to have any prior knowledge of photography.</p>
-<p>2.	<strong>Is the CCA gender specific?</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>The student does not need to have any prior knowledge of photography.</p>
+</li>
+</ul>
+<p>2. <strong>Is the CCA gender specific?</strong>
 </p>
-<p>• All are welcome to join.</p>
-<p>3.	<strong>Do the students need to purchase equipment on their own?</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>All are welcome to join.</p>
+</li>
+</ul>
+<p>3. <strong>Do the students need to purchase equipment on their own?</strong>
 </p>
-<p>• There is no need to purchase any photographic equipment. All equipment
+<ul data-tight="true" class="tight">
+<li>
+<p>There is no need to purchase any photographic equipment. All equipment
 will be provided by the school.</p>
-<p>4.	<strong>What can we do to help them to prepare themselves to be accepted into the CCA and do well?</strong>
+</li>
+</ul>
+<p>4. <strong>What can we do to help them to prepare themselves to be accepted into the CCA and do well?</strong>
 </p>
-<p>• The student should be interested in taking pictures. Students are encouraged
+<ul data-tight="true" class="tight">
+<li>
+<p>The student should be interested in taking pictures. Students are encouraged
 to take photos of subjects that they are passionate about in their own
 time, with any kind of imaging device they have access to (iPad, smartphone
 cameras, etc)</p>
+</li>
+</ul>
 <p></p>
