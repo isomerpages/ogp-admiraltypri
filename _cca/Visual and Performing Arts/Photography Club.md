@@ -37,7 +37,7 @@ Responsibility, Integrity, and Teamwork.</p>
 </li>
 </ol>
 <h5>Schedule</h5>
-<p>During timetabled CCA session: Mondays, 7.40 a.m. – 9.40 a.m.</p>
+<p>During timetabled CCA session: Mondays, 7.40 a.m. – 9.10 a.m.</p>
 <h5>Teachers-in-Charge</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,15 +52,6 @@ Responsibility, Integrity, and Teamwork.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Calvin Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_kiat_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kiat_calvin@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,59 +82,23 @@ Responsibility, Integrity, and Teamwork.</p>
 </tr>
 </tbody>
 </table>
-<h5>Achievements</h5>
-<p>The Photography Club has won awards over a few years at photography competitions
-for primary schools – the National Photography Festival and the National
-Young Shutterbugs.</p>
-<p>One of our photographer’s work was part of an exhibition held at the National
-Library. Another of our photographer’s work was included in the Singapore
-Youth Festival SYFgoesONLINE! showcase.</p>
 <h5>Additional info</h5>
 <p>Questions further posed by parents during our engagement sessions last
 year:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Any requirements/pre-requisite to enter the CCA?</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The student does not need to have any prior knowledge of photography.</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Is the CCA gender specific?</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>All are welcome to join.</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Do the students need to purchase equipment on their own?</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>There is no need to purchase any photographic equipment. All equipment
+<p>1.	<strong>Any requirements/pre-requisite to enter the CCA?</strong>
+</p>
+<p>• The student does not need to have any prior knowledge of photography.</p>
+<p>2.	<strong>Is the CCA gender specific?</strong>
+</p>
+<p>• All are welcome to join.</p>
+<p>3.	<strong>Do the students need to purchase equipment on their own?</strong>
+</p>
+<p>• There is no need to purchase any photographic equipment. All equipment
 will be provided by the school.</p>
-</li>
-</ul>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>What can we do to help them to prepare themselves to be accepted into
-the CCA and do well?</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>The student should be interested in taking pictures. Students are encouraged
+<p>4.	<strong>What can we do to help them to prepare themselves to be accepted into the CCA and do well?</strong>
+</p>
+<p>• The student should be interested in taking pictures. Students are encouraged
 to take photos of subjects that they are passionate about in their own
 time, with any kind of imaging device they have access to (iPad, smartphone
 cameras, etc)</p>
-</li>
-</ul>
 <p></p>
