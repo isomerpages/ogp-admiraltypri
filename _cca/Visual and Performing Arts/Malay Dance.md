@@ -136,39 +136,69 @@ receive notifications accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Shazmeen Binte Abdul Anwaar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6CH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phoebe Nur Arielle Binte Muhammad Adha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6CH</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Aarshiq Jayden Bin Johari</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5CO</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fatin Shaista Binte Muhammad Faisal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5GA</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1VzI7Mry9ZnX38m91wPeoGkhn6wtoVbNe/view?usp=sharing" rel="noopener nofollow" target="_blank">Hari Raya Performance at Tan Tock Seng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/14_MMZJjXzEai7R4G-ZJrZqduRJjAykqd/view?usp=sharing" rel="noopener nofollow" target="_blank">Gemilang Tari Malay Dance Competition</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1UqvLHycvGR-XI09msA3NUKBFq_FPbuFw/view?usp=sharing" rel="noopener nofollow" target="_blank">Woodlands Bus Interchange Performance (Fusion Dance)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -180,6 +210,12 @@ receive notifications accordingly.</p>
 <th rowspan="1" colspan="3">
 <p>2024</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="https://drive.google.com/file/d/19lmTurJ7jKqVZX93PIefzs1MkjnNxBeI/view?usp=sharing" rel="noopener nofollow" target="_blank">SMRT Performance at Admiralty MRT (Fusion Dance)</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
