@@ -370,6 +370,5 @@ Malay Dance CCA Experience:</p>
 </ul>
 <p>To know more, you can visit this link: <a href="https://tinyurl.com/ADPSmalaydance" rel="noopener nofollow" target="_blank">ADPS Malay Dance</a>
 </p>
-<p></p>
-<p></p>
+<p>Website Updates - As on 21th August 2025</p>
 <p></p>
