@@ -103,8 +103,7 @@ Here are their works:</p>
 <p>Our VA Admirals have also worked hard to create Art works for the National
 Day Exhibition titled ‘My Singapore’. Please click on the image below to
 watch the behind-the-scenes video!</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=KsRY2sBO7nQ"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide12.jpg"></a>
-<p><strong>Additional info</strong>
-</p>
+<h4><strong>Additional info</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There is no specific pre-requisite to be a member of Visual Arts Club.</p>
