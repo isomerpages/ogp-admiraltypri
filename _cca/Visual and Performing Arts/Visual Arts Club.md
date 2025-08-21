@@ -74,42 +74,16 @@ interest</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA7.jpg">
 </div>
 <h4>Achievements</h4>
-<p><strong>2023</strong> 
-<br>This year’s SYF Art Exhibition, themed ‘Artist and Inspiration’, aims
-to nurture in students a keen appreciation for historical and cultural
-influences in art. Here are some of the art works that VA Admirals have
-submitted for the competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement1" src="/images/2023_va_achievment1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement2" src="/images/2023_va_achievment2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement3" src="/images/2023_va_achievment3.png">
-</div>
-<p><strong>2022</strong> 
-<br><strong>Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gold Award for DRAW MY STAMP STORY COMPETITION 2022" src="/images/2023%20stamp%20story%20competition.jpg">
-</div>
-<p><strong><u>CHEN RUI XI, 4 Endurance</u></strong>
-</p>
-<p><strong>2021</strong>
-</p>
-<p>For Singapore Youth Festival 2021, our students had a chance to showcase
-their artworks titled ’Life Made Easy with Technology’ and ‘A Day Juggling
-with Technology’ through their Artist Talk presentations below. You can
-also view the submitted SYF works via our virtual Art Exhibition link.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
-</div>
-<p>For Draw My Stamp Story Art Competition 2021, Liew Wen Xin received a
-Silver Award for her submission!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA4.jpg">
-</div>
+<p>2025</p>
+<p>This year's SYF Art Exhibition, themed 'Artist and Collaboration: Tiny
+Wonders, Big Ideas', aimed to nurture students' keen eye for discovering
+Singapore's unique characteristics through collaborative art-making, where
+young artists worked together to capture the intricate details of our nation
+whilst envisioning possibilities for its future. Our VA Admirals' SYF submissions
+capture Singapore's journey and spirit through various artistic mediums,
+one of which was recently displayed at the National Gallery Singapore.
+Here are their works:</p>
+<p></p>
 <p><strong>Additional info</strong>
 </p>
 <ul data-tight="true" class="tight">
