@@ -259,12 +259,29 @@ will be informed)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rope Skipping/WhatsApp_Image_edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rope Skipping/WhatsApp_Image_2025_08_18_at_10_11_17.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rope Skipping/WhatsApp_Image_2025_08_18_at_10_11_16__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rope Skipping/WhatsApp_Image_2025_08_18_at_10_11_16.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rope Skipping/WhatsApp_Image_edit.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,8 +290,6 @@ will be informed)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
