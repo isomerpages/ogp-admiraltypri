@@ -74,7 +74,8 @@ interest</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA7.jpg">
 </div>
 <h4>Achievements</h4>
-<p>2025</p>
+<p><strong>2025</strong>
+</p>
 <p>This year's SYF Art Exhibition, themed 'Artist and Collaboration: Tiny
 Wonders, Big Ideas', aimed to nurture students' keen eye for discovering
 Singapore's unique characteristics through collaborative art-making, where
@@ -83,7 +84,25 @@ whilst envisioning possibilities for its future. Our VA Admirals' SYF submission
 capture Singapore's journey and spirit through various artistic mediums,
 one of which was recently displayed at the National Gallery Singapore.
 Here are their works:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide10.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide11.jpg">
+</div>
+<p>Our VA Admirals have also worked hard to create Art works for the National
+Day Exhibition titled ‘My Singapore’. Please click on the image below to
+watch the behind-the-scenes video!</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=KsRY2sBO7nQ"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide12.jpg"></a>
 <p><strong>Additional info</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -91,7 +110,8 @@ Here are their works:</p>
 <p>There is no specific pre-requisite to be a member of Visual Arts Club.</p>
 </li>
 <li>
-<p>Admirals need to be passionate and have the interest in Art.</p>
+<p><strong>Admirals need to be passionate and have the interest in Art.</strong>
+</p>
 </li>
 <li>
 <p>Admirals are required to bring along the following items for a meaningful
@@ -99,14 +119,19 @@ VA Club CCA Experience:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Art Sketchbook (dedicated for VA Club).</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>It serves as a collection point for portfolios and task explorations throughout
 the CCA sessions. It should be cherished and well-maintained to prepare
 for use in P6.</p>
 </li>
+</ul>
+</li>
 <li>
-<p>VA Bag to hold all the itemsArt Apron</p>
+<p>VA Bag to hold all the items</p>
+</li>
+<li>
+<p>Art Apron</p>
 </li>
 <li>
 <p>Art Stationery such as 2B Pencils, Ruler, and Eraser</p>
@@ -115,17 +140,17 @@ for use in P6.</p>
 <p>A Set of Colour Pencils and Oil Pastels</p>
 </li>
 <li>
-<p>A Few Paint Brushes for Personal Use</p>
+<p>Few Paint Brushes for Personal Use</p>
 </li>
 <li>
-<p>A Glue Stick</p>
+<p>Glue Stick</p>
 </li>
 <li>
 <p>A Packet of Dry / Wet Tissue / Cloth (for cleaning up)</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
 <p></p>
