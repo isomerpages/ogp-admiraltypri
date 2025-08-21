@@ -44,16 +44,33 @@ practices are required on Fridays when necessary and parents will be notified
 accordingly.</p>
 <p></p>
 <h4>Teachers</h4>
-<p>Mdm Koon (OIC): <a href="mailto:koon_wai_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koon_wai_hang@moe.edu.sg</a>
+<p>Mdm Koon (OIC):&nbsp;<a href="mailto:koon_wai_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koon_wai_hang@moe.edu.sg</u></a>
 </p>
-<p>Mdm Xu Shihui: <a href="mailto:xu_shihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_shihui@moe.edu.sg</a>
+<p>Mdm Xu Shihui:&nbsp;<a href="mailto:koon_wai_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_shihui@moe.edu.sg</u></a>
 </p>
-<p>Ms Charlotte Sng: <a href="mailto:charlotte_sng_yi_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charlotte_sng_yi_may@moe.edu.sg</a>
+<p>Ms Charlotte Sng:&nbsp;<a href="mailto:koon_wai_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>charlotte_sng_yi_may@moe.edu.sg</u></a>
 </p>
-<p>Ms Zarita: <a href="mailto:zarita_ahmad_zakri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zarita_ahmad_zakri@moe.edu.sg</a>
+<h4><br>Awards &amp; Performances</h4>
+<p><strong>2025 Performances</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lunar New Year Celebration@ADPS</p>
+</li>
+<li>
+<p>The Art of Healing performance@Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p>Performance@First Year Celebration for Woodlands Health</p>
+</li>
+<li>
+<p>Teachers’ Day Celebration@ADPS</p>
+</li>
+<li>
+<p>Speech Day@ADPS</p>
+</li>
+</ul>
 <p></p>
-<h4>Awards &amp; Performances</h4>
 <p><strong><u>2024 Award</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,64 +127,13 @@ International Bazaar 23</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </li>
 </ul>
-<p><strong><u>2019</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Art of Healing performance@Tan Tock Seng Hospital</p>
-</li>
-<li>
-<p>Mother’s Day performance@Sembawang CC</p>
-</li>
-<li>
-<p>Performance@The Esplanade</p>
-</li>
-<li>
-<p>Performance@Voices in Harmony</p>
-</li>
-<li>
-<p>Performance@NUSS Singathon</p>
-</li>
-</ul>
-<p><strong><u>2016</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation – Certificate of Accomplishment</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/20250416_132629.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/IMG_20250802_WA0009.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Choir_school_website_updates.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Click here to watch some video</p>
 <p><a href="https://drive.google.com/file/d/14CTrwKj4RqdeZio73_2PTFJ5jaMLw2Lf/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 SYF piece</a>
 </p>

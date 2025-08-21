@@ -136,18 +136,26 @@ receive notifications accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Shazmeen Binte Abdul Anwaar</p>
+<p>Nur Izora Fitri binte Muhamad Syaiful</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6CH</p>
+<p>5CH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phoebe Nur Arielle Binte Muhammad Adha</p>
+<p>Erissa Leandra Binte Mohammad Nashtain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6CH</p>
+<p>5ET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fatin Shaista binte Muhammad Faisal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6GA</p>
 </td>
 </tr>
 <tr>
@@ -155,20 +163,42 @@ receive notifications accordingly.</p>
 <p>Muhammad Aarshiq Jayden Bin Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5CO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fatin Shaista Binte Muhammad Faisal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5GA</p>
+<p>6CO</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Achievements</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1VzI7Mry9ZnX38m91wPeoGkhn6wtoVbNe/view?usp=sharing" rel="noopener nofollow" target="_blank">Hari Raya Performance at Tan Tock Seng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/14_MMZJjXzEai7R4G-ZJrZqduRJjAykqd/view?usp=sharing" rel="noopener nofollow" target="_blank">Gemilang Tari Malay Dance Competition</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1UqvLHycvGR-XI09msA3NUKBFq_FPbuFw/view?usp=sharing" rel="noopener nofollow" target="_blank">Woodlands Bus Interchange Performance (Fusion Dance)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -180,6 +210,12 @@ receive notifications accordingly.</p>
 <th rowspan="1" colspan="3">
 <p>2024</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="https://drive.google.com/file/d/19lmTurJ7jKqVZX93PIefzs1MkjnNxBeI/view?usp=sharing" rel="noopener nofollow" target="_blank">SMRT Performance at Admiralty MRT (Fusion Dance)</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
@@ -334,6 +370,5 @@ Malay Dance CCA Experience:</p>
 </ul>
 <p>To know more, you can visit this link: <a href="https://tinyurl.com/ADPSmalaydance" rel="noopener nofollow" target="_blank">ADPS Malay Dance</a>
 </p>
-<p></p>
-<p></p>
+<p>Website Updates - As on 21th August 2025</p>
 <p></p>
