@@ -10,22 +10,15 @@ variant: tiptap
 </div>
 <p>In Visual Arts (VA) Club, Admirals are given the opportunity to explore
 various mediums of Art, learn to appreciate the work of Arts by famous
-artists and be reflective learners. Our VA Admirals also participated in
-school and national events to develop a sense of confidence, ownership,
+artist and be reflective learners. Our VA Admirals also participated in
+the school and national events to develop a sense of confidence, ownership,
 pride, teamwork and most importantly, leadership in their assigned scope
 of work.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA4.jpg">
-</div>
 <h4>Goal</h4>
 <p>VA Admirals will develop and enhance their awareness and understanding
 of the world through appreciation of the visual arts. They get to articulate
 the logic of the formal, spatial, material, and technical elements of a
 work of art skillfully to express their thoughts and messages to the audience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA6.jpg">
-</div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,13 +36,9 @@ interest</p>
 <p>To create an environment for the nurturing of life skills through Art</p>
 </li>
 </ul>
-<p>Our VA Admirals have also worked hard to create Art works for the National
-Day Exhibition titled ‘My Singapore’. Please <a href="https://www.youtube.com/watch?v=KsRY2sBO7nQ" rel="noopener nofollow" target="_blank">click here</a> to watch
-the behind-the-scenes video!</p>
-<p></p>
 <h4>Schedule</h4>
 <p>During Timetabled CCA Sessions:
-<br>Mondays [7.40 a.m. to 9.40 a.m.]</p>
+<br>Mondays [7.40 a.m. to 9.10 a.m.]</p>
 <h4>Teachers-in-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -63,15 +52,18 @@ the behind-the-scenes video!</p>
 <p>Mdm Nuruljannah Mukasim</p>
 <p>Mdm Farhanah Razar</p>
 <p>Mdm Rashidah</p>
+<p>Mr Mohamed Irfan Syarial Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_lan@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_lan@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto: nuruljannah_mukasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto:rashidah_ismail_neville@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_ismail_neville@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_ismail_neville@moe.edu.sg</a></strong>
+</p>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_irfan_syarial_sharif@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
