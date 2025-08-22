@@ -49,7 +49,7 @@ badminton training sessions.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm – 4.45 pm</p>
+<p>2.30 pm – 4.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -112,10 +112,10 @@ badminton training sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Kim&nbsp; &nbsp; &nbsp;</p>
+<p>Ms Veronica Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lay_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_kim@moe.edu.sg</a>
+<p><a href="mailto:veronica_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
