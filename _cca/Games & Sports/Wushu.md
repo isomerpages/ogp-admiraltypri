@@ -187,13 +187,11 @@ beyond their academic years.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/IMG_20250402_WA0008.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/IMG_20250402_WA0014.jpg">
 </div>
@@ -201,7 +199,6 @@ beyond their academic years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/IMG_20250424_135028.jpg">
 </div>
@@ -209,7 +206,6 @@ beyond their academic years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/image.jpg">
 </div>
