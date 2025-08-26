@@ -25,7 +25,7 @@ enable them to lead an active and healthy lifestyle.</p>
 </ul>
 <h4>Overview</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Overview.jpg">
 </div>
 <h4>Additional Practice Schedule</h4>
 <p>Selected students will be invited to attend additional Tchoukball and
