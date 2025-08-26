@@ -127,12 +127,20 @@ International Bazaar 23</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/S3.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/20250416_132629.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/IMG_20240423_WA0001.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/IMG_20250802_WA0009.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Slide1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Slide2.jpg">
 </div>
 <p>Click here to watch some video</p>
 <p><a href="https://drive.google.com/file/d/14CTrwKj4RqdeZio73_2PTFJ5jaMLw2Lf/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 SYF piece</a>

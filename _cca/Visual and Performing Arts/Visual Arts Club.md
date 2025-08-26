@@ -10,22 +10,15 @@ variant: tiptap
 </div>
 <p>In Visual Arts (VA) Club, Admirals are given the opportunity to explore
 various mediums of Art, learn to appreciate the work of Arts by famous
-artists and be reflective learners. Our VA Admirals also participated in
-school and national events to develop a sense of confidence, ownership,
+artist and be reflective learners. Our VA Admirals also participated in
+the school and national events to develop a sense of confidence, ownership,
 pride, teamwork and most importantly, leadership in their assigned scope
 of work.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA4.jpg">
-</div>
 <h4>Goal</h4>
 <p>VA Admirals will develop and enhance their awareness and understanding
 of the world through appreciation of the visual arts. They get to articulate
 the logic of the formal, spatial, material, and technical elements of a
 work of art skillfully to express their thoughts and messages to the audience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA6.jpg">
-</div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,13 +36,9 @@ interest</p>
 <p>To create an environment for the nurturing of life skills through Art</p>
 </li>
 </ul>
-<p>Our VA Admirals have also worked hard to create Art works for the National
-Day Exhibition titled ‘My Singapore’. Please <a href="https://www.youtube.com/watch?v=KsRY2sBO7nQ" rel="noopener nofollow" target="_blank">click here</a> to watch
-the behind-the-scenes video!</p>
-<p></p>
 <h4>Schedule</h4>
 <p>During Timetabled CCA Sessions:
-<br>Mondays [7.40 a.m. to 9.40 a.m.]</p>
+<br>Mondays [7.40 a.m. to 9.10 a.m.]</p>
 <h4>Teachers-in-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -63,15 +52,18 @@ the behind-the-scenes video!</p>
 <p>Mdm Nuruljannah Mukasim</p>
 <p>Mdm Farhanah Razar</p>
 <p>Mdm Rashidah</p>
+<p>Mr Mohamed Irfan Syarial Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_lan@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yoke_lan@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto: nuruljannah_mukasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuruljannah_mukasim@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto:farhanah_banu_abdul_razar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_banu_abdul_razar@moe.edu.sg</a></strong>
 </p>
-<p><a href="mailto:rashidah_ismail_neville@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_ismail_neville@moe.edu.sg</a>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_ismail_neville@moe.edu.sg</a></strong>
+</p>
+<p><strong><a href="mailto:chin_yoke_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_irfan_syarial_sharif@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -82,50 +74,43 @@ the behind-the-scenes video!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/VA7.jpg">
 </div>
 <h4>Achievements</h4>
-<p><strong>2023</strong> 
-<br>This year’s SYF Art Exhibition, themed ‘Artist and Inspiration’, aims
-to nurture in students a keen appreciation for historical and cultural
-influences in art. Here are some of the art works that VA Admirals have
-submitted for the competition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement1" src="/images/2023_va_achievment1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement2" src="/images/2023_va_achievment2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 VA Achievement3" src="/images/2023_va_achievment3.png">
-</div>
-<p><strong>2022</strong> 
-<br><strong>Won Gold Award for DRAW MY STAMP STORY COMPETITION 2022</strong>
+<p><strong>2025</strong>
 </p>
+<p>This year's SYF Art Exhibition, themed 'Artist and Collaboration: Tiny
+Wonders, Big Ideas', aimed to nurture students' keen eye for discovering
+Singapore's unique characteristics through collaborative art-making, where
+young artists worked together to capture the intricate details of our nation
+whilst envisioning possibilities for its future. Our VA Admirals' SYF submissions
+capture Singapore's journey and spirit through various artistic mediums,
+one of which was recently displayed at the National Gallery Singapore.
+Here are their works:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gold Award for DRAW MY STAMP STORY COMPETITION 2022" src="/images/2023%20stamp%20story%20competition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide7.jpg">
 </div>
-<p><strong><u>CHEN RUI XI, 4 Endurance</u></strong>
-</p>
-<p><strong>2021</strong>
-</p>
-<p>For Singapore Youth Festival 2021, our students had a chance to showcase
-their artworks titled ’Life Made Easy with Technology’ and ‘A Day Juggling
-with Technology’ through their Artist Talk presentations below. You can
-also view the submitted SYF works via our virtual Art Exhibition link.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide8.jpg">
 </div>
-<p>For Draw My Stamp Story Art Competition 2021, Liew Wen Xin received a
-Silver Award for her submission!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VA4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide9.jpg">
 </div>
-<p><strong>Additional info</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide11.jpg">
+</div>
+<p>Our VA Admirals have also worked hard to create Art works for the National
+Day Exhibition titled ‘My Singapore’. Please click on the image below to
+watch the behind-the-scenes video!</p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=KsRY2sBO7nQ"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Visual Arts/Slide12.jpg"></a>
+<h4><strong>Additional info</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>There is no specific pre-requisite to be a member of Visual Arts Club.</p>
 </li>
 <li>
-<p>Admirals need to be passionate and have the interest in Art.</p>
+<p><strong>Admirals need to be passionate and have the interest in Art.</strong>
+</p>
 </li>
 <li>
 <p>Admirals are required to bring along the following items for a meaningful
@@ -133,14 +118,19 @@ VA Club CCA Experience:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Art Sketchbook (dedicated for VA Club).</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>It serves as a collection point for portfolios and task explorations throughout
 the CCA sessions. It should be cherished and well-maintained to prepare
 for use in P6.</p>
 </li>
+</ul>
+</li>
 <li>
-<p>VA Bag to hold all the itemsArt Apron</p>
+<p>VA Bag to hold all the items</p>
+</li>
+<li>
+<p>Art Apron</p>
 </li>
 <li>
 <p>Art Stationery such as 2B Pencils, Ruler, and Eraser</p>
@@ -149,17 +139,17 @@ for use in P6.</p>
 <p>A Set of Colour Pencils and Oil Pastels</p>
 </li>
 <li>
-<p>A Few Paint Brushes for Personal Use</p>
+<p>Few Paint Brushes for Personal Use</p>
 </li>
 <li>
-<p>A Glue Stick</p>
+<p>Glue Stick</p>
 </li>
 <li>
 <p>A Packet of Dry / Wet Tissue / Cloth (for cleaning up)</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
 <p></p>

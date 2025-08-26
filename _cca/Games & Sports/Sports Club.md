@@ -25,7 +25,7 @@ enable them to lead an active and healthy lifestyle.</p>
 </ul>
 <h4>Overview</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Overview.jpg">
 </div>
 <h4>Additional Practice Schedule</h4>
 <p>Selected students will be invited to attend additional Tchoukball and
@@ -49,7 +49,7 @@ badminton training sessions.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm – 4.45 pm</p>
+<p>2.30 pm – 4.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -112,10 +112,10 @@ badminton training sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Kim&nbsp; &nbsp; &nbsp;</p>
+<p>Ms Veronica Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lay_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_kim@moe.edu.sg</a>
+<p><a href="mailto:veronica_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -129,6 +129,9 @@ badminton training sessions.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Sports_Club_CCA_website___Updated_22_Aug_2025__Slide_6_7_8_13_and_14_.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11_1.jpg">
@@ -146,13 +149,7 @@ badminton training sessions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide8_1.jpg">
 </div>
 <h4>Achievement</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide12_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide13_1.jpg">
-</div>
 <h4>Further information</h4>
 <p><strong>Q1: What kind of sports can my child learn during CCA?</strong>
 </p>
