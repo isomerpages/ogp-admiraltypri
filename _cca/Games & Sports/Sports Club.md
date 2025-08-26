@@ -129,6 +129,9 @@ badminton training sessions.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Sports_Club_CCA_website___Updated_22_Aug_2025__Slide_6_7_8_13_and_14_.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide11_1.jpg">
@@ -146,13 +149,7 @@ badminton training sessions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide8_1.jpg">
 </div>
 <h4>Achievement</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide12_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Slide13_1.jpg">
-</div>
 <h4>Further information</h4>
 <p><strong>Q1: What kind of sports can my child learn during CCA?</strong>
 </p>
