@@ -127,6 +127,9 @@ International Bazaar 23</p>
 <p>Singapore Youth Festival Arts Presentation</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/S3.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/IMG_20240423_WA0001.jpg">
