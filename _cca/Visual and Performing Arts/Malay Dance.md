@@ -119,7 +119,7 @@ receive notifications accordingly.</p>
 </tr>
 </tbody>
 </table>
-<h4>Our CCA Leaders (2023)</h4>
+<h4>Our CCA Leaders (2025)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
