@@ -153,28 +153,72 @@ beyond their academic years.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Junior Girls Group (Fists)</p>
-<p>Junior Girls Group (Weapons)</p>
-<p>Senior Girls Group (Fists)</p>
-<p>Senior Girls Group (Weapons)</p>
-<p>Senior Girls 24-Style Taijiquan (Individual)</p>
-<p>Senior Girls 42-Style Taijijian (Individual)</p>
-<p>Junior Boys 5-Duan Cudgel (Individual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Girls Group (Weapons)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Girls Group (Fists)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7<sup>th</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Girls Group (Weapons)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7<sup>th</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 24-Style Taijiquan (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7<sup>th</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Girls 42-Style Taijijian (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6<sup>th</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Boys 5-Duan Cudgel (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4<sup>th</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -207,6 +251,13 @@ beyond their academic years.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/IMG_20250424_WA0009.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/image.jpg">
 </div>
 </td>
@@ -216,38 +267,34 @@ beyond their academic years.</p>
 <h4>Additional info</h4>
 <p><strong>Frequently Asked Questions:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Can my child who has no prior knowledge or experience in Wushu join the CCA?</strong>
 </p>
-</li>
-</ul>
 <p>Yes, we welcome all students who have the passion to join the CCA. Our
 professional coaches have years of experience and are able to properly
 guide each and every student, regardless of their background.</p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>Is it necessary for my child to purchase their own weapons and attire upon joining the CCA?</strong>
 </p>
-</li>
-<li>
 <p>It is not compulsory for students to purchase their own attire and weapons,
 but it is highly recommended. As Wushu involves exaggerated body movements,
 having the right attire allows students to move more comfortably during
 training sessions. The purchase of attire will be done directly through
 the coaches.</p>
-</li>
-</ul>
 <p>Students are also encouraged to purchase their own weapons upon joining
 the CCA. The type of weapon to be purchased will be advised by the coaches
 as it depends on the events/routines that the students are assigned to.</p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>My child is not very strong in/is not able to speak Mandarin fluently. Will he/she still be able to join the CCA?</strong>
 </p>
 <p>Our coaches are able to speak both English and Mandarin. The teachers-in-charge
 will also be around to help with translation should there be a need to.</p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p></p>
