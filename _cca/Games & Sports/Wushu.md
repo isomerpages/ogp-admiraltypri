@@ -294,7 +294,7 @@ as it depends on the events/routines that the students are assigned to.</p>
 </p>
 <p>Our coaches are able to speak both English and Mandarin. The teachers-in-charge
 will also be around to help with translation should there be a need to.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
