@@ -136,3 +136,5 @@ to 2 pm)</p>
 <br>Friday - 8:00am to 5:00pm
 <br>Lunch Time - 1:00pm to 2:00pm
 <br>Tel: 85184719</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1NGwk9fvdyB9Owtl2aOAb-XQ6tpJiQqgN/edit?usp=sharing&amp;ouid=111252705781564278326&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Dental Clinic Monthly Schedule Click Here</a>
+</p>
