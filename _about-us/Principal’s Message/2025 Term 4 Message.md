@@ -22,12 +22,12 @@ Lawrence Wong’s message during the National Day Rally in August, where
 he urged us to embrace a “we first” attitude. At Admiralty Primary School,
 we believe strongly in laying the foundation and platforms for our students
 to grow such a mentality. In fact, the “T” in our School Values (G.R.I.T.)
-stands for Teamwork – a reminder that we achieve more when we work together
-and uplift those around us. Through platforms such as Admiralty’s Got Talent,
-National Day Observance Ceremony and Kalaithiran (just to name a few school
-events that concluded in Term 3), our Admirals have shown – and impressed
-us – time and again that they are capable of achieving great things through
-solid teamwork and a “we first” mentality.</p>
+stands for <strong>Teamwork </strong>– a reminder that we achieve more when
+we work together and uplift those around us. Through platforms such as
+Admiralty’s Got Talent, National Day Observance Ceremony and Kalaithiran
+(just to name a few school events that concluded in Term 3), our Admirals
+have shown – and impressed us – time and again that they are capable of
+achieving great things through solid teamwork and a “we first” mentality.</p>
 <p>To further encourage the “we first” mindset, both in school and at home,
 I would like to propose a small but powerful shift in how we guide our
 children. When our Admirals ask what others (be it teachers, parents or
@@ -41,18 +41,27 @@ yet consistent actions, our Admirals will be able to see how their contributions
 play an important part towards creating a better environment for everyone
 over time. The following are some questions we could get our Admirals to
 reflect on in the days ahead:</p>
-<p>1. Why is it important to adopt a “we first” attitude, and not “me first”?
+<ol data-tight="true" class="tight">
+<li>
+<p>Why is it important to adopt a “we first” attitude, and not “me first”?
 What happens if everyone adopts a “me first” mentality?</p>
-<p>2. What does a “we first” attitude mean to me?</p>
-<p>3. What are some things that I could do – in school and at home – to contribute
+</li>
+<li>
+<p>What does a “we first” attitude mean to me?</p>
+</li>
+<li>
+<p>What are some things that I could do – in school and at home – to contribute
 towards the positive well-being of others? (Small actions and steps count
 and are important!)</p>
+</li>
+</ol>
 <p>Parents and guardians, thank you once again for your steadfast support.
 As we step into Term 4, let us continue this strong Home-School partnership
 and work together to ensure a positive and meaningful conclusion to the
 school year.</p>
 <p></p>
 <p>Yours faithfully,</p>
-<p>Mr Chen Zhongyi
-<br>Principal</p>
+<p><strong>Mr Chen Zhongyi </strong>
+<br><strong>Principal</strong>
+</p>
 <p></p>
