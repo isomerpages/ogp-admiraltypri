@@ -64,4 +64,3 @@ school year.</p>
 <p><strong>Mr Chen Zhongyi </strong>
 <br><strong>Principal</strong>
 </p>
-<p></p>
