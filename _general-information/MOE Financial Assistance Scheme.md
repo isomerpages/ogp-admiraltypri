@@ -51,7 +51,7 @@ variant: tiptap
 <p>Electronic Application Form (eFAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p><a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 </td>
 </tr>
