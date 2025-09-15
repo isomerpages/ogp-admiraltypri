@@ -132,10 +132,19 @@ in generating &amp; testing potential solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozianah Bte Rahim</p>
+<p>Mdm Ng Soek Mui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="rozianah_rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">rozianah_rahim@moe.edu.sg</a>
+<p><a href="mailto:ng_soek_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_soek_mui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Shin Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_shin_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shin_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -155,6 +164,15 @@ in generating &amp; testing potential solutions.</p>
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation Programme 2024 (IvP, organized by GE Branch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Distinction Award</p>
+<p>1 Merit Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
