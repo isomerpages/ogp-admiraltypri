@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal’s Message/2025 Term 4 Message.md
       - Principal’s Message/.keep
       - Principal’s Message/Message for year 2025.md
       - Principal’s Message/2025 Term 3 Message.md
