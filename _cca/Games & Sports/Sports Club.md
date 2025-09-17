@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Games & Sports
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Picture1.png">
+</div>
 <h4>Goals</h4>
 <p>To promote and develop students’ interest and competency in sports to
 enable them to lead an active and healthy lifestyle.</p>
@@ -151,6 +155,9 @@ badminton training sessions.</p>
 <h4>Achievement</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Sports_Club_CCA_website___Updated_21_Aug_2025__Slide_1_6_7_8_13_and_14_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports Club/Sports_Club_CCA_website___13.jpg">
 </div>
 <h4>Further information</h4>
 <p><strong>Q1: What kind of sports can my child learn during CCA?</strong>
