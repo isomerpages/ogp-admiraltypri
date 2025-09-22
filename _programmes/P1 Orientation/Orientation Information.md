@@ -139,7 +139,8 @@ School.</p>
 <p>Student Care Centre (SCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/forms/d/1O-J0HyEqyHJgEpJTEt1tmyPQ1UaMaO-cuskzsyLQ2gI/viewform?pli=1&amp;pli=1&amp;edit_requested=true" rel="noopener nofollow" target="_blank">Open for Registration</a>
+</p>
 </td>
 </tr>
 <tr>
