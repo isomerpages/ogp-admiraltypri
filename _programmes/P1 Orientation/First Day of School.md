@@ -35,7 +35,7 @@ school carpark. You are encouraged to park at the nearby HDB carparks next
 to the school.</p>
 </li>
 <li>
-<p>For the first day of school on&nbsp;<strong>Thursday, 2 January 2025, your child/ward will report to school by 8.00 a.m.</strong>
+<p>For the first day of school on&nbsp;<strong>Friday, 2 January 2026, your child/ward will report to school by 8.00 a.m.</strong>
 </p>
 </li>
 <li>
