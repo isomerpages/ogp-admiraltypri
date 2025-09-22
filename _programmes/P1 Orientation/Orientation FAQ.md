@@ -43,7 +43,7 @@ logos acceptable? &nbsp; <strong><br>School shoes should be mostly white, either
 <p><strong>1. When will I get the booklist?</strong>
 <br>You may download the booklist by end November. Alternatively, you can
 request from the General Office.</p>
-<p>2. <strong>When can I start buying books?</strong>
+<p><strong>2. When can I start buying books?</strong>
 <br>You may refer to the booklist on the sales date which typically falls
 during the Nov/Dec school holidays from the school bookshop. You are encouraged
 to buy them early and to order online, if possible.
@@ -51,29 +51,25 @@ to buy them early and to order online, if possible.
 of purchase.
 <br>Website: <a href="https://www.rickybookcentre.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.rickybookcentre.com.sg/</a>
 </p>
-<p>3. When can I start applying for MOE Financial Assistance Scheme (MOE
-FAS) and where can I find the application form?
+<p><strong>3.</strong>  <strong>When can I start applying for MOE Financial Assistance Scheme (MOE FAS) and where can I find the application form? </strong>
 <br>Please refer to the MOE website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> for
 more information on the MOE FAS eligibility and application.</p>
-<p>4. If I am applying for FAS, should I purchase the books and uniform before
-getting the application result?
+<p><strong>4. If I am applying for FAS, should I purchase the books and uniform before getting the application result?</strong> 
 <br>You should wait for the application outcome before purchasing the books
 and uniform. The school provides subsidy by paying the vendor and does
 not reimburse parents for cost incurred on purchase of books and uniform.</p>
-<p>5. Is there a submission deadline for MOE FAS application?
+<p><strong>5. Is there a submission deadline for MOE FAS application? </strong>
 <br>There is no submission deadline. You may apply during the year should
 your circumstances change.</p>
-<p>6. Where can we get the application forms for School Bus, School Student
-Care Centre etc.?
+<p><strong>6. Where can we get the application forms for School Bus, School Student Care Centre etc.? </strong>
 <br>You may find the relevant forms here (School Vendors)</p>
-<p>7. What if I am unable to download or print the online forms?
+<p><strong>7. What if I am unable to download or print the online forms? </strong>
 <br>You may contact school’s General Office for assistance.</p>
-<p>8. Does the school have a student care centre?
+<p><strong>8.</strong>  <strong>Does the school have a student care centre? </strong>
 <br>Yes, it is operated by The Learning Harbour. You may get more information
 from their Website: <a href="https://scc.learningharbour.org/tlh-Admiralty-primary-school/" rel="noopener noreferrer nofollow" target="_blank">https://scc.learningharbour.org/tlh-Admiralty-primary-school/</a>
 </p>
-<p>9. Where can I get more information about student care centres around
-the school?
+<p><strong>9.</strong>  <strong>Where can I get more information about student care centres around the school? </strong>
 <br>You can get more information from the MSF website.
 <br>Website: <a href="https://www.msf.gov.sg/our-services/directories#studenttab" rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#studenttab</a>
 </p>
