@@ -49,7 +49,7 @@ Admirals to play a part to contribute to a caring and united Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE2.png">
 </div>
-<p><strong><em>GRIT Bear Awards </em></strong>
+<p><strong><em>GRIT Bear Awards</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE3.png">
@@ -65,7 +65,7 @@ kind is a value we uphold and a habit we strive to live by.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/CCE4.png">
 </div>
-<p><strong><em>Spot the Spark, Catch it Right! </em></strong>
+<p><strong><em>Spot the Spark, Catch it Right!</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/cce5.png">
