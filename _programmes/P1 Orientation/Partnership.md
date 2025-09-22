@@ -63,6 +63,4 @@ a key role to help create a holistic education for the students.</p>
 good eating habits from young. Hence, in support of the Health Promotion
 Board, the school has implemented the Healthy Meals in School Programme
 (HSMP).</p>
-<p>Ever wondered what our school’s canteen menu is like? You can discuss
-with your child on how to make healthy food choices. Click here for more
-information</p>
+<p></p>
