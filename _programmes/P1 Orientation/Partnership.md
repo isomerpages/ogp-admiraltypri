@@ -19,14 +19,14 @@ a key role to help create a holistic education for the students.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><a href="http://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/parentingwith.moesg/?hl=en" rel="noopener noreferrer nofollow" target="_blank"><u>Parenting With MOE</u></a>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/parentingwith.moesg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Parenting With MOE</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,6 +63,4 @@ a key role to help create a holistic education for the students.</p>
 good eating habits from young. Hence, in support of the Health Promotion
 Board, the school has implemented the Healthy Meals in School Programme
 (HSMP).</p>
-<p>Ever wondered what our school’s canteen menu is like? You can discuss
-with your child on how to make healthy food choices. Click here for more
-information</p>
+<p></p>
