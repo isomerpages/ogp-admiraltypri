@@ -65,6 +65,3 @@ the First Day of School Programme for parents.</p>
 </ul>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
