@@ -57,7 +57,7 @@ the First Day of School Programme for parents.</p>
 <p>TBC</p>
 </li>
 </ul>
-<h4>Lunch on 2 Jan 2025</h4>
+<h4>Lunch on 2 Jan 2026</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>TBC</p>
