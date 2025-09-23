@@ -148,7 +148,7 @@ School.</p>
 <p>Holistic Enrichment Programme (Monday mornings for P1 and P2 students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.kidsexcel.net/admiraltyps</a>
+<p><a href="https://www.kidsexcel.net/admiraltyps" rel="noopener noreferrer nofollow" target="_blank">https://www.kidsexcel.net/admiraltyps</a>
 </p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ School.</p>
 <p>List of external student care centres</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#studenttab</a>
+<p><a href="https://www.msf.gov.sg/our-services/directories#studenttab" rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#studenttab</a>
 </p>
 </td>
 </tr>
