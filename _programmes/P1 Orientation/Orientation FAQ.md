@@ -62,7 +62,7 @@ not reimburse parents for cost incurred on purchase of books and uniform.</p>
 <br>There is no submission deadline. You may apply during the year should
 your circumstances change.</p>
 <p><strong>6. Where can we get the application forms for School Bus, School Student Care Centre etc.? </strong>
-<br>You may find the relevant forms here (School Vendors)</p>
+<br>You may find the relevant forms here (<a href="https://www.admiraltypri.moe.edu.sg/general-information/school-vendors/" rel="noopener nofollow" target="_blank">School Vendors</a>)</p>
 <p><strong>7. What if I am unable to download or print the online forms? </strong>
 <br>You may contact school’s General Office for assistance.</p>
 <p><strong>8.</strong>  <strong>Does the school have a student care centre? </strong>
