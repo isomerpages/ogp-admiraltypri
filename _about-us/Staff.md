@@ -1415,18 +1415,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ashari Bin Mohamed Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ash.salleh27@gmail.com" rel="noopener noreferrer nofollow" target="_blank">ash.salleh27@gmail.com</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Arif</p>
 </td>
 <td rowspan="1" colspan="1">
