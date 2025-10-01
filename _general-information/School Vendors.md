@@ -108,6 +108,23 @@ the size.</p>
 <p>19-Sep-25</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10-Oct-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24-Oct-25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Walk-in Purchase at Retail Outlet</strong>
