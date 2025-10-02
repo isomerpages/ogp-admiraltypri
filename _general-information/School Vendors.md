@@ -18,13 +18,25 @@ Please contact our bookshop vendor, if you have problems accessing the
 site.</p>
 <h4>School Bus</h4>
 <p><strong>RushOwl Singapore Pte Ltd</strong>
+<br>Contact Person: Ms. Zoe
+<br>Contact No: 8378 3837
+<br>Email: <a href="mailto:school@rushowl.sg" rel="noopener noreferrer nofollow" target="_blank">school@rushowl.sg</a>
 </p>
-<p>Contact Person: Ms. Zoe</p>
-<p>Contact No: 6871 8817</p>
-<p>Email: <a href="mailto:school@rushowl.sg" rel="noopener noreferrer nofollow" target="_blank">school@rushowl.sg</a>
+<p>Registration Information for 2026: <a href="/files/GO PDF/Rushowl_Letter_2026_ADPS.pdf" rel="noopener nofollow" target="_blank">Rushowl Letter 2026 ADPS</a>
 </p>
-<p>Registration Form: <a href="https://rushowl-sg-ops-tracker.atlassian.net/servicedesk/customer/portal/1/group/1/create/10015" rel="noopener nofollow" target="_blank">RushOwl School Bus Transportation Registration Form</a>
+<p><strong>Parent Briefing Sessions (via Google Meet)</strong>
+<br>1) Tuesday 28th October - 5pm to 6pm
+<br>2) Sunday 9th November - 5pm to 6pm</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QRcode_1.png">
+</div>
+<p><strong>Registration Form</strong> (Registration cutoff will be 16th November
+2025)
+<br><a href="https://rushowl-app.atlassian.net/servicedesk/customer/portal/1/group/203/create/10015" rel="noopener noreferrer nofollow" target="_blank">https://rushowl-app.atlassian.net/servicedesk/customer/portal/1/group/203/create/10015</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QRcode_2.png">
+</div>
 <p></p>
 <p>Bus Fare Period: 1 Jan 2025 to 31 Dec 2026</p>
 <div class="isomer-image-wrapper">
