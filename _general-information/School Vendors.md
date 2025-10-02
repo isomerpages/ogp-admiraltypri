@@ -40,7 +40,7 @@ site.</p>
 <p></p>
 <p>Bus Fare Period: 1 Jan 2025 to 31 Dec 2026</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
 </div>
 <h4>School Uniform</h4>
 <p><strong>JEEP SING FASHION</strong>
