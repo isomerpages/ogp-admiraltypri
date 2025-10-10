@@ -442,6 +442,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P1_Term_4_LF_2025.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Level Matters/P2_Term_4_LF_2025.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 4</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
