@@ -35,10 +35,13 @@ to support your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1an_ULrYc21fup4WSSDR46P6lc8wKnPfH/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/CCE.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Screenshot_2025_10_17_141248.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -46,7 +49,7 @@ to support your child.</p>
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yLB4vOrJbk-WtBb8uN2qLIK_b_xf9JPN/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/PE.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1WeqVlBrNgq4PtY8lQlAr-rXwYkOZq9TI/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/SML.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1WeqVlBrNgq4PtY8lQlAr-rXwYkOZq9TI/view"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/SML.jpg"></a>
 </td>
 </tr>
 </tbody>
