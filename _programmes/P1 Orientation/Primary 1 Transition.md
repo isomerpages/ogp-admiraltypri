@@ -35,10 +35,7 @@ to support your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Screenshot_2025_10_17_141248.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ooIQn8_wqMJ7Sxyb2qRLeG00Sjlv3kus/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Screenshot_2025_10_17_141248.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.jpg"></a>
