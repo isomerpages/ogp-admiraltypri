@@ -27,7 +27,7 @@ to support your child.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ZnJ11pzYH1LTf9E2Ib7DYIYaAk4SlsJ6/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/English.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ZnJ11pzYH1LTf9E2Ib7DYIYaAk4SlsJ6/view"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/English.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1CIKtFaMRXOzqxUba7b92_r6veH84hCzy/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Maths.jpg"></a>
@@ -35,15 +35,15 @@ to support your child.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ooIQn8_wqMJ7Sxyb2qRLeG00Sjlv3kus/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/Screenshot_2025_10_17_141248.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1ooIQn8_wqMJ7Sxyb2qRLeG00Sjlv3kus/view?usp=sharing"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/Screenshot_2025_10_17_141248.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1d42CRRrSJtL2EJGCWjDLwqrGuqxZ3LWi/view"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1sriMD_iANjrhk2XCxSc39fGwVB9PWNQf/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/MT.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yLB4vOrJbk-WtBb8uN2qLIK_b_xf9JPN/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation/PE.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1yLB4vOrJbk-WtBb8uN2qLIK_b_xf9JPN/view"><img style="width: 90%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/PE.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1WeqVlBrNgq4PtY8lQlAr-rXwYkOZq9TI/view"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/SML.jpg"></a>
@@ -51,7 +51,6 @@ to support your child.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1q9OXB_j3cnH0gkFPvYBZYfp1uncjy3Iq/view?usp=sharing"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1 Orientation/PSG.png"></a>
 <p></p>
 <p></p>
