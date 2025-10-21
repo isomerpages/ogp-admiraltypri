@@ -4,75 +4,19 @@ permalink: /general-information/moe-fas/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE FAS Info Sheet (In English)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
+<p><strong>Enhanced MOE Financial Assistance for Primary School Students for Academic Year 2026</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE FAS Info Sheet (In Malay)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE FAS Info Sheet (In Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document_4b_MOE_FAS_pamphet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOE FAS Info Sheet (In Tamil)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO PDF/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Pamphlet</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Electronic Application Form (eFAS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>eFAS User Guide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO%20PDF/fas%20user%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Application Form for download (submit completed form to GO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GO%20PDF/moe%20fas%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>&nbsp;</strong>The Ministry of Education (MOE) has announced significant
+enhancements to its financial assistance schemes that will benefit primary
+school students and their families. These changes will take effect from
+Academic Year 2026.</p>
+<p>&nbsp;Applications for financial assistance will start from Tuesday, 21
+October 2025.</p>
+<p>&nbsp;Parents can apply for the financial assistance through Parents Gateway
+app services.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services.jpg">
+</div>
+<p>More details from the Press Release: <a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Schemes to Benefit Additional 31,000 Students | MOE</a>
+</p>
