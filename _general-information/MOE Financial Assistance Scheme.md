@@ -14,7 +14,6 @@ Academic Year 2026.</p>
 October 2025.</p>
 <p>&nbsp;Parents can apply for the financial assistance through Parents Gateway
 app services.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services.jpg">
 </div>
