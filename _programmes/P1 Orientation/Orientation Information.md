@@ -182,7 +182,5 @@ School.</p>
 </tr>
 </tbody>
 </table>
-<h4>Orientation Slides</h4>
-<p>This section will be updated after the P1 Orientation Day.</p>
-<p></p>
+<h4></h4>
 <p></p>
