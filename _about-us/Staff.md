@@ -1379,7 +1379,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Mei Hui</p>
+<p>Ms Goh Mei Wai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
