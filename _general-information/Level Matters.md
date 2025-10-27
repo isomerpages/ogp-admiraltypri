@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Content of Student's File</h3>
+<p><strong>Primary 4 Subject-Based Banding</strong> - <a href="/files/Level Matters/P4_SBB.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
