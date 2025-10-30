@@ -137,7 +137,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Newsletter</h4>
-<p><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024 Issue 1</a>
+<p><a href="https://drive.google.com/file/d/1knGnlLZK60jja2bBphzAqwwcIqC6mmnF/view?usp=sharing" rel="noopener nofollow" target="_blank">Admiral's Buzz Newsletter 2025</a>
+</p>
+<p><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024</a>
 </p>
 <p><a href="/files/admiral's%20buzz%20newsletter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2023</a>
 </p>
