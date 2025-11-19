@@ -16,7 +16,7 @@ October 2025.</p>
 app services.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="1600" width="738" alt="" src="/images/PG.jpg">
+<img style="width: 30%;" height="1600" width="738" alt="" src="/images/PG.jpg">
 </div>
 <p>More details from the Press Release: <a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Schemes to Benefit Additional 31,000 Students | MOE</a>
 </p>
