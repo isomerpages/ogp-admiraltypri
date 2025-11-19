@@ -146,26 +146,17 @@ variant: tiptap
 </table>
 <h4>Newsletter</h4>
 <p><a href="https://drive.google.com/file/d/1knGnlLZK60jja2bBphzAqwwcIqC6mmnF/view?usp=sharing" rel="noopener nofollow" target="_blank">Admiral's Buzz Newsletter 2025</a>
-</p>
-<p><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024</a>
-</p>
-<p><a href="/files/admiral's%20buzz%20newsletter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2023</a>
+<br><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024</a>
+<br><a href="/files/admiral's%20buzz%20newsletter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2023</a>
 </p>
 <p><a href="/files/PARENTS%20CONNECT%20@%20ADPS%20Issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 1</a>
-</p>
-<p><a href="/files/Parents%20Connect%20@ADPS%20Issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 2</a>
-</p>
-<p><a href="/files/parents%20connect%20issue%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 3</a>
-</p>
-<p><a href="/files/parents%20connect%20issue%204.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 4</a>
-</p>
-<p><a href="/files/News%20Letters/Parents_connect_issue_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 5</a>
-</p>
-<p><a href="/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 6</a>
-</p>
-<p><a href="/files/ADP_Parents_Connect_Issue_7.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 7</a>
-</p>
-<p><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
+<br><a href="/files/Parents%20Connect%20@ADPS%20Issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 2</a>
+<br><a href="/files/parents%20connect%20issue%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 3</a>
+<br><a href="/files/parents%20connect%20issue%204.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 4</a>
+<br><a href="/files/News%20Letters/Parents_connect_issue_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 5</a>
+<br><a href="/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 6</a>
+<br><a href="/files/ADP_Parents_Connect_Issue_7.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 7</a>
+<br><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
 </p>
 <h5>Past School Calender</h5>
 <p><a href="/files/GO%20PDF/2024_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - 2024</a> 
