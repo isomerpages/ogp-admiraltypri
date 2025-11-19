@@ -2,7 +2,7 @@
 title: MOE Financial Assistance Scheme
 permalink: /general-information/moe-fas/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Enhanced MOE Financial Assistance for Primary School Students for Academic Year 2026</strong>
 </p>
@@ -15,9 +15,8 @@ October 2025.</p>
 <p>&nbsp;Parents can apply for the financial assistance through Parents Gateway
 app services.</p>
 <p></p>
-
-<img height="1600" width="738" alt="" src="/images/PG.jpg">
-
-							 
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="1600" width="738" alt="" src="/images/PG.jpg">
+</div>
 <p>More details from the Press Release: <a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Schemes to Benefit Additional 31,000 Students | MOE</a>
 </p>
