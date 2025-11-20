@@ -4,14 +4,22 @@ permalink: /usefullinks/
 description: ""
 variant: tiptap
 ---
+<h4>2026 Booklist</h4>
+<p><a href="/files/GO PDF/Admiralty_Primary_School___P1_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P1 - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P2_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P2 - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P3_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P3 - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P4_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P4 - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P5_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P5 - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P5_3STD_1FMA_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P5 3STD 1FMA - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P5_4STD_1HMT_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P5 4STD 1HMT Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P6_4STD_1HMT_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P6 4STD 1HMT - Booklist</a>
+<br><a href="/files/GO PDF/Admiralty_Primary_School___P6_4STD_3STD1F_4F_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P6 4STD, 3STD1F &amp; 4F - Booklist</a>
+</p>
 <h4>School Calendar</h4>
 <p><a href="/files/GO PDF/2025_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Calendar</a>
-</p>
-<p><a href="/files/GO PDF/2025_Term_2_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar</a>
-</p>
-<p><a href="/files/GO PDF/2025_Term_3_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Calendar</a>
-</p>
-<p><a href="/files/GO PDF/2025_Term_4_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_2_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_3_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_4_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Calendar</a>
 </p>
 <h4>Students/Parents</h4>
 <table style="minWidth: 50px">
@@ -138,26 +146,17 @@ variant: tiptap
 </table>
 <h4>Newsletter</h4>
 <p><a href="https://drive.google.com/file/d/1knGnlLZK60jja2bBphzAqwwcIqC6mmnF/view?usp=sharing" rel="noopener nofollow" target="_blank">Admiral's Buzz Newsletter 2025</a>
-</p>
-<p><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024</a>
-</p>
-<p><a href="/files/admiral's%20buzz%20newsletter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2023</a>
+<br><a href="/files/Admiral_s_Buzz_Newsletter_2024_Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2024</a>
+<br><a href="/files/admiral's%20buzz%20newsletter%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Admiral's Buzz Newsletter 2023</a>
 </p>
 <p><a href="/files/PARENTS%20CONNECT%20@%20ADPS%20Issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 1</a>
-</p>
-<p><a href="/files/Parents%20Connect%20@ADPS%20Issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 2</a>
-</p>
-<p><a href="/files/parents%20connect%20issue%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 3</a>
-</p>
-<p><a href="/files/parents%20connect%20issue%204.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 4</a>
-</p>
-<p><a href="/files/News%20Letters/Parents_connect_issue_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 5</a>
-</p>
-<p><a href="/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 6</a>
-</p>
-<p><a href="/files/ADP_Parents_Connect_Issue_7.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 7</a>
-</p>
-<p><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
+<br><a href="/files/Parents%20Connect%20@ADPS%20Issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 2</a>
+<br><a href="/files/parents%20connect%20issue%203.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 3</a>
+<br><a href="/files/parents%20connect%20issue%204.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 4</a>
+<br><a href="/files/News%20Letters/Parents_connect_issue_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 5</a>
+<br><a href="/files/News%20Letters/PARENTS_CONNECT_Issue6.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Connect - Issue 6</a>
+<br><a href="/files/ADP_Parents_Connect_Issue_7.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 7</a>
+<br><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
 </p>
 <h5>Past School Calender</h5>
 <p><a href="/files/GO%20PDF/2024_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - 2024</a> 

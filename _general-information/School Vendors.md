@@ -13,9 +13,8 @@ variant: tiptap
 <br>Email: <a href="mailto:sales@rickybookcentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@rickybookcentre.com.sg</a> 
 <br><strong>Opening Hours on School Days:</strong> 
 <br>Monday – Friday (9:00am to 2:00pm)</p>
-<p>You can click on the following link to place an order for books http://www.rickybookcentre.com.sg.
-Please contact our bookshop vendor, if you have problems accessing the
-site.</p>
+<p>You can click on the following link to place an order for books <a href="https://www.rickybookcentre.com.sg/" rel="noopener nofollow" target="_blank">https://www.rickybookcentre.com.sg/. </a>Please
+contact our bookshop vendor, if you have problems accessing the site.</p>
 <h4>School Bus</h4>
 <p><strong>RushOwl Singapore Pte Ltd</strong>
 <br>Contact Person: Ms. Zoe
