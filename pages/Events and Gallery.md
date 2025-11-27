@@ -55,22 +55,25 @@ description: ADPS Events and Photo Gallery
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>6CH</p>
+<p><a href="https://drive.google.com/drive/folders/1QynMuCGubMkH_Xm8I1NTp3lBGGmtqWS7?usp=sharing" rel="noopener nofollow" target="_blank">6CH</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>6ED</p>
+<p><a href="https://drive.google.com/drive/folders/1cCCZN8IB4GSKJZxu9_1Z7oZR3wtk-USl?usp=sharing" rel="noopener nofollow" target="_blank">6ED</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>6GA</p>
+<p><a href="https://drive.google.com/drive/folders/1gmFqwYwoBmVQ96vlEsH08iY3f57Aaozf?usp=sharing" rel="noopener nofollow" target="_blank">6GA</a>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6CO</strong>
+<p><a href="https://drive.google.com/drive/folders/1MpuIrlCa2-RDmFV1KF1X2SECYM_c1ZnF?usp=sharing" rel="noopener nofollow" target="_blank">6CO</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6GR</strong>
+<p><a href="https://drive.google.com/drive/folders/1-yb_d3FODrphK-tEbGgRXyDbdT_IukL9?usp=sharing" rel="noopener nofollow" target="_blank">6GR</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
