@@ -5,6 +5,83 @@ variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
 <h4><strong>2025 Events and Gallery</strong></h4>
+<p><strong><u>Prize Giving Day</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/14aO_jBFFQydH4O42hBI4n3kkRCgir-hs?usp=sharing" rel="noopener nofollow" target="_blank">P1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1lEd_0gPqt-ENxf33b_R2beN_BwSODVS7?usp=sharing" rel="noopener nofollow" target="_blank">P3</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1-ReO8crleRhHeoIZji6AfXRq-1bAfCwf?usp=sharing" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1RFh-pJeQUDhAK4HvRKhRgLSJcqFvT5Em?usp=sharing" rel="noopener nofollow" target="_blank">P2</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/11iMKJ_2RTolSmCbGF-FIEQGbHWlVR886?usp=sharing" rel="noopener nofollow" target="_blank">P4</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1LeLnaG3E5XWot2vvuZJOY3uIyWENx4oC?usp=sharing" rel="noopener nofollow" target="_blank">P6</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>P6 Graduation</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1QynMuCGubMkH_Xm8I1NTp3lBGGmtqWS7?usp=sharing" rel="noopener nofollow" target="_blank">6CH</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1cCCZN8IB4GSKJZxu9_1Z7oZR3wtk-USl?usp=sharing" rel="noopener nofollow" target="_blank">6ED</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1gmFqwYwoBmVQ96vlEsH08iY3f57Aaozf?usp=sharing" rel="noopener nofollow" target="_blank">6GA</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1MpuIrlCa2-RDmFV1KF1X2SECYM_c1ZnF?usp=sharing" rel="noopener nofollow" target="_blank">6CO</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://drive.google.com/drive/folders/1-yb_d3FODrphK-tEbGgRXyDbdT_IukL9?usp=sharing" rel="noopener nofollow" target="_blank">6GR</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>e-Open House</u></strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1qSlAOg4jG5rDF5Y5NXxmvlfshh05EKJs/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Session 2025 - Slides</a>
