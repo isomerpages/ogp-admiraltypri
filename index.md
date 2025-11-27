@@ -19,6 +19,4 @@ sections:
           description: 2024 - Celebration of Learning
           url: /eventsgallery/
       variant: center
-      button: The school will be closed on 24 November 2025 due to a school event.
-      url: https://www.admiraltypri.moe.edu.sg/
 ---
