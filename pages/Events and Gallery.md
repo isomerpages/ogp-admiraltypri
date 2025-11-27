@@ -5,6 +5,80 @@ variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
 <h4><strong>2025 Events and Gallery</strong></h4>
+<p><strong><u>Prize Giving Day</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/14aO_jBFFQydH4O42hBI4n3kkRCgir-hs?usp=sharing" rel="noopener nofollow" target="_blank">P1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1lEd_0gPqt-ENxf33b_R2beN_BwSODVS7?usp=sharing" rel="noopener nofollow" target="_blank">P3</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1-ReO8crleRhHeoIZji6AfXRq-1bAfCwf?usp=sharing" rel="noopener nofollow" target="_blank">P5</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1RFh-pJeQUDhAK4HvRKhRgLSJcqFvT5Em?usp=sharing" rel="noopener nofollow" target="_blank">P2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/11iMKJ_2RTolSmCbGF-FIEQGbHWlVR886?usp=sharing" rel="noopener nofollow" target="_blank">P4</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1LeLnaG3E5XWot2vvuZJOY3uIyWENx4oC?usp=sharing" rel="noopener nofollow" target="_blank">P6</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>P6 Graduation</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>6CH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>6ED</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>6GA</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6CO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6GR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>e-Open House</u></strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1qSlAOg4jG5rDF5Y5NXxmvlfshh05EKJs/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Session 2025 - Slides</a>
