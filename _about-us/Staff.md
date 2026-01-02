@@ -148,7 +148,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head / Science (Internal)</strong>
+<p><strong>Level Head / Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Mother Tongue Languages</strong>
+<p><strong>HOD / Mother Tongue Languages (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,11 +211,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head / Chinese Language</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mah Yeok Ying</p>
+<p></p>
 </td>
 </tr>
 </tbody>
