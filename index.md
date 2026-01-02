@@ -19,4 +19,6 @@ sections:
           description: 2024 - Celebration of Learning
           url: /eventsgallery/
       variant: center
+      button: Important Update on Personal iPad Usage (Primary 5 and Primary 6)
+      url: https://www.admiraltypri.moe.edu.sg/announcements/
 ---
