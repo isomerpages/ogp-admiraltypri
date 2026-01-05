@@ -61,7 +61,7 @@ with a serving of fruits and vegetables.</p>
 <p>Cool Connections</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beverages</p>
+<p>Deli Point</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ with a serving of fruits and vegetables.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/GO PDF/REVISED_2025Approved_Canteen_Price_List_caa290625.pdf" rel="noopener nofollow" target="_blank">For menu price list please click here</a>
+<p><a href="/files/GO PDF/TOL_CANTEEN_PRICE_LIST_2026__Website_.pdf" rel="noopener nofollow" target="_blank">For menu price list please click here</a>
 </p>
 <h4>Canteen Rules</h4>
 <p>Students are to abide by the following rules relating to the school canteen:</p>
