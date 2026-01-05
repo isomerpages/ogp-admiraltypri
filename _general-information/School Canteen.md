@@ -61,7 +61,7 @@ with a serving of fruits and vegetables.</p>
 <p>Cool Connections</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beverages</p>
+<p>Deli Point</p>
 </td>
 </tr>
 <tr>
