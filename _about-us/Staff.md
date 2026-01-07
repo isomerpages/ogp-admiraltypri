@@ -1353,6 +1353,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Normala Bte Mohamed Jais</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:normala_mohamed_jais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">normala_mohamed_jais@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ruzita Bte Mohd Zaki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1425,37 +1437,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Mei Wai</p>
+<p>Ms Goh Mei Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="GOH_Mei_Hui_b@moe.edu.sg" rel="noopener nofollow" target="_blank">GOH_Mei_Hui_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Sabir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_sabir_abdul_gulam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_sabir_abdul_gulam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Siew Hoon Joyce</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Ng_Siew_Hoon_Joyce@moe.edu.sg" rel="noopener nofollow" target="_blank">Ng_Siew_Hoon_Joyce@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1468,18 +1456,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Geoh Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_geoh_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geoh_ngee@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -1560,18 +1536,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_baizura_md_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_baizura_md_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Amirah Binte Mohamad Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_amirah_mohamad_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_mohamad_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
