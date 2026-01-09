@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Principal Message Archive/Message for year 2023.md
       - Principal Message Archive/.keep
       - Principal’s Message/.keep
       - Principal’s Message/Message for year 2025.md
