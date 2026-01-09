@@ -3,7 +3,7 @@ title: 2024 Term 4 Message
 permalink: /2024-term-4-message/
 variant: tiptap
 description: ""
-third_nav_title: Principal’s Message
+third_nav_title: Principal Message Archive
 ---
 <p>9 September 2024</p>
 <p></p>

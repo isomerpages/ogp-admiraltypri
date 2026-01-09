@@ -3,7 +3,7 @@ title: 2024 Term 3 Message
 permalink: /2024-term-3-message/
 variant: markdown
 description: ""
-third_nav_title: Principal’s Message
+third_nav_title: Principal Message Archive
 ---
 <p><strong>21 June 2024</strong>
 </p>
