@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal Message Archive/2023 Term 4 Message.md
       - Principal Message Archive/2023 Term 3 Message.md
       - Principal Message Archive/2023 Term 2 Message.md
       - Principal Message Archive/Message for year 2023.md
