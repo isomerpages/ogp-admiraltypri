@@ -31,3 +31,20 @@ links:
         url: /programmes/p1-orientation/welcome-message/
   - title: Partnership
     collection: partnership
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: Principal’s Message
+        url: /message-for-year-2025/
+      - title: School History
+        url: /about-us/school-history/
+      - title: Core Values, Vision & Mission
+        url: /about-us/school-core-values-vision-and-mission/
+      - title: School Song & Crest
+        url: /about-us/school-crest-and-song/
+      - title: Our Staff
+        url: /about-us/staff/
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee-sac/
+      - title: Contact Us
+        url: /about-us/contact-us/
