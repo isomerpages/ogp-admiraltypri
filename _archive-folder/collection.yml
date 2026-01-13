@@ -1,5 +1,5 @@
 collections:
-  principal-message-archive:
+  archive-folder:
     output: true
     order:
       - Message for year 2023.md
