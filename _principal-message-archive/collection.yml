@@ -2,6 +2,7 @@ collections:
   principal-message-archive:
     output: true
     order:
+      - Message for year 2023.md
       - 2023 Term 2 Message.md
       - 2023 Term 3 Message.md
       - 2023 Term 4 Message.md
