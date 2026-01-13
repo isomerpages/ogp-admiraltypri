@@ -2,6 +2,7 @@ collections:
   archive-folder:
     output: true
     order:
+      - Principal Message/.keep
       - Message for year 2023.md
       - 2023 Term 2 Message.md
       - 2023 Term 3 Message.md
