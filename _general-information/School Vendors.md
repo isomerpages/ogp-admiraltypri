@@ -70,7 +70,7 @@ to 2 pm)
 <p><strong>Closed </strong>on Sun and PH</p>
 <p><strong>Mode of Payment: </strong>CASH, NETS, Paynow, DBS Paylah!
 <br><strong>Online order for school uniform:</strong>  <a href="https://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.jeepsinguniform.com.sg</a>
-<br><strong>For more information, please <a href="/files/GO PDF/Monthly_sale_schedule__Admiralty.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>
+<br><strong>For more information, please <a href="/files/GO PDF/Admiralty_Monthly_sale_Y2026.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>
 </p>
 <p></p>
 <h4>School Dental Service</h4>
