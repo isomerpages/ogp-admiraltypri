@@ -2,5 +2,6 @@ collections:
   principal-message-archive:
     output: true
     order:
+      - 2024 Term 3 Message.md
       - 2024 Term 4 Message.md
       - Message for year 2024.md
