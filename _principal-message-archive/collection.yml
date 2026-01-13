@@ -1,0 +1,4 @@
+collections:
+  principal-message-archive:
+    output: true
+    order: []
