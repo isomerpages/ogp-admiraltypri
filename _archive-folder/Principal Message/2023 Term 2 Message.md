@@ -2,7 +2,7 @@
 title: 2023 Term 2 Message
 permalink: /about-us/principal-message/2023-term2-message/
 description: ""
-third_nav_title: Principal Message Archive
+third_nav_title: Principal Message
 ---
 20 March 2023 
 

@@ -2,8 +2,8 @@
 title: Message for year 2023
 permalink: /about-us/principal-message/message-for-year-2023/
 description: ""
-third_nav_title: Principal Message Archive
 variant: tiptap
+third_nav_title: Principal Message
 ---
 ##### Principal’s Message for 2023
 
