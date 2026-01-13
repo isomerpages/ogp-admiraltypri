@@ -1,4 +1,5 @@
 collections:
   principal-message-archive:
     output: true
-    order: []
+    order:
+      - Message for year 2024.md
