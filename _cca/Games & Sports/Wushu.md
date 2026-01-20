@@ -58,19 +58,19 @@ beyond their academic years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Zhe Jin</p>
+<p>Mdm Sabeela Sa'adah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhang_zhe_jin@moe.edu.sg</a>
+<p><a href="mailto:sabeela_saadah_mohamad_azni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sabeela_saadah_mohamad_azni@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chew - Ang Feng Xia</p>
+<p>Ms Seow Qiying Alanna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_feng_xia@moe.edu.sg</a>
+<p><a href="mailto:seow_qiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_qiying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -85,10 +85,10 @@ beyond their academic years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angie Ho&nbsp;</p>
+<p>Ms Oh Haw Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_en_qi_angie@moe.edu.sg</a>
+<p><a href="mailto:oh_haw_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_haw_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
