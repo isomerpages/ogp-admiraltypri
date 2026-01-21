@@ -82,8 +82,9 @@ by the school.</p>
 solutions with peers who have not sat for the assessment. This ensures
 fairness and integrity for all students taking the assessment. Failure
 to do so may be considered an act of cheating.</p>
-<p>The detailed key assessment information can be found in this attachment:</p>
-<p></p>
+<p>The detailed key assessment information can be found in this attachment:
+<br><a href="/files/Assessment Matters/Key_Assessment_Information_2026.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
+</p>
 <h4>Assessment Details</h4>
 <p><a href="/files/Assessment Matters/2025_Term_1_Weighted_Assessment_Details_updated_18Feb.pdf" rel="noopener nofollow" target="_blank">2025 Term-1 Assessment</a>
 </p>
@@ -92,4 +93,5 @@ to do so may be considered an act of cheating.</p>
 <p><a href="/files/Assessment Matters/2025_Term_3_Weighted_Assessment_Details.pdf" rel="noopener nofollow" target="_blank">2025 Term-3 Assessment</a>
 </p>
 <p><a href="/files/Assessment Matters/2025_Term_4_Weighted_Assessment_Details.pdf" rel="noopener nofollow" target="_blank">2025 Term-4 Assessment</a>
+<a href="/files/Assessment Matters/Key_Assessment_Information_2026.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
 </p>
