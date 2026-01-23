@@ -86,5 +86,5 @@ to do so may be considered an act of cheating.</p>
 <br><a href="/files/Assessment Matters/Key_Assessment_Information_2026.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
 </p>
 <h4>Assessment Details</h4>
-<p><a href="/files/Assessment Matters/2026_Term_1_Weighted_Assessment_Details.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Weighted Assessment Details</a>
+<p><a href="/files/Assessment Matters/2026_Term_1_Weighted_Assessment_Details_V1.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Weighted Assessment Details</a>
 </p>
