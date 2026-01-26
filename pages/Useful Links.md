@@ -16,10 +16,7 @@ variant: tiptap
 <br><a href="/files/GO PDF/Admiralty_Primary_School___P6_4STD_3STD1F_4F_BookList_for_AY2026.pdf" rel="noopener nofollow" target="_blank">P6 4STD, 3STD1F &amp; 4F - Booklist</a>
 </p>
 <h4>School Calendar</h4>
-<p><a href="/files/GO PDF/2025_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Calendar</a>
-<br><a href="/files/GO PDF/2025_Term_2_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar</a>
-<br><a href="/files/GO PDF/2025_Term_3_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Calendar</a>
-<br><a href="/files/GO PDF/2025_Term_4_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Calendar</a>
+<p><a href="/files/GO PDF/2026_Term_1_Calendar__30_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Calendar</a>
 </p>
 <h4>Students/Parents</h4>
 <table style="minWidth: 50px">
@@ -58,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Google classroom</a>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Google classroom</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,8 +156,9 @@ variant: tiptap
 <br><a href="/files/Parents_Connect__ADPS_Issue_8.pdf" rel="noopener nofollow" target="_blank">Parents Connect - Issue 8</a>
 </p>
 <h5>Past School Calender</h5>
-<p><a href="/files/GO%20PDF/2024_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - 2024</a> 
-<br><a href="/files/GO%20PDF/2024_Term_2_Calendar__Revised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 - 2024</a>
-<br><a href="/files/GO%20PDF/2024_Term_3_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 - 2024</a>
-<br><a href="/files/2024_Term_4_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4 - 2024</a>
+<p><a href="/files/GO PDF/2025_Term_1_Calendar.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_2_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_3_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Calendar</a>
+<br><a href="/files/GO PDF/2025_Term_4_Calendar.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Calendar</a>
 </p>
+<p></p>
