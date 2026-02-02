@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/Content/Contents_Page___Science.pdf" rel="noopener nofollow" target="_blank">2025 Science</a>
+<p><a href="/files/Level Matters/Content/Contents_Page_for_School_Website.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,11 +486,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P3_Science.pdf" rel="noopener nofollow" target="_blank">P3 Science</a>
+<p><a href="/files/Level Matters/Content/P3_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P3 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P4_Science.pdf" rel="noopener nofollow" target="_blank">P4 Science</a>
+<p><a href="/files/Level Matters/Content/P4_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P4 Science</a>
 </p>
 </td>
 </tr>
@@ -634,11 +634,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P5_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 Science</a>
+<p><a href="/files/Level Matters/Content/P5_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P6_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Science</a>
+<p><a href="/files/Level Matters/Content/P6_Science_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
