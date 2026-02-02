@@ -1114,7 +1114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Siti Ardah Binte Iskandar</p>
+<p>Mrs Siti Ardah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chin Yoke Lan</p>
