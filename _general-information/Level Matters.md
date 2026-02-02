@@ -427,32 +427,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Lesson_Focus___Term_2__1_.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 2</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Lesson_Focus___Term_2__1_.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Term_3_LF_2025.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Term_3_LF_2025.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P1_Term_4_LF_2025.pdf" rel="noopener nofollow" target="_blank">P1 Lesson Focus Term 4</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P2_Term_4_LF_2025.pdf" rel="noopener nofollow" target="_blank">P2 Lesson Focus Term 4</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -482,7 +460,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/2025_P3_STD_ENGLISH_TOS_Updated___8_April.pdf" rel="noopener nofollow" target="_blank">P3 STD English</a>
+<p><a href="/files/Level Matters/Content/2026_Term_1_P3_EL_Content_Page.pdf" rel="noopener nofollow" target="_blank">P3 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -624,11 +602,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/2025_P5_EL_Content_Page_Term_1_Updated.pdf" rel="noopener nofollow" target="_blank">P5 English</a>
+<p><a href="/files/Level Matters/Content/2026_Term_1_2_P5_EL_Content_Page.pdf" rel="noopener nofollow" target="_blank">P5 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/2025_P6_ADP_ENGLISH_LANGUAGE_LESSON_FOCUS.pdf" rel="noopener nofollow" target="_blank">P6 - EL Lesson</a>
+<p><a href="/files/Level Matters/Content/2026_Term_1_P6_EL_Content_Page.pdf" rel="noopener nofollow" target="_blank">P6 English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -673,23 +651,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P5_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 1-2025</a>
+<p><a href="/files/Level Matters/P5_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 1</a>
 </p>
-<p><a href="/files/Level Matters/P5_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 2-2025</a>
+<p><a href="/files/Level Matters/P5_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - CL Semester 2</a>
 </p>
-<p><a href="/files/Level Matters/P5_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 1-2025</a>
+<p><a href="/files/Level Matters/P5_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 1</a>
 </p>
-<p><a href="/files/Level Matters/P5_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 2-2025</a>
+<p><a href="/files/Level Matters/P5_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P5 - HCL Semester 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P6_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+<p><a href="/files/Level Matters/P6_CL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1</a>
 </p>
-<p><a href="/files/Level Matters/P6_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1-2025</a>
+<p><a href="/files/Level Matters/P6_CL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 - CL Semester 1</a>
 </p>
-<p><a href="/files/Level Matters/P6_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 1-2025</a>
+<p><a href="/files/Level Matters/P6_HCL_Semester_1_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 1</a>
 </p>
-<p><a href="/files/Level Matters/P6_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 2-2025</a>
+<p><a href="/files/Level Matters/P6_HCL_Semester_2_2025_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6-HCL Semester 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
