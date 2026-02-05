@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Content of Student's File</h3>
+<p><strong>Parent Engagement 2026</strong>
+</p>
+<p><a href="/files/Level Matters/2026_ADPS_Engagement_with_Parents_Principal.pdf" rel="noopener nofollow" target="_blank">Engagement with Parents - Principal</a>
+<br><a href="/files/Level Matters/2026_ADPS_Engagement_with_Parents_P2_Year_Head.pdf" rel="noopener nofollow" target="_blank">Engagement with P2 Parents - Year Head </a>
+<br><a href="/files/Level Matters/2026_ADPS_Engagement_with_Parents_P4_Year_Head.pdf" rel="noopener nofollow" target="_blank">Engagement with P4 Parents - Year Head</a>
+<br><a href="/files/Level Matters/2026_ADPS_Engagement_with_Parents_P6_Year_Head.pdf" rel="noopener nofollow" target="_blank">Engagement with P6 Parents - Year Head</a>
+</p>
+<p></p>
 <p><strong>Primary 4 Subject-Based Banding</strong> - <a href="/files/Level Matters/P4_SBB.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <table style="minWidth: 75px">
