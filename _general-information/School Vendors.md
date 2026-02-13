@@ -42,6 +42,9 @@ contact our bookshop vendor, if you have problems accessing the site.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/GO/busprice.png">
 </div>
 <h4>School Uniform</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/JSF_CYN_closure.png">
+</div>
 <p><strong>JEEP SING FASHION</strong>
 <br>Operating dates in Admiralty Primary School</p>
 <ul data-tight="true" class="tight">
