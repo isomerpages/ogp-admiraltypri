@@ -93,7 +93,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/Content/MATH_CONTENT__P4_to_P6_.pdf" rel="noopener nofollow" target="_blank">P4 to P6</a>
+<p><a href="/files/Level Matters/Content/MATH_CONTENT__P4_to_P6_2026.pdf" rel="noopener nofollow" target="_blank">P4 to P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -483,7 +483,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P3_Maths_Lesson_Focus_updated_2025.pdf" rel="noopener nofollow" target="_blank">P3 Maths</a>
+<p><a href="/files/Level Matters/2026_P3_Maths_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P3 Maths</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -632,7 +632,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Level Matters/P6_Math_Lesson_Focus.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
+<p><a href="/files/Level Matters/P6_Math_Lesson_Focus_26T1.pdf" rel="noopener nofollow" target="_blank">P6 Math</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
