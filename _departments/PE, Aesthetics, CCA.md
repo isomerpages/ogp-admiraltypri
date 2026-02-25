@@ -170,8 +170,8 @@ to enjoy active and healthy living.</p>
 <p>Appreciate the Arts through a Learned Lens</p>
 <p>Admiralty Primary School adapts the Discipline-Based Art Education (DBAE)
 framework in our Aesthetics curricula to bring about a deep and powerful
-arts teaching and learning. Our students analyse perspectives&nbsp; in
-the arts through essential questions such as “What is the artist’s voice?”
+arts teaching and learning. Our students analyse perspectives&nbsp;in the
+arts through essential questions such as “What is the artist’s voice?”
 and "What is the role of art/the artists/the audience?".</p>
 <p><strong>Discipline-Based Art Education (DBAE)</strong>
 </p>
