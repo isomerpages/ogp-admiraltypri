@@ -18,6 +18,8 @@ variant: tiptap
 <h4>School Calendar</h4>
 <p><a href="/files/GO PDF/2026_Term_1_Calendar__30_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Calendar</a>
 </p>
+<p><a href="/files/GO PDF/2026_Term_2_Calendar__16_March_2026_.pdf" rel="noopener nofollow" target="_blank">2026_Term_2_Calendar</a>
+</p>
 <h4>Students/Parents</h4>
 <table style="minWidth: 50px">
 <colgroup>
