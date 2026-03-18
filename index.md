@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_1.gif
+      background: /images/Banner_3.gif
       key_highlights:
         - title: Announcements
           description: Important announcements
@@ -18,5 +18,5 @@ sections:
         - title: Events/Gallery
           description: 2024 - Celebration of Learning
           url: /eventsgallery/
-      variant: center
+      variant: image
 ---
