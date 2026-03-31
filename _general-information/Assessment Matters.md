@@ -89,4 +89,3 @@ to do so may be considered an act of cheating.</p>
 <p><a href="/files/Assessment Matters/2026_Term_1_Weighted_Assessment_Details_updated_4_FebV1.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Weighted Assessment Details</a>
 <br><a href="/files/Assessment Matters/2026_Term_2_Weighted_Assessment_Details.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Term 2 Weighted Assessment Details</a>
 </p>
-<p></p>
