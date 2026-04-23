@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Rules.md
+      - School Hours/School Opening & Closing Hours.md
       - School Hours/School Hours.md
       - School Hours/.keep
       - School Safety.md
