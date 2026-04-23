@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Rules.md
-      - School Hours/School Opening & Closing Hours.md
-      - School Hours/School Hours.md
       - School Hours/.keep
+      - School Hours/School Hours.md
+      - School Hours/School Opening & Closing Hours.md
       - School Safety.md
       - Level Matters.md
       - Assessment Matters.md
