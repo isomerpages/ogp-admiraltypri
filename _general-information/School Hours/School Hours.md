@@ -3,6 +3,7 @@ title: School Hours
 permalink: /general-information/school-hours/
 description: ""
 variant: tiptap
+third_nav_title: School Hours
 ---
 <h4>School Hours</h4>
 <table style="minWidth: 100px">
