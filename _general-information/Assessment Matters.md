@@ -83,7 +83,7 @@ solutions with peers who have not sat for the assessment. This ensures
 fairness and integrity for all students taking the assessment. Failure
 to do so may be considered an act of cheating.</p>
 <p>The detailed key assessment information can be found in this attachment:
-<br><a href="/files/Assessment Matters/Key_Assessment_Information_2026.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
+<br><a href="/files/Assessment Matters/Key_Assessment_Information_2026__For_Parents__V2.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
 </p>
 <h4>Assessment Details</h4>
 <p><a href="/files/Assessment Matters/2026_Term_1_Weighted_Assessment_Details_updated_4_FebV1.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Weighted Assessment Details</a>
