@@ -53,9 +53,132 @@ the size.</p>
 <p>Mode of payment: Cash, Paynow, Paylah!</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Time.png">
-</div>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Sale time in school</strong>
+<br><strong>Student Purchase Session: </strong>11:30 AM – 1:00 PM
+<br><strong>Parents &amp; Students Purchase Session: </strong>2:30 PM – 4:00
+PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-Jan-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16-Jan-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-Feb-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27-Feb-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-Mar-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27-Mar-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10-Apr-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24-Apr-26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8-May-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22-May-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10-Jul-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24-Jul-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7-Aug-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21-Aug-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18-Sep-26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9-Oct-26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Walk-in Purchase at Retail Outlet</strong>
 </p>
 <p>JEEP SING FASHION
