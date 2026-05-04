@@ -193,9 +193,8 @@ to 2 pm)
 <p><strong>Closed </strong>on Sun and PH</p>
 <p><strong>Mode of Payment: </strong>CASH, NETS, Paynow, DBS Paylah!
 <br><strong>Online order for school uniform:</strong>  <a href="https://www.jeepsinguniform.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.jeepsinguniform.com.sg</a>
-<br><strong>For more information, please <a href="/files/GO PDF/Admiralty_Monthly_sale_Y2026.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a></strong>
+<br>
 </p>
-<p></p>
 <h4>School Dental Service</h4>
 <p><strong>Opening hours:</strong> 
 <br>Monday to Thursday - 8:00am to 5:30pm
