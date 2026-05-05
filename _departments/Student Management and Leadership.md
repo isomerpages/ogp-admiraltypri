@@ -146,6 +146,70 @@ Admiral Leaders’ VIA.</p>
 </li>
 </ul>
 <p></p>
+<h3>Student Management</h3>
+<h4><sub>2.1 Anti-Bullying Framework</sub></h4>
+<p>Admiralty Primary School’s framework for student management, specifically
+regarding bullying and hurtful behavior, is the Anti-Bullying Framework
+(Tiered System of Support or TSS). This framework is divided into Upstream
+efforts (preventive measures to build culture) and Downstream efforts (responsive
+measures to manage incidents) and structured into three distinct tiers.</p>
+<p><strong>Tier 1: School-Wide Prevention (Upstream)</strong>
+<br>The first tier focuses on building a foundation of positive behavior and
+awareness for all students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Building Positive Class Culture: Form Teachers and Peer Support Leaders
+(PSLs) work together to create safe, caring environments through bonding
+activities, celebrating birthdays, and the P1 Buddy Programme.</p>
+</li>
+<li>
+<p>Education and Awareness: The school uses Assembly Programmes and Form
+Teacher Guidance Period (FTGP) lessons to teach empathy, respectful behavior,
+and responsible decision-making.</p>
+</li>
+<li>
+<p>Campaigns: Initiatives like “Be Admirably Kind” Week promote kindness
+in words and actions.</p>
+</li>
+<li>
+<p>Nurturing Upstanders: Weekly morning messages and videos by "Admiral Leaders"
+reinforce school values and teach students how to respond to hurtful behavior.</p>
+</li>
+</ul>
+<p><strong>Tier 2: Targeted Peer Support (Upstream)</strong>
+<br>The second tier empowers specific student leaders to maintain the school's
+social fabric.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Peer Support Leaders (PSLs) as Upstanders: PSLs serve as the first point
+of contact for their peers.</p>
+</li>
+<li>
+<p>Structured Training: PSLs undergo specific training, such as the “Gritty
+Upstanders” Workshop and Digital Citizenship workshops, to equip them with
+the skills to support classmates and promote a culture of care.</p>
+</li>
+</ul>
+<p><strong>Tier 3: Responsive Management (Downstream)</strong>
+<br>The third tier focuses on how the school handles reported incidents.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confidential Reporting: Students can report bullying through a safe online
+platform (<a href="https://go.gov.sg/adpsdiscipline" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/adpsdiscipline</a>),
+or by approaching PSLs or trusted adults.</p>
+</li>
+<li>
+<p>Safety and Support: The immediate priority is the physical and psychological
+safety of students, followed by timely investigations and support plans
+for both the victims and those who caused harm</p>
+</li>
+<li>
+<p>Restorative Practices: Teachers are trained to manage incidents by focusing
+on accountability, repairing harm, and rebuilding relationships rather
+than just punishment.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
