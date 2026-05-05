@@ -59,7 +59,8 @@ goals</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Prefects:</p>
+<p><strong>Prefects:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Core Focus: Discipline.</p>
@@ -76,7 +77,8 @@ and ushering during school events.</p>
 </ul>
 </li>
 <li>
-<p>Peer Support Leaders (PSL):</p>
+<p><strong>Peer Support Leaders (PSL):</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Core Focus: Support.</p>
@@ -93,7 +95,8 @@ initiatives like Anti-Bullying and Cyber wellness.</p>
 </ul>
 </li>
 <li>
-<p>CCA Leaders:</p>
+<p><strong>CCA Leaders:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Core Focus: School Pride.</p>
@@ -109,7 +112,7 @@ school.</p>
 </ul>
 </li>
 <li>
-<p>Class Leaders:</p>
+<p><strong>Class Leaders</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Core Focus: Class Management.</p>
