@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Student Leadership</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/SML/WhatsApp_Image_2026_05_05_at_12_31_03_PM.jpg">
+</div>
 <p>The ADPS Student Leadership Development framework is built upon the foundational
 belief that "Every Admiral is a Leader".</p>
 <p>Central to the framework is a three-tiered leadership model—Self-Leadership,
@@ -150,6 +154,10 @@ Admiral Leaders’ VIA.</p>
 </ul>
 <p></p>
 <h3>Student Management</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/SML/WhatsApp_Image_2026_05_05_at_12_38_47_PM.jpg">
+</div>
 <h4><sub>2.1 Anti-Bullying Framework</sub></h4>
 <p>Admiralty Primary School’s framework for student management, specifically
 regarding bullying and hurtful behavior, is the Anti-Bullying Framework
