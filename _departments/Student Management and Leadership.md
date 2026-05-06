@@ -133,6 +133,9 @@ for their classmates, and role-model through acting in Admiral’s videos.</p>
 </ul>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML1.jpg">
+</div>
 <p><strong>Tier 3: Leading Leaders (EXCO)</strong>
 <br>Tier 3 is comprised of senior leaders from the Prefect, PSL, and CCA groups
 who have been invited to join the Executive Committee (EXCO).</p>
@@ -152,6 +155,10 @@ duties deployment. Organized school events such as Teacher’s Day Concert,
 Admiral Leaders’ VIA.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML2.jpg">
+</div>
 <p></p>
 <h3>Student Management</h3>
 <p></p>
@@ -223,4 +230,7 @@ than just punishment.</p>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML3.jpg">
+</div>
 <p></p>
