@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>To ensure a fair and consistent approach, Admiralty Primary has established
 the following assessment &amp; examination policy:</p>
-<h4><strong>Absence from Weighted Assessments/Examinations: </strong></h4>
+<h4>Absence from Weighted Assessments/Examinations:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are absent for weighted assessments or examinations are required
@@ -27,7 +27,7 @@ without a valid reason will be awarded a zero mark for the component/paper
 that they missed.</p>
 </li>
 </ul>
-<h4><strong>Make-up for Termly Weighted Assessment: </strong></h4>
+<h4>Make-up for Termly Weighted Assessment:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Make-up assessments will be conducted for students who are absent with
@@ -39,7 +39,7 @@ weighted assessments.</p>
 Examinations (except for the EL and MTL Oral components).</p>
 </li>
 </ul>
-<h4><strong>Punctuality:</strong></h4>
+<h4>Punctuality:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are late to school without a valid reason will not be granted
@@ -54,14 +54,14 @@ paper within the stipulated time.</p>
 final.</p>
 </li>
 </ul>
-<h4><strong>Finality of Answers:</strong> </h4>
+<h4>Finality of Answers:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The answers provided on the answer script (e.g., OAS) will be considered
 final.</p>
 </li>
 </ul>
-<h4><strong>Academic Integrity: </strong></h4>
+<h4>Academic Integrity:</h4>
 <p><strong>a) Prohibited Devices</strong>
 <br>Students are strictly prohibited from bringing any unauthorised electronic,
 communication, entertainment, or gaming devices into the assessment area.
