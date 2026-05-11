@@ -4,6 +4,10 @@ permalink: /eventsgallery/
 variant: tiptap
 description: ADPS Events and Photo Gallery
 ---
+<h4><strong>2026 Events and Gallery</strong></h4>
+<p><a href="/files/GO PDF/2026_e_Open_House__P_s_slides_.pdf" rel="noopener nofollow" target="_blank">e-Open House Principal’s Slides</a>
+</p>
+<p>e-Open House Video</p>
 <h4><strong>2025 Events and Gallery</strong></h4>
 <p><strong><u>Prize Giving Day</u></strong>
 </p>
@@ -82,12 +86,7 @@ description: ADPS Events and Photo Gallery
 </tr>
 </tbody>
 </table>
-<p><strong><u>e-Open House</u></strong>
-</p>
-<p><a href="https://drive.google.com/file/d/1qSlAOg4jG5rDF5Y5NXxmvlfshh05EKJs/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Session 2025 - Slides</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1hPwKMOwPpaOb2fV3V3U-M7dUkTM6CePd/view?usp=sharing" rel="noopener nofollow" target="_blank">Video Link - Click Here</a>
-</p>
+<p></p>
 <h4><strong>2024 Events and Gallery</strong></h4>
 <p><strong><u>Celebration of Learning</u></strong>
 </p>
@@ -145,8 +144,4 @@ description: ADPS Events and Photo Gallery
 <p></p>
 </li>
 </ol>
-<p><strong><u>e-Open House</u></strong>
-</p>
-<p><a href="/files/GO%20PDF/Pre_school_Engagement___e_Open_House_Session_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Pre-school Engagement &amp; e-Open House Session 2024 - Slides</a>
-<br><a href="https://youtu.be/O_WkT6XSy6w?si=YExN2oUyrCStL7ZX" rel="noopener noreferrer nofollow" target="_blank">Video Link - Click Here</a>
-</p>
+<p></p>
