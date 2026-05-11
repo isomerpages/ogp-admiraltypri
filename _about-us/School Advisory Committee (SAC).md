@@ -30,14 +30,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lian Heok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yip Kwai Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anthony Chiam</p>
+<p>Mr Mathavan Arugalaimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>

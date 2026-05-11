@@ -76,15 +76,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P5 &amp; P6</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Chee Hwee Andrew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD / Knowledge Management &amp; ICT</strong>
 </p>
 </td>
