@@ -6,8 +6,7 @@ description: ADPS Events and Photo Gallery
 ---
 <h4><strong>2026 Events and Gallery</strong></h4>
 <p><strong><u>e-Open House</u></strong>
-</p>
-<p><a href="/files/GO PDF/2026_e_Open_House__P_s_slides_.pdf" rel="noopener nofollow" target="_blank">e-Open House Principal’s Slides</a>
+<br><a href="/files/GO PDF/2026_e_Open_House__P_s_slides_.pdf" rel="noopener nofollow" target="_blank">e-Open House Principal’s Slides</a>
 <br><a href="https://drive.google.com/file/d/1hdNHI0U7y5ZjesUKVELfrwtnv0k6DJbL/view?usp=sharing" rel="noopener nofollow" target="_blank">e-Open House Video</a>
 </p>
 <h4><strong>2025 Events and Gallery</strong></h4>
