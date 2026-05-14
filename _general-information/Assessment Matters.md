@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>To ensure a fair and consistent approach, Admiralty Primary has established
 the following assessment &amp; examination policy:</p>
-<h4>Absence from Weighted Assessments/Examinations:</h4>
+<h4><sub>Absence from Weighted Assessments/Examinations: </sub></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are absent for weighted assessments or examinations are required
@@ -27,7 +27,7 @@ without a valid reason will be awarded a zero mark for the component/paper
 that they missed.</p>
 </li>
 </ul>
-<h4>Make-up for Termly Weighted Assessment:</h4>
+<h4><sub>Make-up for Termly Weighted Assessment:</sub> </h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Make-up assessments will be conducted for students who are absent with
@@ -39,7 +39,7 @@ weighted assessments.</p>
 Examinations (except for the EL and MTL Oral components).</p>
 </li>
 </ul>
-<h4>Punctuality:</h4>
+<h4><sub>Punctuality:</sub></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are late to school without a valid reason will not be granted
@@ -49,19 +49,11 @@ additional time for the assessment.</p>
 <p>No extra time will be given to students who are unable to complete their
 paper within the stipulated time.</p>
 </li>
-<li>
+</ul>
+<h4><sub>Finality of Answers:</sub> </h4>
 <p>The answers provided on the answer script (e.g., OAS) will be considered
 final.</p>
-</li>
-</ul>
-<h4>Finality of Answers:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>The answers provided on the answer script (e.g., OAS) will be considered
-final.</p>
-</li>
-</ul>
-<h4>Academic Integrity:</h4>
+<h4><sub>Academic Integrity:</sub> </h4>
 <p><strong>a) Prohibited Devices</strong>
 <br>Students are strictly prohibited from bringing any unauthorised electronic,
 communication, entertainment, or gaming devices into the assessment area.
@@ -70,17 +62,20 @@ transmitting visual, audio, or verbal information. Examples of prohibited
 devices include, but are not limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Computerised Devices: tablet, pocket PC, personal digital assistants (PDA),
-digital diary, eBook</p>
+<p>Computerised Devices: tablet, pocket PC, personal digital assistant, digital
+diary, eBook</p>
 </li>
 <li>
-<p>Communication &amp; Smart Devices: mobile phone, smartphone, smart watch
-(including POSB Smart Buddy), fitness/step tracker, earphone, wireless
-earbud, smart glasses</p>
+<p>Communication Devices: mobile phone, smartphone, smart watch, earphone/wireless
+earbuds</p>
+</li>
+<li>
+<p>Smart Devices: smart watch, smart glasses, fitness/step tracker (including
+POSB Smart Buddy)</p>
 </li>
 <li>
 <p>Other Electronic Devices: camera, audio recorder/player, gaming device,
-storage devices</p>
+storage device</p>
 </li>
 </ul>
 <p><strong>b) Cheating </strong>
@@ -89,13 +84,13 @@ will be considered an act of cheating. Cheating is treated as a serious
 offense. Students found cheating or attempting to cheat in any manner may
 be disqualified from the assessment and awarded a zero mark for the paper
 in addition to other discipline consequences as determined by the school.</p>
-<p><strong>c) Non-Disclosure of Assessment Content </strong>
+<p><strong>c) Non-Disclosure of Assessment Content</strong>
 <br>Students are not allowed to share or disclose any questions or possible
 solutions with peers who have not sat for the assessment. This ensures
 fairness and integrity for all students taking the assessment. Failure
 to do so may be considered an act of cheating.</p>
 <p>The detailed key assessment information can be found in this attachment:
-<br><a href="/files/Assessment Matters/Key_Assessment_Information_2026__For_Parents__V3.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
+<br><a href="/files/Assessment Matters/Key_Assessment_Information_2026__For_Parents__V4.pdf" rel="noopener nofollow" target="_blank">Key Assessment Information 2026</a>
 </p>
 <h4>Assessment Details</h4>
 <p><a href="/files/Assessment Matters/2026_Term_1_Weighted_Assessment_Details_updated_4_FebV1.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Weighted Assessment Details</a>
