@@ -14,11 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Mother Tongue Languages</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LEE CHER HIANG CHRISTINE</p>
+<p></p>
 </td>
 </tr>
 <tr>
