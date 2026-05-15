@@ -153,13 +153,43 @@ meaningful change.</p>
 <p>Key Activities: On-the-job training for newly nominated leaders. Admiral
 duties deployment. Organized school events such as Teacher’s Day Concert,
 Admiral Leaders’ VIA.</p>
-</li>
-</ul>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML2.jpg">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/SML/5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/SML/6.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/SML/7.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <h3>Student Management</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -227,9 +257,6 @@ on accountability, repairing harm, and rebuilding relationships rather
 than just punishment.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/SML/SML3.jpg">
 </div>
