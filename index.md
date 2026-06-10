@@ -4,7 +4,7 @@ title: Admiralty Primary School
 description: An Isomer site of the Singapore Government
 image: /images/AdmiraltyCrest.png
 permalink: /
-notification: ""
+notification: Please be informed that the school will be closed on 17 June 2026 (Wednesday).
 sections:
   - hero:
       background: /images/Banner_3.gif
