@@ -5,16 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h4>School Book Shop</h4>
-<p><strong><u>RICKY BOOK CENTRE</u></strong> 
-<br>Blk 219 Bukit Batok st 21,
-<br>#07-403 Singapore 650219.
-<br>Tel: 63639159, 68923610
-<br>Fax: 65679035
-<br>Email: <a href="mailto:sales@rickybookcentre.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@rickybookcentre.com.sg</a> 
-<br><strong>Opening Hours on School Days:</strong> 
-<br>Monday – Friday (9:00am to 2:00pm)</p>
-<p>You can click on the following link to place an order for books <a href="https://www.rickybookcentre.com.sg/" rel="noopener nofollow" target="_blank">https://www.rickybookcentre.com.sg/. </a>Please
-contact our bookshop vendor, if you have problems accessing the site.</p>
+<p><strong>PACIFIC BOOKSTORES PTE. LTD.</strong>
+<br>14 Arumugam Road, #08-01
+<br>LTC Building C, SINGAPORE 409959</p>
+<p>Website: <a href="https://www.pacificbookstores.com/#purchase" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/#purchase</a>
+<br>* Online ordering will not be available until further notice</p>
+<p><strong>Opening Hours (School Days)</strong> Monday – Friday: 9:00am –
+2:00pm
+<br><em>(change of bookstore vendor with effect from </em><strong><em>1 July 2026)</em></strong>
+</p>
 <h4>School Bus</h4>
 <p><strong>RushOwl Singapore Pte Ltd</strong>
 <br>Contact Person: Ms. Zoe
